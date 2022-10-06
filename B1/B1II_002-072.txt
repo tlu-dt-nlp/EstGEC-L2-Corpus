@@ -1,0 +1,84 @@
+
+S Ta nimi on Irina , perekonnanimi --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me õppisime koos üheksa aastat Pähklimäe Gümnaasiumis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Koolis ta oli minu parem sõber .
+A 1 3|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
+
+S Me olime kõik ajal koos .
+A 2 3|||R:LEX|||kogu|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||aja|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||aja|||REQUIRED|||-NONE-|||1
+
+S Parast kooli ta sõitsid ära Tallinasse elama
+A 0 1|||R:SPELL|||Pärast|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||sõitis|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||sõitis ta|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||Tallinnasse|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Pärast|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||sõitis|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||sõitis ta|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||Tallinnasse|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Aga ma jäin siin .
+A 1 2|||R:NOM:FORM|||mina|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||siia|||REQUIRED|||-NONE-|||0
+
+S Palju aega me ei nägime oma teist .
+A 0 2|||R:LEX|||pikalt|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||ole näinud|||REQUIRED|||-NONE-|||0
+A 5 7|||R:LEX:WS|||teineteist|||REQUIRED|||-NONE-|||0
+A 0 7|||R:WO|||Me ei ole teineteist pikalt näinud|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||ole näinud|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX:WS|||teineteist|||REQUIRED|||-NONE-|||1
+A 0 7|||R:WO|||Me ei ole teineteist palju aega näinud|||REQUIRED|||-NONE-|||1
+
+S Preagu ta on abikaasa .
+A 0 1|||R:SPELL|||Praegu|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on ta|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Praegu|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||tal|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on tal|||REQUIRED|||-NONE-|||1
+
+S Tal on kaks last .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Poisi nimi on Anton ja tüdruku nimi on Marina .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta ei tööta , stub kodus oma lapsega
+A 4 5|||R:SPELL|||istub|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||oma lapsega kodus|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX:SPELL|||hoiab|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||lapsi|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Tal on väga hea mees ja hea perekonnd .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul on väga rõõmus tema ees .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||pärast|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||tema pärast väga rõõmus|||REQUIRED|||-NONE-|||0
+
+S Ma tuttvun sind Irinaga kui oh esimene võimalus .
+A 1 2|||R:LEX:SPELL|||tutvustan|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||on|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX:SPELL|||tutvustan|||REQUIRED|||-NONE-|||1
+A 4 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||esimesel|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||võimalusel|||REQUIRED|||-NONE-|||1
+
+S Irina on väga sõbralik .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

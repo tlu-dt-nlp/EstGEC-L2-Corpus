@@ -1,0 +1,116 @@
+
+S Õpetaja Liis .
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 0 1|||M:LEX|||Lugupeetud õpetaja|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Me läksime perega kontserdile " Alisa " band .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM:SPELL|||bändi|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO|||bändi Alisa kontserdile|||REQUIRED|||-NONE-|||0
+
+S See toimus Sankt-Peterbuuri kontserdi hallis .
+A 2 3|||R:SPELL|||Sankt-Peterburgi|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WS|||kontserdihallis|||REQUIRED|||-NONE-|||0
+
+S Seal oli suur areena .
+A 3 4|||R:SPELL|||areen|||REQUIRED|||-NONE-|||0
+
+S Tuli väga palju inimesi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||M:LEX|||Kohale tuli|||REQUIRED|||-NONE-|||1
+
+S Me kohtusime kontserdil meie sõbrad .
+A 3 4|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||sõpradega|||REQUIRED|||-NONE-|||0
+
+S Me sõitsime Peterbuuri lastega koos .
+A 2 3|||R:SPELL|||Peterburi|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||koos lastega|||REQUIRED|||-NONE-|||0
+
+S Alina oli " Alisa " kontserdil esimene kord .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||esimest|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||korda|||REQUIRED|||-NONE-|||0
+
+S Temale meeldis see õht väga .
+A 3 4|||R:SPELL|||õhtu|||REQUIRED|||-NONE-|||0
+
+S Hallis oli liiga palju valgust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See mulle ei jäi rahul .
+A 0 1|||R:NOM:FORM|||Sellega|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||jäänud|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei jäänud ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||rahule|||REQUIRED|||-NONE-|||0
+A 3 5|||R:LEX:VERB:FORM|||meeldinud|||REQUIRED|||-NONE-|||1
+
+S Aga minu mehele seda meeldib väga .
+A 3 4|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||meeldis|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||meeldis see|||REQUIRED|||-NONE-|||0
+
+S Minu mees läks viimane kord " Alisa " kontserdile pool aastat tagasi .
+A 2 3|||R:LEX|||käis|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kontserdil|||REQUIRED|||-NONE-|||0
+
+S Paar nädalat tagasi me otsustasime sõita koos .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 5|||R:WO|||otsustasime me|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||koos sõita|||REQUIRED|||-NONE-|||1
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Minu noorem tütar Olga on kolmeaastane .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sellepärast ma otsustan jääta Olga vanaemal .
+A 2 3|||R:VERB:FORM|||otsustasin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||jätta|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||vanaemaga|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||otsustasin|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||otsustasin ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||jätta|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||vanaemaga|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 3|||R:VERB:FORM|||otsustasin|||REQUIRED|||-NONE-|||2
+A 3 4|||R:SPELL|||jätta|||REQUIRED|||-NONE-|||2
+A 3 5|||R:WO|||Olga jätta|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||vanaemaga|||REQUIRED|||-NONE-|||2
+
+S Pärast kontserti me läksime kohvikusse .
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Ta asub lähedal halli .
+A 0 1|||R:LEX|||See|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||halli lähedal|||REQUIRED|||-NONE-|||0
+
+S Ma jõi kohvi , minu mees jõi olut .
+A 1 2|||R:VERB:FORM|||jõin|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||õlut|||REQUIRED|||-NONE-|||0
+
+S Sellel kohvikus on väga maitsvait pirukaid .
+A 0 1|||R:NOM:FORM|||Selles|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||maitsvaid|||REQUIRED|||-NONE-|||0
+
+S Alinale meeldib õunamahl ja roheline salat .
+A 1 2|||R:VERB:FORM|||meeldivad|||REQUIRED|||-NONE-|||0
+
+S Planerime jalle seale sõita neli kuud pärast .
+A 0 1|||R:SPELL|||Planeerime|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||jälle|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||sinna|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||nelja|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kuu|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Planeerime|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||jälle|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||sinna|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||nelja|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||kuu|||REQUIRED|||-NONE-|||1
+A 1 7|||R:WO|||nelja kuu pärast jälle sinna sõita|||REQUIRED|||-NONE-|||1
