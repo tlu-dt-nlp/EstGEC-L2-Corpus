@@ -1,0 +1,63 @@
+
+S Ma kirjutan selle jutt minu eesti keele õpetajale , et hiljuti ma käsisin kontserdil , mis oli Genova Keskuses , sest et seal olid huvitavad inimesed , kes naljasid ja rääkisid oma elust .
+A 3 4|||R:NOM:FORM|||jutu|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 9 11|||U:LEX|||Hiljuti|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||käisin|||REQUIRED|||-NONE-|||0
+A 18 19|||R:CASE|||keskuses|||REQUIRED|||-NONE-|||0
+A 23 24|||R:LEX|||esinesid|||REQUIRED|||-NONE-|||0
+A 28 29|||R:SPELL|||naljatasid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||jutu|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||1
+A 8 9|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 9 11|||U:LEX|||Hiljuti|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||käisin|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||1
+A 18 19|||R:CASE|||keskuses|||REQUIRED|||-NONE-|||1
+A 28 29|||R:SPELL|||naljatasid|||REQUIRED|||-NONE-|||1
+
+S Ma käisin kontserdil oma abikaasaga ja sellel kontsert meile väga meeldis , oli lõbus .
+A 6 7|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||meeldis meile väga|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||1
+A 8 11|||R:WO|||meeldis meile väga|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||see||seal|||REQUIRED|||-NONE-|||1
+
+S Pärast kontserti me käisime kinnos ja edasi olime restoraanis .
+A 2 4|||R:WO|||käisime me|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||kinos|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||restoranis|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||käisime me|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||kinos|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||restoranis|||REQUIRED|||-NONE-|||1
+
+S Seal oli elumuusika , maitsevad road .
+A 1 2|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX:WS|||elav muusika|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||maitsvad|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX:WS|||elav muusika|||REQUIRED|||-NONE-|||1
+A 3 4|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||maitsvad|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldis Kreeka salat koos kreveetiga ja piimakokteil .
+A 1 2|||R:VERB:FORM|||meeldisid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM:SPELL|||krevettidega|||REQUIRED|||-NONE-|||0
+
+S Järgmisena kontserdile ma tahan Teiega lähen , sest et me ei näe teineteist juba palju aega .
+A 0 1|||R:NOM:FORM|||Järgmisele|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||minna|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||minna Teiega|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||ole näinud|||REQUIRED|||-NONE-|||0
+A 11 16|||R:WO|||ole teineteist juba palju aega näinud|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
+A 5 6|||R:VERB:FORM|||minna|||REQUIRED|||-NONE-|||1
+A 1 6|||R:WO|||tahan ma Teiega kontserdile minna|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||ole näinud|||REQUIRED|||-NONE-|||1
+A 11 16|||R:WO|||ole teineteist juba palju aega näinud|||REQUIRED|||-NONE-|||1
+
+S Järgmine kontsert juba oktoobris , kolmandal oktoobril .
+A 2 2|||M:LEX|||on||toimub|||REQUIRED|||-NONE-|||0

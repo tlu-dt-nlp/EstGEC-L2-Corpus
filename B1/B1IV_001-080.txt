@@ -1,0 +1,64 @@
+
+S Iga päev ma saan infot internetist , raadiost , telerist , ajalehtedest ja ajakirjadest ning ka teistelt inimestelt .
+A 2 4|||R:WO|||saan ma|||REQUIRED|||-NONE-|||0
+
+S Minu jaoks kõige huvitavam ajaleht on " Postimees " , sealt ma saan minu jaoks huvi pakkuvat infot .
+A 2 6|||R:WO|||on kõige huvitavam ajaleht|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||saan ma|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||enda|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WS|||huvipakkuvat|||REQUIRED|||-NONE-|||0
+
+S Veel ma loen " Põhjarannikut " , kuid see ajaleht on kollane kirjandus ja enamasti info ei pruugi olla tõene selle pärast ma eelistan parem " Postimeest " .
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||ajakirjandus|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||ei pruugi info|||REQUIRED|||-NONE-|||0
+A 20 20|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 22 24|||R:WO|||eelistan ma|||REQUIRED|||-NONE-|||0
+A 25 26|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 27 28|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||ajakirjandus|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||ei pruugi info|||REQUIRED|||-NONE-|||1
+A 20 20|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 20 22|||R:LEX|||mispärast|||REQUIRED|||-NONE-|||1
+A 22 24|||R:WO|||eelistan ma|||REQUIRED|||-NONE-|||1
+A 25 26|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 27 28|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Mind huvitavad igasugused uudised mis on seotud spordiga .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S See on minu meelest väga huvitav .
+
+S Samuti leian ma infot internetist .
+
+S Kõige rohkem internetist ma vajan koduste tööde tegemiseks .
+A 2 3|||R:NOM:FORM|||internetti|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||vajan ma internetti|||REQUIRED|||-NONE-|||0
+
+S Kõige lemmikum otsingu võimalus minu õpetaja jaoks on raamatust info võtmine , aga mulle see ei meeldi , sest minu jaoks on see liiga kaua .
+A 2 4|||R:WS|||otsinguvõimalus|||REQUIRED|||-NONE-|||0
+A 0 8|||R:WO|||Minu õpetaja jaoks on kõige lemmikum otsinguvõimalus|||REQUIRED|||-NONE-|||0
+A 24 25|||R:LEX|||aeglane|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WS|||otsinguvõimalus|||REQUIRED|||-NONE-|||1
+A 0 8|||R:WO|||Minu õpetaja jaoks on kõige lemmikum otsinguvõimalus|||REQUIRED|||-NONE-|||1
+A 21 22|||R:LEX|||võtab|||REQUIRED|||-NONE-|||1
+A 25 25|||M:LEX|||aega|||REQUIRED|||-NONE-|||1
+
+S Minu lemmikum ja lihtsam on internetist otsimine ja õige info saamine .
+A 1 1|||M:LEX|||jaoks||meelest|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||võimalus||lahendus|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||on lemmikum ja lihtsam võimalus||on lemmikum ja lihtsam lahendus|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||võimalus||lahendus|||REQUIRED|||-NONE-|||1
+
+S Tänapäeval saab igast allikast sulle vajaliku infot .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||vajalikku|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||endale|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||vajalikku|||REQUIRED|||-NONE-|||1

@@ -1,0 +1,59 @@
+
+S Tema nimi on Paul --- .
+
+S Ta on väga hea inimene .
+
+S Koolis Ta oli minu parem sõber .
+A 1 2|||R:CASE|||ta|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
+
+S Me õppisime koos kaksteist aastat , alates esimesest klassist .
+
+S Paul on väga sõbralik inimene .
+
+S Kooli ajal ta aitas mulle alati , kui mul olid probleemid .
+A 2 4|||R:WO|||aitas ta|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
+
+S Kooli ajal ta oli väga suur poiss .
+A 2 4|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+
+S Tema teine nimi oli " Karu Puh " , sest tema kaal oli rohkem kui sada kilot ja ta oli väga paks .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||Puhh|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||kilo|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||Karupoeg|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||Puhh|||REQUIRED|||-NONE-|||1
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||kaalus|||REQUIRED|||-NONE-|||1
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||R:SPELL|||kilo|||REQUIRED|||-NONE-|||1
+A 18 19|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Praegu ta väga muutud .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||muutunud|||REQUIRED|||-NONE-|||0
+
+S Nüüd Paul on väga ilus , elegaantne inimene ja ta ei ole nii suur ja paks , nagu ta oli koolis .
+A 1 3|||R:WO|||on Paul|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||elegantne|||REQUIRED|||-NONE-|||0
+
+S Tal on oma ehitusfirma .
+
+S Ta on edukas ja väga tundlik ärimees Eestis .
+A 5 6|||R:LEX|||tuntud|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||Eestis väga tuntud ärimees|||REQUIRED|||-NONE-|||0
+
+S Tema firma ehitab majad nii Eestis , kui ka Soomes , Rootsis ja Norras .
+A 3 4|||R:NOM:FORM|||maju|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S See on kõik millest ma tahaksin Sulle kirjutada .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||tahtsin|||REQUIRED|||-NONE-|||0
+
+S Tõnu ---
