@@ -1,0 +1,171 @@
+
+S Tere päevast , Marina !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kirjutan sulle seoses sellega , et mul on üks probleem ja väga loodan , et sa võid mind aidata .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 11 13|||R:WO|||loodan väga|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||saad||oskad|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 11 13|||R:WO|||loodan väga|||REQUIRED|||-NONE-|||2
+A 16 17|||R:LEX|||saad||oskad|||REQUIRED|||-NONE-|||2
+
+S Sina tegeled inimeste värbamisega , mul on hästi kiire vaja otsida töötajate meie meeskonda .
+A 8 9|||R:LEX|||kiiresti|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||vaja hästi kiiresti|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||töötajaid||töötajat|||REQUIRED|||-NONE-|||0
+A 10 14|||R:WO|||meie meeskonda töötajaid otsida||meie meeskonda töötajat otsida|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Sa|||REQUIRED|||-NONE-|||1
+A 4 5|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||kiiresti|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||leida|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||töötajaid||töötaja|||REQUIRED|||-NONE-|||1
+A 10 14|||R:WO|||meie meeskonda töötajaid leida||meie meeskonda töötaja leida|||REQUIRED|||-NONE-|||1
+
+S Meie proovisime otsida CV keskuse kaudu ja kahjuks see ei õnnestu .
+A 0 1|||R:NOM:FORM|||Me|||REQUIRED|||-NONE-|||0
+A 4 5|||R:CASE|||Keskuse|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||õnnestunud|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Me|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||töötajaid||töötajat|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||leida|||REQUIRED|||-NONE-|||1
+A 4 5|||R:CASE|||Keskuse|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||, aga|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||õnnestunud|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Me|||REQUIRED|||-NONE-|||2
+A 2 2|||M:LEX|||töötajaid||töötaja|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX|||leida|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM:CASE|||Keskusest|||REQUIRED|||-NONE-|||2
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX|||, aga|||REQUIRED|||-NONE-|||2
+A 10 11|||R:VERB:FORM|||õnnestunud|||REQUIRED|||-NONE-|||2
+
+S Minu tööl on ka uudised , praegu olen osakonna juht , just sellega seotud minu palve .
+A 1 2|||R:NOM:FORM|||töölt|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||on||ongi|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Minul||Mul|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||töölt|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||on ka töölt|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||1
+A 5 6|||R:PUNCT|||:|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||on||ongi|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Minul||Mul|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM|||töölt|||REQUIRED|||-NONE-|||2
+A 1 4|||R:WO|||on ka töölt|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||2
+A 5 7|||R:PUNCT|||. Praegu|||REQUIRED|||-NONE-|||2
+A 10 11|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 13 13|||M:LEX|||ongi|||REQUIRED|||-NONE-|||2
+A 11 16|||R:WO|||minu palve ongi just sellega seotud||just sellega ongi minu palve seotud|||REQUIRED|||-NONE-|||1
+
+S Palun sind otsida meie jaoks töötajad .
+A 1 2|||R:NOM:FORM|||sul|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||töötajaid||töötaja|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||R:VERB:FORM|||otsi|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||töötajaid||töötaja|||REQUIRED|||-NONE-|||1
+A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||sul|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||töötajaid||töötaja|||REQUIRED|||-NONE-|||2
+A 2 6|||R:WO|||meie jaoks töötajaid otsida||meie jaoks töötaja otsida|||REQUIRED|||-NONE-|||2
+
+S Tean , et sa oled väga professionaalne inimene ja olen kindel sinust .
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||sinus|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||sinus kindel|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||sinus|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||sinus kindel|||REQUIRED|||-NONE-|||1
+
+S Muidugi meie maksame teenuse eest .
+A 1 2|||R:NOM:FORM|||me|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||me|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||maksame me|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Vastamata sellest , et sa ei saanud minu kiri ja ei vastanud , kirjutan mida meil on vaja .
+A 0 1|||R:SPELL|||Vaatamata|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||kätte|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 16 18|||R:WO|||vaja on|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Vaatamata|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||kätte|||REQUIRED|||-NONE-|||1
+A 9 11|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||keda|||REQUIRED|||-NONE-|||1
+A 16 18|||R:WO|||vaja on|||REQUIRED|||-NONE-|||1
+
+S Sina tead , et ma töötan kinnisvara valdkonnas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Sa|||REQUIRED|||-NONE-|||1
+
+S Meie otsime kinnisvara haldurit .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Me|||REQUIRED|||-NONE-|||1
+
+S Inimesel kindlasti peab olema pädevuse tunnistuse ja kogemust .
+A 1 3|||R:WO|||peab kindlasti|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WS:NOM:FORM|||pädevustunnistus|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kogemus|||REQUIRED|||-NONE-|||0
+A 0 1|||M:LEX|||Sel inimesel|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||peab kindlasti|||REQUIRED|||-NONE-|||1
+A 4 6|||R:NOM:FORM|||tunnistus|||REQUIRED|||-NONE-|||1
+
+S Omalt poolt pakume : palk heal tasemel ja aasta preemia vastavalt töötulemustele , esitame ametiauto ja telefon .
+A 4 5|||R:NOM:FORM|||palka|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||heal tasemel palka|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WS:NOM:FORM|||aastapreemiat|||REQUIRED|||-NONE-|||0
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||ametiautot|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||telefoni|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||palka|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||heal tasemel palka|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WS:NOM:FORM|||aastapreemiat|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||anname|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||telefoni|||REQUIRED|||-NONE-|||1
+
+S Meil on väga sõbralik meeskond .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vajadusel esitan lisainfot .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||R:LEX|||annan|||REQUIRED|||-NONE-|||1
+
+S Väga loodan , et sa aitad mind .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 8|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 0 2|||R:WO|||Loodan väga|||REQUIRED|||-NONE-|||2
+
+S Ka oleksin väga tänulik , kui annad mulle nõu , kuidas ma võin lähendada selline probleemi .
+A 6 7|||R:VERB:FORM|||annaksid|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||võiksin||võiks|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||lahendada|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||sellise||sellist|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||sellise probleemi lahendada|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Oleksin ka|||REQUIRED|||-NONE-|||1
+A 6 7|||R:VERB:FORM|||annaksid|||REQUIRED|||-NONE-|||1
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||lahendada|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||probleem|||REQUIRED|||-NONE-|||1
+A 13 16|||R:WO|||selline probleem lahendada|||REQUIRED|||-NONE-|||1
+A 0 2|||R:WO|||Oleksin ka|||REQUIRED|||-NONE-|||2
+A 6 7|||R:VERB:FORM|||annaksid|||REQUIRED|||-NONE-|||2
+A 12 13|||R:LEX|||saan|||REQUIRED|||-NONE-|||2
+A 13 14|||R:SPELL|||lahendada|||REQUIRED|||-NONE-|||2
+A 14 15|||R:NOM:FORM|||sellise||sellist|||REQUIRED|||-NONE-|||2
+A 13 16|||R:WO|||sellise probleemi lahendada||sellist probleemi lahendada|||REQUIRED|||-NONE-|||2
+
+S Ootan sinu vastust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Ette tänades , Alina
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0

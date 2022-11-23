@@ -1,0 +1,63 @@
+
+S Ta on Anton .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me õppisime koos kolm aastat viiendast kaheksani klassi .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX:NOM:FORM|||kaheksanda|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||klassini|||REQUIRED|||-NONE-|||0
+
+S Ma loodan sa mäletad teda .
+A 2 2|||M:LEX|||, et|||REQUIRED|||-NONE-|||0
+
+S Tal oli väga rõõmsad punansed juuksed .
+A 1 2|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||rõõmsavärvilised|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||punased|||REQUIRED|||-NONE-|||0
+
+S Ta oli ebanormaalne õpilane .
+A 2 3|||R:LEX|||ebatavaline||ebaharilik|||REQUIRED|||-NONE-|||0
+
+S Kogu aeg ta käis koolis ja naeratas tüdrukud .
+A 2 4|||R:WO|||käis ta|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||ringi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||tüdrukutele|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ta käis kogu aeg|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||ringi|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||tüdrukutele|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Ta käis kogu aeg|||REQUIRED|||-NONE-|||2
+A 5 5|||M:LEX|||ringi|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX|||naerutas|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||tüdrukuid|||REQUIRED|||-NONE-|||2
+
+S Nüüd Anton on viisakas inimene .
+A 1 3|||R:WO|||on Anton|||REQUIRED|||-NONE-|||0
+
+S Tal on kolm last , oma firma ja suurepärane naine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma kirjutasin juba , tal on äärimees .
+A 4 4|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||ärimees|||REQUIRED|||-NONE-|||0
+
+S Ta tegeleb spordiga ja kuulab klassikalist muusikat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ära unusta mind .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Ma tunnen end hästi ja tegelen spordiga ka .
+A 6 8|||R:WO|||ka spordiga|||REQUIRED|||-NONE-|||0
+
+S Võib olla kohtume ja saab rääkima rohkem .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||saame|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||rääkida|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||rohkem rääkida|||REQUIRED|||-NONE-|||0
+
+S Ootan sinu vastus .
+A 2 3|||R:NOM:FORM|||vastust|||REQUIRED|||-NONE-|||0
+
+S Seekord lõpetan Sinu Tatjana
+A 2 2|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0

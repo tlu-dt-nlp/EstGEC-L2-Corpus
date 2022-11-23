@@ -1,0 +1,147 @@
+
+S Lugupeetud härra ,
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Me teame , et sel aastal te sõlmitate tänava ja parkide hoolduseks uue lepingu teenusepakkujaga ja meie maja elanikud ei ole selle firma tööga rahul .
+A 7 8|||R:SPELL|||sõlmisite|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||sõlmisite te|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||tänavate|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||sõlmisite|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WO|||sõlmisite te|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||tänavate|||REQUIRED|||-NONE-|||1
+A 8 15|||R:WO|||teenusepakkujaga uue lepingu tänavate ja parkide hoolduseks|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||sõlmisite|||REQUIRED|||-NONE-|||2
+A 4 8|||R:WO|||te sõlmisite sel aastal|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||tänavate|||REQUIRED|||-NONE-|||2
+A 12 15|||R:WO|||teenusepakkujaga uue lepingu|||REQUIRED|||-NONE-|||2
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+
+S Esimeseks uue firma töötajad algavad töö kell kuus hommikul akna all ja töötavad ka nädalavahetusel .
+A 0 1|||R:LEX|||Esiteks|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||alustavad|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||0
+A 5 9|||R:WO|||kell kuus hommikul tööd akna all|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Esiteks|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||alustavad|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||alustavad uue firma töötajad|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Esiteks|||REQUIRED|||-NONE-|||2
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||alustavad|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||2
+A 6 11|||R:WO|||akna all kell kuus hommikul|||REQUIRED|||-NONE-|||2
+
+S Me tahame puhata ja magada , aga meie õues on palju müra
+A 12 12|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Teiseks nad töötavad palju , aga väga aeglaselt .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||töötavad nad|||REQUIRED|||-NONE-|||1
+
+S Brigadis muidugi on palju meest , kes kõik ajal naeravad , rääkivad , suitsetavad ja palju puhkavad
+A 0 1|||R:SPELL|||Brigaadis|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on muidugi|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||mehi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||kogu|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||aja|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||räägivad|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Brigaadis|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on muidugi|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||mehi|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||alati|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM:SPELL|||räägivad|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||tihti||sageli|||REQUIRED|||-NONE-|||1
+A 17 17|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Lõpuks tahan liisada , et õues on palju tehnikaid ja me ei saa normalselt jalutada lapsega sest see on ohtlik
+A 2 3|||R:SPELL|||lisada|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||tehnikat|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||normaalselt|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||lapsega normaalselt jalutada|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 20 20|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||lisada|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||tehnikat|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||normaalselt|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||lastega|||REQUIRED|||-NONE-|||1
+A 13 16|||R:WO|||lastega normaalselt jalutada|||REQUIRED|||-NONE-|||1
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Meie maja inimesed ei ole selle tööga rahul , sest see häirib meie elu
+A 14 14|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||firma|||REQUIRED|||-NONE-|||1
+A 14 14|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||sellise|||REQUIRED|||-NONE-|||2
+A 14 14|||M:PUNCT|||.|||REQUIRED|||-NONE-|||2
+
+S Me tahame seda olukorra lahendada
+A 2 3|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||olukorda|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Tahame , et te arvestate seda olukorra ja võib olla vahetagte teenusepakkijat .
+A 4 5|||R:VERB:FORM|||arvestaksite|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||olukorraga|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM:SPELL|||vahetaksite|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||teenusepakkujat|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||arvestaksite|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||olukorda|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM:SPELL|||vahetaksite|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||teenusepakkujat|||REQUIRED|||-NONE-|||1
+A 4 5|||R:VERB:FORM|||arvestaksite|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||olukorda|||REQUIRED|||-NONE-|||2
+A 4 7|||R:WO|||seda olukorda arvestaksite|||REQUIRED|||-NONE-|||2
+A 8 10|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||2
+A 10 11|||R:VERB:FORM:SPELL|||vahetaksite|||REQUIRED|||-NONE-|||2
+A 11 12|||R:SPELL|||teenusepakkujat|||REQUIRED|||-NONE-|||2
+
+S Võib olla on võimalik rääkida ja lisaks kontrollida firma töötajaid võib olla on vaja vahetada firma töötajaid , sest nendel on konkreetne aeg tööd lõpetada
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||nendega|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WS:CASE|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 14 17|||R:WO|||firma töötajaid vahetada|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||tööde|||REQUIRED|||-NONE-|||0
+A 24 25|||R:LEX|||lõpetamiseks|||REQUIRED|||-NONE-|||0
+A 25 25|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||nendega|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||1
+A 13 17|||R:WO|||firma töötajaid vaja vahetada|||REQUIRED|||-NONE-|||1
+A 23 24|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||1
+A 25 25|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||2
+A 4 4|||M:LEX|||nendega|||REQUIRED|||-NONE-|||2
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 10 12|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||2
+A 15 17|||R:LEX|||neid|||REQUIRED|||-NONE-|||2
+A 14 17|||R:WO|||neid vahetada|||REQUIRED|||-NONE-|||2
+A 23 24|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||2
+A 25 25|||M:PUNCT|||.|||REQUIRED|||-NONE-|||2
+
+S Me väga loodame , et te võite kuidagi teha , et olukorra lahendada
+A 7 8|||R:LEX|||midagi|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||olukord|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||saate|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||midagi|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||olukorda|||REQUIRED|||-NONE-|||1
+A 13 13|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||saate|||REQUIRED|||-NONE-|||2
+A 7 8|||R:LEX|||midagi|||REQUIRED|||-NONE-|||2
+A 9 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 13|||R:LEX|||lahendamiseks|||REQUIRED|||-NONE-|||2
+A 13 13|||M:PUNCT|||.|||REQUIRED|||-NONE-|||2
+
+S Ootame teie vastust , Ranna --- tänava elanikud
+A 3 4|||R:PUNCT|||!||.|||REQUIRED|||-NONE-|||0
