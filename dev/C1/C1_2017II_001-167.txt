@@ -1,0 +1,187 @@
+
+S Eile Tartu Ülikoolis toimus juba teine globaliseerumiskonverents .
+A 1 4|||R:WO|||toimus Tartu Ülikoolis|||REQUIRED|||-NONE-|||0
+A 2 3|||R:CASE|||ülikoolis|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||toimus Tartu ülikoolis|||REQUIRED|||-NONE-|||1
+
+S Konverentsis osalesid rohkem kui sada inimest , nende hulgast olid ka külalised välismaalt .
+A 0 1|||R:NOM:FORM|||Konverentsil|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||osales|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||hulgas|||REQUIRED|||-NONE-|||0
+
+S Kahe päeva jooksul seal arutleti väga erinevaid teemasid .
+A 4 5|||R:LEX|||arutati|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||arutati seal|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||arutleti seal|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||erinevate|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||teemade|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||üle|||REQUIRED|||-NONE-|||1
+
+S Esimese päeva peateema oli " kodumaalt lahkumise põhjused ja võimalikud tagajärjed "
+A 5 6|||R:CASE|||Kodumaalt|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Konverentsi konservatiine osa väidas , et peamise lahkumise põhjused on vaba liikumise võimalus Euroopa Liidus ja ebavõrde konkurents .
+A 1 2|||R:SPELL|||konservatiivne|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||väitis|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||peamised|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||ebavõrdne|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:SPELL|||konservatiivsed|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||osalejad|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM:SPELL|||väitsid|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||peamised|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WO|||lahkumise peamised|||REQUIRED|||-NONE-|||1
+A 16 17|||R:SPELL|||ebavõrdne|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM:SPELL|||konservatiivsed|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX|||osalejad|||REQUIRED|||-NONE-|||2
+A 3 4|||R:VERB:FORM:SPELL|||väitsid|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||peamised|||REQUIRED|||-NONE-|||2
+A 6 8|||R:WO|||lahkumise peamised|||REQUIRED|||-NONE-|||2
+A 16 17|||R:SPELL|||ebavõrdne|||REQUIRED|||-NONE-|||2
+A 18 18|||M:LEX|||tööturul||ettevõtluses|||REQUIRED|||-NONE-|||2
+
+S Tagajärjed võivad olla väga dramaatilised , kuni terve riikide kadumiseni .
+A 7 8|||R:NOM:FORM|||tervete|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||võivad|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||terved|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||riigid|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||kaduda|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||kaduda võivad terved riigid|||REQUIRED|||-NONE-|||1
+A 5 6|||R:PUNCT|||–||:|||REQUIRED|||-NONE-|||2
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 7|||M:LEX|||võivad|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||terved|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||riigid|||REQUIRED|||-NONE-|||2
+A 9 10|||R:LEX|||kaduda|||REQUIRED|||-NONE-|||2
+A 7 10|||R:WO|||kaduda võivad terved riigid|||REQUIRED|||-NONE-|||2
+
+S Globaliseerumise pooldajad arvasid teistmoodi .
+
+S Peamise põhjusena nimetasid nad uued võimalused ja kogemus , mis kodumaal omandada ei saa .
+A 0 1|||R:NOM:FORM|||Peamiste|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||põhjustena|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||võimalusi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kogemust|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Peamiste|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||põhjustena|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Nad nimetasid peamiste põhjustena|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||võimalusi|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||kogemust|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||1
+A 10 14|||R:WO|||ei saa kodumaal omandada|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Peamiste|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM|||põhjuste|||REQUIRED|||-NONE-|||2
+A 2 2|||M:LEX|||seas|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||võimalusi|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||kogemusi|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||2
+A 10 14|||R:WO|||kodumaal ei saa omandada|||REQUIRED|||-NONE-|||2
+
+S Kodumaalt lahkumine ei tähenda ainult väljarändamist , vaid sisserändamist ka ning seetõttu lahkumine rikastab nii inimest , kui ka riiki .
+A 8 10|||R:WO|||ka sisserändamist|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||rikastab lahkumine|||REQUIRED|||-NONE-|||0
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||puuduta||hõlma|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||ka sisserändamist|||REQUIRED|||-NONE-|||1
+A 12 14|||R:WO|||rikastab lahkumine|||REQUIRED|||-NONE-|||1
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kõik see tähendab , et tagajärjed on üsna positiivsed .
+
+S Teise päeva peateema oli " Tehnoloogia kiire areng kui kaugsuhtluse võimaldaja " .
+
+S Enamik osalejatest oli nõus sellega , et tehnoloogiline areng on üldiselt positiivne nähtus ja suurepärane võimalus suhelda erinevate inimestega kogu maailmast .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 19 20|||R:LEX|||üle|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||maailma|||REQUIRED|||-NONE-|||1
+A 19 20|||R:LEX|||terves||ülejäänud|||REQUIRED|||-NONE-|||2
+A 20 21|||R:NOM:FORM|||maailmas|||REQUIRED|||-NONE-|||2
+
+S Mida kiirem areneb tehnoloogia , seda rohkem võimalusi meil on suheldama ja infot vahetada .
+A 1 2|||R:LEX|||kiiremini|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||on meil võimalusi|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||suhelda|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||kiiremini|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||tehnoloogia areneb|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||on meil|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX:SPELL|||suhtlemiseks|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||info|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||vahetamiseks|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||kiiremini|||REQUIRED|||-NONE-|||2
+A 2 4|||R:WO|||tehnoloogia areneb|||REQUIRED|||-NONE-|||2
+A 7 10|||R:WO|||on meil võimalusi|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX:SPELL|||suhtlemiseks|||REQUIRED|||-NONE-|||2
+A 12 14|||R:LEX|||infovahetuseks|||REQUIRED|||-NONE-|||2
+
+S Mõned külalised olid veendunud , et kuna tehnoloogia areneb nii kiiresti , see tõttu suhted ja suhtlemine muutuvad , ning see muutus ei ole igati positiivne .
+A 12 13|||R:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 25|||R:LEX|||alati||tihti||tihtipeale|||REQUIRED|||-NONE-|||0
+A 12 12|||M:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 12 14|||R:WS|||seetõttu|||REQUIRED|||-NONE-|||1
+A 14 18|||R:WO|||muutuvad suhted ja suhtlemine|||REQUIRED|||-NONE-|||1
+A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 25|||R:LEX|||alati||tihti||tihtipeale|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||siis|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||2
+A 12 18|||R:WO|||muutuvad selle tõttu suhted ja suhtlemine|||REQUIRED|||-NONE-|||2
+A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 22 23|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 23 24|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||2
+A 25 26|||R:LEX|||negatiivne|||REQUIRED|||-NONE-|||2
+
+S On olemas andmed , et 80% meie suhtlemist koosneb mitteverbaalsest infost .
+A 7 8|||R:NOM:FORM|||suhtlemisest|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||suhtlusest|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||suhtlusest|||REQUIRED|||-NONE-|||2
+A 8 9|||R:VERB:FORM|||sisaldab|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||mitteverbaalset|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||2
+
+S See tähendab , et kasutades erinevaid tehnoloogilisi võimalusi suhtlemiseks me ei saa kogu info kätte saada .
+A 5 9|||R:WO|||suhtlemiseks erinevaid tehnoloogilisi võimalusi|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||ei saa me|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||0
+A 4 9|||R:WO|||suhtlemiseks erinevaid tehnoloogilisi võimalusi kasutades|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||ei saa me|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||1
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Seepärast tehnoloogia ei ole ainult positiivne nähtus .
+A 1 4|||R:WO|||ei ole tehnoloogia|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei ole tehnoloogia|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||üksnes|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Üldiselt , võin öelda et niisugune konverents on väga kasulik .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||1
+
+S Kõikidel oli võimalus oma arvamuse väljendamiseks , kompromissi leidmiseks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Kõigil|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||arvamust|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||väljendada|||REQUIRED|||-NONE-|||1
+A 6 7|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||leida|||REQUIRED|||-NONE-|||1
+A 1 1|||M:LEX|||osalejatel|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||arvamust|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||avaldada|||REQUIRED|||-NONE-|||2
+A 6 7|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 8 9|||R:LEX|||leida|||REQUIRED|||-NONE-|||2
+
+S Kõige tähtsam seal oli vist see , et keegi ei kartnud oma arvamust väljendada ja kõik arvamused olid teretulnud .
+A 2 4|||R:WO|||oli seal|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||oli seal|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||vast|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||avaldada|||REQUIRED|||-NONE-|||1
