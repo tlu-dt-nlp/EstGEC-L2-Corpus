@@ -43,8 +43,6 @@ A 7 11|||R:WO|||selle firma tööga rahul|||REQUIRED|||-NONE-|||2
 A 11 11|||M:PUNCT|||.|||REQUIRED|||-NONE-|||2
 
 S Ma jälgisin peaaegu terve aasta ja tulin kokkuvõtteks , et on vaja midagi muuta .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
-
 A 2 2|||M:LEX|||neid|||REQUIRED|||-NONE-|||0
 A 7 8|||R:LEX:NOM:FORM|||järeldusele|||REQUIRED|||-NONE-|||0
 A 2 2|||M:LEX|||neid|||REQUIRED|||-NONE-|||1
