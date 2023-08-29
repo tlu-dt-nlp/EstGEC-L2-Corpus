@@ -1,0 +1,93 @@
+S Tere Juta !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Kirjutan sulle sellepärast et mul tekis väike probleem tööga .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||tekkis|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||tekkis|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||tööga väike probleem|||REQUIRED|||-NONE-|||1
+
+S Ma tahaksin taotleda ühte töökohta aga mu ametlik koolitus jääb vajaks ja ma peaksin kiiresti õppima juurde ühe arvuti programmi .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ametlikust|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||koolitusest|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||vajaka||väheks||väheseks|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WS|||arvutiprogrammi|||REQUIRED|||-NONE-|||0
+A 15 20|||R:WO|||ühe arvutiprogrammi juurde õppima|||REQUIRED|||-NONE-|||0
+
+S Kas sa saad mind aidata kuna sa oled meie firma IT-nõunik ?
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Ma nimelt vajaksin oskusi selle Exceli puhul .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||vajaksin nimelt|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||vajaksin nimelt|||REQUIRED|||-NONE-|||2
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX|||kasutamise|||REQUIRED|||-NONE-|||2
+A 3 7|||R:WO|||Exceli kasutamise oskusi|||REQUIRED|||-NONE-|||2
+
+S Kas on võimalik kohtuda pärast tööpäeva ja harjutada koos ?
+A 7 9|||R:WO|||koos harjutada|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||sul|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||koos harjutada|||REQUIRED|||-NONE-|||1
+
+S Ma võiksin esialgu ise harjutada kodus oma arvutiga nii et kui kohtume on mul juba midagi küsida ja sa saat mulle õpetada kuidas teha ise ja iseseisvalt probleeme lahendada .
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||saad|||REQUIRED|||-NONE-|||0
+A 23 25|||R:WO|||ise teha|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO|||kodus oma arvutiga ise harjutada|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||R:SPELL|||saad|||REQUIRED|||-NONE-|||1
+A 23 25|||R:WO|||ise teha|||REQUIRED|||-NONE-|||1
+
+S Teine probleem on mul selle piletide broneerimisega .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||piletite|||REQUIRED|||-NONE-|||0
+
+S Ma ei saa lisatud neid söögipileteid broneeringule .
+A 3 7|||R:WO|||söögipileteid broneeringule lisatud|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Äkki on mul mingi seadus peal programmis või hoopis midagi muud .
+A 4 5|||R:LEX|||seade|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||programmis mingi seade peal|||REQUIRED|||-NONE-|||0
+
+S Inimesed tahavad ka hommikusöögi piletid osta ja ma kahjuks ei saa seda teha ja klientid on väga ärritunud sellepärast .
+A 4 5|||R:NOM:FORM|||pileteid|||REQUIRED|||-NONE-|||0
+A 7 11|||R:WO|||kahjuks ei saa ma|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||kliendid|||REQUIRED|||-NONE-|||0
+A 16 19|||R:WO|||sellepärast väga ärritunud|||REQUIRED|||-NONE-|||0
+
+S Oleks tore kui sa saaksid kohale tulla ja ülevaadata seda probleemi .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:WS|||vaadata üle|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||selle probleemi üle vaadata|||REQUIRED|||-NONE-|||0
+
+S Ma olen mitu korda teilt abi palunud ja väga tahaks selle jama korda teha .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 2 5|||R:WO|||teilt mitu korda|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||tahaks väga|||REQUIRED|||-NONE-|||1
+
+S Ma kuulsin kollegidelt et sa oled väga edev nende asjadega ja oskad selle probleemi lahendada .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||kolleegidelt|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||osav||edukas|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||nendes|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||asjades|||REQUIRED|||-NONE-|||0
+A 6 10|||R:WO|||nendes asjades väga osav||nendes asjades väga edukas|||REQUIRED|||-NONE-|||0
+
+S Loodan et saad mind õpetada ka teisi aitama ja me ei pea kogu aeg sulle helistama .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Tänud ette ja kohtumiseni !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eeva
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

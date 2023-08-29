@@ -1,0 +1,91 @@
+S Lugupeetud Riho --- !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kuna eelmisel aastal oli sõlmitud leping uue teenusepakkujaga tänavate ja parkide hooldamiseks pöördun Teie poole kaebusega , sest ei ole selle firma tööga rahul .
+A 3 4|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Kuna te olete omavalitsuse ametnik ma palun pöörduda tähelepanu , et ei ole kõik tänavad on hea seisundis , näiteks : Rahu tänav , Kangelaste prospekt ja Kevade tänav .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||palun ma|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||pöörata|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||sellele|||REQUIRED|||-NONE-|||0
+A 11 15|||R:WO|||kõik tänavad ei ole|||REQUIRED|||-NONE-|||0
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||heas|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||palun ma|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||pöörata|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||sellele|||REQUIRED|||-NONE-|||1
+A 11 15|||R:WO|||kõik tänavad ei ole|||REQUIRED|||-NONE-|||1
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||heas|||REQUIRED|||-NONE-|||1
+A 20 21|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kuna need tänavad on üsna suured ja kasutakse paljude autoga , siis autod tihti lähevad katki .
+A 7 7|||M:LEX|||neid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||kasutatakse|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||palju|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||siin|||REQUIRED|||-NONE-|||0
+A 12 15|||R:WO|||lähevad siin autod tihti|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||neid|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||kasutatakse|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||palju|||REQUIRED|||-NONE-|||1
+A 12 15|||R:WO|||lähevad autod tihti|||REQUIRED|||-NONE-|||1
+
+S Sellepärast nõutakse kiiresti parandus .
+A 3 3|||M:LEX|||teede|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||parandust|||REQUIRED|||-NONE-|||0
+
+S Samuti linna keskuses asub suur ja ilus park , kus jalutavad lapsed vanematega , inimesed tegelevad spordiga , jooksvad .
+A 1 4|||R:WO|||asub linna keskuses|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||jooksevad|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||asub linna keskuses|||REQUIRED|||-NONE-|||1
+A 17 18|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 18 19|||R:SPELL|||jooksevad|||REQUIRED|||-NONE-|||1
+
+S Aga pargi territooriumi on väga must peale talve lõpust .
+A 2 3|||R:NOM:FORM|||territoorium|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||lõppu|||REQUIRED|||-NONE-|||0
+A 4 9|||R:WO|||peale talve lõppu väga must|||REQUIRED|||-NONE-|||0
+
+S Palju puulehti on jäänud pole koristatud .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||koristamata|||REQUIRED|||-NONE-|||0
+
+S Omalt poolt pakun toloki organiseerida , kus ma arvan võib osaleda suur osa elanikutest , mis elavad kõrval ja soovivad jalutada puhtas pargis .
+A 3 3|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||talgud|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||organiseerida talgud|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||elanikest|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||kes|||REQUIRED|||-NONE-|||0
+A 17 17|||M:LEX|||seal||pargi|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||välja|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||talgud|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||organiseerida talgud|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||arvatavasti|||REQUIRED|||-NONE-|||1
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||osaleb|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||elanikest|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||kes|||REQUIRED|||-NONE-|||1
+A 17 17|||M:LEX|||seal||pargi|||REQUIRED|||-NONE-|||1
+A 20 23|||R:WO|||puhtas pargis jalutada|||REQUIRED|||-NONE-|||1
+
+S Olen valmis aidata organiseerimises koos meie naabritega .
+A 2 3|||R:VERB:FORM|||aitama|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||organiseerida|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||seda koos meie naabritega organiseerida|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||aitama|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||organiseerimisega|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||koos meie naabritega organiseerimisega aitama|||REQUIRED|||-NONE-|||1
+
+S Loodan , et minu kaebus ei jää ilma lahenduseta ja ootan Teie vastust .
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega Irina --- tel . ---
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

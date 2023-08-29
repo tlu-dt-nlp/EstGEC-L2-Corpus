@@ -1,0 +1,104 @@
+S Juba järgmisel kuul meie asutus tähistab sünnipäevat , sellepärast me plaanime välja anda asutust tutvustav raamat .
+A 3 6|||R:WO|||tähistab meie asutus|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||sünnipäeva|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||plaanime me|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||tutvustava|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||raamatu|||REQUIRED|||-NONE-|||0
+
+S Tahaksin kirjutada oma mõtteid asutuse kohta .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma töötan sellel asutusel juba 2010 aastast , tulin siia 8 aastat tagasi .
+A 2 3|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||asutuses|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||2010.|||REQUIRED|||-NONE-|||0
+
+S 2008 aastal ma lõpetasin Tallinna ülikooli ja ma pidin valima , kus ma tahan töötada , missuguses valdkonnas .
+A 0 1|||R:SPELL|||2008.|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||lõpetasin ma|||REQUIRED|||-NONE-|||0
+
+S Ühel päeval ma surfasin netis ja vaatasin teie asutuse vebilehel , et te otsite raamatupidajat , sii ma otsustasin saata minu cv .
+A 2 4|||R:WO|||surfasin ma|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||veebilehelt|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||siis|||REQUIRED|||-NONE-|||0
+A 20 21|||R:LEX|||enda|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||CV|||REQUIRED|||-NONE-|||0
+
+S Ma mõtlesin , et see töö on hea variant , sest ma valdan 4 keelt , tihti elus kasutan erinevaid arvuti programme ja mulle meeldib töötada kollektiivis .
+A 16 19|||R:WO|||kasutan elus tihti|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WS|||arvutiprogramme|||REQUIRED|||-NONE-|||0
+
+S Paar päeva pärast mulle helistati ja räägiti et ma võin hakkata töötama sellel asutusel juba järgmisel kuul .
+A 0 1|||R:NOM:FORM|||Paari|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||hakata|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||asutuses|||REQUIRED|||-NONE-|||0
+
+S Kui ma juba rääkisin mulle meeldib meeskonnatöö , ma olen väga rahul tööõhkkonnaga ja kollektiiviga .
+A 0 1|||R:LEX|||Nagu|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||tööõhkkonna|||REQUIRED|||-NONE-|||0
+
+S Kõik töötajad on kohusetundlikud , abivalmsad , tahelepanelikud ja sihekindlad .
+A 5 6|||R:SPELL|||abivalmid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||tähelepanelikud|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||sihikindlad|||REQUIRED|||-NONE-|||0
+
+S Me kõik motiveerime töötada selles prestiižis asutuses , iga päev tulevad uusi tuttavaid , kasulikke teadmisi .
+A 2 3|||R:VERB:FORM|||oleme motiveeritud|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||oleme kõik motiveeritud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||töötama|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||prestiižses|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||kus|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||uued|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||tuttavad|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||kasulikud|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||teadmised|||REQUIRED|||-NONE-|||0
+
+S Töö ajal meil on sõbralik ja tööõhkond , kõik pädevad spetsialistid töötavad hästi ja püüdlikult , see mulle meeldib .
+A 2 4|||R:WO|||on meil|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 17 19|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+
+S Mei meeskond teab , mida on vaja teha , mitte keegi küsib rumalaid küsimusi või istub arvuti taga ja mängib arvuti mänge .
+A 0 1|||R:SPELL|||Meie|||REQUIRED|||-NONE-|||0
+A 11 11|||M:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||küsi|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||istu|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||ega|||REQUIRED|||-NONE-|||0
+A 19 20|||R:VERB:FORM|||mängi|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WS|||arvutimänge|||REQUIRED|||-NONE-|||0
+
+S Meil ei ole laisad inimesed .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See on suurepäraselt !
+A 2 3|||R:LEX|||suurepärane|||REQUIRED|||-NONE-|||0
+
+S On raske rääkida asutuse tulevikusest , aga ma suudan ettepanna , et meie kontoor edasi areneb , meil on huvitavad ettepanekud ja edukad töötajad
+A 4 5|||R:SPELL|||tulevikust|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX:WS|||ette kujutada|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||kontor|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||areneb edasi|||REQUIRED|||-NONE-|||0
+A 24 24|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Meie asutus saab tuntuks mitte ainult meie riigis , aga ka välismaal .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Olen kindel , et asutusel on hea tulevik
+A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõtteks võin öelda , et ma olen rõõmus ja tänan et ma töötan siin , mul on hea ja töökas meeskond ja ka arusaadavad personalijuhid .
+A 9 10|||R:LEX|||tänulik|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 23 24|||R:LEX|||arusaajad||arusaavad|||REQUIRED|||-NONE-|||0
+
+S Sellega ma lõpetan , loodan et minu mõtted kirjutatakse raamatusse .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Raamatupidaja Irina
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

@@ -1,0 +1,111 @@
+S Tere , meie kallis personaljuht Mart !
+A 4 5|||R:SPELL|||personalijuht|||REQUIRED|||-NONE-|||0
+
+S Meil on asutuse sünnipäev tuleb juba ja mina tahan natuke oma mõtteid välja öelda .
+A 4 5|||R:VERB:FORM|||tulemas|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||tulemas|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+
+S Minu meeles , see oli 4. juunil 2002a .
+A 1 2|||R:NOM:FORM|||meelest|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||oli see|||REQUIRED|||-NONE-|||0
+A 7 8|||R:WS|||2002. a|||REQUIRED|||-NONE-|||0
+
+S Mina kuulsin raadiot ja pärast muusika lõpetamist oli reklaam , et selle asutusele on vaja töötaja .
+A 1 2|||R:LEX|||kuulasin|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||lõppemist|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||asutuses|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||töötajat|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||kuulasin|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||lõppemist|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||asutuses|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||töötajat|||REQUIRED|||-NONE-|||1
+
+S Kõik töötajad on sõbralikud , abivalmsad ja töö on lihtne .
+A 5 6|||R:SPELL|||abivalmid|||REQUIRED|||-NONE-|||0
+
+S Mina helistasin Teile ja sekretäär ütles , et on vaja homme vestelda .
+A 4 5|||R:SPELL|||sekretär|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||sekretär|||REQUIRED|||-NONE-|||1
+
+S Kui ma tulin siia , natuke närvisin , aga kui mind kõik kohtusid , mulle öeldi : " Praegu Sul on olemas töökoht , palju õnne ! " .
+A 6 7|||R:SPELL|||närveerisin|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||närveerisin natuke|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||minuga|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||kõik minuga|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||öeldi mulle|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||Nüüd|||REQUIRED|||-NONE-|||0
+A 19 20|||R:CASE|||sul|||REQUIRED|||-NONE-|||0
+A 19 23|||R:WO|||on sul töökoht olemas|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||siia tulin|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||närveerisin|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||närveerisin natuke|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||minuga|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||kõik minuga|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WO|||öeldi mulle|||REQUIRED|||-NONE-|||1
+A 18 19|||R:LEX|||Nüüd|||REQUIRED|||-NONE-|||1
+A 19 20|||R:CASE|||sul|||REQUIRED|||-NONE-|||1
+A 19 23|||R:WO|||on sul töökoht olemas|||REQUIRED|||-NONE-|||1
+
+S Ausalt , mina olin šokkis isegi tänapäevani .
+A 3 4|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||šokis|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||šokis|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||tänapäevani šokis|||REQUIRED|||-NONE-|||1
+
+S Meie asutuse kollektiiv ja tööõkkond on suurepärane .
+A 4 5|||R:SPELL|||tööõhkkond|||REQUIRED|||-NONE-|||0
+
+S Me kõik suhtleme omavahel , kohtume pärast tööd ja täpselt teame , et kui tekkib mingi situatsioon , siis kõik tulevad abistada , kui see on vaja .
+A 9 11|||R:WO|||teame täpselt|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||tekib|||REQUIRED|||-NONE-|||0
+A 21 22|||R:VERB:FORM|||abistama|||REQUIRED|||-NONE-|||0
+A 24 25|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||teame täpselt|||REQUIRED|||-NONE-|||1
+A 21 22|||R:VERB:FORM|||abistama|||REQUIRED|||-NONE-|||1
+A 24 25|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||1
+
+S Mina mõtlesin varem milline võiks asutus olla 10-15 aasta pärast , aga praegu ei saa mõelda selle teema kohta , sest minu arvates rohkem , kui praegu sellise suurepärase asutuse ei saa leida !
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||oska|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||ma|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||teemale|||REQUIRED|||-NONE-|||0
+A 18 19|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 25|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 25 26|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 27 28|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||0
+A 28 29|||R:NOM:FORM|||suurepärast|||REQUIRED|||-NONE-|||0
+A 29 30|||R:NOM:FORM|||asutus|||REQUIRED|||-NONE-|||0
+A 23 32|||R:WO|||ei saa praegu rohkem sellist suurepärast asutust leida|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||oska|||REQUIRED|||-NONE-|||1
+A 15 15|||M:LEX|||ma|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||teemale|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||sellele teemale mõelda|||REQUIRED|||-NONE-|||1
+A 18 19|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 25|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 25 26|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 27 28|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||1
+A 28 29|||R:NOM:FORM|||suurepärast|||REQUIRED|||-NONE-|||1
+A 29 30|||R:NOM:FORM|||asutus|||REQUIRED|||-NONE-|||1
+A 23 32|||R:WO|||ei saa praegu rohkem sellist suurepärast asutust leida|||REQUIRED|||-NONE-|||1
+
+S Palju , palju õnne , kallis OÜ --- !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 3|||R:WS|||Palju-palju|||REQUIRED|||-NONE-|||1
+
+S Heade soovidega , Alina ---
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

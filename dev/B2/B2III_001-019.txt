@@ -1,0 +1,94 @@
+S Raamatute ära andmine !
+A 1 3|||R:WS|||äraandmine|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WS|||äraandmine|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Mu kallid sõbrad !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Te olete kõik kursis , et ma koolin oma väiksest korterist .
+A 7 8|||R:SPELL|||kolin|||REQUIRED|||-NONE-|||0
+A 11 11|||M:LEX|||ära|||REQUIRED|||-NONE-|||0
+
+S Seos sellega korrastasin oma raamaturiiuleid ning leidsin raamatud ja ajakirju , mida enam ei vaja ja tahan need Teile ära anda .
+A 0 1|||R:LEX|||Seoses|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 12 12|||M:LEX|||ma|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 18 19|||R:CASE|||teile|||REQUIRED|||-NONE-|||0
+
+S Esiteks , mul on väga palju tansu raamatuid .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WS:SPELL|||tantsuraamatuid|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WS:SPELL|||tantsuraamatuid|||REQUIRED|||-NONE-|||1
+
+S Palju neist on kirjutanud tuntud baleriin M.Murdmaa .
+A 0 1|||R:NOM:FORM|||Paljud|||REQUIRED|||-NONE-|||0
+
+S Kuna ma enam ei saa tantsida ega õpetada ja ei tahaks , et midagi meenutas mulle mineviku elust , pakun teile .
+A 2 5|||R:WO|||ei saa enam|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||taha|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||meenutaks|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||elu|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||neid|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||ei saa enam|||REQUIRED|||-NONE-|||1
+A 14 15|||R:VERB:FORM|||meenutaks|||REQUIRED|||-NONE-|||1
+A 16 16|||M:LEX|||minu||mu|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||minevikku|||REQUIRED|||-NONE-|||1
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 20|||M:LEX|||neid|||REQUIRED|||-NONE-|||1
+
+S Teiseks , mul on sada balleti ajakirju , kus kirjeldakse tuntude tantsijate eluloost ja kunstist .
+A 5 7|||R:WS:SPELL|||balletiajakirja|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||tuntud|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||elulugu|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||kunsti|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||on mul|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WS:SPELL|||balletiajakirja|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||tuntud|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||elulugu|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||kunsti|||REQUIRED|||-NONE-|||1
+
+S Kui olete sellest huvitatud , siis kirjutage mulle , palun .
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||nendest|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S See on täiesti tasuta , aga kui teil on soov , siis võite teha väikse anetust .
+A 0 1|||R:NOM:FORM|||Need|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM:SPELL|||annetuse|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Need|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||soovi|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM:SPELL|||annetuse|||REQUIRED|||-NONE-|||1
+
+S Kogutud raha läheb " Uus Elu " fondi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 8|||R:WO|||fondi " Uus Elu "|||REQUIRED|||-NONE-|||1
+
+S NB !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui , aga te ei ole huvitatud , siis võib olla saaksite midagi soovida , mida teha raamatutega ja ajakirjutega .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||soovitada|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||ajakirjadega|||REQUIRED|||-NONE-|||0
+A 16 20|||R:WO|||raamatutega ja ajakirjadega teha|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||soovitada|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||raamatute|||REQUIRED|||-NONE-|||1
+A 19 20|||R:SPELL|||ajakirjadega|||REQUIRED|||-NONE-|||1
+A 16 20|||R:WO|||raamatute ja ajakirjadega teha|||REQUIRED|||-NONE-|||1
+
+S Kellele veel saab need pakkuda ?
+A 3 4|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||saab neid veel|||REQUIRED|||-NONE-|||0
+
+S Suur tänu tähelepanu eest !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lugupidamisega Eeva .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0

@@ -1,0 +1,84 @@
+S Tere kallis sõber !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Sa tead , et ma töötan saatejuhtina ühel raadiojaamal .
+A 6 7|||R:SPELL|||saatejuhina|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ühes|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||raadiojaamas|||REQUIRED|||-NONE-|||0
+
+S Mulle väga meeldib see loominguline töö .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma veetan tööl palju aega naudinguga , kuid viimasel ajal tekkis üks probleem .
+A 1 2|||R:SPELL|||veedan|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||tekkinud|||REQUIRED|||-NONE-|||0
+
+S Praegu minu raadiojaamal toimuvad suured muutused .
+A 2 3|||R:NOM:FORM|||raadiojaamas|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||toimuvad minu raadiojaamas|||REQUIRED|||-NONE-|||0
+
+S Raadiojaam , kus ma töötan ei taha Finanseerida projekte mis on ebapopulaarsed .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL:CASE|||finantseerida|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Neid , meie ülemus hakkab kinni panema .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Meie ülemus hakkab neid kinni panema|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 5|||R:WO|||Neid hakkab meie ülemus kinni panema|||REQUIRED|||-NONE-|||1
+
+S Kui sinu saated panid kinni , siis sind vallandatakse .
+A 3 4|||R:VERB:FORM|||pannakse|||REQUIRED|||-NONE-|||0
+
+S Juba vallandati paar minu tuttavaid , kuid mina ei taha oodata kuni järjekord tuleb minuni .
+A 4 5|||R:NOM:FORM|||tuttavat|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||jõuab|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||minuni jõuab|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Paar minu tuttavat juba vallandati|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||tuttavat|||REQUIRED|||-NONE-|||1
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||jõuab|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||minuni jõuab|||REQUIRED|||-NONE-|||1
+
+S Sa tead seda , et ma tegelen saatega mis on seotud tehnoloogiauudistetega .
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||tehnoloogiauudistega|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||tehnoloogiauudistega|||REQUIRED|||-NONE-|||1
+
+S Ma jutustan uuetest tulemustetest teaduse maailmas .
+A 2 3|||R:SPELL|||uutest|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX:SPELL|||saavutustest|||REQUIRED|||-NONE-|||0
+
+S Minu saate on kõigide raadiojaamade reas keskel , populaarsuse järgi , kuid minu raadiojaamal minu saade on eelviimane .
+A 1 2|||R:SPELL|||saade|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||kõikide|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||raadiojaamas|||REQUIRED|||-NONE-|||0
+A 14 17|||R:WO|||on minu saade eelviimane|||REQUIRED|||-NONE-|||0
+
+S Ma tean , et sa töötad teisel valdkonnal , kuid anna mulle paar soovitust .
+A 6 7|||R:NOM:FORM|||teises|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||valdkonnas|||REQUIRED|||-NONE-|||0
+
+S Kuidas mulle teha saated populaarsem ?
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||saan||saaksin||võiksin|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||populaarsemaks|||REQUIRED|||-NONE-|||0
+
+S Mida on vaja lisada saatesse , et see oleks huvitavam .
+A 3 5|||R:WO|||saatesse lisada|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
+
+S Ma väga loodan , et sa aidat mind sellel pingelisel hetkel .
+A 6 7|||R:SPELL|||aitad|||REQUIRED|||-NONE-|||0
+
+S Ootan sinu vastust .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Sinu sõber Paul .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0

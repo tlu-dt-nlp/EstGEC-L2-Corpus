@@ -1,0 +1,123 @@
+S Jõhvi Linnavalitsuse ametnikule Jõhvi elanikust Kaebus
+A 1 2|||R:CASE|||linnavalitsuse|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||elaniku|||REQUIRED|||-NONE-|||0
+A 5 6|||R:CASE|||kaebus|||REQUIRED|||-NONE-|||0
+A 1 2|||R:CASE|||linnavalitsuse|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||elanikult|||REQUIRED|||-NONE-|||1
+A 0 6|||R:WO|||Kaebus Jõhvi linnavalitsuse ametnikule Jõhvi elanikult|||REQUIRED|||-NONE-|||1
+
+S Kirjutan Teile , sest tahan saada vastuseid minu küsimustele .
+A 7 8|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+
+S Kõige olulisem küsimus siis - " Miks just see firma oli valitud ? "
+A 3 3|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||:|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CASE|||miks|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||0
+A 7 11|||R:WO|||on valitud just see firma|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Te sõlmisite lepingu teenusepakkujaga , mis peab nüüd meie tänavate ja parkide hooldama .
+A 5 6|||R:LEX|||kes|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||tänavaid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||parke|||REQUIRED|||-NONE-|||0
+
+S Tõenäolises juhtub nii , et teed ei ole hooldatud , meie park on täis taimetega .
+A 0 1|||R:SPELL|||Tõenäoliselt|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM:SPELL|||taimi|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX:SPELL|||Tegelikult|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||on juhtunud|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM:SPELL|||taimi|||REQUIRED|||-NONE-|||1
+
+S Mingi muruniiduk ma ei kuulnud juba ammu , aga ma elan pargi lähedal .
+A 0 1|||R:NOM:FORM|||Mingit|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||muruniidukit|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||ei ole ma juba ammu kuulnud|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX:NOM:FORM|||Ühtegi|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||muruniidukit|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+A 0 7|||R:WO|||Ma ei ole juba ammu ühtegi muruniidukit kuulnud|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||kuigi|||REQUIRED|||-NONE-|||1
+
+S Iga päev jalutan oma koeraga linnas ja pargis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tihti näen , kuidas vanad inimesed otsivad endale istekohta , aga ei leia , sest kõik pingid pargis on katki .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Arvatavasti firma direktor ei tea sellest voi ei taha teada ?
+A 6 7|||R:SPELL|||või|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||kas|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||või|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||tahagi|||REQUIRED|||-NONE-|||1
+A 10 11|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Eelmisel aastal oma teenuse pakkus " Jõhvi tugi " firma .
+A 3 4|||R:NOM:FORM|||teenust|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||pakkus oma teenust|||REQUIRED|||-NONE-|||0
+A 5 10|||R:WO|||firma " Jõhvi tugi "|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||teenust|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||pakkus oma teenust|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 10|||R:WO|||firma Jõhvi tugi|||REQUIRED|||-NONE-|||1
+
+S Üldiselt ma olin rahul firmaga .
+A 3 5|||R:WO|||firmaga rahul|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||olin ma firmaga rahul|||REQUIRED|||-NONE-|||1
+
+S Tänavatel oli üsna puhas , park oli hooldatud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Tänavad|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||puhtad|||REQUIRED|||-NONE-|||1
+
+S Aga oli üksik probleem ka .
+A 2 3|||R:NOM:FORM|||üksikuid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||probleeme|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||ka üksikuid probleeme|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||üks|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||ka üks probleem|||REQUIRED|||-NONE-|||1
+
+S Kuna ma elan Jõhvi peamise tee kõrval , muidugi kuulan terve päev , kuidas sõidavad autod .
+A 9 10|||R:LEX|||kuulen|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||kuulen muidugi|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||päeva|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||autod sõidavad|||REQUIRED|||-NONE-|||0
+
+S See on minu kodu , mulle tahaks , et autod sõidaksid mööda pidurdamata , nii oleks vähem lämmastiku õhus .
+A 5 6|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||lämmastikku|||REQUIRED|||-NONE-|||0
+A 16 19|||R:WO|||õhus vähem lämmastikku|||REQUIRED|||-NONE-|||0
+
+S Probleem on selline , et meie maja ees teeosa on väga ammu remonditud , nagu ma mäletan umbes 10 aastat tagasi .
+A 8 10|||R:WO|||on teeosa|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,||-||:|||REQUIRED|||-NONE-|||0
+
+S Muidugi täna seal augud , mida vaja remontida .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||seal täna|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Eelmine firma räägis , et kavatseb seda teha , aga nüüd on teine asutus ja ta midagi ei taha teha .
+A 2 3|||R:SPELL|||rääkis|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||see|||REQUIRED|||-NONE-|||0
+A 16 19|||R:WO|||ei taha midagi teha|||REQUIRED|||-NONE-|||0
+
+S Sellega vaja tegeleda .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Ma juba ei kirjuta sellest , et meie linna prügikastid on kogu aeg täis , kui eelmisel aastal prügivedaja sõitis iga päev , siis praegu kord nädalas .
+A 1 2|||R:LEX|||isegi|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||koguaeg|||REQUIRED|||-NONE-|||0
+A 14 16|||R:PUNCT|||. Kui|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WO|||sõitis prügivedaja|||REQUIRED|||-NONE-|||0
+
+S Andke tagasi meie korrashoid !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lugupidamisega , Jõhvi elanik Sergei
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0

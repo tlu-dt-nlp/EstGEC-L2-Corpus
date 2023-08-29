@@ -1,0 +1,57 @@
+S Ma arvan , et ma töötan väga heas kohas , isegi kui see on mööbli kauplus .
+A 14 16|||R:WS|||mööblikauplus|||REQUIRED|||-NONE-|||0
+A 10 12|||R:LEX|||mis sest et|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WS|||mööblikauplus|||REQUIRED|||-NONE-|||1
+
+S Ma alustasin töötama siin 3 aastat tagasi , kui lõpetasin kutsekooli .
+A 2 3|||R:LEX|||töötamist|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||siin töötamist|||REQUIRED|||-NONE-|||0
+
+S Alguses mulle tundus , et see on igav töö ning siin makstakse vähe raha .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga pärast paari kuud ma sain aru , et mulle meeldib siin töötada .
+A 4 6|||R:WO|||sain ma|||REQUIRED|||-NONE-|||0
+
+S Meie kaupluses on väga meeldiv kollektiiv , ma juba tean kõigi inimesi .
+A 8 10|||R:WO|||tean juba|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||0
+
+S Kui mul hommikul ei ole tuju ning ma tulen tööle , siis ma vestlen oma kooleegidega ja kõik on hästi .
+A 2 5|||R:WO|||ei ole hommikul|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||kolleegidega|||REQUIRED|||-NONE-|||0
+
+S Kui meil on lõun , me alati näerame , ma arvan , et see on väga tore .
+A 3 4|||R:SPELL|||lõuna|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||naerame|||REQUIRED|||-NONE-|||0
+A 8 10|||R:PUNCT|||. Ma|||REQUIRED|||-NONE-|||0
+
+S Kõige suurem ülatus jaoks oli kui meie ülemus alustas maksma rohkem raha .
+A 2 3|||R:SPELL|||üllatus|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||oli meie jaoks , kui|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||hakkas|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||üllatus|||REQUIRED|||-NONE-|||1
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||hakkas|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||rohkem raha maksma|||REQUIRED|||-NONE-|||1
+
+S Praegu ma üldse ei taha oma tööd vahetada .
+A 1 5|||R:WO|||ei taha ma üldse|||REQUIRED|||-NONE-|||0
+
+S Meil on üsna palju kliente iga päev , aga see on ainult pluss minule , sest mulle väga meeldib erinevate inimestega suhelda .
+A 2 7|||R:WO|||iga päev üsna palju kliente|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||minule ainult pluss|||REQUIRED|||-NONE-|||0
+
+S Meie kauplus pidevalt töötab ja areneb ning ma arvan , et pärast 10-15 aasta see on kõige suur ja edukas mööbli kauplus Eestis .
+A 2 6|||R:WO|||töötab ja areneb pidevalt|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||aastat|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||on see|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||suurem|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||edukam|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WS|||mööblikauplus|||REQUIRED|||-NONE-|||0
+
+S Ma loodan !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

@@ -1,0 +1,70 @@
+S Tere Riho ja Martin .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Hiljuti ma korrastasin oma raamaturiiuleid ja leidsin raamatuid ja ajakirju .
+A 0 3|||R:WO|||Ma korrastasin hiljuti|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||korrastasin ma|||REQUIRED|||-NONE-|||1
+
+S Nagu te teate ma tegelen spoordiga ja enam raamatuid ja ajakirju seotud spordiga ja toidumisega .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||tegelen ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||spordiga|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||seepärast on||sellepärast on|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||enamik|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||toitumisega|||REQUIRED|||-NONE-|||0
+
+S Palju raamatuid ja ajakirju ma juba loetasin läbi , selle pärast ma lahendasin miski ära anda või ära müüa , selle pärast et on mõned raamatuid küllalt kallis ja ma ostsin need Veenemaal ja Väälismaal .
+A 6 7|||R:SPELL|||lugesin|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||lugesin ma juba|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WS|||sellepärast|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||otsustasin|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||otsustasin ma|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||miskit||midagi|||REQUIRED|||-NONE-|||0
+A 20 21|||R:LEX|||sest|||REQUIRED|||-NONE-|||0
+A 21 22|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||0
+A 23 26|||R:WO|||mõned raamatud on|||REQUIRED|||-NONE-|||0
+A 27 28|||R:NOM:FORM|||kallid|||REQUIRED|||-NONE-|||0
+A 32 33|||R:NOM:FORM:SPELL|||Venemaalt|||REQUIRED|||-NONE-|||0
+A 34 35|||R:NOM:FORM:SPELL:CASE|||välismaalt|||REQUIRED|||-NONE-|||0
+
+S Kuna ma juba ammu tegen spoordiga ja samuti palju loetasin sellest .
+A 4 5|||R:SPELL|||tegelen|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||tegelen juba ammu|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||spordiga|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||olen|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM:SPELL|||lugenud|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||sellest palju lugenud|||REQUIRED|||-NONE-|||0
+
+S Muidugi miski ma jäätsin endale mis seotud minu töökohast , kuna ma töötan iT firmas , seda arvutist seotud raamatuid ja ajakirju .
+A 1 2|||R:NOM:FORM|||miskit||midagi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM:SPELL|||jätaksin||jätan|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||töökohaga|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PUNCT|||:|||REQUIRED|||-NONE-|||0
+A 13 15|||R:SPELL:CASE|||IT-firmas|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||arvutiga|||REQUIRED|||-NONE-|||0
+
+S Võib olla te andate mulle nõu mis teha teised raamatuid ja ajakirja , mida keegi ei soovi .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||annate|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||annate te|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||teiste|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||raamatutega|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||ajakirjadega|||REQUIRED|||-NONE-|||0
+
+S Selle pärast , et mul on väga vana ja katki raamatuid ja ajakirja .
+A 7 8|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||katkiseid||katkisi|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||ajakirju|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega Viktor
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

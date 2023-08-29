@@ -1,0 +1,86 @@
+S Kallis sõber Karl ,
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Kirjutan Sulle seoses üke probleemiga , millest sain teada alles eile õhtul .
+A 3 4|||R:SPELL|||ühe|||REQUIRED|||-NONE-|||0
+
+S Täpsemalt kirjutades on see seotud minu tööarvutiga ehk igapäevase tööga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nimelt lõppes mul Microsoft Office tarkvara proovikuu ja olen hädas , sest ei saa enam töötada minu poolt koostatud dokumentidega .
+A 4 5|||R:NOM:FORM|||Office'i|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||Office'i|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||1
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 20|||R:WO|||enda koostatud dokumentidega töötada||oma koostatud dokumentidega töötada|||REQUIRED|||-NONE-|||1
+
+S Kuna aasta lõpeb juba järgmisel nädalal , siis juhatus palub mind saata aastaaruannet ja sellega ei tohi mul viivitada .
+A 8 10|||R:WO|||palub juhatus|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||aastaaruanne|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 14 18|||R:WO|||ma ei tohi sellega|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||palub juhatus|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||aastaaruande|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||mul aastaaruande saata|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 14 18|||R:WO|||ma ei tohi sellega|||REQUIRED|||-NONE-|||1
+
+S Juhul kui vastav dokument ei ilmu direktori postkastis , siis arvatavasti uus aasta algab uue töökoha otsinguga .
+A 7 8|||R:NOM:FORM|||postkasti|||REQUIRED|||-NONE-|||0
+A 10 14|||R:WO|||algab uus aasta|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||postkasti|||REQUIRED|||-NONE-|||1
+A 10 14|||R:WO|||algab uus aasta|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||otsimisega|||REQUIRED|||-NONE-|||1
+
+S Üheks lahenduseks võiks olla tarkvara ost , kuid hetkel mul raha selleks ei ole .
+A 10 12|||R:WO|||selleks raha|||REQUIRED|||-NONE-|||0
+A 8 12|||R:WO|||selleks mul hetkel raha|||REQUIRED|||-NONE-|||1
+
+S Kindlasti ostan endale kõik vajalikud programmid jaanuari kuu jooksul .
+A 6 8|||R:WS|||jaanuarikuu|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kui sa oled minu hea sõber , siis ma palun sinu abi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:LEX|||Kuna|||REQUIRED|||-NONE-|||1
+
+S Kas sa saaksid loovutada mulle üheks õhtuks sinu sülearvutit ?
+A 7 8|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||sülearvuti|||REQUIRED|||-NONE-|||1
+
+S Ma tõesti lõpetan aruannega väga kiiresti ja loodetavasti ei rikku sinu igapäevast elu .
+A 3 4|||R:NOM:FORM:SPELL|||aruande|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||riku|||REQUIRED|||-NONE-|||0
+
+S Loomulikult , selle heateo eest ootab sind üllatus ja väga ahvatleb kingitus .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||ootab sind selle heateo eest|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||ahvatlev|||REQUIRED|||-NONE-|||0
+
+S Ole kindel , kui sina ise sattud hädaolukorda , siis kindlasti aitan sind ja " viskan sulle päästerõngast " .
+A 3 3|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||satud|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||päästerõnga|||REQUIRED|||-NONE-|||0
+A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 0|||M:LEX|||Võid|||REQUIRED|||-NONE-|||1
+A 0 1|||R:VERB:FORM|||olla|||REQUIRED|||-NONE-|||1
+A 0 2|||R:WO|||kindel olla|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||et|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||aitan sind kindlasti|||REQUIRED|||-NONE-|||1
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||päästerõnga|||REQUIRED|||-NONE-|||1
+A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Väga loodan , et sa ikkagi saad minu probleemist aru .
+A 5 7|||R:WO|||saad ikkagi|||REQUIRED|||-NONE-|||0
+
+S Vastust ootama jäädes , Tervitades Liis ---
+A 4 5|||R:CASE|||tervitades|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:CASE|||tervitades|||REQUIRED|||-NONE-|||1
