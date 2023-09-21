@@ -1,0 +1,77 @@
+S Lugupeetud kuulajad !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul oli võimalus osaleda tervisekonverentsil , mille arutelu põhiliseks teemaks oli tervis ja võimalused selle parandamiseks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Soovin kuuldud ettekannete põhjal Teile oma arvamust jagada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Üks esile tõstetud teemadeks oli " Kohaliku omavalitsuse võimalused ja viisid tervise eest hoolitsemisel " .
+A 3 4|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||teemasid|||REQUIRED|||-NONE-|||1
+
+S See tekitas palju arutelu ning konverentsi osavõtjad tulid otsusele , et kohalik omavalitsus peaks kõigepealt looma võimalusi tervislikuks eluviisiks .
+A 5 6|||R:NOM:FORM|||konverentsist|||REQUIRED|||-NONE-|||0
+
+S Ma olen selle arvamusega täiesti nõus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui elanikkele on antud võimalus spordiga tegeleda , hakkab ta neid kasutama .
+A 1 2|||R:SPELL|||elanikele||elanikkudele|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||hakkavad|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||nad|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:SPELL|||elanikule|||REQUIRED|||-NONE-|||1
+
+S Kui linnas on olemas spordiplatsid , terviserajad , ujula , on saadaval spordiringid ( naiteks , võrkpall , korvpall ja nii edasi ) , siis inimestel on võimalus spordiga tegeleda ja tervisliku eluga elada .
+A 14 15|||R:SPELL|||näiteks|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 31 32|||R:NOM:FORM|||tervislikku|||REQUIRED|||-NONE-|||0
+A 32 33|||R:NOM:FORM|||elu|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||näiteks|||REQUIRED|||-NONE-|||1
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 25 27|||R:WO|||on inimestel|||REQUIRED|||-NONE-|||1
+A 31 32|||R:NOM:FORM|||tervislikku|||REQUIRED|||-NONE-|||1
+A 32 33|||R:NOM:FORM|||elu|||REQUIRED|||-NONE-|||1
+
+S Teiseks käsitletud teemaks oli " Töötervishoiuarsti juures läbiviidava kohustusliku tervisekontrolli olulisus " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Arutlejad tulid kokkuleppele , et kohustuslik tervisekontroll on tähtis ja ilma selleta ei ole võimalik luua inimkonna tervist .
+A 15 16|||R:LEX|||tagada|||REQUIRED|||-NONE-|||0
+
+S Mulle tundub see väide õigena , kuna ilma tervisekontrollita ei ole võimalik haigusi varem avastada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||õige|||REQUIRED|||-NONE-|||1
+
+S Tihti juhtub nii , et inimesel endal pole küll kaebusi , aga haigus on juba sees .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 15 16|||R:LEX|||küljes|||REQUIRED|||-NONE-|||1
+
+S Tervisekontroll aitab haigust avastada ning ravimist varem alustada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kontrolli käigus saab inimene ülevaadet oma tervisest ning saab teada , mis tema kehas vajab erilist tähelepanu .
+A 4 5|||R:NOM:FORM|||ülevaate|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||ülevaate|||REQUIRED|||-NONE-|||1
+A 14 17|||R:WO|||erilist tähelepanu vajab|||REQUIRED|||-NONE-|||1
+
+S Kokkuvõtteks tahan öelda , et konverentsil käsitletud teemad on praeguseks ajaks aktuaalsed ja vajavad tähelepanu .
+A 9 10|||R:NOM:FORM|||praegusel|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||ajal|||REQUIRED|||-NONE-|||0
+
+S Tervis mängib tähtsa rolli inimeste elus .
+A 2 3|||R:NOM:FORM|||tähtsat|||REQUIRED|||-NONE-|||0
+
+S Ilma tervist ei ole võimalik õnnelik elu .
+A 1 2|||R:NOM:FORM|||terviseta|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||õnnelik elu võimalik|||REQUIRED|||-NONE-|||0
+
+S Terves kehas on terve vaim .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meie vajame , et meie ühiskond oleks nii vaimselt kui ka füüsiliselt terve !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Me|||REQUIRED|||-NONE-|||1

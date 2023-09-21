@@ -1,0 +1,115 @@
+S Kodanikuühenduste konverentsil käsitleti sellised teemad , nagu seltsid ja ühingud kogukonna elu arendajatena ning vabatahtlik kaasamine .
+A 3 4|||R:NOM:FORM|||selliseid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||teemasid|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||vabatahtlike|||REQUIRED|||-NONE-|||0
+
+S Loomulikult kodaniku elu tuleb alati parandada ja sündmusterikaks teha .
+A 1 2|||R:NOM:FORM|||kodanike|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||tuleb kodaniku elu|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||sündmusterikkaks|||REQUIRED|||-NONE-|||0
+
+S See võimaldab kodaniku tunnete arengut , lojaalsete kodanikete kasvatamist .
+A 7 8|||R:SPELL|||kodanike|||REQUIRED|||-NONE-|||0
+
+S Kuidas siis teha nii , et rohkesti inimesi kuulusid kodanikuühendustele ning kuidas see aitab riiki arendada .
+A 6 7|||R:LEX|||rohkem|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||kuuluksid|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||kodanikuühendustesse|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||rohkem|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||kuuluksid|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||kodanikuühendustesse|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||R:PUNCT|||?|||REQUIRED|||-NONE-|||1
+
+S Esiteks , kui inimene külastab koosolekuid , kui ta võtab osa erinevatest üritustest , kui ta on mingi ühingu liige , kasvab tema suhete võrgustik , ta hakkab end turvalisem tunda .
+A 25 26|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 26 26|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 29 30|||R:LEX|||turvalisemalt|||REQUIRED|||-NONE-|||0
+A 30 31|||R:VERB:FORM|||tundma|||REQUIRED|||-NONE-|||0
+
+S Samuti tekib tal huvi seltskondliku elu vastu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selle abil tunnevad inimesed rohkem huvi riigielu vastu , nad võtavad aktiivsed osa valimistest ja avaldavad oma arvamust .
+A 11 12|||R:LEX|||aktiivselt|||REQUIRED|||-NONE-|||0
+
+S Tuleb tõsta kogukonna teadlikust ühenduste vallas ning teha nii , et võimalikult palju inimesi võisid leida endale mingisugune ühing , mille töö vastu nad tunneksid huvi .
+A 3 4|||R:SPELL|||teadlikkust|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||võiksid|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||endale leida|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||mingisuguse|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||ühingu|||REQUIRED|||-NONE-|||0
+A 24 26|||R:WO|||huvi tunneksid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||teadlikkust|||REQUIRED|||-NONE-|||1
+A 14 15|||R:VERB:FORM|||võiksid|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||mingisuguse|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||ühingu|||REQUIRED|||-NONE-|||1
+A 24 26|||R:WO|||huvi tunneksid|||REQUIRED|||-NONE-|||1
+
+S Teiseks , kogukonna elu arengule mõjutab hästi vabatahtlike kaasamine .
+A 5 6|||R:LEX|||mõjub|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||mõjub|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||mõjub kogukonna arengule|||REQUIRED|||-NONE-|||1
+
+S Kui kogukond on kultuurivaldkonna või heategevusega kaasatud , kasvab inimeste koostunne , tekivad uued tutvused ja sidemed .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Arvatakse , et kui inimene on oma eluga rahul , kui ta tegeleb millega , mis talle meeldib , siis ei teki tal soovi oma elukohast lahkuda , kuna ta teab , et on raske parema kohta eluks leida .
+A 13 14|||R:NOM:FORM|||millegagi|||REQUIRED|||-NONE-|||0
+A 35 36|||R:NOM:FORM|||paremat|||REQUIRED|||-NONE-|||0
+A 35 38|||R:WO|||eluks paremat kohta|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||sellega|||REQUIRED|||-NONE-|||1
+A 35 36|||R:NOM:FORM|||paremat|||REQUIRED|||-NONE-|||1
+A 35 39|||R:WO|||leida eluks paremat kohta|||REQUIRED|||-NONE-|||1
+
+S Lisaks sellele , on teada , et igasugune koostöö teeb kogukonna tugevaks .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||tugevamaks|||REQUIRED|||-NONE-|||1
+
+S Sellega kasvavad inimeste turvalisuse- ja rahutunned
+A 5 6|||R:SPELL|||rahutunded|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||kasvab|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM:SPELL|||rahutunne|||REQUIRED|||-NONE-|||1
+A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Lõpuks on vaja öelda , et erinevad ühingud , seltsid ja erinevates valdkondades tööd kasvatavad lojaalseid kodanikke .
+A 11 14|||R:WO|||tööd erinevates valdkondades|||REQUIRED|||-NONE-|||0
+
+S Seega kasvab riigiga rahulolek , tugevdavad inimsuhted .
+A 2 4|||R:WO|||rahulolek riigiga|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||tugevnevad|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||rahulolek riigiga|||REQUIRED|||-NONE-|||1
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||tugevnevad|||REQUIRED|||-NONE-|||1
+
+S Mida rohkem on inimestel võimalusi kokku saada ja suhelda omavahel , seda aktiivsemad kodanikud nad on .
+A 8 10|||R:WO|||omavahel suhelda|||REQUIRED|||-NONE-|||0
+
+S Tuleb vaeva nägema selleks , et võimalikult paljud inimesid kuulusid ühendustele ja võtsid osa kas või loodushoiust või päästetöödest - või teise riigielu valdkonnast .
+A 2 3|||R:VERB:FORM|||näha|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||inimesed|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||kuuluksid|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||ühendustesse|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||võtaksid|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||teistest|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||valdkondadest|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||näha|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Selleks tuleb vaeva näha|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||inimesed|||REQUIRED|||-NONE-|||1
+A 9 10|||R:VERB:FORM|||kuuluksid|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||ühendustesse|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||võtaksid|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WS|||kasvõi|||REQUIRED|||-NONE-|||1
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||teistest|||REQUIRED|||-NONE-|||1
+A 23 24|||R:NOM:FORM|||valdkondadest|||REQUIRED|||-NONE-|||1

@@ -1,0 +1,60 @@
+S Viimati osalesin ühiskondliku sallivuse ümarlaual , kus arutlesime tänapäeval aina olulisemaks muutuvaid teemasid rahvuste kultuuri ja rahvuslikku identiteedi valdkonnas .
+A 16 17|||R:NOM:FORM|||rahvusliku|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||rahvusliku|||REQUIRED|||-NONE-|||1
+
+S Seega soovin ka teile sellest kõneleda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tänapäeval on immigratsioon kujunenud levinud fenomeeniks , millega kaasnevad sellised teemad nagu lugupidamine teiste rahvuste , nende kultuuri , kommete ning ka keele vastu ning samuti võime oma rahvusliku identiteeti säilitada .
+A 5 6|||R:SPELL|||fenomeniks|||REQUIRED|||-NONE-|||0
+A 28 29|||R:NOM:FORM|||rahvuslikku|||REQUIRED|||-NONE-|||0
+
+S Kõik me teame , et igal rahvusel on oma päritolu ajalugu , kultuur , tavad ja keeled , kuid mitte kõik meist osavad neid austada .
+A 0 2|||R:WO|||Me kõik|||REQUIRED|||-NONE-|||0
+A 22 22|||M:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 22 23|||R:VERB:FORM:SPELL|||oska|||REQUIRED|||-NONE-|||0
+
+S See on üks selle teemaga seotud probleem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Igal inimesel on õigused , nende alla võib tuua ka rahvuslikku identiteeti ning inimeste õiguste piiramine ei ole õiglane .
+A 10 11|||R:NOM:FORM|||rahvusliku|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||identiteedi|||REQUIRED|||-NONE-|||0
+
+S Kuid samas tekib küsimus kultuuride segunemise kohta .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Üks rahvus võtab teise rahvuse traditsioone üle või ühe rahvuse keel mõjutab teist keelt .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kas on see nähtus positiivsete või negatiivsete tagajärjedega ?
+A 1 4|||R:WO|||see nähtus on|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||tagajärgedega|||REQUIRED|||-NONE-|||0
+
+S Teine oluline teema on inimese valmisolek ja võimalused hoida rahvuslikku idenditeeti ka võõrsil .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina pooldan arvamust , et kui inimene on otsustanud kolida teise riiki , siis peab ta osama oma rahvuslikku identiteeti ka säilitada .
+A 16 17|||R:SPELL|||oskama|||REQUIRED|||-NONE-|||0
+
+S Teine küsimus on kuidas ta seda teeb : kas oma pere piires või üritab luua oma kultuuri hoidmise jaoks vajalikku keskkonda ( erinevad organisatsioonid , üritused , huvigrupid või muu ) .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Näiteks rahvuste jaoks , kes on jäänud vähemuses see teema on eriti oluline , kuna kui nad ei suuda oma kultuuri hoida , siis nende surmaga võib kogu rahvus igaveseks kaduda .
+A 7 8|||R:NOM:FORM|||vähemusse|||REQUIRED|||-NONE-|||0
+A 1 13|||R:WO|||on see teema eriti oluline rahvuste jaoks , kes on jäänud vähemusse|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||vähemusse|||REQUIRED|||-NONE-|||1
+A 1 13|||R:WO|||on see teema eriti oluline rahvuste jaoks , kes on jäänud vähemusse|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||sest|||REQUIRED|||-NONE-|||1
+
+S Mõlemad teemad on tänapäeval palju arutletavad ning omavad nii pooldajaid kui ka vastu olevaid inimesi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Oluline on võime jääda igas situatsioonis inimeseks , austada erinevaid rahvusi ning suhtuda lugupidamisega nende kultuuri ning keele vastu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 16 17|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Kuid samal ajal ei tohi unustada oma kultuuri ja rahvuslikku identiteedi tähtsust ning peab olema valmis ka seda hoida .
+A 9 10|||R:NOM:FORM|||rahvusliku|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||hoidma|||REQUIRED|||-NONE-|||0

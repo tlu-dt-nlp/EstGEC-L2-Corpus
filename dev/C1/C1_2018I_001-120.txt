@@ -1,0 +1,89 @@
+S Käisin ühiskondliku sallivuse ümarlaual .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vestlus oli üsna huvitav : räägiti peamiselt kahest teemast , kuidas peame lugu teiste kultuurite vastu ja kuidas hoida rahvuslikku identiteeti võõrsil .
+A 13 14|||R:NOM:FORM|||teistest|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM:SPELL|||kultuuridest|||REQUIRED|||-NONE-|||0
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||pidada|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||teistest|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM:SPELL|||kultuuridest|||REQUIRED|||-NONE-|||1
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Mõlemad teemad on ajakohalised .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:LEX|||ajakohased|||REQUIRED|||-NONE-|||1
+
+S Mõlemaid on käsitletud palju ka meedias , aga minu arvates oleks hea , kui me kõik arutleksime nende üle ka isiklikult .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Võib tunduda enesestmõistatav , et peame lugu teiste rahvuste vastu .
+A 2 3|||R:SPELL|||enesestmõistetav|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||teistest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||rahvustest|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Aga kas me tõesti teeme seda oma igapäevase elu olukordades ?
+A 7 8|||R:NOM:FORM|||igapäevases|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||elus|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ma osalesin mõnd aastat tagasi rahvusvahelises noorte vabatahtliku tööprojektis välismaal , mis kestis üheksa kuud .
+A 2 3|||R:NOM:FORM|||mõni|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||vabatahtlike|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||mõni|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||vabatahtlike|||REQUIRED|||-NONE-|||1
+A 5 10|||R:WO|||välismaal rahvusvahelises noorte vabatahtlike tööprojektis|||REQUIRED|||-NONE-|||1
+
+S Olin enne seda projekti arvanud , et olen salliv inimene , aga alles selle projekti jooksul sain aru , et kõik inimesest erinevatest maadest ja kultuuritest on põhimõteliselt sarnased .
+A 21 22|||R:NOM:FORM|||inimesed|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOM:FORM|||kultuuridest|||REQUIRED|||-NONE-|||0
+A 27 28|||R:SPELL|||põhimõtteliselt|||REQUIRED|||-NONE-|||0
+
+S See et see tähelepanek tuli mulle peaaegu üllatusena , hämmastas mind .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ja just seepärast ma arvangi , et me ei kunagi saa tõeliselt pidada lugu teistest rahvustest , kui me ei õpi neid isiklikult tundma .
+A 9 11|||R:WO|||saa kunagi|||REQUIRED|||-NONE-|||0
+
+S Seepärast oleks tähtis , et erinevatest kultuuritest pärinevatele inimestele pakutaks võimalusi kohtuda teine teisega .
+A 6 7|||R:SPELL|||kultuuridest|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WS|||teineteisega|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||kultuuridest|||REQUIRED|||-NONE-|||1
+A 12 14|||R:WS|||teineteisega|||REQUIRED|||-NONE-|||1
+A 11 14|||R:WO|||teineteisega kohtuda|||REQUIRED|||-NONE-|||1
+
+S Ja sellest saamegi järgmise küsimuse juurde : kuidas saaks meie töökoht neid võimalusi pakkud ?
+A 13 14|||R:SPELL|||pakkuda|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||tulemegi||jõuamegi|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||pakkuda|||REQUIRED|||-NONE-|||1
+
+S Teine ajakohaline teema oli võõrsil elamine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Inimesed on alati kolinud maast teiseni , aga tänapäeval tundub et maailm on nii väikseks läinud , et mujale kolimine on kergem kui kunagi varem .
+A 4 4|||M:LEX|||ühest|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||riigist|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||teise|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||ühest|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||riigist|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||teise|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||jäänud|||REQUIRED|||-NONE-|||1
+
+S Tean ise oma elukogemusest , et võõrsil elades hakkab oma kodumaa ja selle kombed huvitama rohkem kui kodus .
+A 14 16|||R:WO|||rohkem huvitama|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||hakkavad|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WO|||rohkem huvitama|||REQUIRED|||-NONE-|||1
+
+S Hakkab igatsus oma söökide-jookide järele , tekib tahtmine rääkida oma kodumaast , kui imelik see on .
+A 0 1|||R:LEX|||Tekib||Tekkib|||REQUIRED|||-NONE-|||0
+
+S Aga kas ma saan teistele rääkida oma kodumaast , kas ma saan igatseda , kui ma ei tea , milline see on ja millised on selle kombed ?
+A 18 18|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Seepärast oleks tähtis tutvuda oma maa kultuuriga juba kodumaal elades .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

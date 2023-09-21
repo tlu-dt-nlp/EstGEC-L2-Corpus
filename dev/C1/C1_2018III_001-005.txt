@@ -1,0 +1,94 @@
+S Oleme koos
+A 2 2|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Esmaspäeval 3. septembril toimus Tallinnas kodanikuühenduste konverents .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Teema aktuaalsust tõestas vestlusringi osalejate aktiivsus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Esimesena arutati kodanikuühenduste vajaduse teemal ja nende rollist kohaliku kogukonna elus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Peaaegu kõik osalejad arvasid , et igasugused ühistud ja seltsid peavad olema ühiskonna elus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ühinedes teiste inimestega , kellel on samad eesmärgid või huvid , võidab mitte ainult inimene aga kohalik kogukond ka .
+A 16 19|||R:WO|||ka kohalik kogukond|||REQUIRED|||-NONE-|||0
+
+S Tänu sellele , areneb terve elu , kas maakonnas või riigis ka .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||nii|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||kui|||REQUIRED|||-NONE-|||1
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Koos on parem toetada mingisuguseid projekte ja hoida kultuuripärandeid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Teiseks käsitleti vabatahtlike kaasamise teemat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mõned osalejad rääkisid oma panusest heategevusse .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Väga tähtis iga inimese elus , et oleks ta valmis aidata teist inimest mitte ainult raha eest .
+A 5 5|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Iga inimese elus on väga tähtis|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||ta oleks|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||aitama|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 0 5|||R:WO|||Iga inimese elus on väga tähtis|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||ta oleks|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||aitama|||REQUIRED|||-NONE-|||1
+A 10 17|||R:WO|||mitte ainult raha eest teist inimest aitama|||REQUIRED|||-NONE-|||1
+
+S Töötades päästeametis , töötaja võtab osa ka elupäästes .
+A 3 5|||R:WO|||võtab töötaja|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||elupäästest|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Päästeametis töötades|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||võtab töötaja|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||elupäästest|||REQUIRED|||-NONE-|||1
+
+S Aga , kui inimene samal ajal või vaba ajal osaleb kuulturietenduses , tema tegevusest saab kasu palju rohkem inimesi aga teistpoolt .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||vabal|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||kultuurietenduses|||REQUIRED|||-NONE-|||0
+A 12 15|||R:WO|||saab tema tegevusest|||REQUIRED|||-NONE-|||0
+A 20 21|||R:WS:NOM:FORM|||teiselt poolt|||REQUIRED|||-NONE-|||0
+
+S Siin võiks rääkida vaimsest elust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vaimne elu on iga inimese eluosa .
+A 5 6|||R:WS|||elu osa|||REQUIRED|||-NONE-|||0
+
+S Kui inimene on rahul oma tööga , aga vaimne elu ei ole paigas , siis võib oletada , et temal on depressiooni tekkimise oht .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||tal|||REQUIRED|||-NONE-|||1
+
+S Kokkuvõteks võib öelda , et konverents oli väga kasulik ja informatiivne .
+A 0 1|||R:SPELL|||Kokkuvõtteks|||REQUIRED|||-NONE-|||0
+
+S Paljudel osalejatel tekis võimalus esitada oma arvamusi kodanikuühenduste teemal .
+A 2 3|||R:SPELL|||tekkis|||REQUIRED|||-NONE-|||0
+
+S Loodame , et edaspidi rohkem inimesi võtavad osa erinevates ühendustes ja vabatahtlikult tulevad sellele , et see tegevus on väga oluline kõikide jaoks .
+A 6 7|||R:VERB:FORM|||võtab|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||erinevatest|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||ühendustest|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||tuleb|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||tuleb vabatahtlikult|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||neisse|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||sest|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||võtab|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||võtab rohkem inimesi|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||erinevatest|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||ühendustest|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||tuleb|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||neisse|||REQUIRED|||-NONE-|||1
+A 11 14|||R:WO|||tuleb neisse vabatahtlikult|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||sest|||REQUIRED|||-NONE-|||1
+A 19 23|||R:WO|||kõikide jaoks väga oluline|||REQUIRED|||-NONE-|||1
