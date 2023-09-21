@@ -1,0 +1,71 @@
+S Mulle meeldis väga seda raamatud lugeda .
+A 4 5|||R:NOM:FORM|||raamatut|||REQUIRED|||-NONE-|||0
+
+S See oli minu jaoks mõjuv ning vaimustav .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 5 6|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Algus oli natuke raske aga kui edasi lugesin , hakkasin aru saama ja siis oli tore .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Arvan , et Andrus Kivirähk oskas hästi pildistada kuidas võib-olla elati muinasel ajal Eestis ning kuidas ristiusk eestlaste elusse mõjus .
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||kujutada|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS:NOM:FORM|||muinasajal|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||elusid||elu|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||mõjutas|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||kujutada|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||muistsel|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||elusid||elu|||REQUIRED|||-NONE-|||1
+A 19 20|||R:LEX|||mõjutas|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldis see et raamatus oli oma maailm ja oma reaalsus .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldis Leemeti mitmed seiklused ning üllatavad intriigi pööred .
+A 1 2|||R:VERB:FORM|||meeldisid|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||pöörded|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||meeldisid|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WS:NOM:FORM|||intriigipöörded|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||meeldisid|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||intriigid|||REQUIRED|||-NONE-|||2
+A 8 8|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||pöörded|||REQUIRED|||-NONE-|||2
+
+S Mulle meeldis et Leemet rästikutega sõbraks sai ja oskas metsaloomadega räägida .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||metsloomadega|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||rääkida|||REQUIRED|||-NONE-|||0
+
+S See oli ka tore kui Leemet Hiiet päästis ja nad armusid .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||Hiie|||REQUIRED|||-NONE-|||0
+
+S Üllatusin kui Leemet oma vanaisa leidis , aga see enam mind ei hämmastanud kui vanaisa päästis Leemeti külameeste käsist .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||käest|||REQUIRED|||-NONE-|||0
+
+S Sain väga kurvameekseks ka , kui hundid tapsid Hiie ja just kui Leemet jälle oli õnnelik , suri Magdaleena ja tema poisikene ning Ints teiste rästikutega .
+A 0 1|||R:LEX|||Muutusin|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||kurvameelseks|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ka väga kurvameelseks|||REQUIRED|||-NONE-|||0
+A 11 11|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||oli jälle|||REQUIRED|||-NONE-|||0
+
+S Mulle ei meeldinud Leemeti seiklused vanaisaga raamatu lõpus , sest need olid natukene liialdavad .
+A 13 14|||R:NOM:FORM|||liialdatud|||REQUIRED|||-NONE-|||0
+
+S Arvan , et see suur täi ka oli natukene liialdav .
+A 9 10|||R:NOM:FORM|||liialdatud|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||oli ka|||REQUIRED|||-NONE-|||0
+
+S Ikkagi lugu oli väga huvitav sellest hoolimata et se oli ka kurb .
+A 1 3|||R:WO|||oli lugu|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||see|||REQUIRED|||-NONE-|||0
+
+S Oli väga tore Leemeti elu jälgida .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

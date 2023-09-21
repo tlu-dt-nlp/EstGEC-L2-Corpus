@@ -1,0 +1,73 @@
+S Minu parim sõber asub Järvenpääs .
+A 3 4|||R:LEX|||elab|||REQUIRED|||-NONE-|||0
+
+S Tema on kakskümmend neli aastat vana ja töötab rauakauplus .
+A 8 9|||R:NOM:FORM|||rauakaupluses|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ta|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||rauakaupluses|||REQUIRED|||-NONE-|||1
+
+S Tema on pikk ja sale .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ta|||REQUIRED|||-NONE-|||1
+
+S Tal on lühikesed , heledad juuksed .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tema on tavaliselt sportlikult riides .
+A 0 1|||R:NOM:FORM|||Ta|||REQUIRED|||-NONE-|||0
+
+S Mina olen minu sõbraga vanab sõbrad .
+A 2 3|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||vanad|||REQUIRED|||-NONE-|||0
+
+S Me käisime kunagi koos koolis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu sõbra on väga tore ja rõõmsameelne inimene .
+A 1 2|||R:NOM:FORM|||sõber|||REQUIRED|||-NONE-|||0
+
+S Me oleme väga erinevad aga me ei oska enam hästi teineteiseta toime tulla .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ma tunnen temast puudust , sest tema nii kaugel elab .
+A 6 7|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||elab nii kaugel|||REQUIRED|||-NONE-|||0
+
+S Minu õde on kolmkümmend kaheksa aastat vana .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta elab Kotkas ja tal on mees ja kaks last .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu õdel on pruunid silmad ja pruunid , lühikised juuksed .
+A 1 2|||R:SPELL|||õel|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||lühikesed|||REQUIRED|||-NONE-|||0
+
+S Tema on keskpikk ja me sannanedame teine teist , aga ma olen sale ja õde on tüse .
+A 2 3|||R:LEX:WS|||keskmiselt pikk|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||sarnaneme|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WS:NOM:FORM|||teineteisega|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX:WS|||keskmise pikkusega|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||sarnaneme|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WS:NOM:FORM|||teineteisega|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||mina|||REQUIRED|||-NONE-|||1
+
+S Ta ei riides moodsalt .
+A 2 3|||R:LEX|||riietu|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||käi|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||moodsalt riides|||REQUIRED|||-NONE-|||1
+
+S Õde on emotsionaalne ja energiline .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ometi tema on mõnevõrra tagasihoidlik .
+A 1 2|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on ta|||REQUIRED|||-NONE-|||0
+
+S Ta on rõõmsameelne inimine , aga mõnikord tal läheb närvi .
+A 3 4|||R:SPELL|||inimene|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||inimene|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||läheb ta närvi|||REQUIRED|||-NONE-|||1

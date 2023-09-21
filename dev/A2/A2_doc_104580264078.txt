@@ -1,0 +1,109 @@
+S Asun Hervantas poiss-sõberga ja koeraga .
+A 0 1|||R:LEX|||Elan|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||poiss-sõbra|||REQUIRED|||-NONE-|||0
+
+S Minu kodu on ilus ja hele .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kodus on neli tuba : esiku , elutuba , söögituba ja magamistuba .
+A 5 6|||R:NOM:FORM|||esik|||REQUIRED|||-NONE-|||0
+
+S Esiku on väike .
+A 0 1|||R:NOM:FORM|||Esik|||REQUIRED|||-NONE-|||0
+
+S Siin on riidenagi , pruun kummut ja koera magamiskoht .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Põrandal on kirju vaip .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seinal on kaks pilti .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mantelid , kindad ja mütsid on korras riiderammis .
+A 0 1|||R:SPELL|||Mantlid|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||korralikult|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||riideraamis|||REQUIRED|||-NONE-|||0
+
+S Kingad on rivis põrandal .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 2 4|||R:WO|||põrandal rivis|||REQUIRED|||-NONE-|||1
+
+S Kui kodus oleme on meie võtmed kummuti peal .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Elutoas on palju ruumi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siin on palju mööblit : on televiisor , kaks tugitooli , diivan , kirjutuslaud , raamaturiiul ja kaks tooli .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Koera mängib põrandal suure vaipa peal .
+A 0 1|||R:NOM:FORM|||Koer|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||vaiba|||REQUIRED|||-NONE-|||0
+
+S Raamaturiiulil on palju raamatud kunas õpin kirjandust ülikoolis .
+A 3 4|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kuna|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||ülikoolis kirjandust|||REQUIRED|||-NONE-|||0
+
+S Kirjutuslaual on pliiatsid ja arvuti .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Töötan palju arvutiga , aga poiss-sõber mängib arvutiga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Elutoa teisel seinal on seinakell ja teise seina juures on diivan .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Õhtul istume sinisel diivanil ja vaatame televiisorit .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui sõbrad tulevad käima , istume kõik elutoas ja ajame juttu .
+A 3 4|||R:LEX|||külla|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||külas|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||käivad|||REQUIRED|||-NONE-|||1
+
+S Meiel on üheksakümmend kaks cd-plaati elutoas .
+A 0 1|||R:SPELL|||Meil|||REQUIRED|||-NONE-|||0
+A 4 5|||R:CASE|||CD-plaati|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||elutoas üheksakümmend kaks CD-plaati|||REQUIRED|||-NONE-|||0
+
+S Armastame ja kuulame muusikat sageli .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Söögituba on minul tähtis kunas armastan kokandust .
+A 2 3|||R:NOM:FORM|||mulle||minule|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kuna|||REQUIRED|||-NONE-|||0
+
+S Hommikul istume söögilaua taga , sööme putru ja joome teed või kohvi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Laual on punane laudlina ja põrandal on punane vaip .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Samuti kated on punased .
+A 1 2|||R:SPELL|||katted|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on katted|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||katted|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Katted on samuti punased|||REQUIRED|||-NONE-|||1
+
+S Söögitoas on veel kaks tooli , kaks taburetti , kohvimasin , ja suur seinakapp .
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Külmkapis ei ole mooni , ainult valgus .
+A 3 4|||R:SPELL|||moona|||REQUIRED|||-NONE-|||0
+
+S Magamistoas ei ole palju mööblit .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S On ainult voodi , kaks valget öölauda ja riidekapp .
+A 6 7|||R:LEX|||öökappi|||REQUIRED|||-NONE-|||0
+
+S Voodil on mõnus tunnike magada ja lugeda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma armastan minu kodu !
+A 2 3|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0

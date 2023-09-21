@@ -1,0 +1,175 @@
+S Eelkõige mulle meeldib suvest palju , kuna see on puhkus ja ilm on soe , kus saab puhata pikka aega ja lõõgastuda korralikult .
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||suvi|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 23|||R:WO|||pikka aega korralikult lõõgastuda ja puhata|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||suvi|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 20|||R:WO|||pikka aega puhata|||REQUIRED|||-NONE-|||1
+A 21 23|||R:WO|||korralikult lõõgastuda|||REQUIRED|||-NONE-|||1
+
+S Suvi on juba üsna lähedal .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Soome suvi on täis igasugust mönus nähtavust , tegemist ja kogemist .
+A 5 6|||R:NOM:FORM:SPELL|||mõnusat|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||nägemist|||REQUIRED|||-NONE-|||0
+
+S Aga mina kavatsen olla hea meelega seal ajal kodumaal , kus on võimalik meeldivat vähe aega sugulastega .
+A 6 7|||R:LEX|||sel|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||veeta|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WS:SPELL|||vaheaega|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||sel|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||meeldivalt|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||natuke||natukene|||REQUIRED|||-NONE-|||1
+A 17 17|||M:LEX|||veeta|||REQUIRED|||-NONE-|||1
+A 13 17|||R:WO|||sugulastega natuke meeldivalt aega veeta||sugulastega natukene meeldivalt aega veeta|||REQUIRED|||-NONE-|||1
+
+S Juuni ja koos sellega ka puhkuse ühtlustuvad lausa ähvardav kiirusega , mis on peaaegu kõigile ilouutinen .
+A 5 6|||R:NOM:FORM|||puhkused|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||lähenevad|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||ähvardava|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||rõõmu-uudis||rõõmustav|||REQUIRED|||-NONE-|||0
+
+S Vietän tund aega koos sõpradega väljas hengaten .
+A 0 1|||R:LEX|||Veedan|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||hängides||uidates|||REQUIRED|||-NONE-|||0
+
+S Käesoleva õpingute lõpus , et ma olen kavatsenud käia välismaal , eriti kodumaal Türgis .
+A 0 1|||R:NOM:FORM|||Käesolevate|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||olen ma|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Käesolevate|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 8|||R:VERB:FORM|||kavatsen|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||kavatsen ma|||REQUIRED|||-NONE-|||1
+
+S Vähemalt praegune kava tundub , et minnakse kuhugi .
+A 1 2|||R:NOM:FORM|||praeguse|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||järgi|||REQUIRED|||-NONE-|||0
+
+S Kui seotuna kodumaale saab olema palju ära teha .
+A 1 2|||R:LEX|||satun|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Tegelikult ma tahan ujuda meres , kus saab nautida ainult päikest ja ka sölta .
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||ringi|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||sõita|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||ringi|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||sõita|||REQUIRED|||-NONE-|||1
+
+S Kui ainult jöuaks on hea lahkuda , käiksime .
+A 2 3|||R:SPELL|||jõuaks|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||oleks|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Seega söpradega ma tahan olla väljäs kuigi mängivad meeldivat vörkpall .
+A 1 2|||R:SPELL|||sõpradega|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||väljas|||REQUIRED|||-NONE-|||0
+A 1 6|||R:WO|||ma tahan sõpradega väljas olla|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||mängida|||REQUIRED|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM:SPELL|||võrkpalli|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||võrkpalli mängida|||REQUIRED|||-NONE-|||0
+
+S Ma tahan käia inimestega juuni messidel .
+A 4 5|||R:NOM:FORM|||juunis|||REQUIRED|||-NONE-|||0
+
+S St kavatsen teha ekskursioone .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sel suvel tutvud ka uute inimestega , kes olid enne teadmata .
+A 2 3|||R:VERB:FORM|||tutvun|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||tutvun|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||keda|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||ma|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||ei|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||teadnud||tundnud|||REQUIRED|||-NONE-|||1
+
+S Aga söprade abil kavatseme külastada shoppailemasa väga palju .
+A 1 2|||R:NOM:FORM:SPELL|||sõpradega|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||poode|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||väga palju poode|||REQUIRED|||-NONE-|||0
+
+S Seal kodumaal meeldiva rannikul tahaksin köndida kogu aeg .
+A 1 2|||R:NOM:FORM|||kodumaa|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||meeldival|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||kõndida|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||kodumaa|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||meeldival|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||kõndida|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||kogu aeg kõndida|||REQUIRED|||-NONE-|||1
+
+S Lühidalt öeldes ma tahan veeta puhkusepäevade täieliklut .
+A 2 4|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||puhkusepäevad|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX:SPELL|||täielikud|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||täielikud puhkusepäevad|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||puhkusepäevadest|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX:SPELL|||viimast|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||võtta|||REQUIRED|||-NONE-|||1
+
+S Türgis ma ka piip paigutada imetlema vaatamisväärsusi .
+A 3 4|||R:LEX|||pean|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||pean ma ka|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||minema|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||pean|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||pean ma ka|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||minema|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||vaatamisväärsusi imetlema minema|||REQUIRED|||-NONE-|||1
+
+S Samalla ajal toimub kindlasti pikini kodanikel .
+A 0 1|||R:SPELL|||Samal|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||piknik|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||kodanikel kindlasti piknik|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Samal|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||piknik|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||kohalikel|||REQUIRED|||-NONE-|||1
+A 3 6|||R:WO|||kohanikel kindlasti piknik|||REQUIRED|||-NONE-|||1
+
+S Ka traditsioonlised toidud saavad maitseb äärmiselt maitsvaid alt kui kunagi varem .
+A 1 2|||R:SPELL|||traditsioonilised|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||maitsevad|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||paremini|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Sel suvel olen kavatsenud käia filmis palju , kui ainult önnestub .
+A 5 6|||R:LEX|||kinos|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||palju kinos|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||õnnestub|||REQUIRED|||-NONE-|||0
+
+S Sisenedes tagasi soome minu on kavatsus valmistada just järgmise l öppeaastal öppida .
+A 0 1|||R:LEX|||Saabudes|||REQUIRED|||-NONE-|||0
+A 2 3|||R:CASE|||Soome|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||on minu|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||valmistuda|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WS|||järgmisel|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||õppeaastal|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM:SPELL|||õppima|||REQUIRED|||-NONE-|||0
+
+S Kui jöuan välismaal puhkuse järel saan minna löpuks tööle .
+A 1 2|||R:SPELL|||jõuan|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||välismaa|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||välismaa puhkusel järel jõuan|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||lõpuks|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||lõpuks tööle minna|||REQUIRED|||-NONE-|||0

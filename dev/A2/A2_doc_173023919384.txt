@@ -1,0 +1,32 @@
+S Ma ei ole vaatanud televiisorit ega lugenud lehte .
+A 3 4|||R:SPELL|||vaadanud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||vaadanud|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||lehti|||REQUIRED|||-NONE-|||1
+
+S Ma ei tea , kas maailmas on juhtunud midagi tähtis .
+A 9 10|||R:NOM:FORM|||tähtsat|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||midagi tähtsat juhtunud|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||tähtsat|||REQUIRED|||-NONE-|||1
+
+S Laupäeval oli naistepäev .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Reede ja laupäev olid väga külmad päevad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Reedel ja laupäevahommikul laupäeva hommikul temperatuur oli vähemalt -10 kraadi .
+A 5 7|||R:WO|||oli temperatuur|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||oli temperatuur|||REQUIRED|||-NONE-|||1
+
+S Laupäevaõhtul oli vastik ilm : oli külm , kõva tuul ja sadasi lund ja vett .
+A 0 1|||R:WS|||Laupäeva õhtul|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||sadas|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||vihma|||REQUIRED|||-NONE-|||0
+
+S Nüüd ei sada ega ole külma .
+A 2 3|||R:SPELL|||saja|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||külm|||REQUIRED|||-NONE-|||0
+
+S Seal on soe .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

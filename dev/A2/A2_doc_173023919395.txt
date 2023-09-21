@@ -1,0 +1,82 @@
+S Suvel ma ei ela Jyväskyläs , aga ma elan minu pere ühes teises linnas .
+A 9 10|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||perega|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||vaid|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||perega|||REQUIRED|||-NONE-|||1
+
+S Ma elan kodupaikal sest et sain tööt sealt .
+A 2 3|||R:NOM:FORM:SPELL|||kodupaigas|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||sealt tööd|||REQUIRED|||-NONE-|||0
+
+S Ka veedan ma nats puhkust , kunas suvel minu tuttav pere Itaaliast tule Soome külastada kaheks nädalaks !
+A 3 4|||R:LEX|||natuke|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kuna|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||tuleb|||REQUIRED|||-NONE-|||0
+A 8 13|||R:WO|||tuleb minu tuttav pere Itaaliast|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||Soomet|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX:VERB:FORM|||külastama|||REQUIRED|||-NONE-|||0
+A 13 17|||R:WO|||kaheks nädalaks Soome külastama|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||natuke|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||kuna|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||tuleb|||REQUIRED|||-NONE-|||1
+A 8 13|||R:WO|||tuleb minu tuttav pere Itaaliast|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||külla|||REQUIRED|||-NONE-|||1
+A 13 17|||R:WO|||kaheks nädalaks Soome külla|||REQUIRED|||-NONE-|||1
+
+S Ühes teeme palju - sõidame autoga piki Soomee , ujutame Päijänne-järves , sööme soomaist toita , käime lõbustusparkis ...
+A 6 7|||R:LEX|||mööda|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||Soomet|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||ujume|||REQUIRED|||-NONE-|||0
+A 10 11|||R:WS|||Päijänne järves|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||soomemaist|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||toitu|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||lõbustuspargis|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||mööda|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||Soomet|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||ringi|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||ujume|||REQUIRED|||-NONE-|||1
+A 10 11|||R:WS|||Päijänne järves|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||soome|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX:SPELL|||toitu|||REQUIRED|||-NONE-|||1
+A 17 18|||R:SPELL|||lõbustuspargis|||REQUIRED|||-NONE-|||1
+
+S Suvel Soomes päike tõuseb vara ja läheb looja hilja .
+A 0 4|||R:WO|||Soomes tõuseb päike suvel|||REQUIRED|||-NONE-|||0
+
+S See on tuttav perele uus vaade !
+A 2 3|||R:NOM:FORM|||tuttavate|||REQUIRED|||-NONE-|||0
+
+S Suvel on samuti minu sünnipäev .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma veedan minu sünnipäeva minu sõpradega koos .
+A 2 3|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Sööme erinevata " suvihõrgutis " , näiteks värskesit maasikasit , ja mineme randa .
+A 1 2|||R:NOM:FORM:SPELL|||erinevaid|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||suvehõrgutisi|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||värskeid|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||maasikaid|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||lähme|||REQUIRED|||-NONE-|||0
+
+S Õhtul sööme sadamas einelaudis .
+A 3 4|||R:SPELL|||einelauas|||REQUIRED|||-NONE-|||0
+
+S Loodetavasti suvel ei sadada tublisti aga ilm on hea ja päike paista iga päev !
+A 3 4|||R:VERB:FORM|||saja|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei saja suvel|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||vaid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||paistab|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||saja|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||eriti|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||eriti ei saja|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||vaid|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||paistab|||REQUIRED|||-NONE-|||1

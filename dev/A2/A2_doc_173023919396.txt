@@ -1,0 +1,43 @@
+S Suvel mulle meeldib puhata .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||1
+
+S Ma vietän aega suvilas ja naudin suvest .
+A 1 2|||R:SPELL|||veedan|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||suve|||REQUIRED|||-NONE-|||0
+
+S Olen kogu päeva laisk .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma loen palju romaane ja magan kaua .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui on liiga kuum ma makaan rannas , võtan päikest ja uin järves .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||magan|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||ujun|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||magan|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||ujun|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 5 6|||R:SPELL|||magan|||REQUIRED|||-NONE-|||2
+A 4 6|||R:WO|||magan ma|||REQUIRED|||-NONE-|||2
+A 11 12|||R:SPELL|||ujun|||REQUIRED|||-NONE-|||2
+
+S Mulle meeldib ka saun järve ääres .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Linnas ma istun terras ja joon siider .
+A 3 4|||R:NOM:FORM:SPELL|||terrassil|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||siidrit|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||istun ma|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||siidrit|||REQUIRED|||-NONE-|||1
+
+S Suvel mulle meeldib reisida Soomes , eriti Lapimaal , aga juunis kui seal ei ole veel liiga palju sääskedega .
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||sääski|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||1
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||sääski|||REQUIRED|||-NONE-|||1

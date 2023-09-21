@@ -1,0 +1,90 @@
+S Ma elan Hervannas suures korrumajas .
+A 4 5|||R:SPELL|||korrusmajas|||REQUIRED|||-NONE-|||0
+
+S Siin elab 700 üliõpilast .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Elan " Toasi " korteris .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kui olen eesti keelt õppinud , on see nimi uue sisu saanud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu kodu ei ole suur .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See on viiskümmendkaks ruutmeetrit , aga elan koos teise üliõpilasega .
+A 2 3|||R:WS|||viiskümmend kaks|||REQUIRED|||-NONE-|||0
+
+S Ta õpib Hervanta ülikoolis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kodus on kaks toa , kaks vannitoa ja köök .
+A 3 4|||R:NOM:FORM|||tuba|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||vannituba|||REQUIRED|||-NONE-|||0
+
+S Mul on siin vanu mööbleid .
+A 3 4|||R:NOM:FORM|||vana|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||mööblit|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||mööbliesemeid|||REQUIRED|||-NONE-|||1
+
+S Ma armastan retrot .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Roheline peegel ja punane , ümmargune laualamp on 70ndailt aastailt .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||70ndatest||70ndaist|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||aastatest||aastaist|||REQUIRED|||-NONE-|||0
+
+S Punane laud ja toolid on kolmkümmend aastat vana .
+A 7 8|||R:NOM:FORM|||vanad|||REQUIRED|||-NONE-|||0
+
+S Mul on söögilaud ja kirjutuslaud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vanu mööbleid ostan vanakraamiturgust ja saan söbradelt ja vanemadelt .
+A 0 1|||R:NOM:FORM|||Vana|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||mööblit|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||vanakraamiturult|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||sõpradelt|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||vanematelt|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||mööbliesemeid|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM:SPELL|||vanakraamiturult|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||sõpradelt|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||vanematelt|||REQUIRED|||-NONE-|||1
+
+S Olen ostanud lilled .
+A 1 2|||R:SPELL|||ostnud|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||ostnud|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX:NOM:FORM|||lilli|||REQUIRED|||-NONE-|||1
+
+S Lilled on laudal .
+A 2 3|||R:SPELL|||laual|||REQUIRED|||-NONE-|||0
+
+S Tellin ajalehte , Helsingin Sanomat .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Õpin ajakirjandust , seetõttu mul on palju , palju lehte .
+A 9 10|||R:NOM:FORM|||lehti|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||mistõttu|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||on mul|||REQUIRED|||-NONE-|||1
+A 7 8|||R:PUNCT|||-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||lehti|||REQUIRED|||-NONE-|||1
+
+S Mul ei ole palju raamatud .
+A 4 5|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+
+S Laenan nad raamatukogust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldib sõpradele süüa teha väikes köögis .
+A 5 6|||R:SPELL|||väikses|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||väikses köögis sõpradele süüa teha|||REQUIRED|||-NONE-|||0
+
+S Mul ei ole kassi ja koera , aga ma tahtiksin koera .
+A 9 10|||R:SPELL|||tahaksin|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||tahaksin|||REQUIRED|||-NONE-|||1
