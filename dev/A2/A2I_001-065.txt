@@ -1,0 +1,28 @@
+S Tere Eeva !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Lähme külastama Tallinna !
+A 1 2|||R:VERB:FORM|||külastame|||REQUIRED|||-NONE-|||0
+
+S See on väga huvitav linna , ja sinna saab sõita laevaga .
+A 4 5|||R:NOM:FORM|||linn|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mulle sobib kahe nädala pärast , kas see sobib sulle ka ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Esiteks jalutame vana linnas , see on ilus .
+A 2 4|||R:WS|||vanalinnas|||REQUIRED|||-NONE-|||0
+
+S Siis ostame midagi Kaubamajast .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ja veel enne kui lähme tagasi sadamasse , sööme restauranis .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||restoranis|||REQUIRED|||-NONE-|||0
+
+S Head aega !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Anna
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

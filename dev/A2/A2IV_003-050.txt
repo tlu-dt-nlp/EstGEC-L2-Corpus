@@ -1,0 +1,35 @@
+S Ma reisil käisin viimanekord suvel .
+A 3 4|||R:WS|||viimane kord|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||käisin viimane kord reisil|||REQUIRED|||-NONE-|||0
+
+S Ma olin Valgevenes .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Valgevenes ma olin sanatoorias .
+A 0 3|||R:WO|||Ma olin Valgevenes|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||sanatooriumis|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Seal|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Ma olin seal|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||sanatooriumis|||REQUIRED|||-NONE-|||1
+
+S Ma olin sõpradega , me ujume , randlame .
+A 5 6|||R:VERB:FORM|||ujusime|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||rannas|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||ujusime|||REQUIRED|||-NONE-|||1
+A 6 7|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||päevitasime|||REQUIRED|||-NONE-|||1
+
+S Me räägime , kuulame muusikat , sööme eerinevaid toiduvad .
+A 1 2|||R:VERB:FORM|||rääkisime|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||kuulasime|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||sõime|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||erinevaid|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM:SPELL|||toite|||REQUIRED|||-NONE-|||0
+
+S Oli väga rõõmus .
+A 2 3|||R:LEX|||lõbus|||REQUIRED|||-NONE-|||0
+A 0 1|||R:VERB:FORM|||Olin|||REQUIRED|||-NONE-|||1
+
+S Ilm oli väga ilus ja soje .
+A 5 6|||R:SPELL|||soe|||REQUIRED|||-NONE-|||0

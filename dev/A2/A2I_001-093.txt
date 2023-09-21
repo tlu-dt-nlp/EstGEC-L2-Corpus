@@ -1,0 +1,29 @@
+S Tere kallis sõber !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ma tahan sind kutsuda ühte huvitavat linna .
+A 5 6|||R:NOM:FORM|||huvitavasse|||REQUIRED|||-NONE-|||0
+
+S Ma mõtlesin , et see on hea mõte sinna koos sõita .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Me sõidame Tallinna järgmisel nädalavahetusel .
+A 1 2|||R:VERB:FORM|||sõidaksime|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||järgmisel nädalavahetusel Tallinna|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||sõidaksime|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO:NOM:FORM|||järgmisel nädalavahetusel Tallinnasse|||REQUIRED|||-NONE-|||1
+
+S Seal toimub suur laulupidu ja pärast seda me võime kohvikusse minna .
+A 7 9|||R:WO|||võime me|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||minna kohvikusse|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||võime me|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||võiksime|||REQUIRED|||-NONE-|||2
+A 7 9|||R:WO|||võiksime me|||REQUIRED|||-NONE-|||2
+
+S Palun helista mulle , kui see sobib sulle .
+A 6 8|||R:WO|||sulle sobib|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||sulle sobib|||REQUIRED|||-NONE-|||1
+
+S Nägemiseni !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

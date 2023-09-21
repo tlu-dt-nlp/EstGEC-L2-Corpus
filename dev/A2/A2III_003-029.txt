@@ -1,0 +1,44 @@
+S Tere , Karl !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul on mikser läks katkei .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||läks mikser|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||katki|||REQUIRED|||-NONE-|||0
+
+S Minu on vaja teie appi .
+A 0 1|||R:NOM:FORM|||Mul|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||abi|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Mul|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||abi|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||teie abi vaja|||REQUIRED|||-NONE-|||1
+
+S Palun tuleb minu juurde täna , õhtupoole .
+A 1 2|||R:VERB:FORM|||tulge|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:WS|||õhtu poole|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||täna õhtu poole minu juurde|||REQUIRED|||-NONE-|||0
+
+S Me koos teie lahtii seda mikser .
+A 1 1|||M:LEX|||võtame||teeme|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||teiega|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||lahti|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||miksri|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||selle miksri lahti|||REQUIRED|||-NONE-|||0
+
+S Loodan , et meil kõik kätte sai .
+A 3 4|||R:NOM:FORM|||meili|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||saite|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||saite meili kätte|||REQUIRED|||-NONE-|||0
+
+S Ette tänan abi eest .
+A 0 4|||R:WO|||Tänan abi eest ette|||REQUIRED|||-NONE-|||0
+
+S Ma ootan teid õhtupool .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:WS:NOM:FORM|||õhtu poole|||REQUIRED|||-NONE-|||1
+
+S Teie sõber , Tatjana .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0

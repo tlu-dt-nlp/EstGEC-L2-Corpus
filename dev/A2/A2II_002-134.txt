@@ -1,0 +1,24 @@
+S Ma tahan oma autot müüa .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||auto|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||maha|||REQUIRED|||-NONE-|||1
+
+S Auto on ilus , must ja kaasaegne .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Auto hind on kaks tuhat eurot .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Te saate autot näha 10. mail aadressil Lai --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tallinn .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu telefoninumber on --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Te saate mulle emaili kirjutada aadressil --- .
+A 3 4|||R:SPELL|||e-maili|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||kirjutada e-maili|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||e-maili|||REQUIRED|||-NONE-|||1

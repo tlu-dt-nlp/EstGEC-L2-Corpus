@@ -1,0 +1,35 @@
+S Tere Riho !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Mul on üks häda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tulin tagasi koju kontorist täna ja mõtlesin et riided pesema põnna .
+A 1 5|||R:WO|||täna kontorist tagasi koju|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||panna|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||täna kontorist tagasi koju|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||panna|||REQUIRED|||-NONE-|||1
+
+S Aga nägid et pesumasin ei tööta enam .
+A 1 2|||R:VERB:FORM|||nägin|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Kui teil on aega homme õhtul siis palun tulge enda maja juurde ja kontrollige mis viga on masiniga .
+A 3 6|||R:WO|||homme õhtul aega|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||minu|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM:SPELL|||masinal|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||masinal viga on|||REQUIRED|||-NONE-|||0
+
+S Ma küpsetan toitu valmis ja pakun teile mingi juua ka mis te tahate .
+A 2 3|||R:NOM:FORM|||toidu|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||midagi|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||soovite|||REQUIRED|||-NONE-|||0
+
+S Parimat .
+A 1 2|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0

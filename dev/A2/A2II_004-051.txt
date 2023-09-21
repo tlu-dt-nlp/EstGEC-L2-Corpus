@@ -1,0 +1,46 @@
+S Mul on üks suur must auto müügile .
+A 6 7|||R:LEX|||müüa|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||müüa üks suur ostja nüüd|||REQUIRED|||-NONE-|||0
+
+S See auto on saksamaalt aga on regeeristud eestis .
+A 3 4|||R:CASE|||Saksamaalt|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||registreeritud|||REQUIRED|||-NONE-|||0
+A 7 8|||R:CASE|||Eestis|||REQUIRED|||-NONE-|||0
+
+S Mu auto on BMW , 2017 aastast .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||2017 . aasta BMW|||REQUIRED|||-NONE-|||0
+
+S See auto on väga kiire ja ilus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma mõtlen et 25,000 € on hea hind , aga kui saate osta helista mulle --- ja me räägime hindist .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||25000|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||tahate|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB:FORM|||helistage|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||hinnast|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||arvan|||REQUIRED|||-NONE-|||1
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||25000|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||tahate|||REQUIRED|||-NONE-|||1
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||R:VERB:FORM|||helistage|||REQUIRED|||-NONE-|||1
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 20|||R:SPELL|||hinnast|||REQUIRED|||-NONE-|||1
+
+S Auto on praegu asub tartus aga järgmisel nädalal auto tuleb Tallinasse .
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:CASE|||Tartus|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||tuleb auto|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||Tallinnasse|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||asub praegu|||REQUIRED|||-NONE-|||1
+A 4 5|||R:CASE|||Tartus|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1

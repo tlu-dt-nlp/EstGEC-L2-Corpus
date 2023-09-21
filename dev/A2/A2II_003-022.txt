@@ -1,0 +1,41 @@
+S Müüa auto .
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Auto on Toyota Corolla .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Auto on 2015 aastat algus , Roheline värv .
+A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||algusest|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM:CASE|||rohelist|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||värvi|||REQUIRED|||-NONE-|||0
+
+S Auto hind on odavam 1000 euro .
+A 3 4|||R:NOM:FORM|||odav|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||eurot|||REQUIRED|||-NONE-|||0
+
+S See auto on automaatiline karpi .
+A 3 4|||R:LEX:NOM:FORM|||automaatse|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX:NOM:FORM|||käigukastiga|||REQUIRED|||-NONE-|||0
+A 3 5|||R:LEX:WS|||automaatkäigukastiga|||REQUIRED|||-NONE-|||1
+
+S Kui te soovite osta või vaadata see auto .
+A 6 7|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO|||seda autot osta või vaadata|||REQUIRED|||-NONE-|||0
+
+S Auto asub Tartus , Pargi tn. --- .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Saab tulla kolmapäeval ja neljapäeval kella kuuest kaheksani õhtul .
+A 1 1|||M:LEX|||vaatama|||REQUIRED|||-NONE-|||0
+A 0 0|||M:LEX|||Vaatama saab|||REQUIRED|||-NONE-|||1
+
+S Auto ootada uued omanikud .
+A 1 2|||R:VERB:FORM:SPELL|||ootab|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||omanikke|||REQUIRED|||-NONE-|||0
