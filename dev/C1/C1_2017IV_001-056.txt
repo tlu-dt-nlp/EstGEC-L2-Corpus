@@ -1,0 +1,195 @@
+S Kallid kolleegid !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mõne aega tagasi osalesin linnastumisteemalisel seminaril .
+A 0 1|||R:NOM:FORM|||Mõni|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||aeg|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Mõnda|||REQUIRED|||-NONE-|||1
+
+S Tahaksin jagada teiega saadud informatsiooni ja väljendada ka oma arvamust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 3|||R:WO|||teiega jagada|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||saadud informatsiooni teiega jagada|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||teiega jagada|||REQUIRED|||-NONE-|||2
+
+S Üheks olulisemaks seminari teemaks oli " Teenused , kulturielu ja töökohad linnades ja ääremaadel .
+A 8 9|||R:SPELL|||kultuurielu|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Üks|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||olulisem||oluline|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||kultuurielu|||REQUIRED|||-NONE-|||1
+A 14 14|||M:PUNCT|||"|||REQUIRED|||-NONE-|||1
+
+S Selle teema põhjal räägiti plaanidest ja üldiselt probleemidest , mis tekkivad arengu protsessis .
+A 2 3|||R:LEX|||puhul|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||tekivad|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||arenguprotsessis|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||teemaga|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||seoses|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||üldistest|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||tekivad|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WS|||arenguprotsessis|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WS|||arenguprotsessis tekivad|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||puhul|||REQUIRED|||-NONE-|||2
+A 10 11|||R:SPELL|||tekivad|||REQUIRED|||-NONE-|||2
+A 12 13|||R:LEX|||käigus|||REQUIRED|||-NONE-|||2
+A 10 13|||R:WS|||arengu käigus tekivad|||REQUIRED|||-NONE-|||2
+
+S Arvan , et töökohti ääremaadel ei piisa .
+A 6 6|||M:LEX|||jagu|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||piisavalt|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||töökohtadest|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||ole||jagu|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX|||piisavalt|||REQUIRED|||-NONE-|||2
+A 3 7|||R:WO|||töökohti ei ole ääremaadel piisavalt||ääremaadel ei ole piisavalt töökohti||töökohti ei jagu ääremaadel piisavalt||ääremaadel ei jagu piisavalt töökohti|||REQUIRED|||-NONE-|||2
+
+S Seal inimesed elavad ja tihti sõidavad linna tööle .
+A 1 3|||R:WO|||elavad inimesed|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||sõidavad tihti|||REQUIRED|||-NONE-|||0
+A 0 1|||R:CASE|||seal|||REQUIRED|||-NONE-|||1
+A 1 2|||R:CASE|||Inimesed|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Inimesed elavad seal|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||aga|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||sõidavad tihti|||REQUIRED|||-NONE-|||1
+
+S Üldiselt probleem on selles , et ääremaadel ei ole ressurse , et luua rohkem töökohti .
+A 1 3|||R:WO|||on probleem|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||ressursse|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||seisneb|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||seisneb probleem|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||ressursse|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on probleem|||REQUIRED|||-NONE-|||2
+A 9 10|||R:SPELL|||ressursse|||REQUIRED|||-NONE-|||2
+A 12 15|||R:WO|||rohkem töökohti luua|||REQUIRED|||-NONE-|||2
+
+S Samuti on kultuurieluga ja teenustega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:LEX|||Sama|||REQUIRED|||-NONE-|||1
+A 1 1|||M:LEX|||lugu||seis||olukord||situatsioon|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||kultuurielu|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||lood|||REQUIRED|||-NONE-|||2
+A 2 3|||R:NOM:FORM|||kultuurielu|||REQUIRED|||-NONE-|||2
+
+S Mulle tundub , et selleks , et need käsiteltud kolm aspekti arendada ja suurendada on vaja luua uued üksused , mis hakkavad sellega tegeleda .
+A 7 8|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||käsitletud|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||kolme|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||kolme käsitletud|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 23 24|||R:VERB:FORM|||tegelema|||REQUIRED|||-NONE-|||0
+
+S Linndes ju on peaegu kõik korras .
+A 0 1|||R:SPELL|||Linnades|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on ju|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||peaaegu|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Linnades|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||peaaegu|||REQUIRED|||-NONE-|||1
+A 0 1|||R:SPELL|||Linnades|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||on ju|||REQUIRED|||-NONE-|||2
+A 3 4|||R:LEX|||praegu|||REQUIRED|||-NONE-|||2
+
+S Kui me räägime kindlasti suurtest linnadest .
+A 0 0|||M:LEX|||Siis|||REQUIRED|||-NONE-|||0
+A 0 1|||R:CASE|||kui|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Väikeste linnade probleem on samuti selles , et ei piisa üksusi kes tegeleski arenguga ja ei piisa finatseerimist .
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||tegeleks|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM:SPELL|||finantseerimisest|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||piisavalt|||REQUIRED|||-NONE-|||1
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||tegeleks|||REQUIRED|||-NONE-|||1
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||piisavalt|||REQUIRED|||-NONE-|||1
+A 17 18|||R:SPELL|||finantseerimist|||REQUIRED|||-NONE-|||1
+
+S Teiseks teemaks oli " Riigi kõigi piirkondade ühtlase arengu tagamise võimalused " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Teine|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||1
+
+S Siin võib rääkida kohalike omavalitsuste reformi kohta .
+A 5 6|||R:NOM:FORM|||reformist|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 7|||R:WO|||kohalike omavalitsuste reformi kohta rääkida|||REQUIRED|||-NONE-|||2
+
+S Olen arvamusel , et ei saa kõike piirkondi ühtlasi arendada niikaua kui erinevatel piirkondadel ja nende KOVidel on erinevad ressursid ja võimalused .
+A 6 7|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||ühtlaselt|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||1
+A 4 8|||R:WO|||kõiki piirkondi ei saa|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||ühtlaselt|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||kuni|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||KOV-del||KOVdel||omavalitsustel|||REQUIRED|||-NONE-|||1
+
+S Iga piirkond on erinev maa suuruse ja elanikkonna arvult .
+A 5 6|||R:NOM:FORM|||suuruselt|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||arvu|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||poolest||võrra|||REQUIRED|||-NONE-|||1
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||R:LEX|||erineb|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||arvu|||REQUIRED|||-NONE-|||2
+A 9 9|||M:LEX|||poolest||võrra|||REQUIRED|||-NONE-|||2
+
+S Kõigi seminaril räägitu põhjal ma saan öelda ainult seda , et peaegu ühtlase arenguks võimalusi pole .
+A 0 1|||R:NOM:FORM|||Kõige|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||saan ma|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||peaaegu|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||ühtlaseks|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Kõige|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||saan ma|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||peaaegu|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||ühtlaseks|||REQUIRED|||-NONE-|||1
+A 12 16|||R:WO|||pole ühtlaseks arenguks võimalusi|||REQUIRED|||-NONE-|||1
+
+S Kindlasti neid võimalusi otsitakse ja tehakse kõike vajalikku selle jaoks aga sellest ei ole kahjuks piisav .
+A 6 10|||R:WO|||selle jaoks kõike vajalikku|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||otsitakse neid võimalusi|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||kõik|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||vajalik|||REQUIRED|||-NONE-|||1
+A 6 10|||R:WO|||selle jaoks kõik vajalik|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 15|||R:WO|||kahjuks ei|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||piisa|||REQUIRED|||-NONE-|||1
+
+S Kui tulla tagasi KOV reformi juurde , siis arvan , et see on hea võimalus , sest kui natuke ühtlustatad piirkondade valitsust , siis võib ühtlustada ka arengu tagamise võimalusi .
+A 19 20|||R:SPELL|||ühtlustada|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||ühtlustada|||REQUIRED|||-NONE-|||1
+A 21 22|||R:LEX|||valitsemist|||REQUIRED|||-NONE-|||1
+A 19 20|||R:SPELL|||ühtlustada|||REQUIRED|||-NONE-|||2
+A 21 22|||R:LEX|||valitsemist|||REQUIRED|||-NONE-|||2
+A 18 22|||R:WO|||piirkondade valitsemist natuke ühtlustada|||REQUIRED|||-NONE-|||2
+A 25 30|||R:WO|||arengu tagamise võimalusi ühtlustada|||REQUIRED|||-NONE-|||2
+
+S Kokkuvõteks üten , et seminar oli üldiselt väga kasulik ja info rikkas .
+A 0 1|||R:SPELL|||Kokkuvõtteks|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||ütlen|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WS:SPELL|||inforikas|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Kokkuvõtteks|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||ütlen|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX:SPELL|||tihe||küllane||rohke|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WS|||infotihe||infoküllane||inforohke|||REQUIRED|||-NONE-|||1
+A 0 1|||R:SPELL|||Kokkuvõtteks|||REQUIRED|||-NONE-|||2
+A 1 2|||R:SPELL|||ütlen|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX|||informaatiline|||REQUIRED|||-NONE-|||2
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Olen kindel , et sellistel seminaridel oleks vaja osa võtta .
+A 4 5|||R:NOM:FORM|||sellistest|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||seminaridest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||osaleda|||REQUIRED|||-NONE-|||1
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1

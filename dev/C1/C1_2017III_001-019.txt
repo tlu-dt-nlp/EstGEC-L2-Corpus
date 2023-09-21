@@ -1,0 +1,147 @@
+S Meedia mõju tänapäeva inimestele
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S 21. sajand on meedia sajand .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 5|||R:WS|||meediasajand|||REQUIRED|||-NONE-|||1
+
+S Tänapäeval rohkus inimestest saavad informatsiooni välismaailmast meedia kaudu .
+A 1 2|||R:LEX|||rohkelt|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||saab|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||saab rohkelt inimesi|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||välismaailma|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||kohta|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||välismaailma kohta informatsiooni|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||paljud|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||inimesed|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||saavad paljud inimesed|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||välismaailma|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||kohta|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||välismaailma kohta informatsiooni|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||meediast|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Leian , et paljud leiavad huvi minu poolt kuuldud ettekannete kokkuvõttes , mida sain meediafoorumil osalemisel .
+A 0 1|||R:LEX|||Loodan|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||midagi|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||huvitavat|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||osaledes|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Arvan|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||midagi|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||huvitavat|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||kokkuvõttest|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||koostasin||kirjutasin|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||osaledes|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Arvan|||REQUIRED|||-NONE-|||2
+A 5 5|||M:LEX|||midagi|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||huvitavat|||REQUIRED|||-NONE-|||2
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||kokkuvõttest|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||2
+A 13 14|||R:LEX|||koostasin||kirjutasin|||REQUIRED|||-NONE-|||2
+A 15 16|||R:NOM:FORM|||osalemisest|||REQUIRED|||-NONE-|||2
+
+S Üheks olulisematest teemadest oli " Meedia võimalused väärtushinnangute kujundamisel " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Üks|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||olulisemaid|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||teemasid|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Üks|||REQUIRED|||-NONE-|||2
+
+S Ettekannete kuulates sain aru , et meedia kujundab laste ja noorukite väärtushinnanguid isegi rohkem kui nende vanemad .
+A 0 1|||R:NOM:FORM|||Ettekandeid||Ettekannet|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||jooksul||käigus||kestel|||REQUIRED|||-NONE-|||1
+
+S See on seotud sellega , et tänapäeva maailmas tehnoloogiad on kõige suurem osa inimeste elus .
+A 8 9|||R:NOM:FORM|||tehnoloogiatel||tehnoloogial|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||on tehnoloogiatel||on tehnoloogial|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||tehnoloogiatel||tehnoloogial|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||on tehnoloogiatel||on tehnoloogial|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||suur|||REQUIRED|||-NONE-|||1
+A 11 15|||R:WO|||inimeste elus suur osa|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||tehnoloogiatel||tehnoloogial|||REQUIRED|||-NONE-|||2
+A 8 10|||R:WO|||on tehnoloogiatel||on tehnoloogial|||REQUIRED|||-NONE-|||2
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 11 12|||R:LEX|||tähtis|||REQUIRED|||-NONE-|||2
+A 11 15|||R:WO|||inimeste elus tähtis osa|||REQUIRED|||-NONE-|||2
+
+S Lapsed tulevad koolist koju ja kohe istuvad arvuti taga , nad vaatavad videosid , loevad artikkleid ja suhtlevad inimestega teistest riikidest .
+A 5 7|||R:WO|||istuvad kohe|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||taha|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||videoid|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||artikleid|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||istuvad kohe|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||taha|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||videoid|||REQUIRED|||-NONE-|||1
+A 15 16|||R:SPELL|||artikleid|||REQUIRED|||-NONE-|||1
+
+S Kõik need tegevused kujundavad nende väärtushinnanguid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ettekandjate arvamused sellest , kas see on positiivne mõju või negatiivne erinesid .
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||osas|||REQUIRED|||-NONE-|||1
+A 2 12|||R:WO|||erinesid selles osas , kas see on positiivne mõju või negatiivne|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||2
+A 3 3|||M:LEX|||kohta|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||sel||sellel|||REQUIRED|||-NONE-|||2
+A 8 11|||R:WO|||või negatiivne mõju|||REQUIRED|||-NONE-|||2
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+
+S " Meedia roll teavitajana , harijana ja ka meelelahutajana " oli teiseks olulisemaks teemaks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||teine|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||oluline||olulisem|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM:CASE|||Teine|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||oluline||olulisem|||REQUIRED|||-NONE-|||2
+A 13 14|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||2
+A 0 14|||R:WO|||Teine oluline teema oli " Meedia roll teavitajana , harijana ja ka meelelahutajana "||Teine olulisem teema oli " Meedia roll teavitajana , harijana ja ka meelelahutajana "|||REQUIRED|||-NONE-|||2
+
+S Paljud ettekandjad olid nõus sellega , et meedia on kõige suurem ja mõjukam meelelahutaja ning see on meedia positiivseks küljeks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||positiivne|||REQUIRED|||-NONE-|||1
+A 19 20|||R:NOM:FORM|||külg|||REQUIRED|||-NONE-|||1
+
+S Osalejate arvamused erinesid arutades selle rolli teavitajana ja harijana .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||teavitaja|||REQUIRED|||-NONE-|||1
+
+S Rohkus ettekannetest väidasid , et meedia valetab uudiste teavitamisel selleks , et olla populaarsem ja saada rohkem raha kui teised .
+A 0 1|||R:LEX|||Rohkelt|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||ettekandeid|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||väitsid|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||teatamisel|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Rohkelt|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||ettekandjaid|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||väitsid|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||uudistest|||REQUIRED|||-NONE-|||1
+
+S Paljud olid nõus sellega , et meedia lihtsustab informatsiooni saamist ehk õppimist , kuid selle info usaldusväärsus väheneb väga kiiresti .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meedial on väga suur mõju tänapäevases maailmas , kuid see mõju on nii negatiivne kui ka posetiivne .
+A 16 17|||R:SPELL|||positiivne|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||positiivne|||REQUIRED|||-NONE-|||1
+A 13 17|||R:WO|||positiivne kui ka negatiivne|||REQUIRED|||-NONE-|||1
+
+S Meediafoorumil kuuldud ettekannete põhiliseks ideeks oli see , et meedial ja reaalsel elul peab olema tasakaal .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||põhiline|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||idee|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||meedia|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||reaalse|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||vahel|||REQUIRED|||-NONE-|||1
+
+S Nagu kirjutas Valdur Mikita oma raamatus " Lingvistika ehk metsa se lingvistika " : " Igal eestlasel ühes käes on skype ja teises seenenuga " .
+A 10 11|||R:SPELL|||see|||REQUIRED|||-NONE-|||0
+A 17 20|||R:WO|||on ühes käes|||REQUIRED|||-NONE-|||0
+A 20 21|||R:CASE|||Skype|||REQUIRED|||-NONE-|||0
