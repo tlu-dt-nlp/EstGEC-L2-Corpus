@@ -1,0 +1,78 @@
+S Lp . Karl ---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Sain kätte teie meili , kus te kirjutasite , et meie asutuse sünnipäev 22 detsembril .
+A 13 13|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Juubeli puhul te tahate välja anda asutust tutvustav raamat ja palute töötajad saata oma mõtteid asutuse kohta .
+A 2 4|||R:WO|||tahate te|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||tutvustava|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||raamatu|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||töötajatel||töötajail|||REQUIRED|||-NONE-|||0
+
+S 10 aastat väga hea arv .
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||aeg|||REQUIRED|||-NONE-|||0
+
+S Mina töötan sellel asutusel juba 8 aastat ja mulle kõike sobib .
+A 2 3|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||asutuses|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||kõik|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||sobib kõik|||REQUIRED|||-NONE-|||0
+
+S Sõbralikud töökaaslased alati võivad aidata , head töötingimused , arutav töötasu , samuti ka on preemiat , tööaeg on ka hea 9.-17.00 , töökoht asub koju lähedal .
+A 2 5|||R:WO|||võivad alati aidada|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||arvestatav|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||on ka|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||preemia|||REQUIRED|||-NONE-|||0
+A 21 21|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOM:FORM|||kodu|||REQUIRED|||-NONE-|||0
+
+S Mina leidsin selle kuulutust interneetist 8 aastat tagasi ja väga rõõmus , et valisite mind raamatupidamise kohta .
+A 3 4|||R:NOM:FORM|||kuulutuse|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||internetist|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||olen|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||minu|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||raamatupidaja|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||kohale|||REQUIRED|||-NONE-|||0
+
+S Meie töökollektiivis juba töötab 30 inimest .
+A 2 4|||R:WO|||töötab juba|||REQUIRED|||-NONE-|||0
+
+S Ma tean kui te ainult algasite , töötasid 8 inimest .
+A 2 2|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||alles|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||alustasite|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||töötas|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||siin|||REQUIRED|||-NONE-|||0
+
+S See näitab kuidas hästi te töötate ja juhtide .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||kui|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||juhite|||REQUIRED|||-NONE-|||0
+
+S Meie töökollektiiv soovib asutuse suurendada .
+A 3 4|||R:NOM:FORM|||asutust|||REQUIRED|||-NONE-|||0
+
+S 10-15 aasta pärast avada uued kohad , kus inimesed võivad hästi veeta aega , puhata , maitsvat süüa .
+A 4 5|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kohti|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||aega veeta|||REQUIRED|||-NONE-|||0
+A 17 17|||M:LEX|||toitu|||REQUIRED|||-NONE-|||0
+
+S Võib olla ei ole ainult meie linnas , samuti ka Ida-Viirumaal ja Tallinnas .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||ettevõte|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||vaid|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||Ida-Virumaal|||REQUIRED|||-NONE-|||0
+
+S Me soovime kõik head juubeli puhul ja rõõmustame kõik koos ,
+A 2 3|||R:NOM:FORM|||kõike|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||juubeli puhul kõike head|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega , Olga --- restoraan Loverte +372---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||restoran|||REQUIRED|||-NONE-|||0

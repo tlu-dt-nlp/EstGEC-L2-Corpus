@@ -1,0 +1,66 @@
+S Tere !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Paar päeva tagasi korrastasin oma raamaturiiuleid ning leidsin raamatuid ja ajakirju , mida enam ei vaja .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tahan teie käest küsida - võib olla keegi tahab neid endale , sest raamatud on väga huvitavad , aga mina juba lugesin neid läbi .
+A 5 7|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+
+S Need raamatud on ajaloolised , seetõttu need , keda huvitab ajalugu peavad muidugi neid läbi lugema .
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||peaksid|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+
+S Kui te tahate need endale saada , siis kirjutage mulle meili või helistage .
+A 3 4|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||meil||meilile|||REQUIRED|||-NONE-|||0
+
+S Minu telefoninumber on --- või minu e-post on ---@edu.ee .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siis me lepime kokku ja ma annan teile raamatuid .
+A 8 9|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||0
+
+S Aga tahan ütelda , et kõiki raamatuid ma annan teile tasuta , see on nagu kingitus .
+A 5 6|||R:NOM:FORM|||kõik|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||annan ma|||REQUIRED|||-NONE-|||0
+
+S Mul on veel ajakirjad , aga keegi soovi neid endale , võib olla keegi teab , mida võib nende ajakirjadega teha .
+A 3 4|||R:NOM:FORM|||ajakirju|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 13 14|||R:WO|||teab keegi|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX|||saab|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||ajakirju|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||ei|||REQUIRED|||-NONE-|||1
+A 10 11|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 11 12|||R:CASE|||Võib|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||1
+A 13 14|||R:WO|||teab keegi|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||saab|||REQUIRED|||-NONE-|||1
+A 17 21|||R:WO|||nende ajakirjadega teha saab|||REQUIRED|||-NONE-|||1
+A 21 22|||R:PUNCT|||?|||REQUIRED|||-NONE-|||1
+
+S Ma arvan , et need on ka päris huviatavad ja selle pärast ma ei taha neid lihtsalt ära visata , aga minu arvates neid võib kooli tuua või haiglasse .
+A 8 9|||R:SPELL|||huvitavad|||REQUIRED|||-NONE-|||0
+A 23 25|||R:WO|||võib neid|||REQUIRED|||-NONE-|||0
+A 26 27|||R:LEX|||viia|||REQUIRED|||-NONE-|||0
+A 26 29|||R:WO|||või haiglasse viia|||REQUIRED|||-NONE-|||0
+
+S Kooli selleks , et õpilased tegid kodulugemist aga haiglasse , selleks , et inimestele oli huvitam järjekorras istuda .
+A 5 6|||R:VERB:FORM|||teeksid|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||inimestel|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||oleks|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||huvitavam|||REQUIRED|||-NONE-|||0
+
+S Palun kirjutage mulle oma arvamust .
+A 4 5|||R:NOM:FORM|||arvamus|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Aitäh tähelepanu eest !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

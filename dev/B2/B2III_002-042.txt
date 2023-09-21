@@ -1,0 +1,103 @@
+S Lugupeetud tuttavad !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Paar päeva tagasi ma korrastasin oma raamaturiiuleid ja leidsin raamatuid ja ajakirju , mida enam ei vaja .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 5|||R:WO|||korrastasin ma|||REQUIRED|||-NONE-|||1
+A 14 14|||M:LEX|||ma|||REQUIRED|||-NONE-|||1
+A 0 5|||R:WO|||Ma korrastasin paar päeva tagasi|||REQUIRED|||-NONE-|||2
+
+S Sellepärast ma tahan need kõik kingida teile .
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||kinkida|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||teile kinkida|||REQUIRED|||-NONE-|||0
+
+S Mul on olemas kolm laste raamatut .
+A 4 6|||R:WS|||lasteraamatut|||REQUIRED|||-NONE-|||0
+
+S Ma arvan , et kui teil on lapsed või te tahate lihtsalt tunda ennast lapsena , siis neid raamatuid on vaja teile .
+A 21 22|||R:NOM:FORM|||teil|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WO|||teil vaja|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||teil|||REQUIRED|||-NONE-|||1
+A 17 22|||R:WO|||teil on neid raamatuid vaja|||REQUIRED|||-NONE-|||1
+
+S On alles ka bioloogia õpikud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 2|||R:WO|||Alles on|||REQUIRED|||-NONE-|||1
+A 0 0|||M:LEX|||Mul on|||REQUIRED|||-NONE-|||2
+A 3 5|||R:WS|||bioloogiaõpikud|||REQUIRED|||-NONE-|||2
+
+S Ma ostsin neid , kui ma õppisin koolis ja selliseid õpikuid abistavad mulle , sest nendes on väga palju informatsiooni looduse ja inimese kehade kohta .
+A 2 3|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||sellised|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||õpikud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||aitasid|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||keha|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||sellised|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||õpikud|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||olid|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||abiks|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||mulle abiks|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||1
+
+S Saamuti mul on ka ajalugu raamat .
+A 0 1|||R:SPELL|||Samuti|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WS:NOM:FORM|||ajalooraamat|||REQUIRED|||-NONE-|||0
+
+S Kui te soovite oma silmaringi laiendada , te peate võtma see raamatut ära .
+A 7 9|||R:WO|||peate te|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||raamatu|||REQUIRED|||-NONE-|||0
+A 9 13|||R:WO|||selle raamatu ära võtma|||REQUIRED|||-NONE-|||0
+
+S Seal on kirjutatud Eesti ja Rootsi ajaloost 1918-1920 a .
+A 7 8|||R:SPELL|||1918.-1920.|||REQUIRED|||-NONE-|||0
+
+S Mul on ka palju ajakirju .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Need on mooest ja jalgpallist .
+A 2 3|||R:SPELL|||moest|||REQUIRED|||-NONE-|||0
+
+S Need ajakirjud meeldivad mu lapsed .
+A 1 2|||R:SPELL|||ajakirjad|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||lastele||lapsele|||REQUIRED|||-NONE-|||0
+
+S Kui te olete nooruki eas , siis need ajakirjud on see mida te otsite .
+A 3 5|||R:WS|||noorukieas|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||ajakirjad|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Seal on palju informatsiooni tänapäevasest mooest ja populaarsemadest jalgpalluridest .
+A 5 6|||R:SPELL|||moest|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||populaarsematest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||jalgpalluritest|||REQUIRED|||-NONE-|||0
+
+S Kui te olete huvitanud sellisest , mida ma pakkun või teil on küsimused , siis kirjutage e-mailile ---@mail.ru või helistage telefoninumbrile --- .
+A 3 4|||R:VERB:FORM|||huvitatud|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||sellest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||pakun|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||küsimusi|||REQUIRED|||-NONE-|||0
+
+S Liisaks ma tahan teilt küsida nõu , mida ma pean tegema nende raamatute ning ajakirjadega , mida keegi ei soovi .
+A 0 1|||R:SPELL|||Lisaks|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 20 21|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Lisaks|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||nõu küsida|||REQUIRED|||-NONE-|||1
+A 20 21|||R:PUNCT|||?|||REQUIRED|||-NONE-|||1
+
+S Ootan teie pakkumised .
+A 2 3|||R:NOM:FORM|||pakkumisi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||pakkumisi|||REQUIRED|||-NONE-|||1
+
+S Lugupidamisega , Irina --- 21.09.2018
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0

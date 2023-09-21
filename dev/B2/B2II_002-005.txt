@@ -1,0 +1,91 @@
+S Tere , lugupeetud Toomas Luik !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kirjutab teile linnaelanik Polina --- .
+A 0 2|||R:WO|||Teile kirjutab|||REQUIRED|||-NONE-|||0
+
+S Ma tean , et eelmisel aastal omavalitsus sõlmis tänavate ja parkide hooldamiseks lepingu uue teenusepakkujaga .
+A 6 8|||R:WO|||sõlmis omavalitsus|||REQUIRED|||-NONE-|||0
+
+S Kahjuks , ma ja palju elanikke pole selle firma tööga rahul .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||mina|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||paljud|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||teised|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||elanikud|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||pole mina ja paljud teised elanikud|||REQUIRED|||-NONE-|||0
+
+S Varem , kui oli teine firma tänavad ja parkid meie linnas olid puhtad .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||pargid|||REQUIRED|||-NONE-|||0
+A 6 12|||R:WO|||olid tänavad ja pargid meie linnas|||REQUIRED|||-NONE-|||0
+
+S Aga praegu tänavatel , parkides on palju prügi .
+A 2 6|||R:WO|||on tänavatel , parkides|||REQUIRED|||-NONE-|||0
+
+S Prügikastid on täis , inimesed viskavad prügi prügikasti kõrval .
+A 8 9|||R:NOM:FORM|||kõrvale|||REQUIRED|||-NONE-|||0
+
+S Teenusefirma ei kiiresti koristada prahti .
+A 3 4|||R:VERB:FORM|||korista|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||ei korista prahti kiiresti|||REQUIRED|||-NONE-|||0
+
+S Parkides on palju vanad puud .
+A 3 4|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||puid|||REQUIRED|||-NONE-|||0
+
+S Seal jalutavad palju inimesi ja lapsi .
+A 2 3|||R:NOM:FORM|||paljud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||inimesed|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||lapsed|||REQUIRED|||-NONE-|||0
+
+S Aga see on ohtlik .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vana puu võib kukkuda maha .
+A 3 5|||R:WO|||maha kukkuda|||REQUIRED|||-NONE-|||0
+
+S Kui oli talv , kõik teed olid libedad nii käiguradad kui sõiduteed .
+A 4 7|||R:WO|||olid kõik teed|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||käigurajad|||REQUIRED|||-NONE-|||0
+A 11 11|||M:LEX|||ka|||REQUIRED|||-NONE-|||0
+
+S Halvasti koristada lumi ka .
+A 1 2|||R:VERB:FORM|||koristatakse|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||lund|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||ka lund|||REQUIRED|||-NONE-|||0
+
+S Ma pakun leida uus firma , sellepärast ma maksan raha ja maksud , et minu linn , tävad ja parkid olid puhtad ja ebaohtlik .
+A 2 2|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||makse|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||tänavad|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||pargid|||REQUIRED|||-NONE-|||0
+A 20 21|||R:VERB:FORM|||oleksid|||REQUIRED|||-NONE-|||0
+A 23 24|||R:LEX|||ohutud|||REQUIRED|||-NONE-|||0
+
+S Kui see firma ei saa või ei taha koristada ja teha meie linna puhtaks , siis on vaja otsida teised firmad .
+A 10 14|||R:WO|||meie linna puhtaks teha|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||teist|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||firmat|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 10 14|||R:WO|||meie linna puhtaks teha|||REQUIRED|||-NONE-|||1
+A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||tuleb|||REQUIRED|||-NONE-|||1
+A 18 19|||R:LEX|||leida|||REQUIRED|||-NONE-|||1
+A 19 20|||R:NOM:FORM|||teine|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||firma|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||ega|||REQUIRED|||-NONE-|||2
+A 10 14|||R:WO|||meie linna puhtaks teha|||REQUIRED|||-NONE-|||2
+A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 17 18|||R:LEX|||tuleb|||REQUIRED|||-NONE-|||2
+A 18 19|||R:LEX|||leida|||REQUIRED|||-NONE-|||2
+A 19 20|||R:LEX|||keegi|||REQUIRED|||-NONE-|||2
+A 20 21|||R:LEX|||teine|||REQUIRED|||-NONE-|||2
+
+S Ma arvan , et see on parem lahendus .
+A 6 7|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega , Polina ---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
