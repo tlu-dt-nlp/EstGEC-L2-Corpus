@@ -1,0 +1,3495 @@
+S Tere !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Loodan , et sul läheb hästi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Kirjutan sulle seoses ühe probleemiga tööl , mis juba pika aja jooksul ei jätta mind rahule .
+A 13 14|||R:VERB:FORM|||jäta|||REQUIRED|||-NONE-|||0
+A 8 16|||R:WO|||mind juba pika aja jooksul rahule ei jäta|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WS:NOM:FORM|||tööprobleemiga|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||pikka||pikemat|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||aega|||REQUIRED|||-NONE-|||1
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX:SPELL|||anna|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||rahu|||REQUIRED|||-NONE-|||1
+A 8 16|||R:WO|||mulle juba pikka aega rahu ei anna||mulle juba pikemat aega rahu ei anna|||REQUIRED|||-NONE-|||1
+
+S Mõtlesin kuidas seda probleemi lahendada ja tuli meelde et paar aastat tagasi sa rääkis mulle samast olukorrast .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB:FORM|||rääkisid|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||rääkisid sa|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||R:VERB:FORM|||rääkisid|||REQUIRED|||-NONE-|||1
+A 12 14|||R:WO|||rääkisid sa|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||sarnasest|||REQUIRED|||-NONE-|||1
+
+S Kõigepealt seletan sulle lühidalt milles asi on .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||on asi|||REQUIRED|||-NONE-|||1
+
+S Sa ju tead , et viimastel aastatel Eestis on olnud päris suur ja pidev palgakasv , mis ma loodan väljendas ka sinu sissetulekus .
+A 7 9|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 19 19|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||väljendus|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||1
+A 17 19|||R:LEX|||loodetavasti|||REQUIRED|||-NONE-|||1
+A 19 20|||R:LEX|||väljendus|||REQUIRED|||-NONE-|||1
+
+S Vaatamata sellele minu palk on jäänud viimase kolme aasta jooksul muutmata .
+A 2 5|||R:WO|||on minu palk|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||on minu palk|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||muutumata|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||on minu palk|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||püsinud|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX|||muutumata|||REQUIRED|||-NONE-|||2
+
+S Töökoormus ja vastutus aga on suurenenud , mis teeb olukorda veel pingeliseks .
+A 3 5|||R:WO|||on aga|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||olukorra|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||pingelisemaks|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||on aga|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||pingelisemaks|||REQUIRED|||-NONE-|||1
+
+S Käisin kaks korda sellest rääkimas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 4|||R:WO|||sellest kaks korda|||REQUIRED|||-NONE-|||1
+
+S Kahjuks tulemuseta .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu ülemus vastas mulle , et ettevõtte kasumlikkus kahaneb iga aasta , seega ta peab kulusid kontrolli all hoidma ja tööviljakust tõstma .
+A 13 15|||R:WO|||peab ta|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||aastaga|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||peab ta|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||igal|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||2
+A 13 15|||R:WO|||peab ta|||REQUIRED|||-NONE-|||2
+
+S Mul on kahju , aga olen sunnitud otsima lahendusi väljaspool meie ettevõtte , kus ma veetsin kümme aastat .
+A 9 10|||R:LEX|||väljastpoolt|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||ettevõtet|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||olen veetnud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||ettevõtet|||REQUIRED|||-NONE-|||1
+A 15 16|||R:VERB:FORM|||olen veetnud|||REQUIRED|||-NONE-|||1
+
+S Pöördusin personaaliotsingu firma poole , kuna ma ei taha otseselt kandideerida läbi cv online või cv keskus portaali .
+A 1 2|||R:SPELL|||personaliotsingu|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WS:NOM:FORM:CASE|||CV-Online'i|||REQUIRED|||-NONE-|||0
+A 15 16|||R:CASE|||CV|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM:CASE|||Keskuse|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||personaliotsingu|||REQUIRED|||-NONE-|||1
+A 12 14|||R:WS:NOM:FORM:CASE|||CV-Online'i|||REQUIRED|||-NONE-|||1
+A 15 16|||R:CASE|||CV|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM:CASE|||Keskuse|||REQUIRED|||-NONE-|||1
+A 11 18|||R:LEX:WO|||CV-Online'i või CV Keskuse portaali kaudu|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||personaliotsingu|||REQUIRED|||-NONE-|||2
+A 12 14|||R:WS:CASE|||CV-Online|||REQUIRED|||-NONE-|||2
+A 15 16|||R:SPELL|||CV|||REQUIRED|||-NONE-|||2
+A 16 17|||R:CASE|||Keskus|||REQUIRED|||-NONE-|||2
+A 11 18|||R:LEX:WO|||portaali CV-Online või CV Keskus kaudu|||REQUIRED|||-NONE-|||2
+
+S Ma kardan , et siis info võib lekkida ja jõuda minu ülemuseni .
+A 5 7|||R:WO|||võib info|||REQUIRED|||-NONE-|||0
+
+S Sul oli aga samasugune probleem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sa oled kuidagi hakkama saanud , seega loodan et sa saad mulle nõuannet anda ja oma kogemusest natuke rääkida .
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||nõuande||nõuandeid|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||nõu|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||natuke oma kogemusest|||REQUIRED|||-NONE-|||1
+
+S Kindlasti see aitaks mulle leida lahendust ja maandada riske .
+A 1 3|||R:WO|||aitaks see|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||lahendust leida|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||riske maandada|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||aitaks see|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||lahenduse|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||lahenduse leida|||REQUIRED|||-NONE-|||1
+
+S Jään ootama sinu vastust .
+A 1 4|||R:WO|||sinu vastust ootama|||REQUIRED|||-NONE-|||0
+
+S Kõige paremat !
+A 0 1|||R:NOM:FORM|||Kõike|||REQUIRED|||-NONE-|||0
+
+S Peeter
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tere Mari , kirjutan sulle , sest minu tuttavatest ainult sina saad aidata mulle .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 4|||R:PUNCT|||! Kirjutan|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||saad ainult sina|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||mind aidata|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 2 4|||U:PUNCT|||Kirjutan|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||saad ainult sina|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||1
+A 12 14|||R:WO|||mind aidata|||REQUIRED|||-NONE-|||1
+
+S Minu direktor palus mind koostada ühe diagrammi , programmis , millega ma ei ole kunagi töötanud .
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tean et sina tead seda programmi hästi ja sul on praegu palju vaba aega .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||tunned|||REQUIRED|||-NONE-|||1
+
+S Oleks väga hea kui me kohtuksime minu või sinu juures ja sa õppetaksid mind sellega hakkama saada .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||õpetaksid|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM|||saama|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 10|||R:WO|||minu või sinu juures kohtuksime|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||õpetaksid|||REQUIRED|||-NONE-|||1
+A 16 17|||R:VERB:FORM|||saama|||REQUIRED|||-NONE-|||1
+
+S Probleem veel koosneb sellest , et see diagramm on mul vaja ülehomseks ja kui ma ei jõua selleks ajaks , ma ei saa boonuse ja minu reputatsioon saab kahju .
+A 2 3|||R:LEX|||seisneb|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||seisneb veel|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||diagrammi|||REQUIRED|||-NONE-|||0
+A 15 19|||R:WO|||selleks ajaks ei jõua|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 20 23|||R:WO|||ei saa ma|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||boonust|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||seisneb|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||seisneb veel|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||diagrammi|||REQUIRED|||-NONE-|||1
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||M:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 23 24|||R:NOM:FORM|||boonust|||REQUIRED|||-NONE-|||1
+A 28 29|||R:LEX|||kahjustada|||REQUIRED|||-NONE-|||1
+
+S Diagramm ei ole suur , kuid ma ei saa aru kuidas programm , millega mind paluti töötada , töötab .
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+
+S Kuna aitamine võtab natuke aja sinu poolt , ma võin sulle pakkuda piletid kontserdile , millele sa väga tahtsid minna .
+A 4 5|||R:NOM:FORM|||aega|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||sinu poolt natuke aega|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||võin ma sulle|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||pileteid|||REQUIRED|||-NONE-|||0
+A 17 19|||R:WO|||tahtsid väga|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||aega|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||sinu aega|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||pileteid|||REQUIRED|||-NONE-|||1
+A 18 20|||R:WO|||minna tahtsid|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||aega|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||sinult|||REQUIRED|||-NONE-|||2
+A 3 6|||R:WO|||sinult natuke aega|||REQUIRED|||-NONE-|||2
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 11|||R:WO|||võin ma sulle|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||pileteid|||REQUIRED|||-NONE-|||2
+A 18 20|||R:WO|||minna tahtsid|||REQUIRED|||-NONE-|||2
+
+S Me võiksime minna koos , kuna minu abikaasa kontserdi ajal sõidab välismaale .
+A 8 11|||R:WO|||sõidab kontserdi ajal|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||ajaks|||REQUIRED|||-NONE-|||1
+A 8 11|||R:WO|||sõidab kontserdi ajaks|||REQUIRED|||-NONE-|||1
+
+S Ootan sinu vastust ja loodan , et sa oled vaba täna õhtul või homme .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 9 14|||R:WO|||täna õhtul või homme vaba|||REQUIRED|||-NONE-|||1
+
+S Tervist !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Anton olen .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 2|||R:WO|||Olen Anton|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||siinpool|||REQUIRED|||-NONE-|||2
+
+S Kuule , nagu sa tead olen meie firmas tarkvara arendaja .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WS|||tarkvaraarendaja|||REQUIRED|||-NONE-|||0
+
+S Paar päeva tagasi ülemus on otsustanut , et uue suure projekti arendamiseks neil on piisav resourse .
+A 4 6|||R:VERB:FORM:SPELL|||otsustas|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||otsustas ülemus|||REQUIRED|||-NONE-|||0
+A 8 14|||R:WO|||neil on uue suure projekti arendamiseks|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||piisavalt|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||ressursse|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Ülemus on paar päeva tagasi|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||otsustanud|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||meil|||REQUIRED|||-NONE-|||1
+A 8 14|||R:WO|||meil on uue suure projekti arendamiseks|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||piisavalt|||REQUIRED|||-NONE-|||1
+A 15 16|||R:SPELL|||ressursse|||REQUIRED|||-NONE-|||1
+
+S Samal ajal meie töötajad sellest üldse pole midagi teadnud .
+A 6 7|||R:VERB:FORM|||polnud|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||polnud meie töötajad sellest üldse|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||polnud|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||polnud meie töötajad sellest üldse|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||teadlikud|||REQUIRED|||-NONE-|||1
+A 6 7|||R:VERB:FORM|||ei|||REQUIRED|||-NONE-|||2
+A 2 9|||R:WO|||ei teadnud meie töötajad sellest üldse midagi|||REQUIRED|||-NONE-|||2
+
+S Aga , nagu sa saad aru , projekt on juba käes ja loobuda ei saa , vaid firmast lahkuda .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||aru saad|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||on projekt|||REQUIRED|||-NONE-|||0
+A 12 12|||M:LEX|||sellest|||REQUIRED|||-NONE-|||0
+A 16 16|||M:LEX|||saab||saan|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||aru saad|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||on projekt|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||sellest|||REQUIRED|||-NONE-|||1
+A 16 16|||M:LEX|||saab||saan|||REQUIRED|||-NONE-|||1
+
+S Ma tunnen , et sa võiks mulle aidata !
+A 6 7|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||saaks||oskaks|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||1
+A 8 9|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||arvan|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||saaks||oskaks|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||2
+A 8 9|||R:PUNCT|||.|||REQUIRED|||-NONE-|||2
+
+S Esimeses , sa oled tark ja sellepärast meil enam ei tööta .
+A 0 1|||R:LEX|||Esiteks|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Esiteks|||REQUIRED|||-NONE-|||1
+A 7 11|||R:WO|||enam meil ei tööta|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Esiteks|||REQUIRED|||-NONE-|||2
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 4|||R:WO|||oled sa|||REQUIRED|||-NONE-|||2
+A 7 11|||R:WO|||enam meil ei tööta|||REQUIRED|||-NONE-|||2
+
+S Ise probleem on selles , et me nüüd peame mobiilirakendused arendama .
+A 0 2|||R:WO|||Probleem ise|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||peame nüüd|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||mobiilirakendusi|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Probleem|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||peame nüüd|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||mobiilirakendusi|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||arendama mobiilirakendusi|||REQUIRED|||-NONE-|||1
+
+S Kas kujutad ette ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meie sellest midagi ei tea !
+A 1 5|||R:WO|||ei tea sellest midagi|||REQUIRED|||-NONE-|||0
+
+S Uus programmeerimiskeel , keskkond ja arendusviis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Muidugi meie küll võiks proovida uues keeles kirjutada hakkama , see ongi kõige targem lahendus , kuid ei ole kiire ja nõuab aega .
+A 1 2|||R:NOM:FORM|||me|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||võiks küll|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||kirjutama|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||hakata|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||me|||REQUIRED|||-NONE-|||1
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||võiks me|||REQUIRED|||-NONE-|||1
+A 7 8|||R:VERB:FORM|||kirjutama|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||hakata|||REQUIRED|||-NONE-|||1
+A 9 11|||R:PUNCT|||. See|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||me|||REQUIRED|||-NONE-|||2
+A 0 4|||R:WO|||Me võiks küll muidugi|||REQUIRED|||-NONE-|||2
+A 7 8|||R:VERB:FORM|||kirjutama|||REQUIRED|||-NONE-|||2
+A 8 9|||R:VERB:FORM|||hakata|||REQUIRED|||-NONE-|||2
+A 9 11|||R:PUNCT|||. See|||REQUIRED|||-NONE-|||2
+A 18 19|||R:LEX|||käi|||REQUIRED|||-NONE-|||2
+A 19 20|||R:LEX|||kiiresti|||REQUIRED|||-NONE-|||2
+
+S Nagu mul on teadav , sina praegu tegeled mobiilirakendusega .
+A 1 2|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||teada|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||tegeled sina praegu|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||teada|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||teada on|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||sa|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||tegeled sa praegu|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||mobiilirakendustega|||REQUIRED|||-NONE-|||1
+
+S Samamoodi ma tean , et igasugusel platvormi peal olemas alternatiivsed keeled .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||platvormil|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||on|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tean ma|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX:NOM:FORM|||iga|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||jaoks|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+
+S See mõte mulle magada et anna !
+A 2 3|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||lase|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||ei lase mul magada|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||magades|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||rahu|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||ei|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||ei anna mulle magades rahu|||REQUIRED|||-NONE-|||1
+
+S Oled ju asjatundja selles valdkonnas ?
+A 2 5|||R:WO|||selles valdkonnas asjatundja|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO:NOM:FORM|||selle valdkonna asjatundja|||REQUIRED|||-NONE-|||1
+
+S On ju ? 
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Äkki sa annad nõu , kuidas edasi liikuda ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 3|||R:WO|||annad sa|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Soovitad mulle teised platvormikeeled , valmis lahendused .
+A 2 3|||R:NOM:FORM|||teisi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||platvormikeeli|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||lahendusi|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||teisi|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||platvormikeeli|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WS:NOM:FORM|||valmislahendusi|||REQUIRED|||-NONE-|||1
+
+S Või oleks targem tööst lahkuda ?
+A 3 4|||R:NOM:FORM|||töölt|||REQUIRED|||-NONE-|||0
+
+S Kuidas sa mõtled ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:LEX|||Mida|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Mida|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX|||arvad|||REQUIRED|||-NONE-|||2
+
+S Palun , aita mulle otsustada .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||1
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Ootan väga sinu vastust , Anton
+A 4 5|||R:PUNCT|||!||.|||REQUIRED|||-NONE-|||0
+
+S Tere , Tõnis .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kuidas läheb ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minul kõik on korras , aga ainult tööl on mure .
+A 1 3|||R:WO|||on kõik|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Mul|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on kõik|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||et|||REQUIRED|||-NONE-|||1
+
+S Sa tead , et mina töötan laos ja tihti kasutan elektritõstukit .
+A 8 10|||R:WO|||kasutan tihti|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||kasutan tihti|||REQUIRED|||-NONE-|||1
+
+S Tõstuki seisukord on kahtlane .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on vanem , kui 10 aastat .
+A 0 1|||R:LEX|||See|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kogu aeg midagi läheb katki ja mina ei saa teha tööd normaalselt .
+A 2 4|||R:WO|||läheb midagi|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||normaalselt tööd teha|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||läheb midagi|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||ma|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||normaalselt tööd teha|||REQUIRED|||-NONE-|||1
+
+S Pean kasutada käsiroklat , millega üldse ei ole nii mugav .
+A 1 2|||R:VERB:FORM|||kasutama|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||ei ole üldse|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||töötada|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||kasutama|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||ei ole üldse|||REQUIRED|||-NONE-|||1
+
+S Kõrge rohkem mina kardan , et sõidukil sõidu ajal juhtub midagi piduriga , aga see on väga ohtlik minu jaoks ja teiste jaoks ka .
+A 0 1|||R:LEX|||Kõige|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||kardan ma|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||juhtub sõidu ajal|||REQUIRED|||-NONE-|||0
+A 19 20|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 24|||R:WO|||ka teiste jaoks|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Kõige|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||ma|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||kardan ma|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||juhtub sõidu ajal|||REQUIRED|||-NONE-|||1
+A 18 18|||M:LEX|||nii|||REQUIRED|||-NONE-|||1
+A 20 21|||R:LEX|||kui|||REQUIRED|||-NONE-|||1
+A 21 24|||R:WO|||ka teiste jaoks|||REQUIRED|||-NONE-|||1
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 10|||R:WO|||juhtub sõidu ajal|||REQUIRED|||-NONE-|||2
+A 19 20|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 16 24|||R:WO|||minu ja ka teiste jaoks väga ohtlik|||REQUIRED|||-NONE-|||2
+
+S Mina räägisin sellest oma ülemustega .
+A 1 2|||R:SPELL|||rääkisin|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Ma|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||rääkisin|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||rääkisin|||REQUIRED|||-NONE-|||2
+A 0 2|||U:LEX|||Rääkisin|||REQUIRED|||-NONE-|||2
+
+S Head uudiseid minu jaks nendel pole .
+A 0 1|||R:NOM:FORM|||Häid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||jaoks|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||nendel minu jaoks|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Häid|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||jaoks|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||neil|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||neil minu jaoks|||REQUIRED|||-NONE-|||1
+
+S Ütlevad , et uus tõstuk maksab nii palju ja meil firmal pole seda võimalust .
+A 9 10|||R:NOM:FORM|||meie|||REQUIRED|||-NONE-|||0
+
+S Hästi , et remondi jaoks on raha .
+A 0 1|||R:LEX|||Hea|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||raha on|||REQUIRED|||-NONE-|||0
+
+S Remondivad ainult siis , kui midagi läheb katki ja mina ei jõua tööd teha .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma arvan , et hea lahendus teha hoolduseid .
+A 6 6|||M:LEX|||oleks|||REQUIRED|||-NONE-|||0
+
+S Võib olla remondimees näeb problemi enem , kui tõstuk jälle seisab , ja parandab neid .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||näeb remondimees|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||probleemi|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX:SPELL|||enne|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||näeb remondimees|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||probleemi|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX:SPELL|||enne|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||seisma jääb|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||1
+
+S Miks ma uuesti rääkin sellest sinuga ?
+A 3 4|||R:SPELL|||räägin|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||sinuga sellest räägin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||räägin|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||sinuga sellest uuesti räägin|||REQUIRED|||-NONE-|||1
+
+S Tean , et sina ka töötad laos ja teil on palju sõidukit ja kõik töötab hästi .
+A 3 5|||R:WO|||ka sina|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||sõidukeid|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||ka sina|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||sõidukeid|||REQUIRED|||-NONE-|||1
+
+S Tahan teada , kuidas see võimalik .
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Võib olla sa tead kust kohast võimalik osta masinaid odavam või soovitad remondikoda hea hindega .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||odavamalt|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||hinnaga|||REQUIRED|||-NONE-|||0
+A 12 15|||R:WO|||hea hinnaga remondikoda|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||tead sa|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||odavamalt|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||masinaid odavamalt osta|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||oskad|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||soovitada|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||hinnaga|||REQUIRED|||-NONE-|||1
+A 12 15|||R:WO|||hea hinnaga remondikoda|||REQUIRED|||-NONE-|||1
+
+S Kõige parem abi , kui sa kutsud mind teie juurde tööle laooperaatoriks !
+A 3 3|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||on see|||REQUIRED|||-NONE-|||1
+
+S Ootan sinu vastust .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kõige head Jevgeni
+A 0 1|||R:NOM:FORM|||Kõike|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Tere , kallis Mari !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Pöördun sinu poole abipalvega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Järgmisel nädalal oli ammu mul plaanis läbi viia üks psühholoogiline koolitus meie töötajale .
+A 0 6|||R:WO|||Mul oli ammu plaanis järgmisel nädalal|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||töötajatega|||REQUIRED|||-NONE-|||0
+A 6 13|||R:WO|||meie töötajatega läbi viia üks psühholoogiline koolitus|||REQUIRED|||-NONE-|||0
+A 0 6|||R:WO|||Mul oli ammu plaanis järgmisel nädalal|||REQUIRED|||-NONE-|||1
+A 6 8|||R:LEX|||korraldada|||REQUIRED|||-NONE-|||1
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||töötajatele|||REQUIRED|||-NONE-|||1
+A 0 6|||R:WO|||Mul oli ammu plaanis järgmisel nädalal|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||töötajatele|||REQUIRED|||-NONE-|||2
+
+S Teemaks on emotsionaalse läbipõletamise sündroom .
+A 3 4|||R:LEX|||läbipõlemise|||REQUIRED|||-NONE-|||0
+
+S Koolitus on juba kinnitatud juhtkonna poolt ja väga oodatud ning mina ei saa sellest keelduda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 6|||R:WO|||juhtkonna poolt kinnitatud|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Koolituse|||REQUIRED|||-NONE-|||2
+A 3 4|||R:VERB:FORM|||kinnitanud|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||juhtkond|||REQUIRED|||-NONE-|||2
+A 0 5|||R:WO|||Juhtkond on koolituse juba kinnitanud|||REQUIRED|||-NONE-|||2
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 7|||M:LEX|||see on|||REQUIRED|||-NONE-|||2
+
+S Samas selgus , et ei saa seda teha , sest eile helistas arst Ida-Tallinna Keskhaiglast ja ütles , et operatsioon isale hakkavad nad tegema samal päeval .
+A 4 7|||R:WO|||seda ei saa|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||operatsiooni|||REQUIRED|||-NONE-|||0
+A 19 26|||R:WO|||nad hakkavad samal päeval isale operatsiooni tegema|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||ma|||REQUIRED|||-NONE-|||1
+A 19 20|||R:NOM:FORM|||operatsiooni|||REQUIRED|||-NONE-|||1
+A 19 26|||R:WO|||nad hakkavad samal päeval isale operatsiooni tegema|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||ma|||REQUIRED|||-NONE-|||2
+A 19 20|||R:NOM:FORM|||operatsiooni|||REQUIRED|||-NONE-|||2
+A 19 26|||R:WO|||nad hakkavad isale samal päeval operatsiooni tegema|||REQUIRED|||-NONE-|||2
+
+S See on minu jaoks väga tähtis ja ma pean olema peale operatsiooni temaga koos .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 9 14|||R:WO|||peale operatsiooni temaga koos olema|||REQUIRED|||-NONE-|||1
+
+S Seetõttu palun sind aidata !!!
+A 2 3|||R:NOM:FORM|||sul|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||mind|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sinu|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||abi|||REQUIRED|||-NONE-|||1
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||appi|||REQUIRED|||-NONE-|||2
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||2
+
+S Tean , et sina oled väga pädev minu kolleeg ja see koolituse teema on sinu jaoks väga tuttav .
+A 5 8|||R:WO|||minu väga pädev|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||minu väga pädev|||REQUIRED|||-NONE-|||1
+
+S Samuti tean , et sa vajad praegu rahatoetust , sest sinu poeg õpib ülikoolis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 8|||R:LEX:WS|||rahalist toetust|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||raha||toetust|||REQUIRED|||-NONE-|||2
+
+S Mõtle palun minu pakkumisest ja kirjuta võimalikult kiiremini oma otsusest .
+A 3 4|||R:NOM:FORM|||pakkumisele|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||kiiresti|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||pakkumise|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||üle||peale|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||kiiresti|||REQUIRED|||-NONE-|||1
+A 0 2|||R:WO|||Palun mõtle|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||pakkumisele|||REQUIRED|||-NONE-|||2
+A 7 8|||R:LEX|||kiiresti|||REQUIRED|||-NONE-|||2
+
+S Siis ma võtan ühendust ülemusega ja teavitan teda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 5|||R:WO|||ülemusega ühendust|||REQUIRED|||-NONE-|||1
+
+S Olen kindel , et ta vastu ei ole .
+A 5 8|||R:WO|||ei ole vastu|||REQUIRED|||-NONE-|||0
+
+S Loodan , et kõik tuleb korda .
+A 4 5|||R:LEX|||saab|||REQUIRED|||-NONE-|||0
+
+S Päikest Marina
+A 1 1|||M:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Tere , Anton !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma olen tekkinud probleemiga minu tööulesannete täitmiseks .
+A 0 1|||R:NOM:FORM|||Mul|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||probleem|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||tööülesannete|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||täitmisel|||REQUIRED|||-NONE-|||0
+
+S Ma töötan disainerina , minu tööulesanneteks on disainmakettite ettevalmistamine ja kujundamine arvuti programmide vahendusel .
+A 5 6|||R:NOM:FORM:SPELL|||tööülesandeks|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||disainmakettide|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||arvutiprogrammide|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||tööülesanneteks|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||disainmakettide|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WS|||arvutiprogrammide|||REQUIRED|||-NONE-|||1
+
+S Viimasel ajal minu tööviljakus on langenud .
+A 2 5|||R:WO|||on minu tööviljakus|||REQUIRED|||-NONE-|||0
+
+S Ma kulutan palju aega programmide vastuste ootamiseks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seepärast ma ei suuta teha minu töö õigeks ajaks .
+A 3 4|||R:VERB:FORM:SPELL|||suuda|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei suuda ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||0
+
+S Ma arvan et minu töövahendid ( näiteks arvuti ja tarkvara ) on vananenud .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S On vaja vahetada vana arvuti uue vastu nii kiiresti kui on võimalik .
+A 0 7|||R:WO|||Vana arvuti on vaja uue vastu vahetada|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 0 7|||R:WO|||Vana arvuti on vaja vahetada uue vastu|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+
+S Lisaks oleks mõistlikuks instaleerida uusi programme .
+A 2 3|||R:NOM:FORM|||mõistlik|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||installeerida||installida|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||uued|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||programmid|||REQUIRED|||-NONE-|||0
+
+S Kahjuks ma ei saa ise valida nii arvuti , kui ka tarkvara .
+A 1 4|||R:WO|||ei saa ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||arvutit|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||ega|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei saa ma|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||ei|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||arvutit|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 12|||R:WO|||ei arvutit ega tarkvara ise valida|||REQUIRED|||-NONE-|||1
+
+S Mul ei ole oskusi ja arusaamist .
+A 4 5|||R:LEX|||ega|||REQUIRED|||-NONE-|||0
+
+S Oleks ka raskusi , et meie büroo ei saa eraldada palju raha uute töövahendite ostamiseks .
+A 0 1|||R:VERB:FORM|||On|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX:NOM:FORM|||probleem|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||ostmiseks|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX:VERB:FORM|||Valmistab|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||ostmiseks|||REQUIRED|||-NONE-|||1
+
+S Mul on hädavajalik sinu nõuande arvuti valiku kohta .
+A 0 1|||R:NOM:FORM|||Mulle|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||nõuanne|||REQUIRED|||-NONE-|||0
+
+S Ma saatsin teile meile peale palju variante ja ootan loodusega teie vastust , mis arvuti on parem minu ülesannete jaoks .
+A 2 3|||R:NOM:FORM|||sulle|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||meili|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||lootusega|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||sinu|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||milline|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sulle|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||meili|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||lootusega|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||sinu|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||1
+
+S Ära unusta , palun , et hind oleks olla mõistlik .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||võiks|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Palun ära unusta|||REQUIRED|||-NONE-|||1
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Ette tänades , Irina ---
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tere Juta .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kirjutan sulle , et saada sinust nõuannet või isegi abi .
+A 5 6|||R:NOM:FORM|||sinult|||REQUIRED|||-NONE-|||0
+
+S Esmaspäeval 26. veebruaril toimus tööl üks probleem ja arusaamatu minu tööandjaga .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||tekkis|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||arusaamatus|||REQUIRED|||-NONE-|||0
+
+S Sa tead , et ma töötan medõena koolis ja sellel päeval tegin arstiga laste läbivaatlus , kaalusime neid ja kontrolisime nende verderõhku .
+A 6 8|||R:WO|||koolis medõena|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM:SPELL|||läbivaatust|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||kontrollisime|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||vererõhku|||REQUIRED|||-NONE-|||0
+
+S Pärast 12.30 umbes mul helistati koolist ja öeldi , et kehalise kasvatuse tunnis minu lapsega juhtus õnnetus .
+A 0 3|||R:WO|||Umbes pärast 12.30|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||helistati mulle|||REQUIRED|||-NONE-|||0
+A 10 16|||R:WO|||minu lapsega juhtus kehalise kasvatuse tunnis|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||kella|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Umbes pärast kella 12.30|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||helistati mulle|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WO|||juhtus minu lapsega|||REQUIRED|||-NONE-|||1
+
+S Selle pärast kohe sõitsin kooli ja ei jõudnud mitte midagi ütelda juhtkonnale , et lähen töölt ära .
+A 0 2|||R:WS|||Sellepärast|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||sõitsin kohe|||REQUIRED|||-NONE-|||0
+A 8 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WS|||Sellepärast|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||sõitsin kohe|||REQUIRED|||-NONE-|||1
+A 5 7|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||selle kohta|||REQUIRED|||-NONE-|||1
+A 8 12|||R:WO|||juhtkonnale mitte midagi ütelda|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||sõitsin kohe|||REQUIRED|||-NONE-|||2
+A 5 7|||R:LEX|||ega|||REQUIRED|||-NONE-|||2
+A 8 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Kui tulin lapse pärast siis kohe sõitsime arsti juurde , kus meil öeldi , et ta sai parema jala luumurd .
+A 1 2|||R:LEX|||läksin|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||lapsele|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||järele|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||sõitsime kohe|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||meile|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||luumurru|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||läksin|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||lapsele|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||järele|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||lapsele järele läksin|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||sõitsime kohe|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||meile|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||tal|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX:VERB:FORM|||on|||REQUIRED|||-NONE-|||1
+
+S Järgmisel päeval tulin tööle ja sain aru , et juhtkond oli ebarahul ja palus mind kirjutama seletuskirja , kus ma pidin seletama , miks nii juhtus .
+A 11 12|||R:LEX|||rahulolematu|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||kirjutada|||REQUIRED|||-NONE-|||0
+
+S Kui laps praegu haige , siis tahan temaga kodus olla ja tähendab see , et ei saa kõiki tööd piisavalt mahus teha .
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||see tähendab|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||ma|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||piisavas|||REQUIRED|||-NONE-|||0
+
+S Arvan , et saan rääkida tööandjaga ja lepida kokku tööd kodust teha ühe nädala jooksul .
+A 7 8|||R:SPELL|||leppida|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||kokku leppida|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||töö|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||tegemise|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||tegemise kodust|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||leppida|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||, et|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||teen|||REQUIRED|||-NONE-|||1
+A 9 14|||R:WO|||teen ühe nädala tööd kodust|||REQUIRED|||-NONE-|||1
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kirjuta mulle , milline on sinu lahendus selle situatsiooni kohal .
+A 7 8|||R:LEX|||sellise|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||korral|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||korral||jaoks|||REQUIRED|||-NONE-|||1
+
+S Tere Tatjana .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Sa ju tead , et ma töötan haiglas ? !
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 10|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Minul tekkis probleem ülemusega , kes ei taha aru saada , et meil on vaja võtta kaks inimest juurde , kuna töökoormus on suurenenud .
+A 15 19|||R:WO|||kaks inimest juurde võtta|||REQUIRED|||-NONE-|||0
+
+S Ma saan kõigest aru , et ma saan oma tööga hakkama ja ta ei näe mõtted liigsele väljaminekule .
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||mõtet|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||liigseks|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||väljaminekuks|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||mõtet|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||liigsel|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||väljaminekul|||REQUIRED|||-NONE-|||1
+A 15 18|||R:NOM:FORM|||liigsel väljaminekul mõtet|||REQUIRED|||-NONE-|||1
+
+S Kuid ta ei arvesta sellega , et ma ei ole robot ja ei saa kõike töid teha üksi .
+A 14 15|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||1
+A 16 18|||R:WO|||üksi teha|||REQUIRED|||-NONE-|||1
+A 11 13|||R:LEX|||ega|||REQUIRED|||-NONE-|||2
+A 14 15|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||2
+A 16 18|||R:WO|||üksi teha|||REQUIRED|||-NONE-|||2
+
+S Kaheksa tunni jooksul , millal olen tööl , mul ei ole aega isegi lõunat süüa , ma pean olema oma töökohal .
+A 4 5|||R:LEX|||mil|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||ei ole mul|||REQUIRED|||-NONE-|||0
+
+S Ma arvan , kui ta võtaks kasvõi ühte inimest juurde , mul oleks kõvasti kergem .
+A 3 3|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ühe|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||inimese|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||oleks mul|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||et|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||ühe|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||inimese|||REQUIRED|||-NONE-|||1
+A 5 10|||R:WO|||kasvõi ühe inimese juurde võtaks|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||oleks mul|||REQUIRED|||-NONE-|||1
+
+S Kui ta seda ei tee , siis ma ei tea , kui kauaks mind veel jätkub .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mis saab , kui ma jään haiguslehele ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kes siis sellisel juhul hakkab minu tööd tegema ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selle peale ta ei ole vist mõelnud .
+A 2 5|||R:WO|||ei ole ta|||REQUIRED|||-NONE-|||0
+
+S Kuid ma olen ka inimene ja elus võib kõike juhtuda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sooviksin , et sa annaksid mulle nõu , kuidas ma saaksin oma ülemust ümberveenda , et ta võttaks veel inimesi tööle ?
+A 13 14|||R:WS|||ümber veenda|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||võtaks|||REQUIRED|||-NONE-|||0
+A 21 22|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 13 14|||R:WS|||ümber veenda|||REQUIRED|||-NONE-|||1
+A 17 18|||R:SPELL|||võtaks|||REQUIRED|||-NONE-|||1
+A 17 21|||R:WO|||veel inimesi tööle võtaks|||REQUIRED|||-NONE-|||1
+A 21 22|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Tere päevast !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma , olen Alisa --- .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ma töötan Narva lasteaias , vanuses rühmas .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||vanemas|||REQUIRED|||-NONE-|||0
+
+S Sellel nädalal meil on uus teema : " Eesti Vabariiki sünnipäev " , ja mul on plaanis koos lastega lugeda A.H.Tammsaare raamatut .
+A 2 4|||R:WO|||on meil|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||Vabariigi|||REQUIRED|||-NONE-|||0
+A 20 21|||R:WS|||A. H. Tammsaare|||REQUIRED|||-NONE-|||0
+
+S Aga mul on väike probleem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lasteaias puudub eesti keel õpetaja , kes hästi räägib eesti keeles .
+A 3 4|||R:NOM:FORM|||keele|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||räägiks|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||räägiks hästi|||REQUIRED|||-NONE-|||0
+
+S Mina tahan , et sellel päeval lapsed kuulavad hea ja tore eesti keel .
+A 7 8|||R:LEX:VERB:FORM|||kuuleksid|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||kuuleksid lapsed|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||toredat|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||keelt|||REQUIRED|||-NONE-|||0
+
+S Ma tahan küsida , kas teil on võimalus abistada mulle selles probleemis ?
+A 5 6|||R:NOM:FORM|||te|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX:VERB:FORM|||saaksite|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||probleemiga|||REQUIRED|||-NONE-|||0
+A 8 12|||R:WO|||mind selle probleemiga abistada|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||võimalik|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||probleemiga|||REQUIRED|||-NONE-|||1
+A 8 12|||R:WO|||mind selle probleemiga abistada|||REQUIRED|||-NONE-|||1
+
+S Kas teil on oma plaani sellel päeval ?
+A 3 4|||R:NOM:FORM|||omi|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||plaane|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||selleks|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||päevaks|||REQUIRED|||-NONE-|||0
+
+S Lugemispäev toimub reedel , kaheksandal veebruaril , kell kaks .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Palun , kirjutage mulle reedeni , sest kui teil ei ole võimalusi abistada , ma pean lahendada probleemi teisepoolest .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||reedeks|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||võimalust|||REQUIRED|||-NONE-|||0
+A 12 12|||M:LEX|||mind|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||pean ma|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM|||lahendama|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||teisiti||teistmoodi|||REQUIRED|||-NONE-|||0
+A 16 19|||R:WO|||probleemi teisiti||teistmoodi lahendama|||REQUIRED|||-NONE-|||0
+
+S Ma tahan lisada , et sellel päeval meil on suur tasuta lõunasööki pakkumine .
+A 7 9|||R:WO|||on meil|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||lõunasöögi|||REQUIRED|||-NONE-|||0
+
+S Teil on võimalus koos õpetajaga süüa .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Samuti ma tahan suhelda teiga ja pakkuda töökoht lasteaias , eesti keele õpetajana .
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||teiega|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||teiega suhelda|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||töökohta|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ma ootan teie kiri !
+A 3 4|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||0
+
+S Usun , et head inimesed ja toredad õpetajad tahavad osaleda integratsiooni programmis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ootan teid meie lasteaias !
+A 3 4|||R:NOM:FORM|||lasteaeda|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega , Alisa ---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud hooldamise juhataja
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 3|||R:WS|||hooldamisjuhataja|||REQUIRED|||-NONE-|||1
+A 1 3|||R:LEX|||hooldusjuht|||REQUIRED|||-NONE-|||2
+
+S Mul on kaebus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tahan pöörduda Teie poole .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nagu te teate , eelmisel aastal te sõlmisite tänavate ja parkide hooldamiseks lepingu uue teenusepakkujaga .
+A 4 4|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||siis sõlmisite te eelmisel aastal|||REQUIRED|||-NONE-|||0
+
+S Ma ei ole üldse firma " Tee ja auto " tööga rahul .
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:CASE|||Auto|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:CASE|||Auto|||REQUIRED|||-NONE-|||1
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 11|||R:WO|||firma Tee ja Auto tööga üldse|||REQUIRED|||-NONE-|||1
+
+S Minu pöördumise põhjus on selles , et talvel oli palju lund .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Parkimiskohad olid täis lumis , mis segas elanikutele , kellel on oma autod .
+A 3 4|||R:NOM:FORM:SPELL|||lund|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||lund täis|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM:SPELL|||elanikke|||REQUIRED|||-NONE-|||0
+
+S Firma " Tee ja auto " korristab lund väga harva .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:CASE|||Auto|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM:SPELL|||koristas|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:CASE|||Auto|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||koristab|||REQUIRED|||-NONE-|||1
+
+S Minu arvates , te peate sellele oma tähelepanu pöörduma .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||peate te|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||pöörama|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||peate te|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||pöörama|||REQUIRED|||-NONE-|||1
+
+S Kes jälgib , kuidas firma teeb oma tööd ?
+A 5 8|||R:WO|||oma tööd teeb|||REQUIRED|||-NONE-|||0
+
+S Kuidas on võimalik olukorra lahendada ?
+A 3 4|||R:NOM:FORM|||olukorda||olukord|||REQUIRED|||-NONE-|||0
+
+S Ma loodan , et kohalik omavalitsus määrab inimest , kes saab kontrollida firma " Tee ja auto " tööd iga päev .
+A 7 8|||R:NOM:FORM|||inimese|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||R:CASE|||Auto|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 21|||R:WO|||firma Tee ja Auto tööd iga päev kontrollida|||REQUIRED|||-NONE-|||0
+
+S Loodan , et teete midagi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lugupidamisega , Kadri --- , linnaelanik tel . ---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud , meie kohalikku omavalitsuse esindaja .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kohaliku|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||kohaliku|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||!|||REQUIRED|||-NONE-|||1
+
+S Mina olen Juta --- , meie linna põhja rajooni elanik .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 9|||R:WS|||põhjarajooni|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||põhjapoolse|||REQUIRED|||-NONE-|||2
+
+S Tahan pöörduda teile kaebusega .
+A 2 3|||R:NOM:FORM:CASE|||Teie|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||poole|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM:CASE|||Teie|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||poole|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||Teie poole pöörduda|||REQUIRED|||-NONE-|||1
+
+S Selgitan minu pöördumise põhjust :
+A 1 2|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Eelmisel aastal meie kohalik omavalitsus sõlmis tänavate ja parkide hooldamiseks lepingu uue teenusepakkujaga .
+A 2 6|||R:WO|||sõlmis meie kohalik omavalitsus|||REQUIRED|||-NONE-|||0
+
+S Tahan teada Teid , et ei ole rahul tööga selle firma
+A 1 2|||R:LEX|||teavitada|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||Teid teavitada|||REQUIRED|||-NONE-|||0
+A 7 11|||R:WO|||selle firma tööga rahul|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||teavitada|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||Teid teavitada|||REQUIRED|||-NONE-|||1
+A 8 11|||R:WO|||selle firma tööga|||REQUIRED|||-NONE-|||1
+A 11 11|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||anda|||REQUIRED|||-NONE-|||2
+A 2 3|||R:NOM:FORM|||Teile|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||Teile teada anda|||REQUIRED|||-NONE-|||2
+A 7 11|||R:WO|||selle firma tööga rahul|||REQUIRED|||-NONE-|||2
+A 11 11|||M:PUNCT|||.|||REQUIRED|||-NONE-|||2
+
+S Ma jälgisin peaaegu terve aasta ja tulin kokkuvõtteks , et on vaja midagi muuta .
+A 2 2|||M:LEX|||neid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:NOM:FORM|||järeldusele|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||neid|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||jõudsin|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX:NOM:FORM|||järeldusele|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||nende tööd||nende tegevust|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||jõudsin|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||järeldusele|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||midagi on vaja|||REQUIRED|||-NONE-|||1
+
+S Asi on selles , et see firma ei täita oma teenust , nii hästi ja korralikult , kui oli kirjanud lepingu järgi .
+A 8 9|||R:LEX|||paku|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||R:VERB:FORM:SPELL|||kirjutatud|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||lepingus|||REQUIRED|||-NONE-|||0
+A 21 22|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 21|||R:WO|||lepingus kirjutatud|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||täida|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||kohustusi|||REQUIRED|||-NONE-|||1
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 20|||R:LEX:SPELL|||kirjas|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||lepingus|||REQUIRED|||-NONE-|||1
+A 21 22|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||täida|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX|||kohustusi|||REQUIRED|||-NONE-|||2
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 19 20|||R:LEX:SPELL|||lubatud|||REQUIRED|||-NONE-|||2
+
+S Näiteks : talvel tänavadel ja parkidel olid suured hanged , millest tekkisid avariid ja ohlikuid situatsiooneid .
+A 3 4|||R:SPELL|||tänavatel|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||parkides|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||olid tänavatel ja parkides|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM:SPELL|||ohtlikud|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM:SPELL|||situatsioonid|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||tänavatel|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||parkides|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||olid talvel tänavatel ja parkides|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM:SPELL|||ohtlikud|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM:SPELL|||situatsioonid|||REQUIRED|||-NONE-|||1
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||R:SPELL|||tänavatel|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||parkides|||REQUIRED|||-NONE-|||2
+A 2 7|||R:WO|||olid talvel tänavatel ja parkides|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||2
+A 11 12|||R:LEX|||tekitasid|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||avariisid|||REQUIRED|||-NONE-|||2
+A 14 15|||R:SPELL|||ohtlikke|||REQUIRED|||-NONE-|||2
+A 15 16|||R:SPELL|||situatsioone|||REQUIRED|||-NONE-|||2
+
+S Sügisel tänavad olid ka väga mustad .
+A 1 3|||R:WO|||olid tänavad|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||olid ka tänavad|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Ka sügisel olid tänavad||Tänavad olid ka sügisel|||REQUIRED|||-NONE-|||2
+
+S Aga suvel oli nii palju tolmu ja sori , et see häiris meie elu .
+A 7 8|||R:SPELL|||sodi|||REQUIRED|||-NONE-|||0
+
+S Loodan , et Te üle vaadate selle firmaga lepingut ja aidake olukorra lahendada .
+A 5 6|||R:SPELL|||vaatate|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||firma|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||lepingu|||REQUIRED|||-NONE-|||0
+A 4 9|||R:WO|||vaatate selle firma lepingu üle|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||aitate|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||vaatate|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||vaatate üle|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||lepingu|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||lepingu selle firmaga|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||aitate|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||olukorda|||REQUIRED|||-NONE-|||1
+
+S Lugupidamisega , J. ---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud omavalitsuse juhataja !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S mina olen Karl --- , elan aderssil : Mustakivi tee --- , korter --- .
+A 0 1|||R:CASE|||Mina|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||aadressil|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mina pöördun Teie juurde sellise probleemiga .
+A 3 4|||R:LEX|||poole|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||poole|||REQUIRED|||-NONE-|||1
+
+S Eelmisest aastast meie tänavate ja parkide hooldustööd teostatakse uue firmaga " Mugav linn " .
+A 6 7|||R:NOM:FORM|||hooldustöid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||teostab|||REQUIRED|||-NONE-|||0
+A 2 8|||R:WO|||teostab meie tänavate ja parkide hooldustööd|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||uus|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||firma|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||R:CASE|||Linn|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tahaksin märkida , et teenuste kvaliteet muutus halvemaks
+A 6 7|||R:VERB:FORM|||on muutunud|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Teed on must , parkimiskohad halvas seisundis .
+A 2 3|||R:NOM:FORM|||mustad|||REQUIRED|||-NONE-|||0
+
+S Nad pole märgitud selgelt ja õigesti , invaliidi koht ei ole värvitud sinise värviga , märkust ei ole .
+A 0 1|||R:LEX|||Need|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||selgelt ja õigesti märgitud|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS|||invaliidikoht|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||märki|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Need|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||selgelt ja õigesti märgitud|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WS|||invaliidikoht|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||siniseks|||REQUIRED|||-NONE-|||1
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||siniseks värvitud|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX:NOM:FORM|||märk|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||on|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||puudu|||REQUIRED|||-NONE-|||1
+
+S Asfaalt on kahjustustega ja nii edasi , ja nii edasi - te teate kõik ise .
+A 0 1|||R:SPELL|||Asfalt|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||kõike|||REQUIRED|||-NONE-|||0
+
+S Koristamise tööd teostatakse ainult kord nädalas kella neljast hommikul vaatamata sellele , et kõik magavad sellel ajal .
+A 1 2|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||0
+A 14 17|||R:WO|||sellel ajal magavad|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WS|||Koristustöid|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||sel|||REQUIRED|||-NONE-|||1
+A 14 17|||R:WO|||sel ajal magavad|||REQUIRED|||-NONE-|||1
+
+S Meie peres on kaks last ning nad ei saa magada pärast sellist koristamist kuni hommikuni .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tean et teenustasu muutus suuremaks , kas Teie saaksite selgitada meie elanikutele miks nii toimus ?
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 7 8|||R:CASE|||Kas|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM:SPELL|||elanikele|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||tehti||juhtus|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM:SPELL|||elanikele|||REQUIRED|||-NONE-|||1
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||tehti||juhtus|||REQUIRED|||-NONE-|||1
+
+S Ma elan selles majas juba kolmkümmend aastat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Varem ma millegi ei kohtunud samasuguse probreemidega .
+A 2 3|||R:LEX|||iialgi||kunagi|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma ei ole varem iialgi|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kohanud|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||samasugust|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||probleemi|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||samasugust probleemi kohanud|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||millalgi|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||ei ole ma millalgi|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||kohanud|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||samasugust|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||probleemi|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||samasugust probleemi kohanud|||REQUIRED|||-NONE-|||1
+
+S Palun läbi vaadata lepingutingimusi , kutsuda omanikukoosolekut ja lahendada kõik küsimusi järgmise kuu jooksul
+A 3 4|||R:NOM:FORM|||lepingutingimused|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||lepingutingimused läbi vaadata|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||kokku|||REQUIRED|||-NONE-|||0
+A 6 7|||R:WS:NOM:FORM|||omanike koosolek|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||küsimused|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Ootan Teie vastust telefooni teel ---- või e-mailile ---@hot.ee
+A 3 4|||R:SPELL|||telefoni|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||e-postile|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||telefoni|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Tervitades , Karl ---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tere , lugupeedud Kadri --- .
+A 2 3|||R:SPELL|||lugupeetud|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||lugupeetud|||REQUIRED|||-NONE-|||1
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||lugupeetud|||REQUIRED|||-NONE-|||2
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Mina olen Juta --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma elan Kundas oma majas Pargi --- .
+A 5 5|||M:LEX|||aadressil|||REQUIRED|||-NONE-|||0
+
+S Eelmisel aastal meie linnas oli vahetanud tänavate ja parkide hooldus firma .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||vahetus|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||vahetus meie linnas|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WS|||hooldusfirma|||REQUIRED|||-NONE-|||0
+
+S Mina ei ole rahul uue firma " Puhas loodus " tööga .
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:CASE|||Loodus|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S See firma töötab meie linnas juba pool aasta .
+A 7 8|||R:NOM:FORM|||aastat|||REQUIRED|||-NONE-|||0
+
+S Nad hakkasid oma tegevus oktoobrist 2017 a .
+A 1 2|||R:LEX|||alustasid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||tegevust|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||2017 . a oktoobrist|||REQUIRED|||-NONE-|||0
+
+S See aastas sadas palju lund .
+A 0 1|||R:NOM:FORM|||Sellel||Sel|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||0
+
+S Firma peab puhastada kõik teed .
+A 2 3|||R:VERB:FORM|||puhastama|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||kõik teed puhastama|||REQUIRED|||-NONE-|||0
+
+S Nad teevad seda , aga traktorijuhid lükkavad lumi kokku minu värava ees .
+A 7 8|||R:NOM:FORM|||lume|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||ette|||REQUIRED|||-NONE-|||0
+
+S Pärast seda mina pean puhastada oma trotuariosa .
+A 2 4|||R:WO|||pean mina|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||puhastama|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kõnniteeosa|||REQUIRED|||-NONE-|||0
+
+S Mina olen vana inimene ja minu jaoks see on väga raske .
+A 7 9|||R:WO|||on see|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||on see|||REQUIRED|||-NONE-|||1
+
+S Ma provisin rääkida traaktorijuhiga , aga tema ei kuule mind .
+A 1 2|||R:SPELL|||proovisin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||traktorijuhiga|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||kuula|||REQUIRED|||-NONE-|||0
+
+S Linnas räägitakse , et see probleem ei ole ainult mul .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu naabrinaine tütar Liis käib lasteaeda .
+A 1 2|||R:NOM:FORM|||naabrinaise|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||lasteaias|||REQUIRED|||-NONE-|||0
+
+S Tema ema ütles ka , kui hommikuti kell pool kaheksa nad tulevad lasteaeda juurde , seal ei ole veel trotuaar puhas .
+A 5 5|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||lähevad|||REQUIRED|||-NONE-|||0
+A 6 12|||R:WO|||nad lähevad hommikuti kell pool kaheksa|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||lasteaia|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||siis ei ole seal|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||kõnnitee|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||et|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||lähevad|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||lasteaia|||REQUIRED|||-NONE-|||1
+A 6 14|||R:WO|||nad hommikuti kell pool kaheksa lasteaia juurde lähevad|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||ei ole seal|||REQUIRED|||-NONE-|||1
+A 19 20|||R:LEX|||kõnnitee|||REQUIRED|||-NONE-|||1
+
+S Minu arvates , on vaja vahetada traktorijuhi , kui tema ei oska korralikult oma töö teha .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||traktorijuhti|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||traktorijuhti|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||1
+
+S Palun rääkige see firma juhatajaga .
+A 2 3|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+
+S Mina ootan Teie vastu .
+A 3 4|||R:NOM:FORM|||vastust|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||vastust|||REQUIRED|||-NONE-|||1
+
+S Juta --- 15.02.2018a
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tere !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S lugupeetud ametnikud !
+A 0 1|||R:CASE|||Lugupeetud|||REQUIRED|||-NONE-|||0
+
+S Eelmisel aastal Te sõlmisite lepingu , mille kohustused on linna tänavate ja parkide hooldamine .
+A 2 4|||R:WO|||sõlmisite Te|||REQUIRED|||-NONE-|||0
+
+S Mina , nagu linnaelanik , arvan , et firma ei täidetud oma kohustused .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||kui|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||täitnud|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||kohustusi|||REQUIRED|||-NONE-|||0
+
+S Ma ei ole nende tööga rahul jargmistel põhjustel .
+A 6 7|||R:SPELL|||järgmistel|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PUNCT|||:|||REQUIRED|||-NONE-|||0
+
+S 1. Talvel firma töötajad algavad kõnniteed puhastamine ainult kell 9.00.
+A 4 5|||R:LEX|||alustavad|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||alustavad firma töötajad|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kõnniteede|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||puhastamisega||puhastamist|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||alles|||REQUIRED|||-NONE-|||0
+
+S See on väga hilja .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Inimesed käivad tööl või lapsed koolis on sunnitud minna uppudes põlveni lumes või porises .
+A 6 6|||M:LEX|||ja||ning|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||nad|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||minema|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||põlvini|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||lumme|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM:SPELL|||porisse|||REQUIRED|||-NONE-|||0
+
+S See mitte ainult ebamugav ja raske aga veel on väga ohtlik , sellepärast lume all peitakse jää .
+A 1 1|||M:LEX|||pole|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||ka|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||on ka|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX:SPELL|||peidus|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||pole|||REQUIRED|||-NONE-|||1
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||ka|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||on ka|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||et|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX:SPELL|||peitub|||REQUIRED|||-NONE-|||1
+
+S 2. Varem töötanud firma kõik korjanud linna tänavadel lumi veedas linna väljaspoole .
+A 4 5|||R:LEX|||kogu|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||korjas|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM:SPELL|||tänavatelt|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||lume|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||vedas|||REQUIRED|||-NONE-|||0
+A 4 9|||R:WO|||korjas linna tänavatelt kogu lume|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||linnast|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kogu|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||korjas|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WS:NOM:FORM:SPELL|||linnatänavatelt|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||kokku|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||lume|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||vedas|||REQUIRED|||-NONE-|||1
+A 4 9|||R:WO|||korjas linnatänavatelt kokku kogu lume|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||linnast|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||välja|||REQUIRED|||-NONE-|||1
+
+S Aga uus firma kogub teda ühile hunnikule ( võin öelda ühele mäele ) linna piiril .
+A 4 5|||R:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM:SPELL|||ühte|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||hunnikusse|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||ühte|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||mäkke|||REQUIRED|||-NONE-|||0
+
+S Seda teha ei tohi .
+A 1 4|||R:WO|||ei tohi teha|||REQUIRED|||-NONE-|||0
+
+S Lapsed ronivad ja jooksevad sellel mäes aga see on samuti väga ohtlik .
+A 5 6|||R:NOM:FORM|||mäel|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Olen kindel , et sarnased ja teised pretensioonid on ka teistel linnaelanikudel .
+A 11 12|||R:SPELL|||linnaelanikel||linnaelanikkudel|||REQUIRED|||-NONE-|||0
+
+S Ning neid on palju .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga firma töötab linnas ainult kolm kuud .
+A 5 6|||R:NOM:FORM|||kolmandat|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||alles|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||kolmandat|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Sellepärast mul on ettepanek .
+A 1 3|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+
+S Korraldada koosolekut , kus linnaelanikud võiksid kohtuda firma esindajatega ja arutleda tekkitud probleemid .
+A 1 2|||R:NOM:FORM|||koosolek|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||arutada|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM:SPELL|||tekkinud|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||probleeme|||REQUIRED|||-NONE-|||0
+
+S Loodan Teie kiire vastust .
+A 1 2|||R:NOM:FORM|||Teilt|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||kiiret|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega , Sergei --- +372--- ---@mail.ee
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tere !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kirjutan Teile palvega tänavate ja parkide hooldamist firmat vahetada , sest ma ei ole selle firma tööga rahul .
+A 6 7|||R:NOM:FORM|||hooldamise|||REQUIRED|||-NONE-|||0
+A 3 9|||R:WO|||vahetada tänavate ja parkide hooldamise firmat|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||hooldamise|||REQUIRED|||-NONE-|||1
+
+S Mind häirib see asi , et mul on väike laps , kellel on vaja pärist lõunat magama , aga lõuna ajal algatakse tanävate pesemine ja parkide kohtade hooldamine .
+A 14 15|||R:SPELL|||pärast|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM|||magada|||REQUIRED|||-NONE-|||0
+A 21 22|||R:LEX:SPELL|||alustatakse|||REQUIRED|||-NONE-|||0
+A 22 23|||R:SPELL|||tänavate|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||pesemist|||REQUIRED|||-NONE-|||0
+A 26 27|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 27 28|||R:NOM:FORM|||hooldamist|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||pärast|||REQUIRED|||-NONE-|||1
+A 16 17|||R:VERB:FORM|||magada|||REQUIRED|||-NONE-|||1
+A 21 22|||R:LEX:SPELL|||alustatakse|||REQUIRED|||-NONE-|||1
+A 22 23|||R:SPELL|||tänavate|||REQUIRED|||-NONE-|||1
+A 23 24|||R:NOM:FORM|||pesemist|||REQUIRED|||-NONE-|||1
+A 26 27|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 27 28|||R:NOM:FORM|||hooldamist|||REQUIRED|||-NONE-|||1
+
+S Tore on see , et hooldamine tehakse , aga aeg selleks on ebamugav .
+A 5 6|||R:NOM:FORM|||hooldamist|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||hooldamist|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||on selleks|||REQUIRED|||-NONE-|||1
+
+S Kohalik omavalitsus sõlmis ainult eelmisel aastal uue teenuspakkujaga lepingu .
+A 3 4|||R:LEX|||alles|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||teenusepakkujaga|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||lepingu uue teenusepakkujaga|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||alles|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||teenusepakkujaga|||REQUIRED|||-NONE-|||1
+
+S Võib olla seda ebamugavust hooldamise ajaga saab lahendada .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||saab seda ebamugavust hooldamise ajaga|||REQUIRED|||-NONE-|||0
+
+S Minu ettepanek on selline , äkki saab meil tänavate ja parkide hooldamise aja muuta hommikupooliku ajaks .
+A 5 5|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||hommikupoolsemaks|||REQUIRED|||-NONE-|||0
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||:|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||meie|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||tõsta|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||hommikupoolikule|||REQUIRED|||-NONE-|||1
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Hommikul kõik inimesed on tööl , lapsed lähevad kooli ja see oleks tore aeg tänavate ja parkide hooldamiseks , sest parkide kohad on põhimõtteliselt tühjad .
+A 1 4|||R:WO|||on kõik inimesed|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||pargid|||REQUIRED|||-NONE-|||0
+A 21 22|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Loodan Teie arusaamise eest ja loodan , et minu palve leiab lahenduse tänavate ja parkide hooldamise aja vahetamiseks .
+A 2 3|||R:NOM:FORM|||arusaamisele|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 18|||R:WO|||tänavate ja parkide hooldamise aja vahetamiseks leiab lahenduse|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Tänan|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||Teid|||REQUIRED|||-NONE-|||1
+A 10 18|||R:WO|||tänavate ja parkide hooldamise aja vahetamiseks leiab lahenduse|||REQUIRED|||-NONE-|||2
+
+S Teie linna elanik .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Alina .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud omavalitsuse ametnik , kirjutan teile kaebusega , sest hakkasin märkama , et meie tänavate ja parkide hooldamise tase hakkas halvenema .
+A 3 5|||U:PUNCT|||Kirjutan|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||kuidas|||REQUIRED|||-NONE-|||0
+
+S Ma ei ole rahul sellega , et vähenesid parkimiskohad autodele ja kui ma oma lastedega sõidan pargisse jalutamas , siis ma isegi ei tea kuhu oma auto jätta , sest vaba kohte üldse ei ole .
+A 3 5|||R:WO|||sellega rahul|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||lastega|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||sõidan oma lastega|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||0
+A 17 18|||R:VERB:FORM|||jalutama|||REQUIRED|||-NONE-|||0
+A 24 24|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 26 27|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||0
+A 30 31|||R:NOM:FORM|||vabu|||REQUIRED|||-NONE-|||0
+A 31 32|||R:SPELL|||kohti|||REQUIRED|||-NONE-|||0
+
+S Teine põhjus on see , et parkides ja tänavatel ei ole uusi laste mänguplatse .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eile jalutasime lastedega ja märkasime , et vanad mänguplatsid on juba katki tehtud ja lastedele seal oma aega veeta on väga ohtlik .
+A 2 3|||R:SPELL|||lastega|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||lastel|||REQUIRED|||-NONE-|||0
+A 15 22|||R:WO|||on seal väga ohtlik oma aega veeta|||REQUIRED|||-NONE-|||0
+
+S Kolmas põhjus on see , et tänavates ja parkides on palju prügi , aga prügikaste leidub seal väga vähe .
+A 6 7|||R:NOM:FORM|||tänavatel|||REQUIRED|||-NONE-|||0
+
+S Inimesed viskavad erinevaid pabereid rohile , erinevaid purge ja muu prügi .
+A 4 5|||R:SPELL|||rohule|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||rohule erinevaid pabereid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||purke|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||muud|||REQUIRED|||-NONE-|||0
+
+S Lahendamisele pakkun teile luua rohkem parkimiskohti autodele või üldse ehitada üks suur parkla .
+A 0 1|||R:LEX|||Lahenduseks|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||pakun|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||teil|||REQUIRED|||-NONE-|||0
+
+S Luua uusi mänguplatse lastedele , kas või korvpalliplatsi või jalgpalliplatsi , ja loomulikult panna rohkem prügikaste , et jalutada oli meeldiv ja õhk parkides oli puhas .
+A 3 4|||R:SPELL|||lastele|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||lastele uusi mänguplatse|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||korvpalliplats|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||jalgpalliplats|||REQUIRED|||-NONE-|||0
+A 19 20|||R:VERB:FORM|||oleks|||REQUIRED|||-NONE-|||0
+A 24 25|||R:VERB:FORM|||oleks|||REQUIRED|||-NONE-|||0
+
+S Väga loodan , et te loete mu kaebuse ja muudate seda olukorra .
+A 7 8|||R:NOM:FORM|||kaebust|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||olukorda|||REQUIRED|||-NONE-|||0
+
+S Mul tuleb väga meeldiv .
+A 1 2|||R:LEX|||oleks|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud omavalitsus !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma olen meie linna elanik Viktor --- ning ma olen mures teenusepakkujaga lepungu , mis Te sõlmisite eelmisel aastal pärast .
+A 11 12|||R:NOM:FORM|||teenusepakkuja|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||lepingu|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||0
+A 13 20|||R:WO|||pärast , mille Te eelmisel aastal sõlmisite|||REQUIRED|||-NONE-|||0
+
+S See firma vastas meie linna tänavate ja parkide hooldamise eest ning ma ei jäänud rahule selle firma tööga .
+A 2 3|||R:LEX:VERB:FORM|||vastutab|||REQUIRED|||-NONE-|||0
+A 14 18|||R:WO|||selle firma tööga rahule|||REQUIRED|||-NONE-|||0
+
+S Nagu teenusepakkumise firma rääkis , et kõik meie tänavad on puhas ja korras nende firma töötamise ajal , aga park on restavreeritud .
+A 1 2|||R:LEX|||teenusepakkuja|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Teenusepakkuja|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||puhtad|||REQUIRED|||-NONE-|||0
+A 6 17|||R:WO|||nende firma töötamise ajal on kõik meie tänavad puhtad ja korras|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||restaureeritud|||REQUIRED|||-NONE-|||0
+
+S Aga seda ei juhtinud ning isegi vastupidi , et meie linna tänavatel on palju prügi ning ei keegi ei korista seda , aga park ei olnud restavreeritud ning seisukord pargis praegu halvem , kui viis aastat tagasi .
+A 3 4|||R:SPELL|||juhtunud|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 26 27|||R:SPELL|||restaureeritud|||REQUIRED|||-NONE-|||0
+A 30 30|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 32 33|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||juhtunud|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||R:PUNCT|||-|||REQUIRED|||-NONE-|||1
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 23 24|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||1
+A 22 24|||R:WO|||parki aga|||REQUIRED|||-NONE-|||1
+A 25 26|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 26 27|||R:SPELL|||restaureeritud|||REQUIRED|||-NONE-|||1
+A 30 30|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 28 30|||R:WO|||pargis on seisukord|||REQUIRED|||-NONE-|||1
+A 32 33|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Praegu pargis on ka nii palju prügi , samuti pargis puuduvad isegi istukohad , sest kõik need on rakendatud .
+A 1 3|||R:WO|||on pargis|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||puuduvad pargis|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||istekohad|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||rakenduses|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on pargis|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||puuduvad pargis|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||istekohad|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||need on kõik|||REQUIRED|||-NONE-|||1
+A 18 19|||R:LEX:VERB:FORM|||kasutuses|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on pargis|||REQUIRED|||-NONE-|||2
+A 9 11|||R:WO|||puuduvad pargis|||REQUIRED|||-NONE-|||2
+A 12 13|||R:SPELL|||istekohad|||REQUIRED|||-NONE-|||2
+A 15 18|||R:WO|||need on kõik|||REQUIRED|||-NONE-|||2
+A 18 19|||R:LEX|||võetud|||REQUIRED|||-NONE-|||2
+
+S Samuti meie pargis ei ole paigaldatud prügikorve ning inimesed viskavad ära prügi kuhu nad tahavad .
+A 2 3|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||ei ole meie parki|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||prügi ära|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Järgmine põhjus selles , et meie linnas olid kaks lapseplatsi , aga see firma arvas , et need ei olnud sobivad kohad laste jaoks ning praegu need puuduvad ja mitte midagi ei ehitati nende lapseplatside asemel .
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||lasteplatsi|||REQUIRED|||-NONE-|||0
+A 20 24|||R:WO|||laste jaoks sobivad kohad|||REQUIRED|||-NONE-|||0
+A 32 33|||R:VERB:FORM|||ehitatud|||REQUIRED|||-NONE-|||0
+A 34 35|||R:NOM:FORM|||lasteplatside|||REQUIRED|||-NONE-|||0
+A 35 36|||R:LEX|||asemele|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 7 8|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||mänguväljakut|||REQUIRED|||-NONE-|||1
+A 34 35|||R:LEX:NOM:FORM|||mänguväljakute|||REQUIRED|||-NONE-|||1
+A 35 36|||R:LEX|||asemele|||REQUIRED|||-NONE-|||1
+
+S Minu arvates omavalitsusel on vaja vahetada teenusupakkujat meie linna tänavate ja parkide hooldamiseks .
+A 2 4|||R:WO|||on omavalitsusel|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||teenusepakkujat|||REQUIRED|||-NONE-|||0
+
+S Loodan , Te teete midagi selle probleemi lahendamiseks .
+A 2 2|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega , Viktor --- , linna kodanik
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WS|||linnakodanik|||REQUIRED|||-NONE-|||1
+
+S Tere , lugupeetud omavalistuse liiged !
+A 3 4|||R:SPELL|||omavalitsuse|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||liikmed|||REQUIRED|||-NONE-|||0
+
+S Eelmisel aastal meie omavalitsus sõlmis tänavate ja parkide hooldamiseks lepingu uue teenusefirmaga nimega " Uus täht " .
+A 2 5|||R:WO|||sõlmis meie omavalitsus|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:CASE|||Täht|||REQUIRED|||-NONE-|||0
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mina olen maja omanik ja elan Piiri tänaval ( maja number --- ) , kus firma " Uus täht " on renoveerinud teed .
+A 2 4|||R:WS|||majaomanik|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||majas|||REQUIRED|||-NONE-|||0
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 19|||R:CASE|||Täht|||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||teid|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WS|||majaomanik|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||majas|||REQUIRED|||-NONE-|||1
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||R:CASE|||Täht|||REQUIRED|||-NONE-|||1
+A 19 20|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 22|||R:WO|||teed renoveerinud|||REQUIRED|||-NONE-|||1
+
+S Ma ei ole selle firma tööga rahul üldse .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 6 8|||R:WO|||üldse rahul|||REQUIRED|||-NONE-|||1
+
+S Teekate kvaliteet on nii madal , et esimese vihma pärast sai tee vigu ja minu auto ratas oli parandatud .
+A 0 1|||R:NOM:FORM|||Teekatte|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||esimest|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||pärast esimest vihma|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||viga|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||ratast|||REQUIRED|||-NONE-|||0
+A 18 18|||M:LEX|||vaja|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||parandada|||REQUIRED|||-NONE-|||0
+
+S Õnneks , mul on kasko kindlustus , aga omavastutus minu paketis on 200 eurot , mida ma pean maksma oma taskust igal juhul .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WS|||kaskokindlustus|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||on minu paketis|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||on mul|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WS|||kaskokindlustus|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||1
+
+S Mina pöördasin kohe firma " Uus täht " poole ja sain vastus , et see on täiesti minu süüdi : mina ei olnud piisavalt ettevaatlik .
+A 1 2|||R:SPELL|||pöördusin|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CASE|||Täht|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||vastuse|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||süü|||REQUIRED|||-NONE-|||0
+
+S See on aga vale !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul on autojuhiluba juba 20 aastat ja ma ei olnud mitte kordagi liiklusõnnestuses .
+A 12 13|||R:SPELL|||liiklusõnnetuses|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||pole|||REQUIRED|||-NONE-|||0
+A 9 13|||R:WO|||mitte kordagi liiklusõnnetuses olnud|||REQUIRED|||-NONE-|||0
+
+S Lisan , et teised autoomanikud on ka ei ole selle firma tööga .
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||ei ole ka|||REQUIRED|||-NONE-|||0
+A 12 12|||M:LEX|||rahul|||REQUIRED|||-NONE-|||0
+
+S Nad on valmis seda tõdema .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu arvates , olukorra võiks lahendada sellisel viisil .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||võiks olukorra|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||sellisel viisil lahendada|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||võiks olukorra|||REQUIRED|||-NONE-|||1
+
+S Firma " Uus täht " viib mulle tagasi 200 eurot , mida ma kaotasin nende töö parast , omavalitsus aga sõlmib sellel aastal teise firma uue lepungu .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:CASE|||Täht|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||annab|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||pärast|||REQUIRED|||-NONE-|||0
+A 24 25|||R:NOM:FORM|||firmaga|||REQUIRED|||-NONE-|||0
+A 26 27|||R:SPELL|||lepingu|||REQUIRED|||-NONE-|||0
+
+S Mina pakun firma " Suitsupääsuke " .
+A 2 3|||R:NOM:FORM|||firmat|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 2 2|||R:LEX|||välja|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Lugupidamisega , NS.
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tere , Eeva !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vabanda mind , et nii palju aega ei kirjutanud Sulle .
+A 5 6|||R:LEX|||pikka|||REQUIRED|||-NONE-|||0
+A 9 10|||R:CASE|||sulle|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||ole kirjutanud|||REQUIRED|||-NONE-|||0
+A 4 10|||R:WO|||ei ole nii pikka aega sulle kirjutanud|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||pikka|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||ole kirjutanud|||REQUIRED|||-NONE-|||1
+A 9 10|||R:CASE|||sulle|||REQUIRED|||-NONE-|||1
+A 4 10|||R:WO|||ei ole sulle nii pikka aega kirjutanud|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||pikka|||REQUIRED|||-NONE-|||2
+A 8 9|||R:VERB:FORM|||ole kirjutanud|||REQUIRED|||-NONE-|||2
+A 4 10|||R:WO|||ei ole nii pikka aega Sulle kirjutanud|||REQUIRED|||-NONE-|||2
+
+S Kahjuks mul ei olnud aega ja võimalust , aga nüüd istun ja kirjutan .
+A 3 3|||M:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei ole mul olnud|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei olnud mul|||REQUIRED|||-NONE-|||1
+
+S Tahan kirjutada Sulle sellest , et paar päeva tagasi ma leidsin raamatuid ja vanaid ajakirje .
+A 2 3|||R:CASE|||sulle|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||leidsin ma|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||vanu|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||ajakirju|||REQUIRED|||-NONE-|||0
+A 2 3|||R:CASE|||sulle|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||sulle kirjutada|||REQUIRED|||-NONE-|||1
+A 6 11|||R:WO|||ma leidsin paar päeva tagasi|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM:SPELL|||vanu|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||ajakirju|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||leidsin ma|||REQUIRED|||-NONE-|||2
+A 13 14|||R:SPELL|||vanu|||REQUIRED|||-NONE-|||2
+A 14 15|||R:SPELL|||ajakirju|||REQUIRED|||-NONE-|||2
+
+S Õnneks ma lugesin kõik neid raamatuid läbi juba kaks aastat tagasi ning tahan küsida Sinu käest , kas keegi tahaks neid endale ?
+A 1 3|||R:WO|||lugesin ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||0
+A 14 15|||R:CASE|||sinu|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||sinu käest küsida|||REQUIRED|||-NONE-|||0
+A 22 23|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||Ma lugesin õnneks|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||1
+A 14 15|||R:CASE|||sinu|||REQUIRED|||-NONE-|||1
+A 13 16|||R:WO|||sinu käest küsida|||REQUIRED|||-NONE-|||1
+A 22 23|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||lugesin ma|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||2
+A 13 16|||R:WO|||Sinu käest küsida|||REQUIRED|||-NONE-|||2
+A 22 23|||R:PUNCT|||.|||REQUIRED|||-NONE-|||2
+
+S Rammatud on väga erinevad .
+A 0 1|||R:SPELL|||Raamatud|||REQUIRED|||-NONE-|||0
+
+S On raamatud nii lastele kui ka täiskasvanutele .
+A 1 2|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+
+S Raamatute seas on väga huvitavad eesti teosed , eesti lasteraamat " Sipsik " , inglise keelsed muinasjutud , prantsuse keelne klaasika ja isegi hiina keele õpik .
+A 14 16|||R:WS|||ingliskeelsed|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WS|||prantsuskeelne|||REQUIRED|||-NONE-|||0
+A 20 21|||R:SPELL|||klassika|||REQUIRED|||-NONE-|||0
+
+S Selleks , et need raamatud endale saada on vaja kirjutada kiri mulle , kus on kirjutatud miks need raamatud peavad olema just sellel inimestel .
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||mulle kiri|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 20|||R:WO|||peavad need raamatud|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||inimesel|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||mulle kiri|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||kuhu|||REQUIRED|||-NONE-|||1
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 17 20|||R:WO|||peavad need raamatud|||REQUIRED|||-NONE-|||1
+A 20 21|||R:LEX|||minema|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||1
+A 23 24|||R:NOM:FORM|||inimesele|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 10 12|||R:WO|||mulle kiri|||REQUIRED|||-NONE-|||2
+A 15 16|||R:LEX|||öeldud||seletatud|||REQUIRED|||-NONE-|||2
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 17 20|||R:WO|||peavad need raamatud|||REQUIRED|||-NONE-|||2
+A 23 24|||R:NOM:FORM|||inimesel|||REQUIRED|||-NONE-|||2
+
+S Kiri peab olema umbes 100 sõna ning kelle kiri mulle meeldib kõige rohkem , siis see inimene saab need väljaandeid endale .
+A 6 6|||M:LEX|||pikk|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||see|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 14 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||väljaanded|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||pikk|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||see inimene|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||kõige rohkem meeldib|||REQUIRED|||-NONE-|||1
+A 14 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 20|||R:NOM:FORM|||väljaanded|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Kirjas|||REQUIRED|||-NONE-|||2
+A 7 8|||R:LEX|||kui|||REQUIRED|||-NONE-|||2
+A 10 13|||R:WO|||kõige rohkem meeldib|||REQUIRED|||-NONE-|||2
+A 15 17|||R:WO|||saab see inimene|||REQUIRED|||-NONE-|||2
+A 19 20|||R:NOM:FORM|||väljaanded|||REQUIRED|||-NONE-|||2
+
+S Tahaksin küsida Sinu käest , kas Sul on niisugused sõbrad või sugulased , kellele meeldib lugeda raamatuid ja ajakirju ?
+A 2 3|||R:CASE|||sinu|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CASE|||sul|||REQUIRED|||-NONE-|||0
+A 19 20|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 2 3|||R:CASE|||sinu|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||sinu käest küsida|||REQUIRED|||-NONE-|||1
+A 6 7|||R:CASE|||sul|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||niisuguseid|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||sõpru|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||sugulasi|||REQUIRED|||-NONE-|||1
+A 15 19|||R:WO|||raamatuid ja ajakirju lugeda|||REQUIRED|||-NONE-|||1
+A 19 20|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||Sinu käest küsida|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||niisuguseid|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||sõpru|||REQUIRED|||-NONE-|||2
+A 11 12|||R:NOM:FORM|||sugulasi|||REQUIRED|||-NONE-|||2
+A 19 20|||R:PUNCT|||.|||REQUIRED|||-NONE-|||2
+
+S Vaatamata sellele , kui mitte keegi ei soovi neid raamatuid , mida siis teha ?
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE- Kui|||REQUIRED|||-NONE-|||0
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 14|||R:WO|||Mida siis teha , kui mitte keegi ei soovi neid raamatuid|||REQUIRED|||-NONE-|||1
+
+S Anda palun nõu .
+A 0 1|||R:VERB:FORM|||Anna|||REQUIRED|||-NONE-|||0
+A 0 1|||R:VERB:FORM|||Anna|||REQUIRED|||-NONE-|||1
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 0 1|||R:VERB:FORM|||Anna|||REQUIRED|||-NONE-|||2
+A 0 2|||R:WO|||Palun anna|||REQUIRED|||-NONE-|||2
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||2
+
+S Ootan Sinust vastust .
+A 1 2|||R:NOM:FORM:CASE|||sinu||sinult|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:CASE|||sinu||sinult|||REQUIRED|||-NONE-|||1
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||Sinu||Sinult|||REQUIRED|||-NONE-|||2
+
+S Parimate soovidega , Polina
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Kallid sõbrad !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eelmisel nädalal mina korrastasin oma raamaturiiuleid ja leidsin raamatuid ning ( ja ) ning ajakirju , mida ei vaja minule .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 17 20|||R:WO|||ma ei vaja|||REQUIRED|||-NONE-|||0
+
+S Ma tahan neid ära anda Teile .
+A 2 3|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 5 6|||R:CASE|||teile|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||teile ära anda|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 3 6|||R:WO|||Teile ära anda|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||2
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 3|||R:CASE|||teile|||REQUIRED|||-NONE-|||2
+A 4 6|||R:WO|||teile anda|||REQUIRED|||-NONE-|||2
+
+S Põhiliselt need raamatud on juba loetud minuga .
+A 1 4|||R:WO|||on need raamatud|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||mul juba loetud|||REQUIRED|||-NONE-|||0
+
+S Raamatud on armastusest , ajaloost ja loomadest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ajakirjad on väga huvitavad naiste jaoks , peamiselt need on moest ja ilust .
+A 2 6|||R:WO|||naiste jaoks väga huvitavad|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||on need|||REQUIRED|||-NONE-|||0
+
+S Seal on väga palju soovitusi kuidas hoolitseda oma välimuse eest .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 10|||R:WO|||oma välimuse eest hoolitseda|||REQUIRED|||-NONE-|||1
+
+S Oleks tore , kui keegi tahaks neid lugeda ja võtta endale .
+A 9 11|||R:WO|||endale võtta|||REQUIRED|||-NONE-|||0
+
+S Kas Te tahaksite neid saada ?
+A 1 2|||R:CASE|||te|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kui Teil on selline soov , siis saatke palun mulle mailiga missugust huvitavat ja naljast fotot .
+A 1 2|||R:CASE|||teil|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||meiliga|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||mingisugune|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||huvitav|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||naljakas|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||foto|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||meiliga|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||mingisugune|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||huvitav|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||naljakas|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||foto|||REQUIRED|||-NONE-|||1
+
+S Siis mina saan aru , et Te tahaksite saada minu kirjandust .
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CASE|||te|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S ja siis me otsustame , kuidas ja millal mina saan ära anda need Teile !
+A 0 1|||R:CASE|||Ja|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 13 14|||R:CASE|||teile|||REQUIRED|||-NONE-|||0
+A 10 14|||R:WO|||need teile ära anda|||REQUIRED|||-NONE-|||0
+A 0 1|||R:CASE|||Ja|||REQUIRED|||-NONE-|||1
+A 10 14|||R:WO|||need Teile ära anda|||REQUIRED|||-NONE-|||1
+A 0 1|||R:CASE|||Ja|||REQUIRED|||-NONE-|||2
+A 13 14|||R:CASE|||teile|||REQUIRED|||-NONE-|||2
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||2
+A 10 14|||R:WO|||need teile anda|||REQUIRED|||-NONE-|||2
+
+S Aga kui te ei taha neid , siis andke palun mulle teada , kuidas siis mina saan neid kasutada veel .
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM|||saaks|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WO|||veel kasutada|||REQUIRED|||-NONE-|||0
+
+S Mina ootan Teie fotosid või vastust .
+A 0 1|||U:LEX|||Ootan|||REQUIRED|||-NONE-|||0
+A 2 3|||R:CASE|||teie|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 0 1|||U:LEX|||Ootan|||REQUIRED|||-NONE-|||1
+A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Heade soovidega , Teie Alisa .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:CASE|||teie|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Head sõbrad !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Paar päeva tagasi ma leidsin oma raamaturiiulitel raamatuid ja ajakirju , mida mulle enam ei vaja .
+A 3 5|||R:WO|||leidsin ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||raamaturiiulitelt|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+
+S Need raamatud seotud remondiga , kuna ma tegin 3 aastat tagasi remondi nii köögis kui ka magamistoas ja tol ajal võtsin raamatud endale , aga minu remont on tehtud ja tahan ära anda neid .
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||remonti|||REQUIRED|||-NONE-|||0
+A 20 21|||R:LEX|||ostsin|||REQUIRED|||-NONE-|||0
+A 20 23|||R:WO|||endale raamatud ostsin|||REQUIRED|||-NONE-|||0
+A 33 34|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 31 34|||R:WO|||need ära anda|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||remonti|||REQUIRED|||-NONE-|||1
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 33 34|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 31 34|||R:WO|||need ära anda|||REQUIRED|||-NONE-|||1
+
+S Ajakirjad moest , mulle ka ei vaja , sest olen lahkunud oma abikaasaga ja praegu elan üksinda .
+A 0 1|||R:NOM:FORM|||Ajakirju|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||lahutanud|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||abikaasast|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||oma abikaasast lahutanud|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX:NOM:FORM|||Moeajakirju|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||pole|||REQUIRED|||-NONE-|||1
+A 3 7|||R:WO|||pole mulle ka vaja||mulle ka vaja pole|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||lahutanud|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||abikaasast|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||oma abikaasast lahutanud|||REQUIRED|||-NONE-|||1
+A 14 17|||R:WO|||elan praegu üksinda|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX:NOM:FORM|||Moeajakirju|||REQUIRED|||-NONE-|||2
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||2
+A 6 6|||M:LEX|||ole|||REQUIRED|||-NONE-|||2
+A 3 7|||R:WO|||mul ka vaja ei ole|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX|||lahutanud|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||abikaasast|||REQUIRED|||-NONE-|||2
+A 10 13|||R:WO|||oma abikaasast lahutanud|||REQUIRED|||-NONE-|||2
+A 14 17|||R:WO|||elan praegu üksinda|||REQUIRED|||-NONE-|||2
+
+S Abikaasale meeldis lugeda ajakirjad .
+A 3 4|||R:NOM:FORM|||ajakirju|||REQUIRED|||-NONE-|||0
+
+S Võibolla keegi tahaks endale neid võtta ?
+A 1 1|||M:PUNCT|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tahaks keegi|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||need endale|||REQUIRED|||-NONE-|||0
+
+S Mul on pakkumiseks mitu laadi väljaandeid , näiteks vinüül ja mänguasjad .
+A 2 3|||R:LEX|||pakkuda|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mitut|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||asju|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||vinüüle|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||mänguasju|||REQUIRED|||-NONE-|||0
+
+S Need on kõik normaalses seisundis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei kasuta neid 5 aastat , aga nad sobivad kasutamiseks .
+A 2 2|||M:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||kasutanud|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||neid kasutanud|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+A 2 3|||R:VERB:FORM|||kasutanud|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||ole neid 5 aastat kasutanud|||REQUIRED|||-NONE-|||1
+
+S Kui keegi tahab endale midagi saada , siis mul on huvitav ülesanne teie jaoks .
+A 3 5|||R:WO|||midagi endale|||REQUIRED|||-NONE-|||0
+A 10 14|||R:WO|||teie jaoks huvitav ülesanne|||REQUIRED|||-NONE-|||0
+A 10 14|||R:WO|||teie jaoks huvitav ülesanne|||REQUIRED|||-NONE-|||1
+
+S Kiri lõpus ma jään manusena ristsõna , mis koostas ise .
+A 0 1|||R:NOM:FORM|||Kirja|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||lõppu|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||jätan|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||jätan ma|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||koostasin|||REQUIRED|||-NONE-|||0
+
+S On vaja selgitada milline on peasõna ristsõnas ja saada mulle meili või SMS-i kaudu .
+A 2 2|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||lahendus|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||ristsõna|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||ristsõna lahendus|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||saata|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||see|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||SMS-iga|||REQUIRED|||-NONE-|||0
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tahan kusida veel teie käest , et mida teha raamatute ja ajakirjadega , mida keegi ei soovi .
+A 1 2|||R:SPELL|||küsida|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||teie käest veel küsida|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ma tahan viia neid taaskasutuskeskusesse , kes asub minu maja juures .
+A 3 4|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||need viia|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||mis|||REQUIRED|||-NONE-|||0
+
+S Mida te arvate selle kohta ?
+A 3 4|||R:NOM:FORM|||sellest|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||sellest arvate|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||selle kohta arvate|||REQUIRED|||-NONE-|||1
+
+S Ootan teie vastust Sergei --- .
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S tel . ---
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tere , Liis !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See kirjutab Polina .
+A 0 1|||R:NOM:FORM|||Seda|||REQUIRED|||-NONE-|||0
+
+S Kuidas sul lähed ?
+A 2 3|||R:VERB:FORM|||läheb|||REQUIRED|||-NONE-|||0
+
+S Mul on uudis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ostsin eile uue korteri ja tahan kutsuda sind külastada mind .
+A 9 10|||R:VERB:FORM|||külastama|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||ennast|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||ennast külastama|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||sind kutsuda|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX:VERB:FORM|||külla|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||omale|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||omale külla|||REQUIRED|||-NONE-|||1
+
+S Aga mul on üks pakkumine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hiljuti ma korrastasin oma raamaturiiuleid ja leidsin raamatuid ja ajakirju , mida mulle rohkem ei vaja ja tahan need ära anda .
+A 1 3|||R:WO|||korrastasin ma|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ma korrastasin hiljuti|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||mistõttu|||REQUIRED|||-NONE-|||1
+
+S Sa tead , et ma väga armastan lugeda .
+A 5 7|||R:WO|||armastan väga|||REQUIRED|||-NONE-|||0
+
+S Mul on väga palju huvitavaid raamatuid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Erinevad romaanid , detektiived , muinasjuttud ja palju ajakirju .
+A 3 4|||R:LEX:SPELL|||krimiromaanid||kriminullid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||muinasjutud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX:SPELL|||detektiivikad|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||muinasjutud|||REQUIRED|||-NONE-|||1
+
+S Kui sa soovid midagi , siis kirjuta mulle ja ma toon neid ise sulle .
+A 2 4|||R:WO|||midagi soovid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+
+S Kui ei taha , siis sa võid küsida oma lähedaselt , võib olla keegi tahab .
+A 9 10|||R:NOM:FORM|||lähedastelt|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+
+S Ei taha neid prügi viia , sest et selled raamad väga huvitavad .
+A 3 4|||R:LEX|||prügikasti||prügimäele|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||raamatud|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||ära|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||visata|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||raamatud|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+
+S Raamat see on hea sõber .
+A 1 1|||M:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kui keegi ei soovi neid , siis ei tea , mida nendega teha .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 7|||M:LEX|||ma|||REQUIRED|||-NONE-|||1
+
+S Võib olla sa tead ?
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+
+S Kuhu ma võin raamatuid ja ajakirju viia , et nad oli kasulikud .
+A 9 10|||R:LEX|||need|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||oleksid|||REQUIRED|||-NONE-|||0
+A 12 13|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
+
+S Võib olla raamatukogusse ?
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+
+S Ei tea täpselt , aga mõtlen , et meie linnas raamatukogu ei võtta nii vanad raamat .
+A 5 6|||R:LEX|||arvan||usun|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||linna|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||võta|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||arvan||usun|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||linna|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||taha||soovi|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||vastu|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||1
+A 12 16|||R:WO|||nii vanu raamatuid vastu võtta|||REQUIRED|||-NONE-|||1
+
+S Sa võid küsida oma linnas ?
+A 0 0|||M:LEX|||Kas sa|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||saaksid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||linnast|||REQUIRED|||-NONE-|||0
+
+S Raamad väga head ja ma annan kõik tasuta .
+A 0 1|||R:SPELL|||Raamatud|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||ära|||REQUIRED|||-NONE-|||0
+
+S Suur aitäh , et sa kirjutasid mulle .
+A 7 8|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||mulle kirjutasid|||REQUIRED|||-NONE-|||1
+A 7 8|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Ootan sinu vastust .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ja soovin edu .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Sinu hea tuttav Polina .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tere minu kallis sõbrad !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||kallid|||REQUIRED|||-NONE-|||0
+
+S Mul on teile väga huvitav uudis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eelmisel nädalavahetusel mina koristasin oma suvilas .
+A 2 4|||R:WO|||koristasin mina|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kujutage ette , et viimasel korusel mu kahekorulises majas katuse all mina leidsin vana raamaturiiuleid , kus olid palju raamatuid ja ajakirju .
+A 3 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||korrusel|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM:SPELL|||kahekorruselise|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||maja|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||alt|||REQUIRED|||-NONE-|||0
+A 4 13|||R:WO|||mina leidsin oma kahekorruselise maja viimasel korrusel katuse alt|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||vanad|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||raamaturiiulid|||REQUIRED|||-NONE-|||0
+A 17 18|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||0
+A 3 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||viimaselt|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM:SPELL|||korruselt|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||oma|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM:SPELL|||kahekorruselise|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||maja|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||alt|||REQUIRED|||-NONE-|||1
+A 4 13|||R:WO|||mina leidsin oma kahekorruselise maja viimaselt korruselt katuse alt|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||raamaturiiuleid|||REQUIRED|||-NONE-|||1
+A 17 18|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||1
+
+S Kohe mina lõpetasin korristamist ja hakkan lugema kuni õhtuni .
+A 0 3|||R:WO|||Mina lõpetasin kohe|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||koristamise|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||hakkasin|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Lõpetasin kohe|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM:SPELL|||koristamise|||REQUIRED|||-NONE-|||1
+A 5 6|||R:VERB:FORM|||hakkasin|||REQUIRED|||-NONE-|||1
+
+S Kui te teate mina tahaks müüa oma suvila ja mina ei tahaks müüa need raamatuid ja ajakirju .
+A 0 1|||R:LEX|||Kuid|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||suvilat|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||oma suvilat müüa|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 12 17|||R:WO|||neid raamatuid ja ajakirju müüa|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Kuid|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||et|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||suvilat|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||aga|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||1
+
+S Sest sellisel riiulil on seisavad meie " ajaloo " ja " lapsepõlv " , täpsemalt öelda , iga raamat ja ajakirju mina tahaks hoida ja anda headekätte .
+A 1 2|||R:LEX|||sellel|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||seisab|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ajalugu|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||öeldes|||REQUIRED|||-NONE-|||0
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||raamatut|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||ajakirja|||REQUIRED|||-NONE-|||0
+A 17 23|||R:WO|||tahaks mina iga raamatut ja ajakirja|||REQUIRED|||-NONE-|||0
+A 26 27|||R:WS:NOM:FORM|||headesse kätesse|||REQUIRED|||-NONE-|||0
+
+S Mina pakkun kohtuda järgmisel nägalavahetusel minu juures suvilas , veedame aega looduses ja te valite endale mida teile meeldib .
+A 1 2|||R:SPELL|||pakun|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||nädalavahetusel|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||0
+
+S Kui te ei taha võtta raamat tasuta , siis pakkun teile valida mida anda mulle raamatu vastu .
+A 5 6|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||raamatuid tasuta võtta|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||lasen|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||teil|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||raamatute|||REQUIRED|||-NONE-|||0
+A 13 17|||R:WO|||mulle raamatute vastu anda|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||raamatut|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||raamatut tasuta võtta|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||lasen|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||teil|||REQUIRED|||-NONE-|||1
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 17|||R:WO|||mulle raamatu vastu anda|||REQUIRED|||-NONE-|||1
+
+S Ootan teid !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul oleks rõõm teid näha veel kord , nii et me juba ammu ei kohtunud koos !
+A 4 7|||R:WO|||veel kord näha|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||sest|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||ei ole juba ammu kohtunud|||REQUIRED|||-NONE-|||0
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Teie sõber , Sergei !
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud lugemisefännid !
+A 1 2|||R:SPELL|||lugemisfännid|||REQUIRED|||-NONE-|||0
+
+S Pöördun Teie poole niisuguses olukorras : hiljuti korrastasin oma ramaturiiuleid ja leidsin palju raamatuid ja ajakirju , mida mul enam ei vaja .
+A 9 10|||R:SPELL|||raamaturiiuleid|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||raamaturiiuleid|||REQUIRED|||-NONE-|||1
+A 21 21|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+
+S Nüüd tahan need ära anda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kes leiaks keegi , kes tahaks neid endale võtta ?
+A 0 1|||R:LEX|||Kas|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||leidub||leiduks|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Kas|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||kedagi|||REQUIRED|||-NONE-|||1
+
+S Kõik raamatud ja ajakirjad on korras .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nende hulgas on laste muinasjutud , 2-3 romaani ja hästi palju detektiive ( raseduse ajal olin nendest huvitatud ja seepärast paljud neist on ostetud , ära loetud ja riiulile pandud ) .
+A 11 12|||R:LEX|||detektiivromaane||kriminaalromaane|||REQUIRED|||-NONE-|||0
+
+S Ajakirjad on mul erinevates teemades .
+A 3 4|||R:NOM:FORM|||erinevatel|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||teemadel|||REQUIRED|||-NONE-|||0
+
+S On moeajakirju ( " Cosmopolitan " , " Ilu ja tervis " , " Žanna " ) , loodusest ja teadusest on terve kast " National Geographic " ajakirju , on veel palju lasteajakirju nagu " Murzilka " ja " Naznaika " .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||R:CASE|||Tervis|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 25|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 26 27|||R:NOM:FORM|||Geographicu|||REQUIRED|||-NONE-|||0
+A 27 28|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 30 32|||R:WO|||veel on|||REQUIRED|||-NONE-|||0
+A 35 36|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 37 38|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 39 40|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 41 42|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Kui keegi tahab midagi endale saada , kirjutage mulle meili või leidke mind Facebook'ist ( seal on veel postitus raamatute fotodega ) , vastan kindlasti !
+A 9 10|||R:NOM:FORM|||meil||meilile|||REQUIRED|||-NONE-|||0
+A 19 21|||R:WO:NOM:FORM|||fotodega raamatutest|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||Facebookist|||REQUIRED|||-NONE-|||0
+
+S P.S. kas keegi teab , mida teha nende raamatute ja ajakirjadega , mida keegi ei soovi ?
+A 1 2|||R:CASE|||Kas|||REQUIRED|||-NONE-|||0
+
+S Oleks väga tänulik kui vastaksite !
+A 0 1|||R:VERB:FORM|||Oleksin|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega Mari ---
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tere Liis !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Tahaksin sinu poolt nõu küsida .
+A 1 2|||R:NOM:FORM|||sinult|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Asi on selles , et leidsin hiljuti oma raamaturiulitest üsna palju raamatuid ja ajakirju , mida enam ei ole vaja ning ei tea mida nendega praegu teha .
+A 8 9|||R:SPELL|||raamaturiiulitest|||REQUIRED|||-NONE-|||0
+A 20 20|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Nende hulgas on koolisõnastikud , raamatud , mis on seotud kooli kirjanduse prograamiga ning palju detektiive .
+A 12 13|||R:SPELL|||programmiga|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||krimiromaane|||REQUIRED|||-NONE-|||0
+
+S Minu lapsed on juba täiskasvanud , aga detektiivid on lugenud juba ammu kolm korga läbi .
+A 7 8|||R:LEX|||krimiromaanid|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||loetud|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||korda|||REQUIRED|||-NONE-|||0
+A 9 15|||R:WO|||juba ammu kolm korda läbi loetud|||REQUIRED|||-NONE-|||0
+
+S Lapselapsed ka veel ei ole ning ma ei taha seda enam säilitada .
+A 0 1|||R:NOM:FORM|||Lapselapsi|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+
+S Ma pakuksin kõik neid raamatuid hea meelega kellelegi , kellele need läheks kasuks .
+A 2 3|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||0
+A 11 13|||R:LEX:WO|||kasuks oleks|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||neist|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||kasu|||REQUIRED|||-NONE-|||1
+A 11 13|||R:LEX:WO|||kasu oleks|||REQUIRED|||-NONE-|||1
+
+S Kas sul on sõbrad või tuttavad , kellel lapsed käivad koolis ?
+A 3 4|||R:NOM:FORM|||sõpru|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||tuttavaid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kelle|||REQUIRED|||-NONE-|||0
+
+S Ma annan kõik välja tasuta .
+A 3 4|||R:LEX|||ära|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||tasuta ära|||REQUIRED|||-NONE-|||0
+
+S Las nad ainult tulevad ise autoga ning võtavad kõik , mis on meeldib .
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Muide , kui ma õigesti mäletan , sinu sõbranna Kati töötab koolis õpetajana .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 7|||M:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 7 11|||R:WO|||töötab sinu sõbranna Kati|||REQUIRED|||-NONE-|||2
+
+S Kas sa võid küsida tema käest , võib olla tohib pakkuda kooliraamatuid kooli raamatukogule .
+A 2 3|||R:LEX|||saad|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||tema käest küsida|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+
+S Kui see oleks võimalik , see oleks , minu arvamust kõige parem probleemi lahendamine .
+A 5 7|||R:WO|||oleks see|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||arvates||arust|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||lahendus|||REQUIRED|||-NONE-|||0
+
+S Aga mida teha vanade detektiividega ja ülejäänute vanade ajakirjadega ma hoopis ei tea .
+A 4 5|||R:LEX|||krimiromaanidega|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||ülejäänud|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||krimiromaanidega|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||ülejäänud|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||küll|||REQUIRED|||-NONE-|||1
+
+S Mida sa arvad , kui ma panen neid karbisse ja paigutan aknalaua peale trepikodus .
+A 7 8|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||karpi|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||trepikotta aknalaua peale|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM:SPELL|||trepikotta|||REQUIRED|||-NONE-|||0
+A 14 15|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
+
+S Äkki keegi naabritest tunneb huvi nende vastu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Või see on rumal idee ning on parem kõike otsekohe prüügi kasti panna ?
+A 8 9|||R:NOM:FORM|||kõik|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WS:SPELL|||prügikasti|||REQUIRED|||-NONE-|||0
+
+S Jään sinu arvamust ootades .
+A 3 4|||R:VERB:FORM:SPELL|||ootama|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM:SPELL|||ootama|||REQUIRED|||-NONE-|||1
+
+S Parimatega , Liina .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Parimat|||REQUIRED|||-NONE-|||1
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Tere Karl ,
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Ma leidsin oma raamaturiilist raamatud mis kahjuks enam ei huvita või ei meeldi mulle .
+A 3 4|||R:SPELL|||raamaturiiulist|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||mind|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||mulle ei meeldi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||raamaturiiulist|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||mind|||REQUIRED|||-NONE-|||1
+A 11 14|||R:WO|||mulle ei meeldi|||REQUIRED|||-NONE-|||1
+
+S Kuna ma tean et sina ja Paul olete raamatufännid , siis mul on teile väga huvitav pakkumine juhul kui te olete nõus neid raamatuid endale saada .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||0
+A 25 26|||R:VERB:FORM|||saama|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 20 22|||R:LEX|||soovite||tahate|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 25 26|||R:VERB:FORM|||saama|||REQUIRED|||-NONE-|||2
+
+S Et mu raamatutelist , ned mida ma ära annan , on selline :
+A 0 2|||U:LEX|||Mu|||REQUIRED|||-NONE-|||0
+A 2 3|||R:WS|||raamatute list|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PUNCT|||–|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||need|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PUNCT|||–|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Mu|||REQUIRED|||-NONE-|||1
+A 2 3|||R:WS|||raamatute list|||REQUIRED|||-NONE-|||1
+A 3 4|||R:PUNCT|||–|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||need|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||R:PUNCT|||–|||REQUIRED|||-NONE-|||1
+A 0 2|||U:LEX|||Mu|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX:WS|||raamatute nimekiri|||REQUIRED|||-NONE-|||2
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM:SPELL|||neist|||REQUIRED|||-NONE-|||2
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||mille|||REQUIRED|||-NONE-|||2
+
+S Kõik 2017 aasta Top Geari ajalehed .
+A 1 2|||R:SPELL|||2017 .|||REQUIRED|||-NONE-|||0
+
+S Kõik minu raamatud 1980ate muusikast ( 69 tükki ) , kõik minu raamatud mis seletavad kuidas Clash Royale'i mängida ( 5 tükki ) ja siis annan ka ära kogu oma Playboy ajakirjad ( nalja teen , mul ei ole ühtegi neid Playboy ajakirju ... ) .
+A 3 4|||R:SPELL|||1980ndate|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 28 29|||R:LEX|||kõik|||REQUIRED|||-NONE-|||0
+A 40 41|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 42 43|||R:NOM:FORM|||ajakirja|||REQUIRED|||-NONE-|||0
+
+S Ning et kui midagi siin teid huvitab siis on see väga lihtne , helistate mulle mobiili peale ja siis leppime kokku aja millal te tulete ja millal ma annan neid raamatuid teie kätte .
+A 1 3|||U:LEX|||Kui|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||lepime|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 29 30|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 30 31|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||0
+
+S Aga palun proovige mitte liiga vara hommikul helistada eks ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Juhul kui mingi raamat siin teid ei huvita , kas on teiega okei kui ma neid lihtsalt ära viskan ?
+A 11 12|||R:NOM:FORM|||teile|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||teile on|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+
+S Kui ei , siis kas te saate küsida kellegilt kes neid huvitaks et neid neile anda ?
+A 8 9|||R:SPELL|||kelleltki|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||neist|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||huvituks|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||keda|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+
+S Kena päeva sulle .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S D. ---
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tere tuttavad !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Mul on teile üks pakkumine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma korrastasin hiljuti oma raamaturiiuleid ning leidsin raamatuid ja ajakirju , mida mul enam ei vaja ja tahaksin need ära anda .
+A 12 13|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+
+S Ma leidsin väga palju erinevat ajakirjandust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Esiteks , ma võin pakkuda laste raamatuid , näiteks " Sipsik " ja teised lühikesed jutud .
+A 5 7|||R:WS|||lasteraamatuid|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WS|||lasteraamatuid|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||teisi|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WS:NOM:FORM|||lühijutte|||REQUIRED|||-NONE-|||1
+
+S Vanaisa mul jäi vene raamatuid .
+A 0 1|||R:NOM:FORM|||Vanaisast||Vanaisalt|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||jäi mulle|||REQUIRED|||-NONE-|||0
+
+S Kahjuks , vene keelt ma ei oska , aga ma kuulsin , et Dostojevksi , Gogol , Puškin ja Lermontov kirjutasid väga ilusalt ja põnevalt .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||ma ei oska vene keelt|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||olen kuulnud|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||Dostojevski|||REQUIRED|||-NONE-|||0
+
+S Siis , kes oskab vene keelt ja kes natuke huvitatud vene kultuurist , palun , võtke .
+A 0 1|||R:LEX|||Niisiis||Seega|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 8 12|||R:WO|||vene kultuurist natuke huvitatud|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 16|||M:LEX|||need|||REQUIRED|||-NONE-|||0
+
+S Mul on veel kirjandus , mida ma juba lugesin .
+A 3 4|||R:NOM:FORM|||kirjandust|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||olen lugenud|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||olen juba lugenud|||REQUIRED|||-NONE-|||0
+
+S Mõned raamatud sellistest on minu lemmikud , aga mulle ei meeldi lugeda raamatut mitu korda .
+A 2 3|||R:LEX|||nendest|||REQUIRED|||-NONE-|||0
+A 12 12|||M:LEX|||ühte|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||nendest|||REQUIRED|||-NONE-|||1
+
+S Minu lemmikutele raamatudele kuluvad Orwell " 1984 " , Jack London'i ja Steven King'i raamatud .
+A 1 2|||R:NOM:FORM|||lemmikute|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||raamatute|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||hulka|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||kuuluvad|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||Orwelli|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||Londoni|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||Kingi|||REQUIRED|||-NONE-|||0
+
+S Peale selle , ma tahtsin teil küsida nõu .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||tahtsin ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||teilt|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||nõu küsida|||REQUIRED|||-NONE-|||0
+
+S Mida teha raamatute ja ajakirjadega , mida keegi ei soovi ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Võib olla , teil on tuttavad , kellel on huvi neid võtta , või teil on raamatukogude kontaktid .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||on teil|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||tuttavaid|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||kontakte|||REQUIRED|||-NONE-|||0
+
+S Siis , kui te tahate minu raamatuid saada - helistage --- ja pärast tulge minu juurde .
+A 8 9|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Kui|||REQUIRED|||-NONE-|||1
+
+S Minu aadress on Pae --- , Tallinn .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ootan vastust !
+A 1 1|||M:LEX|||teie|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Lugupidamisega Sergei ---
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lugupeetud hr --- ,
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Meie asutuse sünnipäevaks plaanitakse välja anda asutust tutvustav raamat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me mõtlesime kolleegide ringis , millised mõtted on meil oma asutuse kohta .
+A 6 7|||R:LEX|||mälestused|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||asutusest|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ma tulin sellesse asutusse töötama juba 6 aastat tagasi .
+A 4 5|||R:LEX|||tööle|||REQUIRED|||-NONE-|||0
+
+S Minu vana töökoha ülemus pakkus mul teie kollektiivi tulla , sest siin on väga sõbralik tööõhkkond .
+A 4 5|||R:LEX|||soovitas|||REQUIRED|||-NONE-|||0
+
+S Meie asutuses töötavad enesekindlad , viisakad ja töökad inimesed .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma leidsin siin palju uut sõpru , kes võib aidata , kui ma palusin neid .
+A 4 5|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||võivad|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB:FORM|||palun|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||neid palun|||REQUIRED|||-NONE-|||0
+
+S Mulle see atmosfäär kollektiivis väga meeldib ja ma tulen tööle iga päev hea meelega , eriti kui on vaja teha palju töid .
+A 9 14|||R:WO|||iga päev hea meelega tööle|||REQUIRED|||-NONE-|||0
+
+S Ma soovin kõike head meie asutusele .
+A 2 6|||R:WO|||meie asutusele kõike head|||REQUIRED|||-NONE-|||0
+
+S Minu meelest , 10-15 aasta pärast asutus võiks olla samasugune , võib olla midagi uuendab , aga õhkkond jääb samaks .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO|||võiks asutus 10-15 aasta pärast|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||uuendatakse|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||jääks|||REQUIRED|||-NONE-|||0
+
+S See on väga tähtis , et te tunnete huvi oma mõtte kohta .
+A 9 10|||R:LEX|||meie|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||mõtete|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||vastu|||REQUIRED|||-NONE-|||0
+
+S Ma olen väga rõõmus , et töötan selle asutuses .
+A 7 8|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega , Liina --- .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Personalijuhile kiri .
+A 0 2|||R:WO|||Kiri personalijuhile|||REQUIRED|||-NONE-|||0
+
+S Tere , Tõnis , kirjutan teile seda lühike kiri , et tahaksin saata oma mõtteid oma asutuse kohta uue raamatu jaoks .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 4 5|||R:CASE|||Kirjutan|||REQUIRED|||-NONE-|||0
+A 5 6|||R:CASE|||Teile|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||lühikese|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||sest|||REQUIRED|||-NONE-|||0
+A 12 21|||R:WO|||uue raamatu jaoks oma asutuse kohta oma mõtteid saata|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||lühikese|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||sest|||REQUIRED|||-NONE-|||1
+A 12 21|||R:WO|||uue raamatu jaoks oma asutuse kohta oma mõtteid saata|||REQUIRED|||-NONE-|||1
+
+S Mul on huvi rääkida , kuidas mina üldse sattusin sellesse asutusse töötama .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minul olid probleemid eelmises töökohas kollektiiviga ja mul pole võimalusi uut kohta leida , aga üks minu sõber soovitan minna sinna ja vestelda direktoriga , seda ma tegin ja praegu mul on nii hästi amet .
+A 2 5|||R:WO|||eelmises töökohas probleemid kollektiiviga|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||polnud|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||võimalust|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||soovitas|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||tulla|||REQUIRED|||-NONE-|||0
+A 20 21|||R:LEX|||siia|||REQUIRED|||-NONE-|||0
+A 30 32|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+A 33 34|||R:LEX|||hea|||REQUIRED|||-NONE-|||0
+
+S Meie kollektiivis on ainult elurõõmsad ja abivalmsad inimesed , mulle sajaprotsendiliselt meeldib see asi .
+A 6 7|||R:SPELL|||abivalmid|||REQUIRED|||-NONE-|||0
+
+S Tööõhkkond on ka muidugi , parem , kui teistes kohtades kus ma töötasin .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldib , arvatavasti , kõik mida meil on , siin ka väikesed probleemid on ka olemas , aga neid me parandame kõik koos .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||0
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 17|||R:WO|||on ka väikesed probleemid olemas|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 21 22|||R:LEX|||lahendame|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WO|||lahendame me|||REQUIRED|||-NONE-|||0
+
+S Usun , et 10-15 aasta pärast võivad olla siin ainult head muutused , võimalikult ehitati kõrval ilust parki , võib olla palk saab rohkem , ei tea , aga soovin ainult head .
+A 11 12|||R:LEX|||muudatused|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||võimalik|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||ehitatakse|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||kõrvale|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||kõrvale ehitatakse|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM:SPELL|||ilus|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||park|||REQUIRED|||-NONE-|||0
+A 19 21|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||palka|||REQUIRED|||-NONE-|||0
+A 21 24|||R:WO|||saab rohkem palka|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||muudatused|||REQUIRED|||-NONE-|||1
+A 19 21|||R:LEX|||võib-olla||võibolla|||REQUIRED|||-NONE-|||1
+A 14 15|||R:VERB:FORM|||ehitatakse|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||kõrvale|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WO|||kõrvale ehitatakse|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM:SPELL|||ilus|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||park|||REQUIRED|||-NONE-|||1
+A 19 21|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||palka|||REQUIRED|||-NONE-|||1
+A 21 24|||R:WO|||saab rohkem palka|||REQUIRED|||-NONE-|||1
+
+S Sellega ma lõpetan , ootan teie vastust , kas oli minu kiri kasulik või mitte ?
+A 3 4|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 5 6|||R:CASE|||Teie|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||minu kiri oli|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||minu kiri oli|||REQUIRED|||-NONE-|||1
+
+S Viktor .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lugupeetud Kadri --- !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eile mul oli hea meel , et meie asutuse sünnipäevaks plaanitakse välja anda asutust tutvustav raamat , sest töötajatel on palju erinevad loost , mis on seotud meie asutusega .
+A 1 3|||R:WO|||oli mul|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||erinevaid|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||lugusid|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||oli mul|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||erinevaid|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||lugusid|||REQUIRED|||-NONE-|||1
+A 26 29|||R:WO|||meie asutusega seotud|||REQUIRED|||-NONE-|||1
+
+S Ma ka tahan oma mõtteid asutuse kohta saata .
+A 1 3|||R:WO|||tahan ka|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tahan ka|||REQUIRED|||-NONE-|||1
+A 3 8|||R:WO|||saata oma mõtteid asutuse kohta|||REQUIRED|||-NONE-|||1
+
+S Pärast põhikooli lõpetamist otsisin töö Narvas , ajalehes oli näinud , et meie linnas avatakse uus raamatukogu , pärast paar nädalat ma juba töötasin meie raamatukogus " Ühiskond " .
+A 4 5|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ajalehest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||olin|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||paari|||REQUIRED|||-NONE-|||0
+A 21 24|||R:WO|||töötasin ma juba|||REQUIRED|||-NONE-|||0
+A 26 27|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 28 29|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Paljud arvavad , et raamatupidaja töö on kergem kui teised tööd , aga see poole nii .
+A 4 5|||R:LEX|||raamatukoguhoidja|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||pole|||REQUIRED|||-NONE-|||0
+
+S Ühelt poolt see töö on kerge , sest sa ainult pead istuma ja anna raamatuid , teiselt poolt sa pead teama missugused raamatud on raamatukogus , millest need on , teatama missugused raamatud sobivad näiteks noortele , nõu anda ja sa veel pead arvutis oskama töötada .
+A 2 5|||R:WO|||on see töö|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||pead ainult|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB:FORM|||andma|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WO|||pead sa|||REQUIRED|||-NONE-|||0
+A 20 21|||R:SPELL|||teadma|||REQUIRED|||-NONE-|||0
+A 21 21|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 30 31|||R:LEX|||teadma|||REQUIRED|||-NONE-|||0
+A 38 39|||R:VERB:FORM|||andma|||REQUIRED|||-NONE-|||0
+A 41 43|||R:WO|||pead veel|||REQUIRED|||-NONE-|||0
+A 43 44|||R:NOM:FORM|||arvutiga|||REQUIRED|||-NONE-|||0
+A 43 45|||R:WO|||oskama arvutiga|||REQUIRED|||-NONE-|||0
+
+S See on väga oluline veel missugune inimene sa oled , sest me töötame kollektiivis , ja inimesed on väga sarnased , aga meie kolletiivis töötavad ainult sõbralikud , abivalmised inimesed ja me oleme kõik sõbrad .
+A 0 5|||R:WO|||Väga oluline on veel see|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 23 24|||R:SPELL|||kollektiivis|||REQUIRED|||-NONE-|||0
+A 28 29|||R:SPELL|||abivalmid|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Väga oluline on veel see|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 23 24|||R:SPELL|||kollektiivis|||REQUIRED|||-NONE-|||1
+A 27 28|||M:LEX|||ning|||REQUIRED|||-NONE-|||1
+A 28 29|||R:SPELL|||abivalmid|||REQUIRED|||-NONE-|||1
+
+S Meie tööõhkonnas töötavad ainult head inimesed , kellele on väga olulised kõik inimesed kes töötavad meie raamatukogus .
+A 1 2|||R:LEX|||töökeskkonnas|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Meil|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Meil|||REQUIRED|||-NONE-|||2
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 13|||R:LEX|||teised||kolleegid|||REQUIRED|||-NONE-|||2
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+
+S Sel aastal meil on ainult kolmas sünnipäev , aga ma olen kindel , et meie raamatukogu võib töötada rohkem kui 30 aastat .
+A 2 4|||R:WO|||on meil|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||alles|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||on meil|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||alles|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||kesta||püsida|||REQUIRED|||-NONE-|||1
+
+S Praegu meie asutuses on kõik ideaalne meie raamatukogu hoone on uus , kolme korruseline , meil on kõik uus raamatud nii eesti keeles , kui ka vene keeles ja inglise keeles , meil on ka e-leht kus võib ka raamatuid lugema ja vaadata missugused raamatud on , veel vanad raamatud ja sõnastikud ( 100 aastat vana ) , meil toimuvad ka erinevad näitused , ja kirjanikke kokkutulekud .
+A 1 4|||R:WO|||on meie asutuses|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||:|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS|||raamatukoguhoone|||REQUIRED|||-NONE-|||0
+A 11 12|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WS|||kolmekorruseline|||REQUIRED|||-NONE-|||0
+A 17 17|||M:LEX|||ka|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||uued|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 35 36|||R:LEX|||veebileht|||REQUIRED|||-NONE-|||0
+A 36 36|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 36 37|||R:LEX|||kust|||REQUIRED|||-NONE-|||0
+A 40 41|||R:VERB:FORM|||lugeda|||REQUIRED|||-NONE-|||0
+A 43 43|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 43 44|||R:NOM:FORM|||missuguseid|||REQUIRED|||-NONE-|||0
+A 44 45|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 45 45|||M:LEX|||meil|||REQUIRED|||-NONE-|||0
+A 46 47|||R:PUNCT|||. Veel|||REQUIRED|||-NONE-|||0
+A 48 48|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 48 48|||M:LEX|||meil|||REQUIRED|||-NONE-|||0
+A 48 49|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||0
+A 49 50|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 51 52|||R:NOM:FORM|||sõnastikke|||REQUIRED|||-NONE-|||0
+A 55 56|||R:NOM:FORM|||vanad|||REQUIRED|||-NONE-|||0
+A 57 58|||R:PUNCT|||. Meil|||REQUIRED|||-NONE-|||0
+A 63 64|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 65 66|||R:NOM:FORM|||kirjanike|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||on meie asutuses|||REQUIRED|||-NONE-|||1
+A 6 6|||M:PUNCT|||:|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WS|||raamatukoguhoone|||REQUIRED|||-NONE-|||1
+A 12 14|||R:WS|||kolmekorruseline|||REQUIRED|||-NONE-|||1
+A 14 15|||R:PUNCT|||;|||REQUIRED|||-NONE-|||1
+A 17 17|||M:LEX|||ka|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||uued|||REQUIRED|||-NONE-|||1
+A 23 24|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 31 32|||R:PUNCT|||;|||REQUIRED|||-NONE-|||1
+A 35 36|||R:LEX|||veebileht|||REQUIRED|||-NONE-|||1
+A 36 36|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 36 37|||R:LEX|||kust|||REQUIRED|||-NONE-|||1
+A 38 39|||R:LEX|||samuti|||REQUIRED|||-NONE-|||1
+A 40 41|||R:VERB:FORM|||lugeda|||REQUIRED|||-NONE-|||1
+A 43 43|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 43 44|||R:NOM:FORM|||missuguseid|||REQUIRED|||-NONE-|||1
+A 44 45|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||1
+A 45 45|||M:LEX|||meil|||REQUIRED|||-NONE-|||1
+A 46 47|||R:PUNCT|||;|||REQUIRED|||-NONE-|||1
+A 48 48|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 48 48|||M:LEX|||meil|||REQUIRED|||-NONE-|||1
+A 47 48|||R:WO|||meil on veel|||REQUIRED|||-NONE-|||1
+A 48 49|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||1
+A 49 50|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||1
+A 51 52|||R:NOM:FORM|||sõnastikke|||REQUIRED|||-NONE-|||1
+A 55 56|||R:NOM:FORM|||vanad|||REQUIRED|||-NONE-|||1
+A 57 58|||R:PUNCT|||;|||REQUIRED|||-NONE-|||1
+A 63 64|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 65 66|||R:NOM:FORM|||kirjanike|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||on meie asutuses|||REQUIRED|||-NONE-|||2
+A 6 6|||M:PUNCT|||. Meie|||REQUIRED|||-NONE-|||2
+A 7 9|||R:WS|||raamatukoguhoone|||REQUIRED|||-NONE-|||2
+A 11 12|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 12 14|||R:WS|||kolmekorruseline|||REQUIRED|||-NONE-|||2
+A 14 15|||R:PUNCT|||. Meil|||REQUIRED|||-NONE-|||2
+A 18 19|||R:NOM:FORM|||uued|||REQUIRED|||-NONE-|||2
+A 23 24|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 31 32|||R:PUNCT|||. Meil|||REQUIRED|||-NONE-|||2
+A 35 36|||R:LEX|||veebileht|||REQUIRED|||-NONE-|||2
+A 36 36|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 36 37|||R:LEX|||kust|||REQUIRED|||-NONE-|||2
+A 40 41|||R:VERB:FORM|||lugeda|||REQUIRED|||-NONE-|||2
+A 43 43|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 43 44|||R:NOM:FORM|||missuguseid|||REQUIRED|||-NONE-|||2
+A 44 45|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||2
+A 45 45|||M:LEX|||meil|||REQUIRED|||-NONE-|||2
+A 46 47|||R:PUNCT|||. Veel|||REQUIRED|||-NONE-|||2
+A 48 48|||M:LEX|||on|||REQUIRED|||-NONE-|||2
+A 48 48|||M:LEX|||meil|||REQUIRED|||-NONE-|||2
+A 48 49|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||2
+A 49 50|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||2
+A 51 52|||R:NOM:FORM|||sõnastikke|||REQUIRED|||-NONE-|||2
+A 55 56|||R:NOM:FORM|||vanad|||REQUIRED|||-NONE-|||2
+A 57 58|||R:PUNCT|||. Meil|||REQUIRED|||-NONE-|||2
+A 63 64|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 65 66|||R:NOM:FORM|||kirjanike|||REQUIRED|||-NONE-|||2
+
+S Tahan , et meie raamatukogus kõik jäätsid nii , nagu praegu ja 10-15 aastat pärast ka , ja meie ühiskonnas loetakse rohkem raamatuid .
+A 6 7|||R:VERB:FORM:SPELL|||jääks|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||jääks kõik|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||0
+A 20 21|||R:VERB:FORM|||loetaks|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM:SPELL|||jääks|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||1
+A 5 16|||R:WO|||jääks ka 10-15 aasta pärast kõik nii nagu praegu|||REQUIRED|||-NONE-|||1
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 21|||R:VERB:FORM|||loetaks|||REQUIRED|||-NONE-|||1
+
+S Niisugused on minu mõtteid meie asutuse kohta , võin öelda et minu arvamus oli vajalik .
+A 3 4|||R:NOM:FORM|||mõtted|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mõtted|||REQUIRED|||-NONE-|||1
+A 7 8|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 8 10|||R:LEX|||loodan|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||kasulik||asjalik||asjakohane|||REQUIRED|||-NONE-|||1
+
+S Aitäh , et ma töötan meie raamatukogus , sest ta on vajalik tänapäevase inimestele !
+A 4 4|||M:LEX|||saan|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||töötada|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||see|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||tänapäeva|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||inimesele|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||saan|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||töötada|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||see|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||tänapäevastele|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||saan|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||töötada|||REQUIRED|||-NONE-|||2
+A 9 10|||R:LEX|||see|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||tänapäeva|||REQUIRED|||-NONE-|||2
+
+S Lugupidamisega , Polina --- .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud Anna ---
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 3|||M:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Meie haiglal 2019. aastal on sünnipäev , tä töötab juba 20 aastat .
+A 2 5|||R:WO|||on 2019. aastal|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:SPELL|||see|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||on 2019. aastal|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||ta|||REQUIRED|||-NONE-|||1
+
+S Kuidas me kõik teame haigla sünnipäevaks plaanitkse välja anda tutvustav raamat , sest ma tahan kirjutada oma mõtteid asutuse kohta .
+A 0 1|||R:LEX|||Nagu|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||plaanitakse|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||plaanitakse haigla sünnipäevaks|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 16 16|||M:LEX|||teile|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Nagu|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||plaanitakse|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||plaanitakse haigla sünnipäevaks|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||seda|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||seetõttu||seepärast||mistõttu||mispärast|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
+A 15 15|||M:LEX|||teile|||REQUIRED|||-NONE-|||1
+
+S Ma olen üsna uss töötaja ning töötan haiglas vaid ühe aasta jooksul .
+A 3 4|||R:SPELL|||uus|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||olen töötanud|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||olen haiglas töötanud|||REQUIRED|||-NONE-|||0
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Alustasin töötada haiglas päras ülikooli lõppu .
+A 1 2|||R:LEX|||töötamist|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||haiglas töötamist|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||pärast|||REQUIRED|||-NONE-|||0
+
+S Mul oli väga suur rõõm , et mul pakutud töötama erakoralise meditsiini osakonnas .
+A 7 8|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||pakuti|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||tööd|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||erakorralise|||REQUIRED|||-NONE-|||0
+
+S Kuid meie töö on raske ja seal on palju stressi , mulle meeldib , et meie töökollektiiv on väga sõbralik ja abivalmis .
+A 0 1|||R:LEX|||Kuigi|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Kuigi|||REQUIRED|||-NONE-|||1
+A 6 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||väga|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||stressirohke|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||1
+
+S Tööõhkkond on väga rahulik , kõik teavad , et me töötame meeskonnas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Veel meie osakonnas eelmisel aastal oli tehtud remont , sest kõik ruumid on ilusad ja mugavad .
+A 1 6|||R:WO|||oli meie osakonnas eelmisel aastal|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||nüüd|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||on kõik ruumid|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 7|||R:VERB:FORM|||tehti|||REQUIRED|||-NONE-|||1
+A 0 7|||R:WO|||Meie osakonnas tehti veel eelmisel aastal|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||nüüd|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||on kõik ruumid|||REQUIRED|||-NONE-|||1
+
+S Kokkuvõtteks tahan öelda , et 10-15 aasta pärast meie haigla võiks olla suurem , sest meiel on palju arengu ruumi .
+A 8 11|||R:WO|||võiks meie haigla suurem olla|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||meil|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WS|||arenguruumi|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega Juta --- e-post : ---@---.ee tel . +372------
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Lugupeetud lugejaid !
+A 1 2|||R:NOM:FORM|||lugejad|||REQUIRED|||-NONE-|||0
+
+S Sel nädalal on meie asutuse sünnipäev ja ma tahaksin jutustada meie asutusest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kaks aastat tagasi ma nägin reklaami , et meie asutus otsib uusi töötajaid tööle .
+A 3 5|||R:WO|||nägin ma|||REQUIRED|||-NONE-|||0
+
+S Sest minu elukutse sobib asutusele , ma otsustasin proovida saada oma CV ja õnneks , minu kanditatuur meeldis nendele .
+A 0 1|||R:LEX|||Kuna||Et|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||sobis|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||otsustasin ma|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||saata|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||CVd|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||kandidatuur|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Kuna||Et|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||sobis|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WO|||otsustasin ma|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||saata|||REQUIRED|||-NONE-|||1
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX:SPELL|||avaldus||taotlus|||REQUIRED|||-NONE-|||1
+
+S Esimesest tööpäevast tänanpäevani mulle meeldib kõik .
+A 2 3|||R:SPELL|||tänapäevani|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX:SPELL|||tänaseni|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||1
+
+S Meie kollektiiv on arusaadav , kui tekitavad mingeid probleeme , siis nad kergesti leiavad aega aitamisele .
+A 3 4|||R:LEX|||mõistev|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||tekivad|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||mingid||mingisugused|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||probleemid|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||leiavad nad kergesti|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||aitamiseks|||REQUIRED|||-NONE-|||0
+
+S Ka mulle meeldib , et kogu töö on jagatud töötajate vahel ausalt .
+A 0 3|||R:WO|||Mulle meeldib ka|||REQUIRED|||-NONE-|||0
+A 8 12|||R:WO|||töötajate vahel ausalt jagatud|||REQUIRED|||-NONE-|||0
+
+S Meie asutuses valitseb positiivne ja rõõmus tööõhkkond .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ka meie töö eelis , et meil on kõrged palgad , mida väga rõõmustab .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||0
+
+S Mulle tundub , et tulevikus meie asutus suurenes .
+A 7 8|||R:VERB:FORM|||suureneb|||REQUIRED|||-NONE-|||0
+
+S Meil on plaanis uuendada oma töövahendeid ja teha uue nüüdisaegse hoone meie asutusele .
+A 8 9|||R:NOM:FORM|||uus|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||nüüdisaegne|||REQUIRED|||-NONE-|||0
+A 8 13|||R:WO|||meie asutusele uus nüüdisaegne hoone|||REQUIRED|||-NONE-|||0
+
+S Oleks parem , et meie asutus töötaks ka välismaal , minu arvates see suureneb meie võimalusi .
+A 3 4|||R:LEX|||kui|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||suurendaks|||REQUIRED|||-NONE-|||0
+
+S Aga muidugi head ideed ilmuvad töös .
+A 5 6|||R:NOM:FORM|||töö|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||käigus|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||töö|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||käigus|||REQUIRED|||-NONE-|||1
+A 1 6|||R:WO|||head ideed ilmuvad muidugi töö käigus|||REQUIRED|||-NONE-|||1
+
+S Ma arvan , et alguseks see piisab , selleks et parandada meie asutust tulevikus .
+A 4 5|||R:LEX|||alustuseks|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||sellest|||REQUIRED|||-NONE-|||0
+A 10 14|||R:WO|||meie asutust tulevikus parandada|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõtteks võin öelda , et töötamine selles asutuses on minu parim otsus , sest seal on väga hea kollektiiv ja töötingimused minu jaoks .
+A 16 23|||R:WO|||minu jaoks väga hea kollektiiv ja töötingimused|||REQUIRED|||-NONE-|||0
+
+S Austatud hr. --- !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nagu varsti meie kooli ootab sünnipäevapidu , milleks plaanitakse välja anda asutust tutvustav raamat , ma tahaksin kirjutada oma töökogemuse , kollektiivi ja kooli elus osalemise kohta .
+A 0 2|||U:LEX|||Varsti|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||ootab meie kooli|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||ja||ning|||REQUIRED|||-NONE-|||0
+A 23 25|||R:WS|||koolielus|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||teate|||REQUIRED|||-NONE-|||1
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||ootab varsti meie kooli|||REQUIRED|||-NONE-|||1
+A 15 15|||M:LEX|||ja||ning|||REQUIRED|||-NONE-|||1
+A 23 25|||R:WS|||koolielus|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Et||Kuna|||REQUIRED|||-NONE-|||2
+A 2 5|||R:WO|||ootab meie kooli|||REQUIRED|||-NONE-|||2
+A 15 17|||R:WO|||tahaksin ma|||REQUIRED|||-NONE-|||2
+A 23 25|||R:WS|||koolielus|||REQUIRED|||-NONE-|||2
+
+S Ma töötan meie koolis juba 7 aastat huvijuhina ning korraldan erinevaid proekte , reisi ja üritusi .
+A 11 12|||R:SPELL|||projekte|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||reise|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO:NOM:FORM|||kooli huvijuhina juba 7 aastat|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||projekte|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||reise|||REQUIRED|||-NONE-|||1
+
+S Millal ma tulin kooli tööle huvijuhi ametisse , siis sellele ametikohale oli mitu vabatahtlikke ja konkursi jaoks oli vaja välja mõtelda kõige huvitavam üritust .
+A 0 1|||R:LEX|||Kui|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||oli sellele ametikohale|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX:NOM:FORM|||kandidaati|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||üritus|||REQUIRED|||-NONE-|||0
+
+S Ma korraldasin spordivõistlusi , mille meeskondades olid nii õpilased kui ka õpetajad .
+A 2 3|||R:NOM:FORM|||spordivõistluse|||REQUIRED|||-NONE-|||0
+
+S Kõigele see üritus väga meeldis ja direktor nimetas mind sellesse ametisse .
+A 0 1|||R:NOM:FORM|||Kõigile|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||meeldis see üritus väga|||REQUIRED|||-NONE-|||0
+
+S Meie asutuses on väga sõbralik õpetajate kollektiiv ning õpilased ka on väga aktiivsed ja vastutustundlikud , mis loob head tööõhkkonda , kus kõik oma asjadega tegelevad , aga üritustel kõik koos töötavad .
+A 9 11|||R:WO|||on ka|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||hea|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||tööõhkkonna|||REQUIRED|||-NONE-|||0
+A 23 26|||R:WO|||tegelevad oma asjadega|||REQUIRED|||-NONE-|||0
+A 29 32|||R:WO|||töötavad kõik koos|||REQUIRED|||-NONE-|||0
+
+S Minu arvates , 10-15 aasta pärast meie kool oleks veel rohkem aktiivsete ja sõbralikute inimestega , kui tänapäeval .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||koolis|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||0
+A 3 9|||R:WO|||on meie koolis 10-15 aasta pärast|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||aktiivseid|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM:SPELL|||sõbralikke|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ka loodan et ma jään töötada sellises koolis , kuna töö korraldamine siin mulle väga meeldib .
+A 0 2|||R:WO|||Loodan ka|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||töötama|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||sellesse|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kooli|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||sellesse kooli töötama|||REQUIRED|||-NONE-|||0
+A 12 16|||R:WO|||meedlib mulle siin väga|||REQUIRED|||-NONE-|||0
+
+S Soovin meie koolile edaspidiseid saavutusi ja häid tulemisi !
+A 3 4|||R:NOM:FORM|||edaspidiseks|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||tulemusi|||REQUIRED|||-NONE-|||0
+
+S Lugupidamisega Viktor --- , kooli huvijuht
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lugupeetud asutuse personalijuht ,
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Minu nimi on Viktor --- , ma olen teie vanem programmeerija .
+A 9 11|||R:WS|||vanemprogrammeerija|||REQUIRED|||-NONE-|||0
+
+S Ma kirjutan teile , et kirjeldata kuidas ma sattusin siia töötama , mis mulle siin meeldib ja mis ma tahaks näha tulevikus .
+A 5 6|||R:SPELL|||kirjeldada|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+
+S Kui ma olin 10 aasta noorem , ma just lõpetasin ülikooli ja otsisin endale töökohta .
+A 4 5|||R:NOM:FORM|||aastat|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||lõpetasin ma just|||REQUIRED|||-NONE-|||0
+
+S See olid keerulised ajad minu jaoks ning ma juba kaotasin lootust , aga ühel päeval minu sõber , kellega ma õppisin ülikoolis , helistas ja jutustas mulle , et ta leidis uut ja huvitavat asutust , kus on vajalikud töötajäd .
+A 0 1|||R:NOM:FORM|||Need|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||lootuse|||REQUIRED|||-NONE-|||0
+A 31 32|||R:NOM:FORM|||uue|||REQUIRED|||-NONE-|||0
+A 33 34|||R:NOM:FORM|||huvitava|||REQUIRED|||-NONE-|||0
+A 34 35|||R:NOM:FORM|||asutuse|||REQUIRED|||-NONE-|||0
+A 38 39|||R:LEX|||vaja|||REQUIRED|||-NONE-|||0
+A 39 40|||R:NOM:FORM:SPELL|||töötajaid|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Need|||REQUIRED|||-NONE-|||1
+A 20 22|||R:WO|||ülikoolis õppisin|||REQUIRED|||-NONE-|||1
+A 31 32|||R:NOM:FORM|||uue|||REQUIRED|||-NONE-|||1
+A 33 34|||R:NOM:FORM|||huvitava|||REQUIRED|||-NONE-|||1
+A 34 35|||R:NOM:FORM|||asutuse|||REQUIRED|||-NONE-|||1
+A 38 39|||R:LEX|||vaja|||REQUIRED|||-NONE-|||1
+A 39 40|||R:NOM:FORM:SPELL|||töötajaid|||REQUIRED|||-NONE-|||1
+
+S Ma kirjutasin kirja minust ja mulle pakuti töökohta .
+A 3 4|||R:LEX|||endast|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||endast kirja|||REQUIRED|||-NONE-|||0
+
+S Selles kollektiivis mulle väga meeldib see , et igaüks on hea ja südamlik , igaüks on valmis aitama , kui sul elus või töös on mingi probleem , alati võib saada head soovitust .
+A 2 5|||R:WO|||meeldib mulle väga|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||meeldib mulle väga|||REQUIRED|||-NONE-|||1
+A 21 25|||R:WO|||on elus või töös|||REQUIRED|||-NONE-|||1
+A 31 32|||R:NOM:FORM|||häid|||REQUIRED|||-NONE-|||1
+A 32 33|||R:NOM:FORM|||soovitusi|||REQUIRED|||-NONE-|||1
+
+S Tööõhkkond on väga sõbralik ja meeldiv , pärast tööpäeva me tihti lõõgastume koos .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S 10-15 aasta pärast ma ootan , et asutus veel suureneb ning loodan , et siin hakkavad töötama palju noorte eriteadlasi .
+A 8 10|||R:WO|||suureneb veel|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||hakkab|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||noori|||REQUIRED|||-NONE-|||0
+A 0 7|||R:WO|||Ma ootan , et 10-15 aasta pärast|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||suureneb veel|||REQUIRED|||-NONE-|||1
+A 15 16|||R:VERB:FORM|||hakkab|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||noori|||REQUIRED|||-NONE-|||1
+
+S Lugupidamisega , Viktor --- , vanemprogrammeerija vanem programmeerija +372--- ---@hot.ee
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tere Paul !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Meie asutusel on varsti sünnipäev .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seoses sellega tahan jutustada oma töökohast .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 2|||R:WO|||Sellega seoses|||REQUIRED|||-NONE-|||1
+
+S 5 aastat tagasi alustasin töötada Narva polikliinikus silmaarstina .
+A 4 5|||R:LEX|||töötamist||tööd|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||tööd|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||Narva polikliinikus tööd|||REQUIRED|||-NONE-|||1
+
+S Tahtsin elada selles linnas , siis see töökoht sobis mulle .
+A 5 6|||R:LEX|||seega|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||selles linnas elada|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||seega|||REQUIRED|||-NONE-|||1
+
+S Meil on sõbralik ja vastutundlik kollektiiv ja mugav ja rahulik tööõhkkond .
+A 4 5|||R:SPELL|||vastutustundlik|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||ning|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||vastuvõtlik||vastutulelik|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||ning|||REQUIRED|||-NONE-|||1
+
+S Kõik töötajad aitavad teine teistele .
+A 3 5|||R:WS:NOM:FORM|||teineteist|||REQUIRED|||-NONE-|||0
+
+S Kui kollektiivis ilmub probleem või raskus , alati lahendame seda koos .
+A 2 3|||R:LEX|||ilmneb|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||lahendame selle alati|||REQUIRED|||-NONE-|||0
+
+S Kui patsiendil on küsimused , siis kõik arstid või meditsiini töötajad aitavad leida vastust .
+A 3 4|||R:NOM:FORM|||küsimusi|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WS|||meditsiinitöötajad|||REQUIRED|||-NONE-|||0
+A 6 12|||R:WO|||aitavad kõik arstid või meditsiinitöötajad|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||vastuseid|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||vastuseid leida|||REQUIRED|||-NONE-|||0
+
+S See tähendab , et oleme abivalmis .
+A 5 6|||R:NOM:FORM|||abivalmid|||REQUIRED|||-NONE-|||0
+
+S Tööõhkkond sõltub ka juhatajast .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meie juhataja alati aitab leida ühist keelt ja ei loo probleeme või tülisid .
+A 2 4|||R:WO|||aitab alati|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||ühist keelt leida|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||aitab alati|||REQUIRED|||-NONE-|||1
+
+S Kahjuks meie polikliinikus on vana mööbel ja tehnika .
+A 1 4|||R:WO|||on meie polikliinikus|||REQUIRED|||-NONE-|||0
+
+S Loodan , et 10-15 aasta pärast meil tuleb remondi ja uut tehnikat .
+A 6 8|||R:WO|||tuleb meil|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||remont|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||uus|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||tehnika|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||tehtud|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||remont||remonti|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||oleme saanud|||REQUIRED|||-NONE-|||1
+
+S See aitab kiiresti aidata inimesi ja ravida neid .
+A 2 5|||R:WO|||inimesi kiiresti aidata|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||neid ravida|||REQUIRED|||-NONE-|||0
+
+S Veel arvan , et meil on vaja rohkem inimest , sest suur osa meditsiinitöötajadest elab suurtes linnades .
+A 0 2|||R:WO|||Arvan veel|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||meditsiinitöötajatest|||REQUIRED|||-NONE-|||0
+
+S Loodan , et kohalik omavalitsus jõuab lahendada selle probleemi .
+A 6 9|||R:WO|||selle probleemi lahendada|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||seda probleemi lahendada|||REQUIRED|||-NONE-|||1
+
+S Lõpuks tähan lisada , et mulle meeldib töötada selles asutuses , sest sõbralik töökeskond aitab töötada kergelt ja rahulikult .
+A 1 2|||R:SPELL|||tahan|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||selles asutuses töötada|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||töökeskkond|||REQUIRED|||-NONE-|||0
+
+S Tere , minu nimi on Martin ja tahaksin natuke rääkida meie asutusest , kus ma töötan .
+A 1 3|||R:PUNCT|||! Minu|||REQUIRED|||-NONE-|||0
+
+S Ma alustan sellest , et sattusin sellesse asutusse töötama kaheksa aastat tagasi , mul oli kutsesobivusvestlus milleks ma valmistasin ette umbes 2 nädalat , oli raske aga ma sain sellega hakkama .
+A 18 19|||R:LEX|||valmistusin|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 26 26|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||tööle|||REQUIRED|||-NONE-|||1
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 26 26|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Teine etapp oli tutvumine kolektiiviga .
+A 4 5|||R:SPELL|||kollektiiviga|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||kollektiiviga tutvumine|||REQUIRED|||-NONE-|||0
+
+S See oli närviline moment minu eest ja ma arvasin , et ma olen võõras inimene selles inimkonnas .
+A 5 6|||R:LEX|||jaoks|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||seltskonnas|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||jaoks|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||minu jaoks närviline moment|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||seltskonnas|||REQUIRED|||-NONE-|||1
+A 13 17|||R:WO|||selles seltskonnas võõras inimene|||REQUIRED|||-NONE-|||1
+
+S Aga ma olin väga rõõmus , kui sain teada , et kõik inimesed , kes töötavad selles asutuses on üsna lahked ja lõbusad .
+A 18 18|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||selles asutuses töötavad|||REQUIRED|||-NONE-|||1
+A 18 18|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Nad alati aitavad raskel hetkel , toetavad mind ja annavad nõu kui midagi läheb halvasti .
+A 1 3|||R:WO|||aitavad alati|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Saan ka öelda , et nad edukad on väga nii töökohal kui ka isiklikus elus .
+A 6 9|||R:WO|||nad on väga edukad|||REQUIRED|||-NONE-|||0
+
+S Ma olen veendunud , et meil on üsna sõbralik ja edukas töökollektiiv .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei saa täpselt öelda milline võib asutus olla 10 aasta pärast aga olen kindel , et tulevikus selliste inimestega ja selles tööõhkkonnas me täpselt saavutame edu .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 18 27|||R:WO|||saavutame me edu täpselt selliste inimestega ja selles tööõhkkonnas|||REQUIRED|||-NONE-|||0
