@@ -1,0 +1,3565 @@
+S Tere kallis õpetaja !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ma unistan ammu lemmikloomast aga minu vanemad enam ei lubanud .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||olen unistanud|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||olen ammu lemmikloomast unistanud|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||ole seda|||REQUIRED|||-NONE-|||1
+
+S Ma tahaksin väga saada endale kassi .
+A 3 6|||R:WO|||endale kassi saada|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Mul ei olnud kassi mitte kunagi .
+A 2 3|||R:VERB:FORM|||ole olnud|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||ole mitte kunagi kassi olnud|||REQUIRED|||-NONE-|||0
+
+S Aga nüüd ma saan osta või võtta teda .
+A 7 8|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||ta osta või võtta|||REQUIRED|||-NONE-|||0
+
+S Ma tahan seda looma endale selle pärast ta on väga rahulik ja hea loom .
+A 5 7|||R:WS|||sellepärast|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||, et|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||, et|||REQUIRED|||-NONE-|||1
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Tema kohta ma tean veel et ta on samuti puhas ja vaikne loom .
+A 2 4|||R:WO|||tean ma|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 0 3|||U:LEX|||Ma|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Viist ma saan selle looma kui minu laps kasvab suurem .
+A 0 1|||R:SPELL|||Vist|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ma saan vist|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||suuremaks|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Vist|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Ma saan vist|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||suuremaks|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||suuremaks kasvab|||REQUIRED|||-NONE-|||1
+
+S Muigugi minu lapsele meeldib loomad ka .
+A 0 1|||R:SPELL|||Muidugi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||meeldivad|||REQUIRED|||-NONE-|||0
+A 1 6|||R:WO|||meeldivad loomad ka minu lapsele|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Muidugi|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||meeldivad|||REQUIRED|||-NONE-|||1
+A 1 6|||R:WO|||meeldivad ka minu lapsele loomad|||REQUIRED|||-NONE-|||1
+
+S Eriti kassid ja koerad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Alati loomade järel on vaja ( tuleb ) koristada ja hoida .
+A 2 3|||R:LEX|||järelt|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Loomade järelt on alati|||REQUIRED|||-NONE-|||0
+A 5 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||neid|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||järelt|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||on vaja loomade järelt|||REQUIRED|||-NONE-|||1
+A 5 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||neid|||REQUIRED|||-NONE-|||1
+
+S Kui seda pole teha , korteris on ( olla ) mustus .
+A 3 4|||R:VERB:FORM|||tehtud|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||on korteris|||REQUIRED|||-NONE-|||0
+A 7 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Praegu ma ei tea täpselt kust ma saan kasi . ,
+A 1 4|||R:WO|||ei tea ma|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||kassi|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||kassi saan|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma ei tea praegu|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||kassi|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||kassi saan|||REQUIRED|||-NONE-|||1
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S võimalikult ma küsin minu ja mehe sõbra(de) käest .
+A 0 1|||R:LEX:CASE|||Võimalik|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||, et|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||enda|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||sõprade|||REQUIRED|||-NONE-|||0
+
+S Nendel on koduloomad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Varem kui ma õppisin ülikoolis , ma elasin eraldi ja mul olid kanad ( akvaariumis ) ja papagoi .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||elasin ma|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||kalad|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||kalad|||REQUIRED|||-NONE-|||1
+
+S Mulle väga meeldivad erinevad kanad .
+A 4 5|||R:LEX|||kalad|||REQUIRED|||-NONE-|||0
+
+S Aitäh tähelepanu eest .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Nägemiseni !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui ma olen noormees mul oli palju erinevaid loomad koerad ja kassid , kilpkonnad ja kallad .
+A 2 3|||R:VERB:FORM|||olin|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||oli mul|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||loomi|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||:|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||kalad|||REQUIRED|||-NONE-|||0
+
+S Nüüd ma elan oma korteris ja unistan saada koer , sest koeraga on võimalik jooksta meetsas kui on päris puhas õhk .
+A 1 3|||R:WO|||elan ma|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||koerast|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||joosta|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||metsas|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||kus|||REQUIRED|||-NONE-|||0
+
+S Samuti koeraga on võimalik mängida , lapsed ka meeldivad koerad .
+A 0 3|||R:WO|||Koeraga on samuti|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||lastele|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||meeldivad ka|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on koeraga|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||lastele|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||ka lastele meeldivad|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on koeraga|||REQUIRED|||-NONE-|||2
+A 6 8|||R:WO|||ka lapsed|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||koerale||koertele|||REQUIRED|||-NONE-|||2
+
+S Paar minu sõpru kodus elavad koerad , milleaga nad käisivad mingi looma üritusele .
+A 0 1|||R:NOM:FORM|||Paari|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sõbra|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:SPELL|||kellega|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||käivad|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||mingitel|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS:NOM:FORM|||loomaüritustel|||REQUIRED|||-NONE-|||0
+
+S Praegu mul koodus elavad paar väiksed loomad mis nime on degu , nad on tšiili oravad , ma ise ehitan nende kodu .
+A 2 3|||R:SPELL|||kodus|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||elavad mul kodus|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||väikest|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||looma|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||kelle|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||nimi|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||deegu|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||neile|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||kodus|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||elavad mul kodus|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||väikest|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||looma|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||kelle|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||nimi|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||deegu|||REQUIRED|||-NONE-|||1
+A 11 13|||R:PUNCT|||. Nad|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||neile|||REQUIRED|||-NONE-|||1
+A 18 21|||R:WO|||ehitan neile ise|||REQUIRED|||-NONE-|||1
+
+S Nad välja nägevad nagu väiksed tšinstsilad .
+A 2 3|||R:SPELL|||näevad|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||näevad välja|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||tšintšiljad|||REQUIRED|||-NONE-|||0
+
+S Koera kohta ma arvan , et ma võin osta poodist või küsida sõprade juurest , sest nad võivad aidata valida soobiva koera .
+A 8 8|||M:LEX|||ta|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||poest|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||käest|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM:SPELL|||sobivat|||REQUIRED|||-NONE-|||0
+A 0 3|||U:LEX|||Ma|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||koera|||REQUIRED|||-NONE-|||1
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||käest|||REQUIRED|||-NONE-|||1
+A 20 21|||R:SPELL|||sobiva|||REQUIRED|||-NONE-|||1
+
+S Ise ma elistan mingi suured koerad nagu malamut või haski .
+A 2 3|||R:SPELL|||eelistan|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||eelistan ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mingeid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||suuri|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||koeri|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||malamuut|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||eelistan|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Ma eelistan ise||Ma ise eelistan|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||mingeid|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||suuri|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||koeri|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||malamuut|||REQUIRED|||-NONE-|||1
+
+S Minu lemmikloom on kass .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma olen sünndinud kassi aastal .
+A 2 3|||R:SPELL|||sündinud|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||sündinud|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WS|||kassiaastal|||REQUIRED|||-NONE-|||1
+
+S Ja kass on minu talisman .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma armastan kassid ja kassid armastavad mind .
+A 2 3|||R:NOM:FORM|||kasse|||REQUIRED|||-NONE-|||0
+
+S Kass on väike ja rahu lemmikloom .
+A 4 5|||R:LEX|||rahulik|||REQUIRED|||-NONE-|||0
+
+S Ei ole vaja ulutada õues .
+A 0 1|||M:LEX|||Temaga ei|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||jalutada|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||õues jalutada|||REQUIRED|||-NONE-|||0
+A 0 1|||M:LEX|||Temaga ei|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX:SPELL|||jalutamas käia|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||õues jalutamas käia||käia õues jalutamas|||REQUIRED|||-NONE-|||1
+
+S Kui mul on puhkus siis saan võtta kassikene kassa või anna minu tädi juurde külas .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kassikese|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||kaasa|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX:VERB:FORM|||viia|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||külla|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||kassikese|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||kaasa|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||kassikese kaasa võtta|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||anda|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||tädile|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||hoida|||REQUIRED|||-NONE-|||1
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||kassikese|||REQUIRED|||-NONE-|||2
+A 8 9|||R:SPELL|||kaasa|||REQUIRED|||-NONE-|||2
+A 6 9|||R:WO|||kassikese kaasa võtta|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX:VERB:FORM|||viia|||REQUIRED|||-NONE-|||2
+A 11 12|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||2
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Kui ma võtaks kassi siis loomamajast .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||varjupaigast|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||loomade varjupaigast|||REQUIRED|||-NONE-|||1
+
+S Tahaks anna vaevane kassi uus kodu .
+A 1 2|||R:VERB:FORM|||anda|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX:NOM:FORM|||vaesele|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kassile|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||uue|||REQUIRED|||-NONE-|||0
+
+S Kujutan ette , ma tulen koju väsinud töölt ega lemmikloom jooksab rõõmuga minu juurde .
+A 6 7|||R:NOM:FORM|||väsinuna|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||väsinuna töölt koju|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||aga|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||jookseb|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||kuidas||et|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||väsinuna|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||väsinuna töölt koju|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||jookseb|||REQUIRED|||-NONE-|||1
+
+S Mul ei ole praegu kassi kodus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 6|||R:WO|||kodus kassi|||REQUIRED|||-NONE-|||1
+
+S Sellepärast ma ürrin korter .
+A 1 1|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||üürin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||korterit|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||, et|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||üürin|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||korterit|||REQUIRED|||-NONE-|||1
+
+S Minu korter on väike ja väga palju mööblit , ei ole kassi kohta .
+A 5 5|||M:LEX|||seal on|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||kassile|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||kassile ei ole|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||seal on|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||mistõttu||seetõttu||seepärast|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||kassile|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||on|||REQUIRED|||-NONE-|||2
+A 4 8|||R:WO|||ja mööblit on väga palju|||REQUIRED|||-NONE-|||2
+A 9 9|||M:LEX|||seal|||REQUIRED|||-NONE-|||2
+A 11 12|||R:NOM:FORM|||kassile|||REQUIRED|||-NONE-|||2
+
+S Veel lemmikloomad on kallis sõber .
+A 1 2|||R:NOM:FORM|||lemmikloom|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Lemmikloom on veel||Veel on lemmikloom|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on lemmikloomad|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||kallid|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||sõbrad|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Lisaks|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM|||lemmikloom|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||on lemmikloom|||REQUIRED|||-NONE-|||2
+
+S Toidu , loomaarst ja teised loomaasjad maksavad liiga palju .
+A 0 1|||R:NOM:FORM|||Toit|||REQUIRED|||-NONE-|||0
+
+S Võib-olla minevikus , kui mul on suurem palka ja uus avar korter siis ma võttan kassi loomamajast .
+A 1 2|||R:LEX|||tulevikus|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||palk|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||võtan|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||varjupaigast|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||varjupaigast kassi|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||tulevikus|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||palk|||REQUIRED|||-NONE-|||1
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||võtan|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||võtan ma|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||loomade varjupaigast|||REQUIRED|||-NONE-|||1
+A 15 17|||R:WO|||loomade varjupaigast kassi|||REQUIRED|||-NONE-|||1
+
+S Aga praegu hakkan vaadata kassist videot YouTubis .
+A 3 4|||R:VERB:FORM|||vaatama|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM:SPELL|||Youtube'ist||YouTube'ist|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||Youtube'ist vaatama videot kassist||YouTube'ist vaatama videot kassist|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||vaatama|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WS|||kassivideot|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM:SPELL|||Youtube'ist||YouTube'ist|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||Youtube'ist kassivideot||YouTube'ist kassivideot|||REQUIRED|||-NONE-|||1
+
+S Järgmisel aastal ma väga tahan ostma üks ilus kass .
+A 2 5|||R:WO|||tahan ma väga|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||osta|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||ühe|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ilusa|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kassi|||REQUIRED|||-NONE-|||0
+
+S Tema nimi on " Bengal "
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||tõug|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:CASE|||bengal|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Ta väljanäeb nagu väike leopard , rohelised silmad tal on ja suured kõrvad .
+A 1 2|||R:WS|||näeb välja|||REQUIRED|||-NONE-|||0
+A 6 10|||R:WO|||tal on rohelised silmad|||REQUIRED|||-NONE-|||0
+
+S Ma tahan see kassi endale selle pärast et kodus mul on juba üks sama kass , ja ma tahan osta temale sõbra .
+A 2 3|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WS|||sellepärast|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||mul on kodus|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||samasugune|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 22|||R:WO|||temale sõbra osta|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 12|||R:WO|||mul on juba kodus|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||samasugune|||REQUIRED|||-NONE-|||1
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||talle|||REQUIRED|||-NONE-|||1
+
+S See kas nägu tavaline kass , aga üks korda kuus ta peab süüa toores veiseliha .
+A 1 2|||R:SPELL|||kass|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||nagu|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||kord|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||peab ta|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||sööma|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||toorest|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||kass|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||nagu|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||ainult et|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||kord|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||peab ta|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||sööma|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||toorest|||REQUIRED|||-NONE-|||1
+A 12 15|||R:WO|||toorest veiseliha sööma|||REQUIRED|||-NONE-|||1
+
+S Ta on väga tark ja mängib päris palju .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ja väga meeldib lapsed .
+A 1 1|||M:LEX|||talle|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||meeldivad|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||talle|||REQUIRED|||-NONE-|||1
+A 2 3|||R:VERB:FORM|||meeldivad|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Ja talle meeldivad väga|||REQUIRED|||-NONE-|||1
+
+S Ma arvan et järmisel aastal mingi juunis või juulis ma saan sellekassi ostma .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||järgmisel|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||saan ma|||REQUIRED|||-NONE-|||0
+A 11 12|||R:WS|||selle kassi|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||osta|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:WS|||selle kassi|||REQUIRED|||-NONE-|||1
+A 3 13|||R:WO|||saan selle kassi osta järgmisel aastal juunis või juulis|||REQUIRED|||-NONE-|||1
+
+S Üks pere müüb ainult selline kassi , ja maksab päris palju mingi viis - kuus sotti euro .
+A 0 4|||R:WO|||Ainult üks pere müüb|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||ta|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||eurot|||REQUIRED|||-NONE-|||0
+
+S Praegu mul on kodus üks kass tema nimi on Leon , ja üks koer tema nimi on Sändi .
+A 1 3|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kelle|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||kelle|||REQUIRED|||-NONE-|||0
+
+S Nad on väga hea sõbrad ja elavad koos juba neli aastat .
+A 3 4|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||0
+
+S Lapsepõlvest ma armastan kassid .
+A 1 1|||M:LEX|||saati||alates||peale|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||armastan ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kasse|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kasse|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Ma armastan kasse lapsepõlvest|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||saati||alates||peale|||REQUIRED|||-NONE-|||1
+A 0 1|||M:LEX|||Juba lapsepõlvest|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||armastan ma|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||kasse|||REQUIRED|||-NONE-|||2
+
+S Aga kui ma olin laps , minu vanemad ei lubanud mulle kodulooma pidada .
+A 6 7|||R:NOM:FORM|||mu|||REQUIRED|||-NONE-|||0
+A 6 10|||R:WO|||ei lubanud mu vanemad|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 6 10|||R:WO|||ei lubanud minu vanemad|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||1
+
+S Praegu ma olen täiskasvanud ja ma kavatsen osta kassi .
+A 1 3|||R:WO|||olen ma|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||olen ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||täiskasvanu|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||kassi osta|||REQUIRED|||-NONE-|||1
+
+S Ma tahaksin pidada seda looma , sest see on nii nünnu ja pehme .
+A 7 8|||R:LEX|||ta|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||nunnu|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||seda looma pidada|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||ta|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||nunnu|||REQUIRED|||-NONE-|||1
+
+S Kassid armastavad palju magada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mulle meeldib sest kassiga ei ole vaja õue minna , nagu näiteks koeraga .
+A 2 2|||M:LEX|||see|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||see|||REQUIRED|||-NONE-|||1
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||M:LEX|||See mulle|||REQUIRED|||-NONE-|||2
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+
+S Ma tahaksin osta kassi järgmisel kuus .
+A 5 6|||R:NOM:FORM|||kuul|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||kassi osta|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||kuul|||REQUIRED|||-NONE-|||1
+
+S Ma otsin internetist üks naine , kes müüab kassid .
+A 1 2|||R:VERB:FORM|||otsisin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||ühe|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||naise|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||müüb|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kasse|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX:VERB:FORM|||leidsin|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||ühe|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||naise|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||müüb|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||kasse|||REQUIRED|||-NONE-|||1
+
+S Ta elab Narvas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma helistaksin talle .
+A 1 2|||R:VERB:FORM|||helistasin|||REQUIRED|||-NONE-|||0
+
+S Ta rääkis et kassipoeg on , aga ta on liiga väike .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||olemas|||REQUIRED|||-NONE-|||0
+
+S Siis mul tuleb oodata natuke .
+A 1 3|||R:WO|||tuleb mul|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||natuke oodata|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Järelikult||Niisiis||Seega|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||tuleb mul|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||natuke oodata|||REQUIRED|||-NONE-|||1
+
+S Praegu ma ei pidada kodus looma .
+A 3 4|||R:VERB:FORM|||pea|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei pea ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||pea|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||loomi|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||kodus loomi ei pea|||REQUIRED|||-NONE-|||1
+
+S Aga ma ootan minu kassipoega hea meelega .
+A 3 4|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+
+S Ostin talle juba mänguasjad .
+A 0 1|||R:SPELL|||Ostsin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mänguasju|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Ostsin|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||ära|||REQUIRED|||-NONE-|||1
+
+S Mul üks unistus .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Ma tahan endale väike koera .
+A 3 4|||R:NOM:FORM|||väikest|||REQUIRED|||-NONE-|||0
+
+S Sellepärast et väike koer väga sõbralik .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+
+S Ma tean et koeraga on väja jalutada , mängida ja treenerida .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||vaja|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||treenida|||REQUIRED|||-NONE-|||0
+
+S See mulle sobib .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul on palju vaba aega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tahan koera saada minu sünnipäeval .
+A 4 5|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||sünnipäevaks|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||omale|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||sünnipäevaks|||REQUIRED|||-NONE-|||1
+
+S Minu sünnipäev on varsti .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See koera ma nägin poes minu maja lähedal .
+A 0 1|||R:NOM:FORM|||Seda|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||nägin ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kodu|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Seda|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||nägin ma|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||oma maja lähedal poes||enda maja lähedal poes|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Seda|||REQUIRED|||-NONE-|||2
+A 0 4|||R:WO|||Ma nägin seda koera|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX|||kodu|||REQUIRED|||-NONE-|||2
+A 4 7|||R:WO|||oma kodu lähedal poes||enda kodu lähedal poes|||REQUIRED|||-NONE-|||2
+
+S Ma tahan , et minu ema ostab mulle see koera poest .
+A 6 7|||R:VERB:FORM|||ostaks|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||poest selle koera|||REQUIRED|||-NONE-|||0
+
+S Mul ole palju nälja lemmik koeraga .
+A 1 1|||M:LEX|||saab|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||olema|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||nalja|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||oma|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WS|||lemmikkoeraga|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||saab|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||olema|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||nalja|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||oma|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||armsa|||REQUIRED|||-NONE-|||1
+A 1 6|||R:WO|||oma armsa koeraga palju nalja olema|||REQUIRED|||-NONE-|||1
+
+S Praegu ma mõtlen mis nimi koera anda .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||nime|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||koerale|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||mõtlen ma|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||nime|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||koerale|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Ma mõtlen praegu|||REQUIRED|||-NONE-|||2
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||nime|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||koerale|||REQUIRED|||-NONE-|||2
+
+S Väga tahan lemmikloom .
+A 0 2|||R:WO|||Tahan väga|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||lemmiklooma|||REQUIRED|||-NONE-|||0
+A 0 1|||M:LEX|||Ma väga|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||lemmiklooma|||REQUIRED|||-NONE-|||1
+
+S Praegu mul ei ole kodus lemmikloom .
+A 1 4|||R:WO|||ei ole mul|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||lemmiklooma|||REQUIRED|||-NONE-|||0
+
+S Minu ema ei tea veel , et ma tahan koera .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga täna ma tahan paluda see koera .
+A 2 4|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||seda koera paluda|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ma tahan täna|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||seda koera paluda|||REQUIRED|||-NONE-|||1
+
+S Ma loodan , et minu ema ostab mulle minu unistus .
+A 9 10|||R:NOM:FORM|||unistuse|||REQUIRED|||-NONE-|||0
+
+S Ma tahaksin endale saada väikset kassi .
+A 4 5|||R:SPELL|||väikest|||REQUIRED|||-NONE-|||0
+
+S Mul praegu kodus ei ole lemmikloomi ja mul on natuke igav õhtuti , kui ma tulen töölt koju tagasi .
+A 1 5|||R:WO|||ei ole praegu kodus|||REQUIRED|||-NONE-|||0
+A 17 19|||R:WO|||tagasi koju|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||ei ole praegu kodus|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||õhtuti natuke igav|||REQUIRED|||-NONE-|||1
+A 15 19|||R:WO|||töölt koju tagasi tulen|||REQUIRED|||-NONE-|||1
+
+S Ma tahan võtta seda kassi minu sõbranna käest , sest et sinul on suur kohune musta värvi kass , kellel on praegu neli ilusat kassikutsikat .
+A 3 4|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||tal||temal|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||kahune|||REQUIRED|||-NONE-|||0
+A 24 25|||R:LEX|||kassipoega|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||oma|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||tal||temal|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||kahune|||REQUIRED|||-NONE-|||1
+A 24 25|||R:LEX|||kassipoega|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||oma|||REQUIRED|||-NONE-|||2
+A 11 12|||R:LEX|||tal||temal|||REQUIRED|||-NONE-|||2
+A 14 15|||R:LEX|||kohev|||REQUIRED|||-NONE-|||2
+A 24 25|||R:LEX|||kassipoega|||REQUIRED|||-NONE-|||2
+
+S Ma arvan , et kassil peab olema korteris oma koht ja kassitoit , mida vaja osta poest .
+A 14 14|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 15 17|||R:WO|||poest osta|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||kassitoitu|||REQUIRED|||-NONE-|||2
+A 14 14|||M:LEX|||on|||REQUIRED|||-NONE-|||2
+A 15 17|||R:WO|||poest osta|||REQUIRED|||-NONE-|||2
+
+S Kassiga on vaja mängida ja osta temale kassimänguasjad .
+A 7 8|||R:NOM:FORM|||kassimänguasju|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||talle|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||kassimänguasju|||REQUIRED|||-NONE-|||1
+
+S Loomad toovad meie ellu palju rõõmu aga ka hoolt ja muret .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Kassiga on vaja käia kindlasti üks kord aastas loomaarsti juures vaktsineerida .
+A 2 5|||R:WO|||kindlasti vaja käia|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||vaktsineerimas|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||kindlasti käia|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||vaktsineerimas|||REQUIRED|||-NONE-|||1
+
+S Kass võib uksi , mööblit , kingi ja muud kraapida ja närida , seepärast on väga vaja hea mõtelda , kas võta või ei kassi korterisse .
+A 15 17|||R:WO|||vaja väga|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX|||hoolega|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||mõelda|||REQUIRED|||-NONE-|||0
+A 21 22|||R:VERB:FORM|||võtta|||REQUIRED|||-NONE-|||0
+A 23 24|||R:LEX|||mitte|||REQUIRED|||-NONE-|||0
+A 21 26|||R:WO|||kassi korterisse võtta või mitte||võtta kassi korterisse või mitte|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||vaja väga|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||hästi|||REQUIRED|||-NONE-|||1
+A 18 18|||M:LEX|||läbi||järele|||REQUIRED|||-NONE-|||1
+A 21 22|||R:VERB:FORM|||võtta|||REQUIRED|||-NONE-|||1
+A 23 24|||R:LEX|||mitte|||REQUIRED|||-NONE-|||1
+A 21 26|||R:WO|||kassi korterisse võtta või mitte||võtta kassi korterisse või mitte|||REQUIRED|||-NONE-|||1
+A 15 17|||R:WO|||vaja väga|||REQUIRED|||-NONE-|||2
+A 17 18|||R:LEX|||hästi|||REQUIRED|||-NONE-|||2
+A 18 18|||M:LEX|||läbi||järele|||REQUIRED|||-NONE-|||2
+A 18 19|||R:VERB:FORM|||mõelda|||REQUIRED|||-NONE-|||2
+A 24 25|||R:NOM:FORM|||kass|||REQUIRED|||-NONE-|||2
+A 21 26|||R:WO|||kass korterisse võtta või ei||võtta kass korterisse või ei|||REQUIRED|||-NONE-|||2
+
+S Ma võtan kassi kindlasti .
+A 2 4|||R:WO|||kindlasti kassi|||REQUIRED|||-NONE-|||0
+
+S Ma olen kassiga hoolida ja ta saab oota mind ukse taga , kui ma tulen koju töölt tagasi .
+A 3 4|||R:LEX|||hooliv|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||oodata|||REQUIRED|||-NONE-|||0
+A 7 11|||R:WO|||mind ukse taga oodata|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||töölt koju tagasi||töölt tagasi koju|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||hooliv|||REQUIRED|||-NONE-|||1
+A 7 8|||R:VERB:FORM|||oodata|||REQUIRED|||-NONE-|||1
+A 14 18|||R:WO|||töölt koju tagasi tulen|||REQUIRED|||-NONE-|||1
+
+S Mina väga tahan endale kassi .
+A 1 3|||R:WO|||tahan väga|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||tahan väga|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||saada||võtta|||REQUIRED|||-NONE-|||1
+
+S Ma väga armastan neid , sest kassid on väekesed , armsad ja karvased .
+A 8 9|||R:SPELL|||väikesed||väiksed|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||armastan neid väga|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||väikesed||väiksed|||REQUIRED|||-NONE-|||1
+
+S Nad on väga kohusetundlikud ja julged loomad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nad saavad ise õues jalutada ja isegi sind kaista !
+A 8 9|||R:SPELL|||kaitsta|||REQUIRED|||-NONE-|||0
+
+S Mu sõbranna juba sai kassi kingituseks , aga mina nii palju kuud palun seda vanematelt ja ei saa .
+A 4 6|||R:WO|||kingituseks kassi|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||kuid|||REQUIRED|||-NONE-|||0
+A 9 15|||R:WO|||palun seda vanematelt nii palju kuid|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||sai juba|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||kingituseks kassi|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||olen|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||mitu|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||palunud|||REQUIRED|||-NONE-|||1
+A 12 15|||R:WO|||seda vanematelt palunud|||REQUIRED|||-NONE-|||1
+A 15 17|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 17 18|||R:VERB:FORM|||ole saanud|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||kingituseks kassi|||REQUIRED|||-NONE-|||2
+A 9 9|||M:LEX|||olen|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX|||mitu|||REQUIRED|||-NONE-|||2
+A 12 13|||R:VERB:FORM|||palunud|||REQUIRED|||-NONE-|||2
+A 9 15|||R:WO|||seda nii mitu kuud vanematelt palunud|||REQUIRED|||-NONE-|||2
+A 15 16|||R:LEX|||ega|||REQUIRED|||-NONE-|||2
+A 17 18|||R:VERB:FORM|||ole saanud|||REQUIRED|||-NONE-|||2
+
+S Mu vanemad ütlevad , et meil on juba koer ja kass meile ei ole vaja .
+A 10 11|||R:NOM:FORM|||kassi|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||ei ole meile|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||kassi|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||meil|||REQUIRED|||-NONE-|||1
+A 10 14|||R:WO|||meil ei ole kassi|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||kassi|||REQUIRED|||-NONE-|||2
+A 11 12|||R:NOM:FORM|||meil|||REQUIRED|||-NONE-|||2
+A 11 15|||R:WO|||ei ole meil vaja||meil vaja ei ole|||REQUIRED|||-NONE-|||2
+
+S Mulle tundub , et meie koer ei ole kassi vastu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||koeral|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||midagi|||REQUIRED|||-NONE-|||1
+
+S Aga eile ma leidsin teadet kassist .
+A 2 4|||R:WO|||leidsin ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||teate|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ma leidsin eile|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||teate|||REQUIRED|||-NONE-|||1
+
+S Seal oli kirjutatud , et inemestel on juba kass , aga veel viis kassi neil ei ole vaja ja nad annavad neid ära .
+A 5 5|||M:LEX|||neil|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||inimestel|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||viit|||REQUIRED|||-NONE-|||0
+A 14 17|||R:WO|||ei ole neil|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||inimestel|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||viit|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||vaja ei ole|||REQUIRED|||-NONE-|||1
+
+S Mina väga rõõmustasin ja ütlesin seda oma emale .
+A 1 3|||R:WO|||rõõmustasin väga|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||rõõmustasin väga|||REQUIRED|||-NONE-|||1
+
+S Nad arutlesid seda isaga ja ütlesid mulle , et me võttame endale kassi !
+A 1 2|||R:LEX|||arutasid|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||võtame|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||võtame|||REQUIRED|||-NONE-|||1
+
+S Mina olin nii rõõmus selle tõttu .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||pärast||üle|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||selle pärast nii rõõmus||selle üle nii rõõmus|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||selle tõttu nii rõõmus|||REQUIRED|||-NONE-|||1
+
+S Sellega lõpetan .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu lemmikloom on koer .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lapsepõlves mul ei olnud loomi üldse ja ma unistan koerast .
+A 1 4|||R:WO|||ei olnud mul|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||üldse loomi|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||unistasin|||REQUIRED|||-NONE-|||0
+
+S Minu sõbral olnud erinevad koduloomad .
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||erinevaid|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||koduloomi|||REQUIRED|||-NONE-|||1
+
+S Aga ühes sõbras oli koer .
+A 1 2|||R:NOM:FORM|||üheks|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sõbraks|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||üks|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||sõber|||REQUIRED|||-NONE-|||1
+
+S Sageli me jalutasime temast .
+A 3 4|||R:NOM:FORM|||temaga|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Me jalutasime temaga sageli|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||temaga|||REQUIRED|||-NONE-|||1
+
+S Ta üldse ei joosta ära .
+A 3 4|||R:VERB:FORM|||jooksnud|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei jooksnud üldse|||REQUIRED|||-NONE-|||0
+
+S See koer armastas mängida lapsega .
+A 3 5|||R:WO|||lapsega mängida|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||lastega|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||lastega mängida|||REQUIRED|||-NONE-|||1
+
+S Sõbra koer jäi mälestus .
+A 1 2|||R:NOM:FORM|||koerast|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mälestustesse|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||jättis|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||mälestuse|||REQUIRED|||-NONE-|||2
+
+S Veel mina palju lugesin koerast .
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||koertest|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||lugesin ma koertest palju||lugesin ma palju koertest|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||olen lugenud|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||koertest|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||olen ma koertest palju lugenud|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||olen lugenud|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||koertest|||REQUIRED|||-NONE-|||2
+A 0 5|||R:WO|||Mina olen koertest veel palju lugenud|||REQUIRED|||-NONE-|||2
+
+S Ja minu arvamus nad on targad , sõbralikud ja tähelepanelikud .
+A 2 3|||R:LEX|||arvates|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||on nad|||REQUIRED|||-NONE-|||0
+
+S Sellepärast ma taha ainult koera .
+A 2 3|||R:VERB:FORM|||tahan|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+
+S Ma tean , et koerast hoolitsema ei ole kerge .
+A 4 5|||R:NOM:FORM|||koera|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||eest|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||hoolitsemine||hoolitseda|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||koera|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||eest|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||hoolitseda|||REQUIRED|||-NONE-|||1
+A 5 9|||R:WO|||ei ole kerge hoolitseda|||REQUIRED|||-NONE-|||1
+
+S Temale on vaja hea ja kvaliteetne söök .
+A 0 1|||R:NOM:FORM|||Tal||Temal|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kvaliteetset|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||sööki|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ta||Tema|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||vajab|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||kvaliteetset|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||sööki|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||osta||pakkuda||tuua||anda|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||kvaliteetset|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||sööki|||REQUIRED|||-NONE-|||2
+
+S On vaja temaga veterinaarisse käia .
+A 0 3|||R:WO|||Temaga on vaja|||REQUIRED|||-NONE-|||0
+A 3 4|||M:LEX|||veterinaari juures|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||käia veterinaari juures|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Temaga on vaja|||REQUIRED|||-NONE-|||1
+A 3 4|||M:LEX|||veterinaari juures|||REQUIRED|||-NONE-|||1
+A 3 4|||M:LEX|||veterinaari juures|||REQUIRED|||-NONE-|||2
+
+S Veel koeraga on vaja palju jalutada .
+A 1 3|||R:WO|||on koeraga|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Koeraga on veel|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Lisaks|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||on koeraga|||REQUIRED|||-NONE-|||2
+
+S Kui palju ei jaluta temaga , siis ta jäi kurjaks või haigeks .
+A 3 4|||R:VERB:FORM|||jalutata|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||temaga palju ei jalutata|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||jääb|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||jääb ta|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||jalutata|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||temaga palju ei jalutata|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX:VERB:FORM|||saab||muutub|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||saab ta||muutub ta|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||jääb|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||temaga palju ei jaluta|||REQUIRED|||-NONE-|||2
+A 8 9|||R:LEX:VERB:FORM|||muutub|||REQUIRED|||-NONE-|||2
+A 7 9|||R:WO|||muutub ta|||REQUIRED|||-NONE-|||2
+
+S Ma arvan et koera on vaja osta veel kutsikas .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||koer|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kutsikana|||REQUIRED|||-NONE-|||0
+
+S Parem , kui võib osta sõbral , sellepärast et ma tean sellised inimesed .
+A 3 4|||R:LEX|||saab|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||sõbralt|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||inimest|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||saab|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||mõnelt|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||sõbralt|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX:NOM:FORM|||neid|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||1
+
+S Mul ei ole praegu koduloomi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma loodan et tulevikus ma võtan ainult koera .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||ma võtan tulevikus|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||võtan ma|||REQUIRED|||-NONE-|||1
+
+S Eile ma nägin Anna .
+A 1 3|||R:WO|||nägin ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||Annat|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ma nägin eile|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||Annat|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||Annat|||REQUIRED|||-NONE-|||2
+
+S Praegu ta töötab koolis .
+A 1 3|||R:WO|||töötab ta|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ta töötab praegu|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Me suhtleme oma vahel ja ta jutustas mulle et ta on eesti keele õpetaja .
+A 1 2|||R:VERB:FORM|||suhtlesime|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WS|||omavahel|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||rääkisime|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WS|||omavahel|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Anna töötas Tammiku põhikoolis juba 5 aasta .
+A 1 2|||R:VERB:FORM|||töötab|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||aastat|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||on töötanud|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||aastat|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||on töötanud|||REQUIRED|||-NONE-|||2
+A 1 4|||R:WO|||on Tammiku põhikoolis töötanud|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||aastat|||REQUIRED|||-NONE-|||2
+
+S See on huvitav , sest et koolis ta oli halb õpilane .
+A 7 9|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||ta oli koolis|||REQUIRED|||-NONE-|||1
+
+S Ta ei oskasid Eest keel , aga ta oli väga sõbralik ja mõistev tüdruk .
+A 2 3|||R:VERB:FORM|||osanud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL:CASE|||eesti|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||keelt|||REQUIRED|||-NONE-|||0
+
+S Varem me oleme sõbrad .
+A 2 3|||R:VERB:FORM|||olime|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||olime me|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||olime|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Me olime varem|||REQUIRED|||-NONE-|||1
+A 2 3|||R:VERB:FORM|||olime|||REQUIRED|||-NONE-|||2
+
+S Me õppime koos 7 aasta aga ta oli minu parem sõber .
+A 1 2|||R:VERB:FORM:SPELL|||õppisime|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||aastat|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
+
+S Praegu Anna on ilus , ennesekindel naine .
+A 1 3|||R:WO|||on Anna|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||enesekindel|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on Anna|||REQUIRED|||-NONE-|||1
+A 4 5|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||enesekindel|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on Anna|||REQUIRED|||-NONE-|||2
+A 5 6|||R:SPELL|||enesekindel|||REQUIRED|||-NONE-|||2
+
+S Ta väga muutunud .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Tal on pikkad , ilusad juuksed , aga koolis tal oli alati luhikesed juuksed .
+A 2 3|||R:SPELL|||pikad|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||olid tal|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||lühikesed|||REQUIRED|||-NONE-|||0
+
+S Praegu Anna on väga hea õpetaja ja lihtsalt tore inimene .
+A 1 3|||R:WO|||on Anna|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Anna on praegu|||REQUIRED|||-NONE-|||1
+
+S Ma loodan et näen teda veel kord .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WS|||veelkord|||REQUIRED|||-NONE-|||1
+
+S Jutusta mulle oma huvitavad kohtumisest .
+A 3 4|||R:NOM:FORM|||huvitavatest|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||kohtumistest|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||huvitavast|||REQUIRED|||-NONE-|||1
+
+S Loodan et sulle meeldis minu kiri .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Marina
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tema nimi on Anton .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me oleme üheaastased .
+A 2 3|||R:LEX|||üheealised||ühevanused|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||samaealised||samavanused|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||sama vanad|||REQUIRED|||-NONE-|||2
+
+S Ta töötab müüjana .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tema töökoht asub Astri keskus .
+A 4 5|||R:NOM:FORM|||keskuses|||REQUIRED|||-NONE-|||0
+
+S Temal on oma poodi , ta müüjal jaladnõud .
+A 3 4|||R:NOM:FORM|||pood|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||müüb|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM:SPELL|||jalanõusid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||pood|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||kus|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||müüb|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM:SPELL|||jalanõusid|||REQUIRED|||-NONE-|||1
+
+S Ta on ülemus ja müüja ühes näoks .
+A 6 7|||R:LEX:NOM:FORM|||isikus|||REQUIRED|||-NONE-|||0
+
+S Me õppisime koos viis aastat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kooli ajal ta oli väga rahulik ja positiivne poiss .
+A 2 4|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+
+S Ta tegelis spordiga .
+A 1 2|||R:SPELL|||tegeles|||REQUIRED|||-NONE-|||0
+
+S Praegu ta peaegu ei muutunud , ta on rahulik ja positiivne mees , ainult vanem ja pikkem .
+A 2 3|||R:SPELL|||peaaegu|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||olegi|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||ei olegi ta peaaegu muutunud|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||pikem|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Praeguseks|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||peaaegu|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||ei ole ta peaaegu muutunud|||REQUIRED|||-NONE-|||1
+A 16 17|||R:SPELL|||pikem|||REQUIRED|||-NONE-|||1
+
+S Naga ma juba kirjutas temal on oma äri ja ta tahab avada teine kauplus .
+A 0 1|||R:SPELL|||Nagu|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||kirjutasin|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||on temal|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||teise|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||kaupluse|||REQUIRED|||-NONE-|||0
+
+S Temal on üks laps , tema nimi on Aleksei .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 5 6|||R:LEX|||kelle|||REQUIRED|||-NONE-|||1
+A 4 5|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+
+S Õhtul Anton käib spordisaali ja tihti ta reisib erinevatel maadel .
+A 1 3|||R:WO|||käib Anton|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||spordisaalis|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||reisib ta|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||erinevatesse|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||maadesse|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||käib Anton|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||spordisaalis|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||ta reisib tihti|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||erinevatesse|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||maadesse|||REQUIRED|||-NONE-|||1
+
+S Ta oli minu pinginaaber .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me käisime temaga koolis .
+A 3 3|||M:LEX|||koos|||REQUIRED|||-NONE-|||0
+
+S Se on põhikool asub keskmises Tallinnas .
+A 0 1|||R:SPELL|||See|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kesklinnas||keskel|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO:NOM:FORM|||Tallinna kesklinnas||Tallinna keskel|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||See|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||kesklinnas|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||Tallinnas kesklinnas|||REQUIRED|||-NONE-|||1
+A 0 1|||R:SPELL|||See|||REQUIRED|||-NONE-|||2
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||keset|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||Tallinna|||REQUIRED|||-NONE-|||2
+
+S Minu sõpra nimi on Viktor .
+A 1 2|||R:NOM:FORM|||sõbra|||REQUIRED|||-NONE-|||0
+
+S Praegu ta töötan tehases .
+A 2 3|||R:VERB:FORM|||töötab|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||töötab ta|||REQUIRED|||-NONE-|||0
+
+S Varem ta lõpetasin kutsekooli oma erijala jargi .
+A 2 3|||R:VERB:FORM|||lõpetas|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||lõpetas ta|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM:SPELL|||erialal|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX:SPELL|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||on lõpetanud|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on ta lõpetanud|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM:SPELL|||erialal|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX:SPELL|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Ta ei ole muutunud , ta jai lõbus ja hea inimees .
+A 6 7|||R:VERB:FORM:SPELL|||on jäänud|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||lõbusaks|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||heaks|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM:SPELL|||inimeseks|||REQUIRED|||-NONE-|||0
+
+S Ta on abielus ja praegu temaga suur perekond - kolm last .
+A 5 5|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||tal||temal|||REQUIRED|||-NONE-|||0
+
+S Üks laps käisid lasteajas ja kaks last kaisid koolis - kolmandas ja viiendas klassis .
+A 2 3|||R:VERB:FORM|||käib|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||lasteaias|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM:SPELL|||käivad|||REQUIRED|||-NONE-|||0
+
+S Poisid lähevad futbolei trennis , ja norem laps kaisid tantsis .
+A 1 2|||R:LEX|||käivad|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||jalgpalli|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||noorem|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM:SPELL|||käib|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||tantsimas|||REQUIRED|||-NONE-|||0
+
+S Ma oli väga rahuldav sest me näeme .
+A 1 2|||R:VERB:FORM|||olin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||rahul|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||et|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||teineteist|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||nägime|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||olin|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||rahul|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||et|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||kohtusime|||REQUIRED|||-NONE-|||1
+
+S Ma loodan et on näeme veel .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||me|||REQUIRED|||-NONE-|||1
+
+S Sinu sõbranna
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on meie polikliinikus parem arst .
+A 4 5|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||parim arst meie polikliinikus|||REQUIRED|||-NONE-|||1
+
+S Olime õppinud koolis 12 aastat ja pärast veel olime õppinud Tallinnas 5 aastat .
+A 0 1|||R:VERB:FORM|||Oleme|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||koos|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||oleme|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||oleme veel õppinud|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||5 aastat Tallinnas|||REQUIRED|||-NONE-|||0
+A 0 2|||R:VERB:FORM|||Õppisime|||REQUIRED|||-NONE-|||1
+A 8 10|||R:VERB:FORM|||õppisime|||REQUIRED|||-NONE-|||1
+A 7 11|||R:WO|||õppisime Tallinnas veel|||REQUIRED|||-NONE-|||1
+
+S Mäletan , et kooli ajal ta oli väga sõbralik ja abivalmis .
+A 5 7|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+
+S Ta aitas kõikidele koduülesannetega .
+A 2 3|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||0
+
+S Võin öelda , et ta üldse ei muutunud .
+A 6 8|||R:VERB:FORM|||ei ole muutunud|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||ei ole üldse muutunud|||REQUIRED|||-NONE-|||0
+
+S Koolis ta rääkis , et kui ta suureks kasvab siis hakkab ta tegeleda spordiga .
+A 1 3|||R:WO|||rääkis ta|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||tegelema|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ta rääkis koolis|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||tegelema|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||R:VERB:FORM|||tegelema|||REQUIRED|||-NONE-|||2
+
+S Varem ma rääkisin sulle , et ta on parem arst , aga veel ta on meie linnas kuulus sportlane .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||ta on veel|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma rääkisin sulle varem|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||on ta|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||2
+A 13 15|||R:WO|||on ta|||REQUIRED|||-NONE-|||2
+
+S Ta tegi ka oma kursused , sest mõnedel inimestel on probleemid kaaluga ja toitumisega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||kursusi|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||probleeme|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||lõi||koostas||pani kokku||algatas|||REQUIRED|||-NONE-|||2
+
+S Kui sa tahad võid ka tema kursustele käia .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||kursustel|||REQUIRED|||-NONE-|||0
+
+S Arvan , et nad sulle väga aitavad .
+A 3 4|||R:LEX|||need|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||sind|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||aitavad sind väga|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||sind|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||aitavad sind väga|||REQUIRED|||-NONE-|||1
+
+S Kui sul on veel küsimused , siis küsi .
+A 4 5|||R:NOM:FORM|||küsimusi|||REQUIRED|||-NONE-|||0
+
+S Alisa
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu endine klassikaaslane on Viktor --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me istusime temaga ühe koolipingi taga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See oli kolmkümmend aastat tagasi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Õppisime koos kuuendast klassist üheksa klassini .
+A 4 5|||R:NOM:FORM|||üheksanda|||REQUIRED|||-NONE-|||0
+
+S Koolis ta oli väga naljakas , tegi nalja kogu aeg .
+A 1 3|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||kogu aeg nalja|||REQUIRED|||-NONE-|||0
+
+S Kirjutasin minust vihikust vene keelt ja matemaatika maha .
+A 0 1|||R:VERB:FORM|||Kirjutas|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||minu|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||matemaatikat|||REQUIRED|||-NONE-|||0
+
+S Tema välimus oli koolis ka huvitav .
+A 0 5|||R:WO|||Ka tema välimus oli koolis|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||samuti|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||välimuski|||REQUIRED|||-NONE-|||2
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Keskmist kasvu , rohelise silmaga , tume juustega , üks kord ta värvis oma juukseid roheliseks .
+A 3 4|||R:NOM:FORM|||roheliste|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||silmadega|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||tumedate|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||juuksed|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||roheliste|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||silmadega|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||tumedate|||REQUIRED|||-NONE-|||1
+A 9 11|||R:NOM:FORM|||ükskord|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||värvis ta|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||juuksed|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||roheliste|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||silmadega|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||tumedate|||REQUIRED|||-NONE-|||2
+A 8 10|||R:PUNCT|||. Üks|||REQUIRED|||-NONE-|||2
+A 11 13|||R:WO|||värvis ta|||REQUIRED|||-NONE-|||2
+A 14 15|||R:NOM:FORM|||juuksed|||REQUIRED|||-NONE-|||2
+
+S Meie klassijuhataja oli väga kuri sellest .
+A 5 6|||M:LEX|||selle pärast|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||selle pärast väga kuri|||REQUIRED|||-NONE-|||0
+A 5 6|||M:LEX|||selle peale|||REQUIRED|||-NONE-|||1
+A 3 6|||R:WO|||selle peale väga kuri|||REQUIRED|||-NONE-|||1
+A 5 6|||M:LEX|||tõttu|||REQUIRED|||-NONE-|||2
+A 3 6|||R:WO|||selle tõttu väga kuri|||REQUIRED|||-NONE-|||2
+
+S Praegu ta on ilus kõrge kasvu mees , sellepärast ma kohe ei teadnud teda .
+A 1 3|||R:WO|||on ta|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX:NOM:FORM|||pikka|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||tundnud|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||ära|||REQUIRED|||-NONE-|||0
+A 9 14|||R:WO|||ei tundnud ma teda kohe|||REQUIRED|||-NONE-|||0
+
+S Viktor on väga muutunud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on kuulus reisija , tegeleb fotoga , kirjutab palju huvitavaid ajalehtedes .
+A 6 7|||R:LEX|||fotograafiaga|||REQUIRED|||-NONE-|||0
+A 11 11|||M:LEX|||artikleid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||ajalehtedesse|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||fotograafiaga|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||artikleid|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||ajalehtedesse|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||ajalehtedesse palju huvitavaid artikleid|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||fotograafiaga|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||huvitavat|||REQUIRED|||-NONE-|||2
+A 11 12|||R:NOM:FORM|||ajalehtedesse|||REQUIRED|||-NONE-|||2
+A 9 12|||R:WO|||ajalehtedesse palju huvitavat|||REQUIRED|||-NONE-|||2
+
+S Ma olen rõõmus teda näha .
+A 1 2|||R:VERB:FORM|||olin|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||nähes|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||teda nähes rõõmus|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Mul|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||rõõm|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||, et|||REQUIRED|||-NONE-|||2
+A 4 5|||R:VERB:FORM|||nägin|||REQUIRED|||-NONE-|||2
+
+S Ta elab praegu Austraalias .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma arvan , et sulle oli huvitav seda kiri lugeda .
+A 1 2|||R:LEX|||loodan|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||sul|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||0
+
+S Sinu sõbranna Polina
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S 26. aprillil nägin Alinast .
+A 3 4|||R:NOM:FORM|||Alinat|||REQUIRED|||-NONE-|||0
+
+S Alina on mu parim sõber , ta õpib Narva Soldino Gümnaasiumis , aga varem ta õpis Narva 6. koolis .
+A 10 11|||R:CASE|||gümnaasiumis|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||õppis|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||õppis ta|||REQUIRED|||-NONE-|||0
+A 5 7|||R:PUNCT|||. Ta|||REQUIRED|||-NONE-|||1
+A 10 11|||R:CASE|||gümnaasiumis|||REQUIRED|||-NONE-|||1
+A 15 16|||R:SPELL|||õppis|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WO|||õppis ta|||REQUIRED|||-NONE-|||1
+A 15 16|||R:SPELL|||õppis|||REQUIRED|||-NONE-|||2
+A 14 16|||R:WO|||õppis ta|||REQUIRED|||-NONE-|||2
+A 18 19|||R:CASE|||Koolis|||REQUIRED|||-NONE-|||2
+
+S Me õppisime koos 7 aastat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kooli ajal oli ta väga sõbralik , seltsiv , lahke ja lõbus .
+A 0 2|||R:WS|||Kooliajal|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Tihti me jalutasime , käisime kinos , veetsime vaba aeg koos ja naersime .
+A 9 10|||R:NOM:FORM|||aega|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||koos vaba aega|||REQUIRED|||-NONE-|||0
+
+S Praegu me jalutame ka , aga harva , sest mul ei ole vaba aega .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Me jalutame ka praegu|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||käime|||REQUIRED|||-NONE-|||2
+A 2 3|||R:VERB:FORM|||jalutamas|||REQUIRED|||-NONE-|||2
+A 0 4|||R:WO|||Me käime ka praegu jalutamas|||REQUIRED|||-NONE-|||2
+
+S Tahan öelda , et Alina ei muutu iseloomult .
+A 6 7|||R:VERB:FORM|||ole muutunud|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||ole iseloomult muutunud|||REQUIRED|||-NONE-|||0
+
+S Kui ta õpis minu koolis , siis ta tegeleb maadlusega .
+A 2 3|||R:SPELL|||õppis|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||tegeles|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||tegeles ta|||REQUIRED|||-NONE-|||0
+
+S Praegu ta tegeleb maadlusega ka ja veel ta õpib kitarri mängima .
+A 0 5|||R:WO|||Ka praegu tegeleb ta maadlusega|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||õpib ta|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Ta tegeleb ka praegu maadlusega|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 9|||R:WO|||ja õpib veel ka|||REQUIRED|||-NONE-|||1
+
+S Alina näeb välja väga ilusasti .
+A 4 5|||R:LEX|||ilus|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||väga ilus välja|||REQUIRED|||-NONE-|||0
+
+S Ta on keskmist kasvu , tal on ilusad suured pruunid ilmekad silmad , tumedad pikked juuksed ja sirge väike nina .
+A 14 15|||R:SPELL|||pikad|||REQUIRED|||-NONE-|||0
+
+S Alina riietub väga moodsalt .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tal on alati kallis riide .
+A 3 4|||R:NOM:FORM|||kallid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||riided|||REQUIRED|||-NONE-|||0
+
+S Kas sa nägid oma kunagist klassikaaslast ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sellega ma lõpetan .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ootan Sinu vastust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||R:CASE|||sinu|||REQUIRED|||-NONE-|||1
+
+S Julia
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu klassikaaslane on praegu suur ülemus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta töötab oma firmas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me oppisime koos rohkem kui 10 aastat .
+A 1 2|||R:SPELL|||õppisime|||REQUIRED|||-NONE-|||0
+
+S See oli väga huvitavad ja lõõbusavad aastat .
+A 0 1|||R:NOM:FORM|||Need|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX:SPELL|||lõbusad|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||aastad|||REQUIRED|||-NONE-|||0
+
+S Kooli ajal ta oli väga sõbralik ja viisakas õpilane .
+A 0 1|||R:WS|||Kooliajal|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||oli ta|||REQUIRED|||-NONE-|||1
+
+S Temale kõik armastavad .
+A 0 1|||R:NOM:FORM|||Teda|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||armastasid|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||armastasid kõik|||REQUIRED|||-NONE-|||0
+
+S Kui õpilased nii õpetajad .
+A 0 3|||R:WO|||Nii õpilased kui|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||ka|||REQUIRED|||-NONE-|||0
+
+S Praegu ta näitab väga soliidne .
+A 2 3|||R:LEX|||näib|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||näib ta|||REQUIRED|||-NONE-|||0
+
+S Ma arvan , et ta on väga töökas ja range inimees .
+A 10 11|||R:SPELL|||inimene|||REQUIRED|||-NONE-|||0
+
+S Kuid ma arvan , et ta jäi ka viisakas nagu oli kooliajal .
+A 6 7|||R:VERB:FORM|||on jäänud|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||viisakaks|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||on jäänud|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||sama|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||viisakaks|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||R:VERB:FORM|||on jäänud|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||viisakaks|||REQUIRED|||-NONE-|||2
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Temal on suur firma tänapäeval .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Tal|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Tal|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||praegu|||REQUIRED|||-NONE-|||2
+A 2 5|||R:WO|||praegu suur firma|||REQUIRED|||-NONE-|||2
+
+S Ta müüb , hooldab , remontib ehitustehnikat .
+A 5 6|||R:SPELL|||remondib|||REQUIRED|||-NONE-|||0
+
+S Traktorid , buldoseerid , ekskavatoorid jne .
+A 0 1|||R:NOM:FORM|||Traktoreid|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM:SPELL|||buldoosereid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM:SPELL|||ekskavaatoreid|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||buldooserid|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||ekskavaatorid|||REQUIRED|||-NONE-|||1
+
+S Temal on suur kollektiiv .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Tal|||REQUIRED|||-NONE-|||1
+
+S Aga tööd on palju , sest Eestis palju ehitusobjekte .
+A 7 7|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Ma olen väga rahuldav , et kohtusin minu klaasikaaslast .
+A 3 4|||R:LEX|||rahul|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kohtasin|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||klassikaaslast|||REQUIRED|||-NONE-|||0
+
+S Sinu sõber Igor .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sa ju mäletad minu sõbranna Irina .
+A 4 5|||R:NOM:FORM|||sõbrannat|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||Irinat|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||Irinat|||REQUIRED|||-NONE-|||1
+
+S Me õppisime temaga esimesest klassist .
+A 5 5|||M:LEX|||saati koos||alates koos||peale koos|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||koos|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||saati||alates||peale|||REQUIRED|||-NONE-|||1
+
+S Pärast kooli lõpetamist mina teda ei näinud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+
+S Nii pälju aega möödus .
+A 1 2|||R:SPELL|||palju|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||palju|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Möödus nii palju aega|||REQUIRED|||-NONE-|||1
+
+S Kooli ajal ta oli lõbus ja naljakas tüdruk .
+A 2 4|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+
+S Aga nüüd ta on ilus daam .
+A 2 4|||R:WO|||on ta|||REQUIRED|||-NONE-|||0
+
+S Tal on oma firma .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Firma tegeleb kosmeetikaga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui siis sul on vaja mingid kosmeetika kaubad sa võid pöörduda tema poole .
+A 0 2|||R:WO|||Siis kui|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||mingeid|||REQUIRED|||-NONE-|||0
+A 6 7|||R:WS:NOM:FORM|||kosmeetikakaupu|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||võid sa|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||tema poole pöörduda|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||mingeid|||REQUIRED|||-NONE-|||1
+A 6 7|||R:WS:NOM:FORM|||kosmeetikakaupu|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||võid sa|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||tema poole pöörduda|||REQUIRED|||-NONE-|||1
+
+S Tema firma asub kesklinnas väga mugavas kohas .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Võib minna autoga või bussiga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga sina nägid kedagi meie klassikaaslastest ?
+A 1 1|||M:LEX|||kas|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||kas|||REQUIRED|||-NONE-|||1
+A 2 3|||R:VERB:FORM|||oled näinud|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||oled kedagi meie klassikaaslastest näinud|||REQUIRED|||-NONE-|||1
+
+S Võib olla kohtume vabal ajal ?
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+
+S Istume kohvikus , rääkime oma elust , joome kohvi või midagi veel .
+A 3 4|||R:VERB:FORM:SPELL|||räägime|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||muud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM:SPELL|||räägime|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||veel midagi|||REQUIRED|||-NONE-|||1
+
+S Kirjuta palun mulle kas sa oled nõus .
+A 1 3|||R:WO|||mulle palun|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Parema soovidega , Marina
+A 0 1|||R:NOM:FORM|||Parimate|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S See oli Karl --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Võib olla sina ka mäletad teda .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||mäletad sina ka|||REQUIRED|||-NONE-|||0
+
+S Õppisime temaga koos umbes 3 aastat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta oli väga vaikne ja kinnine poiss , tal üldse polnud sõpru .
+A 9 11|||R:WO|||polnud üldse|||REQUIRED|||-NONE-|||0
+
+S Aga ta muutus väga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||on muutunud|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||on väga muutunud|||REQUIRED|||-NONE-|||1
+
+S Nüüd ta on avameelne ja abivalmis , räägib väga palju .
+A 1 3|||R:WO|||on ta|||REQUIRED|||-NONE-|||0
+
+S Ma sain temalt teada , et ta abiellus ja praegu tal on 2 tütart : Nadja ja Alisa .
+A 10 12|||R:WO|||on tal|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||on tal|||REQUIRED|||-NONE-|||1
+A 14 15|||R:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||on tal|||REQUIRED|||-NONE-|||2
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Elab ta oma perega suures eramajas Maardus ja tal on 3 autot .
+A 0 2|||R:WO|||Ta elab|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Ta elab|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||Maardus suures eramajas|||REQUIRED|||-NONE-|||1
+
+S Ta on ärimees .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nagu ta ütles , et tema palk on umbes 5000 eurot kuus .
+A 0 2|||U:LEX|||Ta|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||on tema palk|||REQUIRED|||-NONE-|||1
+
+S Elab ta väga rikkalt .
+A 0 2|||R:WO|||Ta elab|||REQUIRED|||-NONE-|||0
+
+S Ka tahan ma sinu käest küsida , võib olla sa tead midagi veel meie klassikaaslastest .
+A 7 7|||M:LEX|||kas|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
+A 7 13|||R:WO|||sa tead võib-olla veel midagi||sa tead võibolla veel midagi|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ma tahan ka|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||kas|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||1
+A 7 13|||R:WO|||sa tead võib-olla veel midagi||sa tead võibolla veel midagi|||REQUIRED|||-NONE-|||1
+
+S Võib olla nägid kedagi .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||1
+A 4 5|||R:PUNCT|||?|||REQUIRED|||-NONE-|||1
+
+S Sellega lõpetan .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sergei
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eelmisel nädalal ma käisin kontserdil .
+A 2 4|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma käisin eelmisel nädalal|||REQUIRED|||-NONE-|||1
+
+S Mulle väga meeldib käia kontserdil või muuseumis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma valisin kontsert " Meister ja Margarita " .
+A 2 3|||R:NOM:FORM|||kontserdi|||REQUIRED|||-NONE-|||0
+
+S Ma valisin selle sellepärast , et koolis ma lugesin seda raamatut .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma käisin kontserdil oma abikaasaga , emaga ja isaga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 3|||M:LEX|||koos|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||abikaasa|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||ema|||REQUIRED|||-NONE-|||1
+
+S Mulle väga meeldis see kontsert ja minu pere ka .
+A 7 8|||R:NOM:FORM|||perele|||REQUIRED|||-NONE-|||0
+
+S Konsert oli kolm tundi ja toimus Narvas Genevas kontserdimajas .
+A 0 1|||R:SPELL|||Kontsert|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||pikk|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||Geneva|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Kontsert|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||kestis|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||Geneva|||REQUIRED|||-NONE-|||1
+
+S Pärast kontserti me läksime poodi , seal me ostsime toiduained ja läksime minu kodu .
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||sealt|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||toiduaineid|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||koju|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||sealt|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||ostsime me|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||toiduaineid|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||koju|||REQUIRED|||-NONE-|||1
+
+S Kodus me rääkisime kontserdist ja kõikest , ka me tegime nalja ja jõime kohvi .
+A 1 3|||R:WO|||rääkisime me|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||kõigest|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||me tegime ka|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||rääkisime me|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||kõigest|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||muust|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||me tegime ka|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||kõigest|||REQUIRED|||-NONE-|||2
+A 6 6|||M:LEX|||muust|||REQUIRED|||-NONE-|||2
+A 7 10|||R:WO|||me tegime ka|||REQUIRED|||-NONE-|||2
+
+S Pärast me läksime pargi ja see oli kell umbes kakskümmed üks .
+A 3 4|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||umbes kell|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||kakskümmend|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||läksime me|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||umbes kell|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||kakskümmend|||REQUIRED|||-NONE-|||1
+
+S See oli väga tore päev .
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Me leppisime kokku , et järgmisel nädalal me läheme " Masha ja Karu " l .
+A 7 9|||R:WO|||läheme me|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||vaatama|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM:SPELL|||Mašat|||REQUIRED|||-NONE-|||0
+A 12 13|||R:CASE|||karu|||REQUIRED|||-NONE-|||0
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 9|||R:WO|||me läheme järgmisel nädalal|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||etendusele|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||Maša|||REQUIRED|||-NONE-|||1
+
+S Hiljuti 16. augustil ma käisin kontserdil Narvas .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||Narvas kontserdil|||REQUIRED|||-NONE-|||1
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 0 5|||R:WO|||Ma käisin hiljuti , 16. augustil ,|||REQUIRED|||-NONE-|||2
+A 5 7|||R:WO|||Narvas kontserdil|||REQUIRED|||-NONE-|||2
+
+S See kontsert toimus Rugodivi kontserdimajas ja seal oli minu lemmik laulja Anne Veski .
+A 9 11|||R:WS|||lemmiklaulja|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||esines|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WS|||lemmiklaulja|||REQUIRED|||-NONE-|||1
+
+S Ma väga kaua tahtsin käia selle kontserdil .
+A 1 4|||R:WO|||tahtsin väga kaua|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||minna|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||sellele kontserdile minna|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||olen tahtnud|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||olen väga kaua tahtnud|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||minna|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||sellele kontserdile minna|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||ammu|||REQUIRED|||-NONE-|||2
+A 3 4|||R:VERB:FORM|||olen tahtnud|||REQUIRED|||-NONE-|||2
+A 1 4|||R:WO|||olen väga ammu tahtnud|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||2
+A 4 7|||R:WO|||sellele kontserdile minna|||REQUIRED|||-NONE-|||2
+
+S Kontserdil ma käisin koos abikaasa ja sõpradega .
+A 0 3|||R:WO|||Ma käisin kontserdil|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||1
+
+S Mulle väga meeldis see kontsert sellepärast , et see oli väga huvitav , lõõgastav ja lõbustav kontsert .
+A 15 16|||R:LEX|||lõbus|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Me koos veetsime aega väga tore .
+A 1 3|||R:WO|||veetsime koos|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||toredalt|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||väga toredalt aega|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||veetsime koos|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||oli|||REQUIRED|||-NONE-|||1
+
+S Me palju laulsime ja tantsisime , ja pärast kontserti me olime väga väsitav , sest me otsisime käia kohvikus ja juua kuum tee vaarikamoosiga .
+A 1 5|||R:WO|||laulsime ja tantsisime palju|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||olime me|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||väsinud|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||siis||seepärast||seetõttu|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||otsustasime|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||kuuma|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||teed|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||laulsime ja tantsisime palju|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||U:LEX|||-NONE|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||väsinud|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||siis||seepärast||seetõttu|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||otsustasime|||REQUIRED|||-NONE-|||1
+A 15 17|||R:WO|||otsustasime me|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||kuuma|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||teed|||REQUIRED|||-NONE-|||1
+
+S Veel me tellisime suur pitza kana ja ananasiga .
+A 0 3|||R:WO|||Me tellisime veel|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||suure|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||pitsa|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||ananassiga|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tellisime me|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||suure|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||pitsa|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||ananassiga|||REQUIRED|||-NONE-|||1
+
+S See oli väga maitsev .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Pärast kohvikust me käsime kodus .
+A 1 2|||R:SPELL|||kohvikut|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX:SPELL|||läksime|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||koju|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Kohvikust|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX:SPELL|||läksime|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||koju|||REQUIRED|||-NONE-|||1
+
+S Järgmisena ma tahan käia Tallinnas kontserdile vene laulja Valeria .
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kontserdil|||REQUIRED|||-NONE-|||0
+A 5 9|||R:WO|||vene laulja Valeria kontserdil|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||minna|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||Tallinnasse|||REQUIRED|||-NONE-|||1
+A 5 9|||R:WO|||vene laulja Valeria kontserdile|||REQUIRED|||-NONE-|||1
+
+S Mulle väga meeldis see kontsert .
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Tere päevast , minu kallis eesti keele õpetaja Anna .
+A 9 10|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S See on teie õpilane Peeter .
+A 0 1|||R:LEX|||Siin|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Ma|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Tahan teile kirjutada , et hiljuti ma käisin väga huvitav kontserdil minu sõbrannaga .
+A 5 8|||R:WO|||ma käisin hiljuti|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||huvitaval|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 8 13|||R:WO|||oma sõbrannaga väga huvitaval kontserdil||enda sõbrannaga väga huvitaval kontserdil|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||huvitaval|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||1
+A 8 13|||R:WO|||oma sõbrannaga väga huvitaval kontserdil||enda sõbrannaga väga huvitaval kontserdil|||REQUIRED|||-NONE-|||1
+
+S Soovin kirjutada sellest surepärasest pidust .
+A 3 4|||R:SPELL|||suurepärasest|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||peost|||REQUIRED|||-NONE-|||0
+
+S Seal oli " Mettalica " !
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||Metallica|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Aga see on rokki-klassika !
+A 3 4|||R:SPELL|||rokiklassika|||REQUIRED|||-NONE-|||0
+
+S Kontserdimajas oli väga palju inimeseid , ümbes 5000 !
+A 4 5|||R:SPELL|||inimesi|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||umbes|||REQUIRED|||-NONE-|||0
+
+S Ma ütlesin juba , et ma käisin kontserdil minu sõbrannaga .
+A 8 9|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+
+S Ta väga armastab " Mettalica " ka , kui mina .
+A 1 3|||R:WO|||armastab väga|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM:SPELL|||Metallicat|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||nagu|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||, nagu ka|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM:SPELL|||Metallicat|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 7|||R:WO|||armastab ka väga Metallicat|||REQUIRED|||-NONE-|||1
+A 7 8|||U:PUNCT|||-NONE|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||nagu|||REQUIRED|||-NONE-|||1
+
+S See on proffesionalne rokk-gruup , kõige parem maailmas .
+A 2 3|||R:SPELL|||professionaalne|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||rokigrupp|||REQUIRED|||-NONE-|||0
+
+S Kontserdimaja oli väga mugav ja valge .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me tutvusime palju huvitavadega inimestega .
+A 2 3|||R:NOM:FORM|||paljude|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||huvitavate|||REQUIRED|||-NONE-|||0
+
+S Aga pärast kontserti me käisime kohvikus .
+A 3 5|||R:WO|||käisime me|||REQUIRED|||-NONE-|||0
+
+S Järgmisena , talvel me hakkame lähema teine suurel kontserdil .
+A 0 1|||R:NOM:FORM|||Järgmisel|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM:SPELL|||läheme|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||läheme me|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||teisele|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||suurele|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:VERB:FORM:SPELL|||läheme|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||läheme me talvel|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||teisele|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||suurele|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||1
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||plaanime||kavatseme|||REQUIRED|||-NONE-|||2
+A 5 6|||R:VERB:FORM:SPELL|||minna|||REQUIRED|||-NONE-|||2
+A 2 6|||R:WO|||plaanime me talvel minna||kavatseme me talvel minna|||REQUIRED|||-NONE-|||2
+
+S See on " Depesh Mode " , aga see on kuningad rokki-maailmas .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||Depeche|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||kuningas|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||rokimaailmas|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO:NOM:FORM|||rokimaailma kuningas|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||Depeche|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||nad||nemad|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||rokimaailmas|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||rokimaailmas kuningad|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||R:SPELL|||Depeche|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||Mode'i|||REQUIRED|||-NONE-|||2
+A 5 5|||M:LEX|||kontsert|||REQUIRED|||-NONE-|||2
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||R:LEX|||sest|||REQUIRED|||-NONE-|||2
+A 8 9|||R:LEX|||nad|||REQUIRED|||-NONE-|||2
+A 11 12|||R:SPELL|||rokimaailmas|||REQUIRED|||-NONE-|||2
+A 10 12|||R:WO:NOM:FORM|||rokimaailma kuningad|||REQUIRED|||-NONE-|||2
+
+S See ongi ma tahan teile kirjutada .
+A 2 2|||M:LEX|||, millest|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||oligi|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||, millest|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||tahtsin|||REQUIRED|||-NONE-|||1
+
+S Tervitades !
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S teie õpilane Riho
+A 0 1|||R:CASE|||Teie|||REQUIRED|||-NONE-|||0
+
+S Eelmisel nädalal käisin Tallinnas kontserdil Lauluväljakul mängis mu lemmik bänd Metsatöll .
+A 5 5|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WS|||lemmikbänd|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||R:CASE|||lauluväljakul|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WS|||lemmikbänd|||REQUIRED|||-NONE-|||1
+
+S Ma käisin kontserdile koos mehega .
+A 2 3|||R:NOM:FORM|||kontserdil|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||läksin|||REQUIRED|||-NONE-|||1
+
+S Talle meeldib see bänd ka .
+A 2 5|||R:WO|||ka see bänd|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Ka talle meeldib see bänd|||REQUIRED|||-NONE-|||1
+
+S See kontsert oli väga ilus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Me kuulsime uued laulud ja elav muusikat .
+A 2 3|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||laule|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||elavat|||REQUIRED|||-NONE-|||0
+
+S Meie väga meeldib see ettendus .
+A 0 1|||R:NOM:FORM|||Meile|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||meeldis|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||etendus|||REQUIRED|||-NONE-|||0
+
+S Pärast seda me käsime jalutamas koos sõbradega Piritas .
+A 3 4|||R:SPELL|||käisime|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||käisime me|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||sõpradega|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||Pirital|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||koos sõpradega Pirital jalutamas|||REQUIRED|||-NONE-|||0
+
+S See päev oli väga huvitav ja lõbus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 7|||R:WO|||oli väga huvitav ja lõbus päev|||REQUIRED|||-NONE-|||1
+
+S Järgmisel päeval me läksime koju .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||2
+
+S Nüüd me planeerime sõida järgmisel kontserdi Riias .
+A 2 3|||R:LEX|||plaanime|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||plaanime me|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||sõita|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||järgmisele|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||Riiga|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||planeerime me|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||sõitu|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||järgmisele|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||Riiga|||REQUIRED|||-NONE-|||1
+
+S Seal on kontsert Lady Gaga .
+A 2 5|||R:WO|||Lady Gaga kontsert|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldib vaadata erinvaid ettenduseid , mu abikaasa ka meeldib .
+A 3 4|||R:SPELL|||erinevaid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||etendusi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||abikaasale|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ka me armastame muusikat .
+A 0 3|||R:WO|||Me armastame ka|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||armastame me|||REQUIRED|||-NONE-|||1
+
+S Ka meile meeldib teater .
+A 0 3|||R:WO|||Meile meeldib ka|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldib meile|||REQUIRED|||-NONE-|||1
+
+S Tahame järgmisel kuul teatri ettendus vaadata ka .
+A 3 5|||R:WS:NOM:FORM:SPELL|||teatrietendust|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||ka teatrietendust vaadata|||REQUIRED|||-NONE-|||0
+
+S See on nii huvitav !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma käisin rookgruppi kontserdile paari kuued tagasi .
+A 2 3|||R:NOM:FORM:SPELL|||rokigrupi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kontserdil|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||paar|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||kuud|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM:SPELL|||rokigrupi|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||kontserdil|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||paar|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||kuud|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||paar kuud tagasi rokigrupi kontserdil|||REQUIRED|||-NONE-|||1
+
+S Mulle väga meeldib see moodi muusika , sellepärast mina käisin seal .
+A 3 5|||R:WS:NOM:FORM|||sedamoodi|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||seal käisin|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldib väga|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WS:NOM:FORM|||sedamoodi|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||käisingi|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||seal käisingi|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WS:NOM:FORM|||sedamoodi|||REQUIRED|||-NONE-|||2
+A 1 6|||R:WO|||meeldib sedamoodi muusika väga|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||2
+A 9 11|||R:WO|||seal käisin|||REQUIRED|||-NONE-|||2
+
+S Ma olin seal minu poega Pauliga .
+A 3 4|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||poja|||REQUIRED|||-NONE-|||0
+
+S Kontsert toimus Saku Suurhallis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:CASE|||suurhallis|||REQUIRED|||-NONE-|||1
+
+S Vahemalt kontsert oli väga hea , aga heli oli nattukene halb ja raudne .
+A 0 1|||R:SPELL|||Vähemalt|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||oli kontsert|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||natukene|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Vähemalt|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||oli kontsert|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||natukene|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||metalne|||REQUIRED|||-NONE-|||1
+
+S Kui kontsert lõppus me sõitsime linna keskusse bussiga .
+A 2 3|||R:SPELL|||lõppes|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||sõitsime me|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||bussiga linna keskusse|||REQUIRED|||-NONE-|||0
+
+S Pärast Paul läks tema sõbradega kohtuda aga mina tahtsin pubisse minema .
+A 1 3|||R:WO|||läks Paul|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||sõpradega|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||kohtuma|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||minna|||REQUIRED|||-NONE-|||0
+
+S Siis ma kaisin pubisse ja ostsin seal õlut ja midagi süüja .
+A 2 3|||R:SPELL|||käisin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||pubis|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||süüa|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX:SPELL|||läksin|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||sealt|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||süüa|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||käisin|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||pubis|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX|||sealt|||REQUIRED|||-NONE-|||2
+A 10 11|||R:SPELL|||süüa|||REQUIRED|||-NONE-|||2
+
+S Pärast seda ma sõidsin koju taxiga .
+A 3 4|||R:SPELL|||sõitsin|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||sõitsin ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||taksoga|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||taksoga koju|||REQUIRED|||-NONE-|||0
+
+S Mina ei tea praegu millal ma lähen kontserdile jargmisena .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||järgmisena|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||järgmisena kontserdile lähen|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||järgmisena|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||järgmisena kontserdile lähen|||REQUIRED|||-NONE-|||1
+
+S Kui huvitav kontserdi toimub Tallinnas siis ma lähen seal .
+A 2 3|||R:NOM:FORM|||kontsert|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||Tallinnas toimub huvitav kontsert|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||sinna|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldib erinevaid muusikaid moodi .
+A 2 3|||R:NOM:FORM|||erinevat|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO:NOM:FORM|||moodi muusika|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||meeldivad|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||erinevad|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX:NOM:FORM|||muusikastiilid|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Sügise muusika .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Seoses sellega et õues on sügis , igalpool toimuvad temaatilised üritused .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:WS|||igal pool|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||toimuvad igal pool|||REQUIRED|||-NONE-|||0
+
+S Ühel ilusal päeval kaisime koos oma perega ühel konserdil , kus esinesid koolilapsed , musikakooli lapsed .
+A 3 4|||R:SPELL|||käisime|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||kontserdil|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||muusikakooli|||REQUIRED|||-NONE-|||0
+
+S Kontsert meeldis väga !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sest et laste esinemist alati mõnus kuulata , vaadata .
+A 4 4|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 6 9|||R:PUNCT|||kuulata-vaadata|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||on|||REQUIRED|||-NONE-|||2
+A 7 8|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+
+S Peale kontserti läksime restoraanis .
+A 3 4|||R:NOM:FORM:SPELL|||restorani|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||käisime|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||restoranis|||REQUIRED|||-NONE-|||1
+
+S Sel päeval oli vaga sisukas ja mõnus päev , perepäev .
+A 0 1|||R:NOM:FORM|||See|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||päev|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||väga|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||See|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||väga|||REQUIRED|||-NONE-|||1
+
+S Meile meeldib käia laste kontsertitel , sest et meil on oma 10 aastane tüdruk , kes juba 4 aastat käib muusikakoolis , klaverit mängimas .
+A 4 5|||R:SPELL|||kontsertidel|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||10aastane||10-aastane|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||kontsertidel|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WS|||10aastane||10-aastane|||REQUIRED|||-NONE-|||1
+A 16 21|||R:WO|||käib juba 4 aastat muusikakoolis||käib muusikakoolis juba 4 aastat|||REQUIRED|||-NONE-|||1
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||kontsertidel|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||omal|||REQUIRED|||-NONE-|||2
+A 11 13|||R:WS|||10aastane||10-aastane|||REQUIRED|||-NONE-|||2
+A 16 21|||R:WO|||käib juba 4 aastat muusikakoolis||käib muusikakoolis juba 4 aastat|||REQUIRED|||-NONE-|||2
+
+S Ja järgmine kontsert toimub samas muusikakoolis , kuhu me kindlasti lähme .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 11|||R:WO|||kuhu me kindlasti lähme , toimub samas muusikakoolis|||REQUIRED|||-NONE-|||1
+A 1 6|||R:WO|||samas muusikakoolis toimub järgmine kontsert|||REQUIRED|||-NONE-|||2
+
+S Musikaalsed päevad , koos oma inimestega , mida võib paremini olla ...
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||parem|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||võiks|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||parem|||REQUIRED|||-NONE-|||1
+
+S Ja see kvaliteetaeg peale kontserti , siis kui me lähme välja sööma kõik koos .
+A 10 14|||R:WO|||kõik koos välja sööma|||REQUIRED|||-NONE-|||0
+
+S Kus me arutame erinevad teemad : kodu , kool ja nii edasi .
+A 3 4|||R:NOM:FORM|||erinevaid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||teemasid|||REQUIRED|||-NONE-|||0
+
+S Selline päev juhtub meil väga harva .
+A 0 1|||R:NOM:FORM|||Sellist|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||päeva|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Selliseid|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||päevi|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Selliseid|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM|||päevi|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX|||on|||REQUIRED|||-NONE-|||2
+
+S Aga hea et üldse juhtub .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||on|||REQUIRED|||-NONE-|||1
+
+S Hiljuti ma käisin kontserdil .
+A 1 3|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ma käisin hiljuti|||REQUIRED|||-NONE-|||1
+
+S See oli Haapsalus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Iga aastat seal oli kontsert nimi Tšaikovki .
+A 0 1|||R:NOM:FORM|||Igal|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||on seal|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||Tšaikovski|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||Tšaikovski kontsert|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||on seal|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||Tšaikovski|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||Tšaikovski kontsert|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Igal|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||2
+A 3 4|||R:LEX:VERB:FORM|||toimub|||REQUIRED|||-NONE-|||2
+A 2 4|||R:WO|||toimub seal|||REQUIRED|||-NONE-|||2
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX:SPELL|||Tšaikovski-nimeline|||REQUIRED|||-NONE-|||2
+A 4 7|||R:WO|||Tšaikovski-nimeline kontsert|||REQUIRED|||-NONE-|||2
+
+S Mulle vaga meeldib klassikat musiika .
+A 1 2|||R:SPELL|||väga|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX:NOM:FORM|||klassikaline|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||muusika|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||väga|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX:NOM:FORM|||klassikaline|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||muusika|||REQUIRED|||-NONE-|||1
+A 1 5|||R:WO|||meeldib klassikaline muusika väga|||REQUIRED|||-NONE-|||1
+
+S Me varem ostsime piletid .
+A 1 2|||R:LEX|||varakult|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||ostame|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ostame piletid varakult|||REQUIRED|||-NONE-|||0
+
+S Mõnikord juba jaanuaris .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seelel suvel ma sõidsin abikaasaga ja sõpradega .
+A 0 1|||R:SPELL|||Sellel|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||sõitsin|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||sõitsin ma|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Sellel|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||sõitsin|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||sõitsin ma|||REQUIRED|||-NONE-|||1
+A 4 4|||R:LEX|||sinna|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||abikaasa|||REQUIRED|||-NONE-|||1
+
+S Me bronerime hotel seal , ja elame paar päeva .
+A 1 2|||R:VERB:FORM:SPELL|||broneerisime|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM:SPELL|||hotelli|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||seal hotelli|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||kus|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||elasime|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM:SPELL|||broneerisime|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM:SPELL|||hotelli|||REQUIRED|||-NONE-|||1
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:VERB:FORM|||elasime|||REQUIRED|||-NONE-|||1
+A 3 7|||R:WO|||ja elasime seal|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||broneerime|||REQUIRED|||-NONE-|||2
+A 2 3|||R:NOM:FORM:SPELL|||hotelli|||REQUIRED|||-NONE-|||2
+A 2 4|||R:WO|||seal hotelli|||REQUIRED|||-NONE-|||2
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Pärast konstserti me jalutame mere äres .
+A 1 2|||R:SPELL|||kontserti|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||jalutasime|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||ääres|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||kontserti|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||jalutasime|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||jalutasime me|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||ääres|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||kontserti|||REQUIRED|||-NONE-|||2
+A 2 4|||R:WO|||jalutame me|||REQUIRED|||-NONE-|||2
+A 5 6|||R:SPELL|||ääres|||REQUIRED|||-NONE-|||2
+
+S jstume kohvikus , sööme , joome , suhtleme .
+A 0 1|||R:VERB:FORM:SPELL:CASE|||Istusime|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||sõime|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||jõime|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||suhtlesime|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL:CASE|||Istume|||REQUIRED|||-NONE-|||1
+
+S Seal iga päev mängib muusika erinevas kohas .
+A 1 5|||R:WO|||mängib muusika iga päev|||REQUIRED|||-NONE-|||0
+
+S Seele aastal oli palju inimest .
+A 0 1|||R:NOM:FORM:SPELL|||Sellel|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM:SPELL|||Sellel|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||seal|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||1
+
+S Ma mõtlen järgmise aasta sõita või ei sõitis .
+A 2 2|||M:LEX|||, kas|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||järgmisel|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||mitte|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||sõita|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||, kas|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||järgmisel|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||sinna|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||mitte|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Seal huvitav aga natuke kallis .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ma arvan et järgmisel kontserdil me läheme kesegi Tallinnasse .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||järgmisele|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||järgmisele|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||läheme me|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||Tallinna|||REQUIRED|||-NONE-|||1
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||järgmisele|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||2
+A 5 7|||R:WO|||läheme me|||REQUIRED|||-NONE-|||2
+A 7 8|||R:SPELL|||kellegagi|||REQUIRED|||-NONE-|||2
+
+S Tere kallis õpetaja .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Hiljuti mina oli kontserdil .
+A 2 3|||R:LEX:VERB:FORM|||käisin|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Mina käisin hiljuti|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX:VERB:FORM|||käisin|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Hiljuti käisin ma||Ma käisin hiljuti|||REQUIRED|||-NONE-|||1
+A 2 3|||R:VERB:FORM|||olin|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||olin ma|||REQUIRED|||-NONE-|||2
+
+S Kontserdil oli minu lemmikmuusika ja grupp Guns'n'Roses .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||R:LEX|||kõlas|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||esines|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldib selline muusikat .
+A 3 4|||R:NOM:FORM|||muusika|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||kuulata|||REQUIRED|||-NONE-|||1
+
+S See on rokk muus'ka .
+A 2 4|||R:WS:SPELL|||rokkmuusika|||REQUIRED|||-NONE-|||0
+
+S Kontserdil olin koos oma naisega ja sõpradega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||naise|||REQUIRED|||-NONE-|||1
+
+S Nad ka meeldivad selline muusikat .
+A 0 1|||R:NOM:FORM|||Neile|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||meeldib|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldib ka|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||muusika|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||kuulavad|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||kuulavad ka|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||armastavad|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||armastavad ka|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||2
+
+S Väga tore oli kontserdil .
+A 0 4|||R:WO|||Kontserdil oli väga tore|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Kontserdil oli väga tore|||REQUIRED|||-NONE-|||1
+
+S Mulle väga meeldis .
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldis väga|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Nad mängisid kui vanad laulud ja uued .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||laule|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||ja uusi laule|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||nii|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||laule|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||kui ka|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||nii|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||laule|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||kui ka|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||2
+A 4 7|||R:WO|||kui ka uusi laule|||REQUIRED|||-NONE-|||2
+
+S Mina sain võimalus pildistada nendega .
+A 2 3|||R:NOM:FORM|||võimaluse|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||nendega pildistada|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||võimaluse|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||nendega pildistada|||REQUIRED|||-NONE-|||1
+
+S Pärast kontserti käisime baarisse .
+A 3 4|||R:NOM:FORM|||baaris|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||läksime|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||baari|||REQUIRED|||-NONE-|||1
+
+S Me kohe hakkasime vestlema kontserdist , ka , sest jäi imelik tunnu .
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 7|||R:WO|||hakkasime ka kohe vestlema kontserdist||hakkasime ka kohe kontserdist vestlema||hakkasime kohe ka kontserdist vestlema|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||see|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||jättis|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX:NOM:FORM|||imelise|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM:SPELL|||tunde|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||rääkima|||REQUIRED|||-NONE-|||1
+A 1 7|||R:WO|||hakkasime ka kohe kontserdist rääkima||hakkasime kohe ka kontserdist rääkima|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||oli|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||imeline|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||tunne|||REQUIRED|||-NONE-|||1
+A 1 7|||R:WO|||hakkasime ka kohe vestlema kontserdist||hakkasime ka kohe kontserdist vestlema||hakkasime kohe ka kontserdist vestlema|||REQUIRED|||-NONE-|||2
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 9|||M:LEX|||sellest|||REQUIRED|||-NONE-|||2
+A 10 11|||R:LEX|||imeline|||REQUIRED|||-NONE-|||2
+A 11 12|||R:SPELL|||tunne|||REQUIRED|||-NONE-|||2
+
+S Aga aeg oli öö , me hakkasime koju minna .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||minema|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||käes|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||minema|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||hiline|||REQUIRED|||-NONE-|||2
+A 8 9|||R:VERB:FORM|||minema|||REQUIRED|||-NONE-|||2
+
+S Ma kuulnud , et järgmisel aastal meile tuleb Metallika .
+A 1 1|||M:LEX|||olen|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||tuleb meile|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||Metallica|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||kuulsin|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WO|||tuleb meile|||REQUIRED|||-NONE-|||1
+A 8 9|||R:SPELL|||Metallica|||REQUIRED|||-NONE-|||1
+
+S Muidugi mina lähen sellisel kontsertil .
+A 1 3|||R:WO|||lähen mina|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||sellisele|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM:SPELL|||kontserdile|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||lähen ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM:SPELL|||kontserdile|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldib niisuguse kontserti käia .
+A 2 3|||R:NOM:FORM|||niisugustel|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kontsertidel|||REQUIRED|||-NONE-|||0
+
+S Seal saab uue tutvustus .
+A 0 1|||R:NOM:FORM|||Sealt|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX:NOM:FORM|||tutvusi|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX:NOM:FORM|||tutvusi|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||leida|||REQUIRED|||-NONE-|||1
+
+S Tere , Eeva !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tahan kirjutada kontserdist , kus ma hiljuti käisin .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eelmisel nädalavahetusel ma käisin koos perega kontserdi peal Dima Bilan juures , sellepärast et minu abikaasa ostsib neli piletit .
+A 2 4|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||kontserdil|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||Bilani|||REQUIRED|||-NONE-|||0
+A 6 10|||R:WO|||Dima Bilani kontserdil|||REQUIRED|||-NONE-|||0
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||ostis|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldib popp-muusika .
+A 2 4|||R:SPELL|||popmuusika|||REQUIRED|||-NONE-|||0
+
+S Me käisime konserdil koos perega : mina , abikaasa ja kaks poega .
+A 2 3|||R:SPELL|||kontserdil|||REQUIRED|||-NONE-|||0
+
+S Me kuulasime popp-muusikat .
+A 2 4|||R:SPELL|||popmuusikat|||REQUIRED|||-NONE-|||0
+
+S Mulle väga meeldis selle konsert .
+A 3 4|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||kontsert|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||kontsert|||REQUIRED|||-NONE-|||1
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Kontserd oli väga vahva .
+A 0 1|||R:SPELL|||Kontsert|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Kontsert|||REQUIRED|||-NONE-|||1
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+
+S Pärast kontserdi me läksime restoranisse .
+A 1 2|||R:NOM:FORM:SPELL|||kontserti|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:SPELL|||kontserti|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||läksime me|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||restorani|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM:SPELL|||kontserti|||REQUIRED|||-NONE-|||2
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||restorani|||REQUIRED|||-NONE-|||2
+
+S Me sõime ja jõime .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seejärel me jalutasime linna mööda ja tegime nälja ja rääkisime elust .
+A 1 3|||R:WO|||jalutasime me|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||mööda linna|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||nalja|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||mööda linna|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||nalja|||REQUIRED|||-NONE-|||1
+
+S Tulevikus ma tahan kontserdile jažž-muusika minna .
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
+A 4 6|||R:SPELL|||džässmuusika||jazz-muusika|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||džässmuusika kontserdile||jazz-muusika kontserdile|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
+A 4 6|||R:SPELL|||džässmuusika||jazz-muusika|||REQUIRED|||-NONE-|||1
+A 3 6|||R:WO|||minna džässmuusika kontserdile||minna jazz-muusika kontserdile|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldib jažž-muusika .
+A 2 4|||R:WS:SPELL|||džässmuusika||jazz-muusika|||REQUIRED|||-NONE-|||0
+
+S Veel mulle meeldib klaverit kuulata .
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Mulle meeldib veel|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||2
+A 3 4|||R:LEX|||klaverimängu|||REQUIRED|||-NONE-|||2
+A 3 5|||R:WO|||kuulata klaverimängu|||REQUIRED|||-NONE-|||2
+
+S Muide , ma kuulsin , et järgmisel laupäeval on kontsert " Soordi " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 9 13|||R:WO|||" Soordi " kontsert|||REQUIRED|||-NONE-|||1
+
+S Ma kindlasti käin koos perega sellel konserdil .
+A 1 3|||R:WO|||käin kindlasti|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||kontserdil|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||lähen|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||lähen kindlasti|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||sellele|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||1
+
+S Mina loen ajalehti . " Jõhvi teataja " .
+A 2 3|||R:NOM:FORM|||ajalehte|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CASE|||Teataja|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S See on tasuta ajaleht ja seal kirjutab , mis toimus Jõhvis ja Ida-Virumaal viimasel ajal .
+A 6 7|||R:VERB:FORM|||kirjutatakse|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||toimub|||REQUIRED|||-NONE-|||0
+A 9 15|||R:WO|||Jõhvis ja Ida-Virumaal viimasel ajal toimub|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||kirjutatakse|||REQUIRED|||-NONE-|||1
+A 9 10|||R:VERB:FORM|||on toimunud|||REQUIRED|||-NONE-|||1
+A 9 15|||R:WO|||on Jõhvis ja Ida-Virumaal viimasel ajal toimunud|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldib loetada kes oli sündinud Jõhvis ja mis ehitatakse .
+A 2 3|||R:SPELL|||lugeda|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||Jõhvis sündinud|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 9 9|||R:LEX|||seal|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||lugeda|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||mis|||REQUIRED|||-NONE-|||1
+A 4 5|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||Jõhvis sündinud|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||1
+
+S Samuti ma loen spordi uudiseid .
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WS|||spordiuudiseid|||REQUIRED|||-NONE-|||0
+
+S Milliseid võistluseid oli ja kes oli esimene .
+A 1 2|||R:SPELL|||võistlusi|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||on olnud|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||tuli|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||esimeseks|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||võistlusi|||REQUIRED|||-NONE-|||1
+A 3 3|||R:LEX:VERB:FORM|||on toimunud|||REQUIRED|||-NONE-|||1
+
+S Samuti ma otsin infot internetis .
+A 1 3|||R:WO|||otsin ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||0
+
+S Näiteks delfi portaalis või postimees saitil .
+A 1 2|||R:CASE|||Delfi|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||portaalist|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM:CASE|||Postimehe|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM:SPELL|||saidilt|||REQUIRED|||-NONE-|||0
+A 1 2|||R:CASE|||Delfi|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||portaalist|||REQUIRED|||-NONE-|||1
+A 4 5|||R:CASE|||Postimees|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM:SPELL|||saidilt|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||saidilt Postimees|||REQUIRED|||-NONE-|||1
+
+S Seal kirjutatakse uudiseid , mis toimus üle Eestis ja kogu maailmas .
+A 3 3|||M:LEX|||sellest|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||toimub|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||Eesti|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:VERB:FORM|||toimub|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||Eesti|||REQUIRED|||-NONE-|||1
+A 6 11|||R:WO|||üle Eesti ja kogu maailmas toimub|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||avaldatakse|||REQUIRED|||-NONE-|||2
+A 3 3|||M:LEX|||sellest|||REQUIRED|||-NONE-|||2
+A 5 6|||R:VERB:FORM|||toimub|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||Eesti|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||maailma|||REQUIRED|||-NONE-|||2
+A 6 11|||R:WO|||üle Eesti ja kogu maailma toimub|||REQUIRED|||-NONE-|||2
+
+S Samuti ma vaatan internetis tööpakkumised , sest praegu mina ei tööta .
+A 1 3|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||tööpakkumisi|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||tööpakkumisi|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||tööpakkumisi|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||2
+A 7 11|||R:WO|||ma ei tööta praegu|||REQUIRED|||-NONE-|||2
+
+S Ma olen lapseholduspuhkusel .
+A 2 3|||R:SPELL|||lapsehoolduspuhkusel|||REQUIRED|||-NONE-|||0
+
+S Iga päeva ma vaatan ilmadest .
+A 1 2|||R:NOM:FORM|||päev|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma vaatan iga päev|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||ilmaennustust||ilmateadet|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||päev|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||ilmaennustust||ilmateadet|||REQUIRED|||-NONE-|||1
+
+S ilm.ee saitil .
+A 0 1|||R:CASE|||Ilm.ee|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:SPELL|||saidilt|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:SPELL|||saidilt|||REQUIRED|||-NONE-|||1
+A 0 2|||R:WO|||Saidilt ilm.ee|||REQUIRED|||-NONE-|||1
+
+S Väga huvitav infot ma kuulan sõpradest , ja perekonnadest .
+A 1 2|||R:NOM:FORM|||huvitavat|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kuulen|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||kuulen ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||sõpradelt|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM:SPELL|||perekonnalt|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||huvitavat|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||kuulen|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||sõpradelt|||REQUIRED|||-NONE-|||1
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM:SPELL|||perekonnalt|||REQUIRED|||-NONE-|||1
+A 0 9|||R:WO|||Ma kuulen väga huvitavat infot sõpradelt ja perekonnalt|||REQUIRED|||-NONE-|||1
+
+S Viimane uudis oli , et Jõhvis varsti ehitattakse Pargi keskus .
+A 5 6|||R:NOM:FORM|||Jõhvi||Jõhvisse|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||ehitatakse|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||ehitatakse varsti|||REQUIRED|||-NONE-|||0
+
+S Seal on uued kauplused , parkla ja lapseruum .
+A 7 8|||R:LEX|||lastetuba|||REQUIRED|||-NONE-|||0
+
+S See on väga põnev !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Iga päev ma saan uudiseid ja infot .
+A 2 4|||R:WO|||saan ma|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma saan iga päev|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||hangin||otsin|||REQUIRED|||-NONE-|||2
+A 0 4|||R:WO|||Ma hangin iga päev||Ma otsin iga päev|||REQUIRED|||-NONE-|||2
+
+S Minu õpetaja küsis mind : " Kust ma saan infot ja uudiseid ? "
+A 3 4|||R:NOM:FORM|||minult||mult|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CASE|||kust|||REQUIRED|||-NONE-|||0
+A 12 13|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||minult||mult|||REQUIRED|||-NONE-|||1
+A 4 5|||R:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:CASE|||kust|||REQUIRED|||-NONE-|||1
+A 8 12|||R:WO|||infot ja uudiseid saan|||REQUIRED|||-NONE-|||1
+A 12 13|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||minult||mult|||REQUIRED|||-NONE-|||2
+A 7 8|||R:LEX|||sa|||REQUIRED|||-NONE-|||2
+A 8 9|||R:VERB:FORM|||saad|||REQUIRED|||-NONE-|||2
+
+S Iga päev ma loen ajalehti .
+A 2 4|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma loen iga päev|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Minu lemmikud ajalehed on Põhjaraanik ja Postimees .
+A 4 5|||R:SPELL|||Põhjarannik|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WS|||lemmikajalehed|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||Põhjarannik|||REQUIRED|||-NONE-|||1
+
+S Postimees ma loen iga päev , aga Põhjaraanik üks kord kuus .
+A 0 1|||R:NOM:FORM|||Postimeest|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM:SPELL|||Põhjarannikut|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldib lugeda oma linnast , linnavalitsusest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 5 6|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Mõnikord ma otsin infot internetist , sest internetis on ka minu lemmik ajaleht Postimees .
+A 1 3|||R:WO|||otsin ma|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||lemmikajaleht|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||olemas|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WS|||lemmikajaleht|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||R:LEX|||seal|||REQUIRED|||-NONE-|||2
+A 11 13|||R:WS|||lemmikajaleht|||REQUIRED|||-NONE-|||2
+
+S Ma ei loe ajakirju , sest nad maksavad väga palju .
+A 6 7|||R:LEX|||need|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Internetist ma otsin ka infot teistest maadest .
+A 1 3|||R:WO|||otsin ma|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||infot ka|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||otsin ma|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||infot ka|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||teiste|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||maade|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||kohta|||REQUIRED|||-NONE-|||1
+
+S Veel ma leian infot raamatutest .
+A 1 3|||R:WO|||leian ma|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Ma leian infot veel|||REQUIRED|||-NONE-|||1
+
+S Minu vanaemal kodus on palju raamatuid .
+A 2 4|||R:WO|||on kodus|||REQUIRED|||-NONE-|||0
+
+S Ma loen neid igal nädalavahetusel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mulle meeldib lugeda muinasjutte minu onutütrale .
+A 4 5|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||onutütrele|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||onutütrele|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||oma onutütrele muinasjutte lugeda||enda onutütrele muinasjutte lugeda|||REQUIRED|||-NONE-|||1
+
+S Mina hirmsasti armastan lugeda ajakirju .
+A 1 3|||R:WO|||armastan hirmsasti|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||armastan hirmsasti|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||ajakirju lugeda|||REQUIRED|||-NONE-|||1
+
+S Mul kodus need on väga palju .
+A 2 3|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||on neid kodus|||REQUIRED|||-NONE-|||0
+
+S Tihti ma loen ajakirju , mis on ajaloost või bioloogiast .
+A 0 3|||R:WO|||Ma loen tihti|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Ma loen tihti|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX|||räägivad|||REQUIRED|||-NONE-|||2
+
+S Need on väga huvitavad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kõige huvitavam teema , mida ma olin lugenud oli piratidest .
+A 6 7|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||piraatidest|||REQUIRED|||-NONE-|||0
+
+S Kuidas nad oma laevad tegid ja kuidas nad elasin .
+A 3 4|||R:NOM:FORM|||laevu|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||elasid|||REQUIRED|||-NONE-|||0
+
+S See oli väga huvitav lugeda .
+A 0 1|||R:NOM:FORM|||Seda|||REQUIRED|||-NONE-|||0
+
+S Tänapäeval noored otsivad infot internetist .
+A 1 3|||R:WO|||otsivad noored|||REQUIRED|||-NONE-|||0
+
+S Ma kasutan interneti harva aga ikka kasutan , et saada teada , mis maailmas toimub .
+A 2 3|||R:NOM:FORM|||internetti|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||internetti|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||kasutan ikka|||REQUIRED|||-NONE-|||1
+
+S Selleks ma kasutan " Delfid " .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||Delfit|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Aga ajalehed mule meldivad rohkem , sest ma armastan katsuda paberit ja silmad ei väsine .
+A 2 3|||R:SPELL|||mulle|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||meeldivad|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||meeldivad mulle|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||väsi|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||mulle|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||meeldivad|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||meeldivad mulle|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||väsi|||REQUIRED|||-NONE-|||1
+A 15 15|||M:LEX|||lugedes|||REQUIRED|||-NONE-|||1
+
+S Sõbrad või ema on kaa head info levitajad aga vaja infot kontrolida , mida nad leevivad .
+A 4 5|||R:SPELL|||ka|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||kontrollida|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||kontrollida infot|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX:SPELL|||levitavad|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||ka|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||seda|||REQUIRED|||-NONE-|||1
+A 8 11|||R:WO|||aga seda infot on vaja|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||kontrollida|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX:SPELL|||levitavad|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldib lugeda mõned ajalehed ja ajakirjud , veel ma vaatan uudiseid telerit .
+A 3 4|||R:LEX:NOM:FORM|||mõningaid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM:SPELL|||ajakirju|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||telerist|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mõnesid|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM:SPELL|||ajakirju|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||telerist|||REQUIRED|||-NONE-|||1
+
+S Minu lemmik teema on " maailma uudiseid " .
+A 1 3|||R:WS|||lemmikteema|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||uudised|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mulle on huvitav mida maailmas toimud .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||toimub|||REQUIRED|||-NONE-|||0
+
+S Veel ma loen uudiseid ja otsin infot internetist , seal on palju infot ja uudiseid .
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+
+S ma vaatan uudiseid delfi.ee , seal on kõik uudiseid ja infot .
+A 0 1|||R:CASE|||Ma|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||portaalist||veebilehelt||lehelt|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||uudised|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||info|||REQUIRED|||-NONE-|||0
+A 0 1|||R:CASE|||Ma|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||portaalist||veebilehelt||lehelt|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||uudised|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||info|||REQUIRED|||-NONE-|||1
+
+S Eestist .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Need uudiseid aitavad mulle koolis .
+A 1 2|||R:NOM:FORM|||uudised|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
+
+S Kui sina tead mis toimub maailmas , see on väga hästi .
+A 1 2|||R:NOM:FORM|||sa|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||maailmas toimub|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||maailmas toimub|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||on see|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||hea|||REQUIRED|||-NONE-|||1
+
+S Ma arvan , et iga inimene peab teada mida toimub teda riigis .
+A 7 8|||R:VERB:FORM|||teadma|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||tema|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||teadma|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||tema|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||tema riigis toimub|||REQUIRED|||-NONE-|||1
+
+S Sellega lõpeta , aga ma soovin kõikile inimestele uudiseid vaadata ja infot leida .
+A 1 2|||R:VERB:FORM|||lõpetan|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||soovitan|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||kõigil||kõikidel|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||inimestel|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||lõpetan|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||soovitan|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||kõigil||kõikidel|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||inimestel|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||otsida|||REQUIRED|||-NONE-|||1
+
+S Iga päev ma käin koolis ja pärast ma tulin koju .
+A 2 4|||R:WO|||käin ma|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||tulen|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||tulen ma|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||käin ma|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:VERB:FORM|||tulen|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||tulen pärast|||REQUIRED|||-NONE-|||1
+
+S Kodus ma loen erinevaid raamatuid .
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S mõnikord ma loen raamatud , kus räägitakse inimestega ja tema armastus .
+A 0 1|||R:CASE|||Mõnikord|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||inimestest|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||nende|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||armastusest|||REQUIRED|||-NONE-|||0
+A 0 1|||R:CASE|||Mõnikord|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||inimesest|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||armastusest|||REQUIRED|||-NONE-|||1
+A 0 1|||R:CASE|||Mõnikord|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||inimestest|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||nende|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||armastustest|||REQUIRED|||-NONE-|||2
+
+S Ma otsin raamatud raamatukogus või internetis .
+A 2 3|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||raamatukogust|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||0
+
+S Aga ma ei tihti loen raamatud , sest tavaliselt see on ajalehed , et minu ema leidis nende tööl ja andis mulle .
+A 4 5|||R:VERB:FORM|||loe|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||loe tihti raamatuid||loe raamatuid tihti|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||loen|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||mis||mille|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||enda|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||töölt|||REQUIRED|||-NONE-|||0
+A 16 22|||R:WO|||enda töölt leidis ja mulle andis|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||loe|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||1
+A 3 6|||R:WO|||loe tihti raamatuid||loe raamatuid tihti|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||on need|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||mis||mille|||REQUIRED|||-NONE-|||1
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 22|||R:WO|||töölt leidis ja mulle andis|||REQUIRED|||-NONE-|||1
+
+S Veel ma leian uus info minu koolis tunnis .
+A 1 3|||R:WO|||leian ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||uut|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||enda|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||tundidest|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||leian ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||uut|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||enda|||REQUIRED|||-NONE-|||1
+A 7 8|||R:WS:NOM:FORM|||koolitunnist||koolitundidest|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||saan|||REQUIRED|||-NONE-|||2
+A 1 3|||R:WO|||saan ma|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||uut|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||enda|||REQUIRED|||-NONE-|||2
+A 7 8|||R:WS:NOM:FORM|||koolitundidest|||REQUIRED|||-NONE-|||2
+
+S Koolis õpetajad teatavad palju infot ja pärast annavad teda .
+A 2 3|||R:LEX|||teavad|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||teavad õpetajad|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||annavad seda pärast|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||meile|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||teavad|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||teavad õpetajad|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||jagavad|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||seda|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||teavad|||REQUIRED|||-NONE-|||2
+A 0 3|||R:WO|||Õpetajad teavad koolis|||REQUIRED|||-NONE-|||2
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||R:LEX|||seda|||REQUIRED|||-NONE-|||2
+A 9 9|||M:LEX|||meile||edasi|||REQUIRED|||-NONE-|||2
+
+S Kui ma lähen kuigi ma näen palju ajalehed ja tahan nende lugema , sest ma istun ja loen nende .
+A 3 4|||R:LEX|||kuhugi|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||lugeda|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||kuhugi|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||kuhugi lähen|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||lugeda|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||kuhugi|||REQUIRED|||-NONE-|||2
+A 2 4|||R:WO|||kuhugi lähen|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||2
+A 11 12|||R:VERB:FORM|||lugeda|||REQUIRED|||-NONE-|||2
+A 13 14|||R:LEX|||siis|||REQUIRED|||-NONE-|||2
+A 18 19|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||2
+
+S Minul kodus on palju ernevaid ajalehti , ajakirju ja raamatuid , sest ma loen väga tihti ja palju .
+A 1 3|||R:WO|||on kodus|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||erinevaid|||REQUIRED|||-NONE-|||0
+
+S Kui ma kõik lugesin ma istun internetisse ja loen seal .
+A 3 3|||M:LEX|||ära||läbi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||loen|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||istun ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||internetis|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||need|||REQUIRED|||-NONE-|||1
+A 3 3|||M:LEX|||ära||läbi|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||loen|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||siis|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||lähen|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||internetti|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||olen|||REQUIRED|||-NONE-|||2
+A 3 3|||M:LEX|||ära||läbi|||REQUIRED|||-NONE-|||2
+A 3 4|||R:VERB:FORM|||lugenud|||REQUIRED|||-NONE-|||2
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 4 6|||R:WO|||istun ma|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||internetis|||REQUIRED|||-NONE-|||2
+
+S Internetis saab leida palju infot .
+A 0 1|||R:NOM:FORM|||Internetist|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Internetist|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||palju infot leida|||REQUIRED|||-NONE-|||1
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX|||leidub|||REQUIRED|||-NONE-|||2
+
+S Näiteks : kui ma ei teadnud info , ma saab leida teda internetis .
+A 1 2|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||tea|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||saan|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||saan ma|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||seda internetist leida||seda leida internetist|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:VERB:FORM|||tea|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||1
+A 9 10|||R:VERB:FORM|||saan|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||saan ma|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||seda|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||1
+A 5 6|||R:VERB:FORM|||tea|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||2
+A 9 10|||R:VERB:FORM|||saan|||REQUIRED|||-NONE-|||2
+A 8 10|||R:WO|||saan ma|||REQUIRED|||-NONE-|||2
+A 11 12|||R:LEX|||seda|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||2
+A 10 13|||R:WO|||seda internetist leida||seda leida internetist|||REQUIRED|||-NONE-|||2
+
+S Õpetaja palub meil tunnis kirjutada , kust ma iga päev uudiseid ja infot saan ja see on minu vastust .
+A 2 3|||R:NOM:FORM|||mul||minul|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||vastus|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||palus|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||me|||REQUIRED|||-NONE-|||1
+A 13 14|||R:VERB:FORM|||saame|||REQUIRED|||-NONE-|||1
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||vastus|||REQUIRED|||-NONE-|||1
+
+S Ja ma mõtlen , et õpetaja paneb mulle väga hea hind , sest ma kirjutan palju infot ja vastan kõikidel .
+A 10 11|||R:SPELL|||hinde|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||kõikidele|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||küsimustele|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||arvan|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||hinde|||REQUIRED|||-NONE-|||1
+A 19 20|||R:NOM:FORM|||kõikidele|||REQUIRED|||-NONE-|||1
+A 20 20|||M:LEX|||küsimustele|||REQUIRED|||-NONE-|||1
+
+S Veel minu vanemad räägivad , et ma on tark inimene ja tean väga palju .
+A 1 4|||R:WO|||räägivad minu vanemad|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||0
+A 0 1|||R:CASE|||veel|||REQUIRED|||-NONE-|||1
+A 1 2|||R:CASE|||Minu|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Minu vanemad räägivad veel|||REQUIRED|||-NONE-|||1
+A 7 8|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Lisaks||Muuseas|||REQUIRED|||-NONE-|||2
+A 1 4|||R:WO|||räägivad minu vanemad|||REQUIRED|||-NONE-|||2
+A 7 8|||R:VERB:FORM|||olen|||REQUIRED|||-NONE-|||2
+
+S Teie õpilane Polina
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hea õpetaja !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma väga armastan lugeda .
+A 1 3|||R:WO|||armastan väga|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||armastan väga|||REQUIRED|||-NONE-|||1
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||2
+
+S Ma loen ajalehti ju ajakirju : " Põhjarannik " , " Õhtu Tallinn " , " Moe " , " Suvila " , " Minu kodu " .
+A 3 4|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 25 26|||R:CASE|||Kodu|||REQUIRED|||-NONE-|||0
+A 26 27|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ajalehedes ja ajakirjudes mind huvitavad teemad : " Loodus " , " lapsetervis , suvila , kino , teater , moe , loomad , tervislik toit , sport .
+A 0 1|||R:SPELL|||Ajalehtedes|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||ajakirjades|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||huvitavad mind|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||järgmised|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:CASE|||loodus|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||R:WS|||lapse tervis|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||mood|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Ajalehtedes|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||ajakirjades|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||huvitavad mind|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:CASE|||loodus|||REQUIRED|||-NONE-|||1
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||R:WS:NOM:FORM|||laste tervis|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||mood|||REQUIRED|||-NONE-|||1
+
+S Veel ma otsin infot internetis kodulehtedes " Delfiee " , " Keeletee " , " Loodus Eestis " , " Selveree " , " Turne " , " Seti.ee " , " Prisma ee " .
+A 1 3|||R:WO|||otsin ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||internetist|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kodulehtedelt|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||Delfi.ee|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 20 21|||R:SPELL|||Selver.ee|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 25 26|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 27 28|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 29 30|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 31 32|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 32 34|||R:WS:SPELL|||Prisma.ee|||REQUIRED|||-NONE-|||0
+A 34 35|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Kui mul on vaja kirjutada erinevaid proektid , ma pööran ema juurde , vanaema juurde , sõbranna juurde , loen erinevaid raamatuid , vaatan telerit , kuulan raadiot .
+A 6 7|||R:NOM:FORM:SPELL|||projekte|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||pöördun|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||pöördun ma|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||poole|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||poole|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX|||poole|||REQUIRED|||-NONE-|||0
+
+S Veel ma pööran teie juurde .
+A 2 3|||R:LEX|||pöördun|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||pöördun ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||poole|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||pöördun|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Ma pöördun veel|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||poole|||REQUIRED|||-NONE-|||1
+
+S Õpilane Alisa --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S 11. november 2018 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Tere Hommikust .
+A 1 2|||R:CASE|||hommikust|||REQUIRED|||-NONE-|||0
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+A 1 2|||R:CASE|||hommikust|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Täna tahan rääkida infolevi kohta .
+A 3 4|||R:NOM:FORM|||infolevist|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Praegu võib info saata mitmelt teelt .
+A 2 3|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||saada|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||mitmel|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||moel|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||saada|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||mitut|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||moodi|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||2
+A 3 4|||R:SPELL|||saada|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||mitut|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||teed|||REQUIRED|||-NONE-|||2
+A 6 6|||M:LEX|||pidi|||REQUIRED|||-NONE-|||2
+
+S Mulle rohkem meeldida otsida infot internetist .
+A 2 3|||R:VERB:FORM|||meeldib|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldib rohkem|||REQUIRED|||-NONE-|||0
+
+S Aga loen ka ajalehte ja ajakirju , aga väga harva .
+A 3 4|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||kuigi||ehkki|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Loen|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||1
+
+S Minu huvilised teemad on aed , taimede kasvatamine ja koduloomad .
+A 0 1|||R:NOM:FORM|||Mind|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||huvitavad|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Mind|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||huvipakkuvad|||REQUIRED|||-NONE-|||1
+
+S Mul on kaks koerad ja väike aed , sest see teemat on mul huvi .
+A 3 4|||R:NOM:FORM|||koera|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||sellepärast||seetõttu|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||nende|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||teemade|||REQUIRED|||-NONE-|||0
+A 11 11|||M:LEX|||vastu|||REQUIRED|||-NONE-|||0
+A 9 14|||R:WO|||on mul huvi nende teemade vastu|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||koera|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||sellepärast||seetõttu|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||nende|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||teemade|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||vastu|||REQUIRED|||-NONE-|||1
+A 9 14|||R:WO|||on mul nende teemade vastu huvi|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||koera|||REQUIRED|||-NONE-|||2
+A 8 9|||R:LEX|||sellepärast||seetõttu|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||nende|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||teemade|||REQUIRED|||-NONE-|||2
+A 11 11|||M:LEX|||vastu|||REQUIRED|||-NONE-|||2
+A 11 12|||R:LEX|||tunnen|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||2
+A 9 14|||R:WO|||tunnen ma nende teemade vastu huvi|||REQUIRED|||-NONE-|||2
+
+S Internetis võib info saata lihtsam , minu arvates .
+A 0 1|||R:NOM:FORM|||Internetist|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||saada|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||lihtsamini|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 8|||R:WO|||minu arvates lihtsamini infot saada|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Internetist|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||on|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||saada|||REQUIRED|||-NONE-|||1
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 8|||R:WO|||minu arvates lihtsam infot saada|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Internetist|||REQUIRED|||-NONE-|||2
+A 2 3|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||2
+A 3 4|||R:SPELL|||saada|||REQUIRED|||-NONE-|||2
+A 4 4|||M:LEX|||kõige|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||lihtsamini|||REQUIRED|||-NONE-|||2
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 8|||R:WO|||minu arvates kõige lihtsamini infot saada|||REQUIRED|||-NONE-|||2
+
+S Seal on palju võimalusi : võib lugeda ja pildid on olemas .
+A 8 11|||R:WO|||on olemas pildid|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||vaadata|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||pilte|||REQUIRED|||-NONE-|||1
+A 9 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Võib kasutada erinevad saitit , võib info saada teise
+A 2 3|||R:NOM:FORM|||erinevaid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||saite|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||teist|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||saada teist infot|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||erinevaid|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM:SPELL|||saite|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||infot|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX:NOM:FORM|||teistsugust|||REQUIRED|||-NONE-|||1
+A 6 9|||R:WO|||saada teistsugust infot|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Ma loen tihti ajalehed , mis ma saan tasuta .
+A 3 4|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||tasuta saan|||REQUIRED|||-NONE-|||1
+
+S Ma loen kõik teemad , aga huvitab mind rohkem , mida rägitakse kinnost ja teatrist .
+A 2 3|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||teemasid|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||mind huvitab|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||räägitakse|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||kinost|||REQUIRED|||-NONE-|||0
+
+S Veel ma loen ajaleht " Narva " .
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||ajalehte|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ma loen veel|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||ajalehte|||REQUIRED|||-NONE-|||1
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S See ajalehes kirjutatakse minu linnast , töölt , palgast .
+A 0 1|||R:NOM:FORM|||Selles|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||tööst|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Selles|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||tööst|||REQUIRED|||-NONE-|||1
+A 7 8|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Internetist ma loen ka uudised .
+A 4 5|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Ma loen uudiseid ka internetist||Uudiseid loen ma ka internetist|||REQUIRED|||-NONE-|||0
+
+S Kõige rohkem loen kodulehel mail.ru .
+A 3 4|||R:NOM:FORM|||kodulehte|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||neid|||REQUIRED|||-NONE-|||1
+
+S Seal on kõik koos uudised , mis huvitavad mind .
+A 2 4|||R:WO|||koos kõik|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||mind huvitavad|||REQUIRED|||-NONE-|||0
+
+S Veel mulle meeldib lugeda laste ajakirju .
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WS|||lasteajakirju|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Mulle meeldib veel|||REQUIRED|||-NONE-|||2
+A 4 6|||R:WS|||lasteajakirju|||REQUIRED|||-NONE-|||2
+
+S Veel ma vaatan telerit , seal ka uudised .
+A 1 3|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||ka seal|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 0 3|||R:WO|||Ma vaatan veel|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||2
+A 6 6|||M:LEX|||on|||REQUIRED|||-NONE-|||2
+
+S Mulle ei meeldi politika uudiseid .
+A 3 5|||R:WS:NOM:FORM:SPELL|||poliitikauudised|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||vaadata|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WS:SPELL|||poliitikauudiseid|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WS:SPELL|||poliitikauudiseid|||REQUIRED|||-NONE-|||2
+A 5 5|||M:LEX|||vaadata|||REQUIRED|||-NONE-|||2
+
+S See on ebahuvitav minu jaoks .
+A 2 5|||R:WO|||minu jaoks ebahuvitav|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||pole|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||huvitav|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||minu jaoks huvitav|||REQUIRED|||-NONE-|||1
+
+S Tavaliselt ma saan igapäevane uudiseid telerist , internetist , ajalehest ja ajakirjalt .
+A 1 3|||R:WO|||saan ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||igapäevaseid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||ajakirjast|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldivad uudiseid reisimidest , spordist , loodust , loomadest ja moest .
+A 2 3|||R:NOM:FORM|||uudised|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||reisimisest|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||loodusest|||REQUIRED|||-NONE-|||0
+
+S Telerist ma vaatan spordisaateid näiteks võrkpalli , korvpalli ja ujumine võistlused .
+A 1 3|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WS:NOM:FORM|||ujumisvõistlusi||ujumisvõistluseid|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||ujumise|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||võistlusi||võistluseid|||REQUIRED|||-NONE-|||1
+
+S Kõige rohkem mulle meeldib vaadata suusatamine ja tiatlooni võistluseid .
+A 2 4|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||suusatamise|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||triatloni|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||meeldib mulle|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||suusatamist|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WS:SPELL|||triatlonivõistluseid|||REQUIRED|||-NONE-|||1
+
+S Veel mulle huvitav kanaal " Minu planeet " , sealt võib tutvustada inimese eluga maailmas .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||kanal|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CASE|||Planeet|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||seal|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||tutvuda|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 1 2|||R:WO|||Mulle on veel|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||kanal|||REQUIRED|||-NONE-|||1
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:CASE|||Planeet|||REQUIRED|||-NONE-|||1
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||seal|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||tutvustatakse|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||elu|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX|||huvitab|||REQUIRED|||-NONE-|||2
+A 1 2|||R:WO|||Mind huvitab veel|||REQUIRED|||-NONE-|||2
+A 3 4|||R:SPELL|||kanal|||REQUIRED|||-NONE-|||2
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||R:CASE|||Planeet|||REQUIRED|||-NONE-|||2
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||seal|||REQUIRED|||-NONE-|||2
+A 11 12|||R:LEX|||tutvuda|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||2
+
+S Internetist ma võin tõtta uudised välisriikidelt , näen millised sündmused iga päev toimuvad .
+A 1 3|||R:WO|||võin ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX:SPELL|||leida||saada||lugeda|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||välisriikidest|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S ETV või ERR kodulehelt võib lugeda , kuidas elab iga päev Ida-Virumaa maakond , millised uudised meil on .
+A 2 3|||R:NOM:FORM|||ERR-i|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||ERR-i|||REQUIRED|||-NONE-|||1
+A 8 13|||R:WO|||Ida-Virumaa maakond iga päev elab|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||ERR-i|||REQUIRED|||-NONE-|||2
+A 8 9|||R:VERB:FORM|||elatakse|||REQUIRED|||-NONE-|||2
+A 12 13|||R:VERB:FORM|||maakonnas|||REQUIRED|||-NONE-|||2
+A 8 13|||R:WO|||Ida-Virumaa maakonnas iga päev elatakse|||REQUIRED|||-NONE-|||2
+A 13 14|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 15 18|||R:WO:NOM:FORM|||on meie uudised|||REQUIRED|||-NONE-|||2
+
+S Õhtuti ma loen ajalehed naiteks see on " Põhjarannik " , " Postimees " , " Pealinn " , mulle väga huvitavad ludeda kultuurist , sportist , võistlusest ja vaatan , milline ilm on homme .
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||näiteks|||REQUIRED|||-NONE-|||0
+A 5 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 18 20|||R:PUNCT|||. Mul||. Mulle|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||huvitav|||REQUIRED|||-NONE-|||0
+A 22 23|||R:SPELL|||lugeda|||REQUIRED|||-NONE-|||0
+A 25 26|||R:SPELL|||spordist|||REQUIRED|||-NONE-|||0
+A 27 28|||R:NOM:FORM|||võistlustest|||REQUIRED|||-NONE-|||0
+A 29 30|||R:VERB:FORM|||vaadata|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||näiteks|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||Need on näiteks|||REQUIRED|||-NONE-|||1
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 20|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||1
+A 18 20|||R:PUNCT|||. Mul||. Mulle|||REQUIRED|||-NONE-|||1
+A 20 20|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||huvitav|||REQUIRED|||-NONE-|||1
+A 22 23|||R:SPELL|||lugeda|||REQUIRED|||-NONE-|||1
+A 25 26|||R:SPELL|||spordist|||REQUIRED|||-NONE-|||1
+A 27 28|||R:NOM:FORM|||võistlustest|||REQUIRED|||-NONE-|||1
+A 29 30|||R:VERB:FORM|||vaadata|||REQUIRED|||-NONE-|||1
+A 32 35|||R:WO|||on ilm homme||ilm homme on|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||loen ma|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||ajalehti|||REQUIRED|||-NONE-|||2
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||R:SPELL|||näiteks|||REQUIRED|||-NONE-|||2
+A 5 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||Põhjarannikut|||REQUIRED|||-NONE-|||2
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 13|||R:NOM:FORM|||Postimeest|||REQUIRED|||-NONE-|||2
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||Pealinna|||REQUIRED|||-NONE-|||2
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 19 20|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||2
+A 20 20|||M:LEX|||on|||REQUIRED|||-NONE-|||2
+A 21 22|||R:NOM:FORM|||huvitav|||REQUIRED|||-NONE-|||2
+A 22 23|||R:SPELL|||lugeda|||REQUIRED|||-NONE-|||2
+A 25 26|||R:SPELL|||spordist|||REQUIRED|||-NONE-|||2
+A 27 28|||R:NOM:FORM|||võistlustest|||REQUIRED|||-NONE-|||2
+A 29 30|||R:VERB:FORM|||vaadata|||REQUIRED|||-NONE-|||2
+A 34 35|||R:NOM:FORM|||homne|||REQUIRED|||-NONE-|||2
+A 32 35|||R:WO|||on homne ilm|||REQUIRED|||-NONE-|||2
+
+S Ma arvan et tanapäevadeks on palju võimalusi uudiseid ja infot saate .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||tänapäeval|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||saada|||REQUIRED|||-NONE-|||0
