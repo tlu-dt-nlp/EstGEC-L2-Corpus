@@ -1,0 +1,2588 @@
+S Nädal tagasi osalesin Päästeameti korraldatud teabepäeval ja mul on hea meel rääkida teile oma tunnetest ja omandatud teadmistest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Päästeamet pidas vajalikuks rahvale meelde tuletada õnnetusjuhtumite põhjustest .
+A 7 8|||R:NOM:FORM|||põhjuseid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||põhjuseid|||REQUIRED|||-NONE-|||1
+A 4 8|||R:WO|||õnnetusjuhtumite põhjuseid meelde tuletada|||REQUIRED|||-NONE-|||1
+
+S Toetan nende seisukoha , et tuleb võimalikult aktiivselt seda teemat inimestele edasi anda , nii öelda valgustada neid .
+A 2 3|||R:NOM:FORM|||seisukohta|||REQUIRED|||-NONE-|||0
+A 5 11|||R:WO|||seda teemat tuleb inimestele võimalikult aktiivselt|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WS|||nii-öelda|||REQUIRED|||-NONE-|||0
+A 14 18|||R:WO|||neid nii-öelda valgustada|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||seisukohta|||REQUIRED|||-NONE-|||1
+A 5 11|||R:WO|||inimestele tuleb seda teemat võimalikult aktiivselt|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WS|||nii-öelda|||REQUIRED|||-NONE-|||1
+A 14 18|||R:WO|||neid nii-öelda valgustada|||REQUIRED|||-NONE-|||1
+
+S Igapäeva , rutiinse elu elades automaatselt unustad autos turvavöö kinnitada .
+A 0 1|||R:NOM:FORM|||Igapäevast|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||rutiinset|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||unustad automaatselt|||REQUIRED|||-NONE-|||0
+
+S Tundub , et tavaline olukord , igaühel juhtub ju .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||olevat|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Aga mõelge , millega see lõppeda saab !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selline ohutusnõuete eiramine on mõtetu ja isegi rumal .
+A 4 5|||R:SPELL|||mõttetu|||REQUIRED|||-NONE-|||0
+
+S Ei tohi eirata ka seda , et isegi väike kogus alkoholi võib tunduvalt vähendada teie tähelepanu juhtimise ajal ning alkoholi mõju all kasvab inimesel ohutustunne , mis võib teda tappa .
+A 12 18|||R:WO|||juhtimise ajal teie tähelepanu tunduvalt vähendada|||REQUIRED|||-NONE-|||0
+A 19 19|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Peale selle , märkas Päästeamet , et trahvide eesmärgiks ei ole teid rünnata ja rahast ilma jätta , vaid meie õigussüsteemis kannab trahv preventiivset funktsiooni , aitab hoida ära suurem osa õnnetusi .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||märkis|||REQUIRED|||-NONE-|||0
+A 29 30|||R:NOM:FORM|||suurema|||REQUIRED|||-NONE-|||0
+A 27 32|||R:WO|||suurema osa õnnetusi ära hoida|||REQUIRED|||-NONE-|||0
+
+S Siin sunnimeetodid on riigi poolt valitud just sellepärast , et see ongi kõige efektiivsem viis tekkida inimestel see lihtne harjumus kinnitada turvavöö !
+A 1 3|||R:WO|||on sunnimeetodid|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||tekitada|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||inimestes|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||lihtsat|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||harjumust|||REQUIRED|||-NONE-|||0
+
+S Teine suur ja oluline teema , mida meil oli võimalus arutleda , oli ennetustegevuse viisid ja võimalused õnnetuste vältimiseks .
+A 6 7|||R:LEX|||mille|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||üle|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||oli meil|||REQUIRED|||-NONE-|||0
+
+S Kõige esimesena märkas Päästeamet seda , kuivõrd tähtis on õnnetusjuhtumite põhjustest rääkida koolides .
+A 2 3|||R:LEX|||märkis|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||märkis|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||koolides rääkida|||REQUIRED|||-NONE-|||1
+
+S Lapsed on riigi tulevik ning lapsepõlvest alates vormistab lapse peas ohu tunne .
+A 7 8|||R:LEX|||vormub|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WS|||ohutunne|||REQUIRED|||-NONE-|||0
+
+S Haritud ühiskond - peamine meetod , millega saaks ära hoida suurem osa õnnetusi .
+A 10 11|||R:NOM:FORM|||suurema|||REQUIRED|||-NONE-|||0
+
+S Rääkisime juba meie trahvisüsteemist , mis on ka efektiivne , kuid arusaadav , et see süsteem on väga ebameeldiv kõigile .
+A 17 20|||R:WO|||kõigile väga ebameeldiv|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõtes võin järeldada , et Päästeameti teabepäev oli tohutult kasulik .
+A 0 1|||R:NOM:FORM:SPELL|||Kokkuvõtteks|||REQUIRED|||-NONE-|||0
+
+S Soovitan kõigile võimalusel külastada , kuna see paneb teid veel üks korm mõtlema hakkata ja valida õiget käitumisviisi .
+A 1 2|||R:NOM:FORM|||kõigil|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||kord|||REQUIRED|||-NONE-|||0
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||valima|||REQUIRED|||-NONE-|||0
+
+S Osalesin hiljuti Päästeameti poolt korraldatud teabepäeval .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 5 6|||R:LEX|||infopäeval|||REQUIRED|||-NONE-|||1
+
+S Arutatud teemad olid väga huvipakkuvad ja aktuaalsed .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Päevakavas olid järgmised teemad : - Õnnetusjuhtumite põhjused : ohutusnõuete eiramine ja alkoholijoove . - Ennetustegevuse viisid ja võimalused õnnetuste vältimiseks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||R:PUNCT|||;|||REQUIRED|||-NONE-|||1
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Tahaksin nendel teemadel lähemalt peatuda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Inimese elu on kõige suurem ja tähtsam väärtus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S On kahjuks aga suur hulk neid , kes suhtuvad oma elusse kergemõistlikult .
+A 11 12|||R:LEX|||kergekäeliselt|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Kahjuks on|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||kergekäeliselt|||REQUIRED|||-NONE-|||1
+
+S See mõjub nende käitumist kui autoroolis , ka tööl või ühiskonnas .
+A 1 2|||R:LEX|||mõjutab|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||nii|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||kui|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||mõjutab|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||nii|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||kui|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||ka|||REQUIRED|||-NONE-|||1
+
+S Kõige traagilisemad juhtumid on üsna tihti seotud ohutusnõuete eiramisega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Peaegu kõik reeglid ja ohutusnõued on " verega " kirjutatud .
+A 0 1|||R:SPELL|||Peaaegu|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||ohutusnõuded|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Peaaegu|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||ohutusnõuded|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||M:PUNCT|||"|||REQUIRED|||-NONE-|||1
+
+S Päästeamet väljastas andmed , et liigi 70% autojuhidest ületavad lubatud kiirusepiirangut .
+A 5 6|||R:SPELL|||ligi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||autojuhtidest|||REQUIRED|||-NONE-|||0
+
+S Aga ületades ainult 10 km/h võrra kannatu saab drammatiliselt rohkem vigastusi .
+A 6 7|||R:SPELL|||kannatanu|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||saab kannatanu|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||dramaatiliselt|||REQUIRED|||-NONE-|||0
+
+S Olukord kiirtee peal on veel kurvem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||kiirteel|||REQUIRED|||-NONE-|||1
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Seal enamus tragöödijaid lõppevad surmaga .
+A 1 2|||R:LEX|||enamik|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||tragöödiad|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||lõppeb||lõpeb|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||lõppeb enamik tragöödiaid||lõpeb enamik tragöödiaid|||REQUIRED|||-NONE-|||0
+
+S Sageli põhjuseks on kiirusepiiri uletamine , kinnitamata turvavöö või roolis alkoholi tarvitamine .
+A 1 3|||R:WO|||on põhjuseks|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||kiirusepiirangu|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||ületamine|||REQUIRED|||-NONE-|||0
+
+S Minu meelest vaga kurb statistika .
+A 2 3|||R:SPELL|||väga|||REQUIRED|||-NONE-|||0
+
+S Aga ohutusnõued on ka teistel elukulgedel , naiteks tööl .
+A 1 2|||R:SPELL|||ohutusnõuded|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||elukülgedel|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||näiteks|||REQUIRED|||-NONE-|||0
+
+S Eriti kannatab ehitussektor .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal on vaga ranged ohtusnõued , aga ikkagi siin ja seal on siiamani tihti kuulda juhtumitest , mis on lõppenud kas või surmaga või raskete vigastustega .
+A 2 3|||R:SPELL|||väga|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||ohutusnõuded|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||siit|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||sealt|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||siiamaani|||REQUIRED|||-NONE-|||0
+A 8 13|||R:WO|||on siit ja sealt siiamaani|||REQUIRED|||-NONE-|||0
+
+S Ja see kõik toimub meie maailmas vaatamata sellele , et tehakse väga palju tööd õnnetuste vältimiseks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sotsiaalne reklaam , tervislikku eluviisi propogandeerimine , trahvide suurendamine jne .
+A 3 4|||R:NOM:FORM|||tervisliku|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||propageerimine|||REQUIRED|||-NONE-|||0
+
+S Minu meelest kasvatamine selles suunas peab alustama lapsepõlvest - lasteaias , pärast koolis ja ülikoolis .
+A 2 3|||R:NOM:FORM|||kasvatamisega|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||peab selles suunas kasvatamisega|||REQUIRED|||-NONE-|||0
+
+S Inimene peab arusaama , et elu on kõige väärtuslikum asi , mis tal on .
+A 2 3|||R:WS|||aru saama|||REQUIRED|||-NONE-|||0
+
+S Ja tal ei ole õigust seda ohustada ja peab austama teiste inimeste õigust väärtuslikult elad ka .
+A 14 15|||R:VERB:FORM|||elada|||REQUIRED|||-NONE-|||0
+A 9 16|||R:WO|||ka austama teiste inimeste õigust väärtuslikult elada|||REQUIRED|||-NONE-|||0
+
+S Ohutusnõued peavad olema ära seletatud ja reeglina päheõpitud lapsepõlvest saadik .
+A 0 1|||R:SPELL|||Ohutusnõuded|||REQUIRED|||-NONE-|||0
+A 7 8|||R:WS|||pähe õpitud|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||lapsepõlvest saadik pähe õpitud|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Ohutusnõuded|||REQUIRED|||-NONE-|||1
+A 7 8|||R:WS|||pähe õpitud|||REQUIRED|||-NONE-|||1
+A 6 10|||R:WO|||lapsepõlvest saadik reeglina pähe õpitud|||REQUIRED|||-NONE-|||1
+
+S Sotsiaalmeedia roll selles küsimuse on ka väga suur .
+A 3 4|||R:NOM:FORM|||küsimuses|||REQUIRED|||-NONE-|||0
+
+S Kõik reklaamid , mis näitavad kui traagiliselt võib lõppetada joobes autojuhtimine , roolis sms-i kirjutamine teevad head tööd .
+A 5 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX:SPELL|||lõppeda|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Järelduseks võin öelda , et iga inimene vastutab oma elu eest ise ja me kõik oleme ilusa elu väärt .
+A 16 17|||R:NOM:FORM|||ilusat|||REQUIRED|||-NONE-|||0
+
+S Õnnetusjuhtumite põhjused ja ennetustegevuse viisid
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Veebruarikuu alguses käisin ma Päästeameti poolt korraldatud teabepäeval .
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Sellised kampaaniad on loodud just selleks , et inimesed oleksid teadlikud sellest , miks õnnetusjutumite arv Eesti on järjest tõusnud ja kuidas õnnetusi vältida .
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||õnnetusjuhtumite|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||Eestis|||REQUIRED|||-NONE-|||0
+A 14 18|||R:WO|||on Eestis õnnetusjuhtumite arv|||REQUIRED|||-NONE-|||0
+
+S Üha rohkem päästjad juhivad tähelepanu sellele , et liigne alkohooli tarbimine kahjustab tervist ning häirib teiste inimeste rahuloleku .
+A 2 4|||R:WO|||juhivad päästjad|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||alkoholi|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||rahulolekut|||REQUIRED|||-NONE-|||0
+
+S Tavaliselt joobeseisundis olevad inimesed hakkavad teostama seadusega keelatud asju või ohustavad nii enda kui ka kaasmaalaste elu .
+A 1 5|||R:WO|||hakkavad joobeseisundis olevad inimesed|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||tegema|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||hakkavad joobeseisundis olevad inimesed|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||tegema|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||ning|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||seeläbi|||REQUIRED|||-NONE-|||1
+
+S Isegi väike alkohooli kogus muudab inimese käitumist ja inimene ei suuda end kontrollida .
+A 2 4|||R:WS:SPELL|||alkoholikogus|||REQUIRED|||-NONE-|||0
+
+S Kõige ohtlikum olukord juhtub siis kui joonud inimeste arv on suur .
+A 3 4|||R:LEX|||tekib|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Sellised gruppid ei mõista , mida nad teevad ja võib juhtuda nii , et nad tahtmata teostavada kuritegu , kas kedagi tappevad või midagi lõhuvad .
+A 1 2|||R:SPELL|||grupid|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX:SPELL|||teevad|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||teevad tahtmata|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||kuriteo|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||kellegi|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||tapavad|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WO|||tapavad kellegi|||REQUIRED|||-NONE-|||0
+A 23 25|||R:WO|||lõhuvad midagi|||REQUIRED|||-NONE-|||0
+
+S Kindlasti joobesolevatele inimestele on keelatud rooli taga istuda , seega igas gruppis peab olema vähemalt üks kaine autojuht .
+A 1 2|||R:WS|||joobes olevatele|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||on joobes olevatele inimestele|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||grupis|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||peab igas grupis|||REQUIRED|||-NONE-|||0
+
+S Päästeameti töötajad soovitasid alati kontrollida juba joodud alkohooli arvu ja mitte juua rohkem kui organismile ettenähtud .
+A 7 8|||R:SPELL|||alkoholi|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||kogust|||REQUIRED|||-NONE-|||0
+A 15 16|||R:WS|||ette nähtud|||REQUIRED|||-NONE-|||0
+
+S Alati peab olema ka kaine inimene , kes oskab hinnata olukorda ja viivitamatult parandada , kui olukord läheb kontrolli alt .
+A 9 11|||R:WO|||olukorda hinnata|||REQUIRED|||-NONE-|||0
+A 12 12|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||olukorda hinnata|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||seda|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||peaks|||REQUIRED|||-NONE-|||1
+A 20 20|||M:LEX|||väljuma|||REQUIRED|||-NONE-|||1
+
+S Ei tohi jääda alkohoolijoobes oleva inimest üksi , sest oksendamisel ta võib lämbuda .
+A 2 3|||R:LEX|||jätta|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||alkoholijoobes|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||olevat|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||võib ta|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||jätta|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||alkoholijoobes|||REQUIRED|||-NONE-|||1
+A 4 5|||R:VERB:FORM|||olevat|||REQUIRED|||-NONE-|||1
+A 0 7|||R:WO|||Alkoholijoobes olevat inimest ei tohi üksi jätta|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||võib ta|||REQUIRED|||-NONE-|||1
+
+S Juhul kui mõni inimene jäänud õue üksi , siis sellest tuleb teavitada politsei
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||tuleb sellest|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||politseid|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Veel üheks põhjuseks , miks õnnetusjuhtumid toimuvad on ohutusnõuete eiramine .
+A 5 7|||R:WO|||toimuvad õnnetusjuhtumid|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Tihti päästjad saabuvad kutsele , kus põleb maja või korter .
+A 1 3|||R:WO|||saabuvad päästjad|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||väljakutsele|||REQUIRED|||-NONE-|||0
+
+S Põhjuseks on voodis suitsetamine või suitsuanduri puudus .
+A 6 7|||R:LEX|||puudumine|||REQUIRED|||-NONE-|||0
+
+S Suitsuandur võib tõesti päästa elu , sest signaal on kõva ja aitab inimesele kiiresti ärgata .
+A 7 7|||M:LEX|||selle|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||vali|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||inimesel|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||selle|||REQUIRED|||-NONE-|||1
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||vali|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||selle vali signaal|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||inimesel|||REQUIRED|||-NONE-|||1
+
+S Päästeameti viimane kontroll näitas , et enamikutel eesti peredel suitsuandur eksisteerib kuid ei tööta korrektselt ( kas puuduvad patareid või asub vales kohas ) .
+A 6 7|||R:SPELL|||enamikel|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||see|||REQUIRED|||-NONE-|||0
+
+S Suitsuanduri koht on eluruumis , mitte köögis ning päästjad lisavad , et kodus peab olema ka tulekustuti , et kiiresti reageerida tulekahju korral .
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 19 23|||R:WO|||tulekahju korral kiiresti reageerida|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõtteks saan kirjutada , et päästjad pöörasid oma tähelepanu kahele suurele probleemidele : ohutusnõuete rikkumisele ja liigse alkohooli tarvitamisele .
+A 11 12|||R:NOM:FORM|||probleemile|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||alkoholi|||REQUIRED|||-NONE-|||0
+
+S Ma arvan , et just selliseid probleeme peame me üheskoos lahendada ja inimestele meenutada , kuidas tuleb käituda erinevates olukordades :
+A 10 11|||R:VERB:FORM|||lahendama|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB:FORM|||meenutama|||REQUIRED|||-NONE-|||0
+A 20 21|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Minuga olid nõus ka teabepäeva korraldajad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Päästeameti korraldatud teabepäeval oli räägitud õnnetusjuhtumitest .
+A 3 5|||R:VERB:FORM|||räägiti|||REQUIRED|||-NONE-|||0
+
+S Vaatamata sellele , et teema on väga lai , Päästeameti esindaja esitatud seisukohad olid põhjendatud ning ei jäänud ilma statistiliste kinnitusteta .
+A 9 14|||R:WO|||olid Päästeameti esindaja esitatud seisukohad|||REQUIRED|||-NONE-|||0
+
+S Kõigepealt , ta rääkis õnnetusjuhtumite põhjustest .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||rääkis ta|||REQUIRED|||-NONE-|||0
+
+S Päästeameti päringute alusel peamiseks põhjuseks on ohutusnõuete eiramine .
+A 3 6|||R:WO|||on peamiseks põhjuseks|||REQUIRED|||-NONE-|||0
+
+S 40% eelmisel aastal toimunud tulekahjudest olid majades ja korterites , kus ei olnud suitsuandurit .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minule see asjaolu tundus küll väga imeline , kuna andurid on odavad ja kättesaadavad ning oleks raske leida põhjendust sellele , miks neid oma koju ei panda .
+A 1 4|||R:WO|||tundus see asjaolu|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||imelik|||REQUIRED|||-NONE-|||0
+
+S Teiseks põhjuseks oli inimeste alkoholi kuritarvitamine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vaatamata kõigile riigi poolt võetud meetmetele on joobes juhtimine ikka aktuaalne probleem .
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Joobes autojuhid põhjustavad rohkem kui kolm neljandikku kõikidest liiklusõnnetustest aastas ning minu arvates see tegu on vastutustundetu nii iseenda kui ka teiste inimeste suhtes , kellele see võib kahju tuua .
+A 13 16|||R:WO|||on see tegu|||REQUIRED|||-NONE-|||0
+
+S Teabepäeva teine osa oli pühendatud õnnetusjuhtumite ennetustegevusele .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Osa oli korraldatud seminari vormis ning enamiku osalejate arvates kõige parim viis õnnetuste ennetamiseks on ühiskonna informeerimine .
+A 10 11|||R:NOM:FORM|||parem|||REQUIRED|||-NONE-|||0
+A 9 15|||R:WO|||on kõige parem viis õnnetuste ennetamiseks|||REQUIRED|||-NONE-|||0
+
+S Ma olen sellega nõus , näiteks bussipeatuste reklaamide asendamine probleemi puudutava infoteabega oluliselt tõstaks inimeste teadvustatust - seda kinnitab ka päästeameti statistika
+A 11 12|||R:LEX|||infoga||teabega|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||tõstaks oluliselt|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Ka mõnel määral inimeste raskest hooletustest tulenevate juhtumite sanksioneerimine võiks omakorda tuua kasu .
+A 1 2|||R:LEX|||mõningal|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||hooletusest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||sanktsioneerimine|||REQUIRED|||-NONE-|||0
+A 1 9|||R:WO|||inimeste raskest hooletustest tulenevate juhtumite sanksioneerimine mõnel määral|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||kasu tuua|||REQUIRED|||-NONE-|||0
+
+S Probleem aga , minu arvates , seisneb selles , et seda oleks väga raske reguleerida ilma inimeste õiguste riivamiseta .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 7|||R:WO|||seisneb aga minu arvates selles|||REQUIRED|||-NONE-|||0
+
+S Riik saab määrata kõrgemaid trahve joobes juhtimise eest , aga üldjuhul kontrolli teostamine inimeste üle on väga problemaatiline .
+A 11 16|||R:WO|||on inimeste üle kontrolli teostamine|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||kontrollimine|||REQUIRED|||-NONE-|||1
+A 11 16|||R:WO|||on inimeste kontrollimine|||REQUIRED|||-NONE-|||1
+
+S Lõppkokkuvõttes , keegi ei saa sind aidata parem , kui sa aitad iseennst .
+A 7 8|||R:LEX|||paremini|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||iseennast|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||paremini|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||iseennast|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WO|||paremini aidata|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||iseennast aitad|||REQUIRED|||-NONE-|||1
+
+S Me peame hoolitsema ja püüdma , et meie tegevus ei tooks kahju endale ega meid ümbritsevatele inimestele .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selleks on vaja alati kontrollida oma tegevusi ja mõelda , mis tagajärgi need võivad tuua .
+A 4 7|||R:WO|||oma tegevusi kontrollida|||REQUIRED|||-NONE-|||0
+
+S Eelmisel nädalal olen osalenud globaliseerumiskonverentsil , kus olulisemad teemad olid " Kodumaalt lahkumise põhjused ja võimalikud tagajärjed " ning " Tehnoloogia kiire areng kui kaugsuhtluse võimaldaja " .
+A 2 4|||R:VERB:FORM|||osalesin|||REQUIRED|||-NONE-|||0
+
+S Tänapäevadel antud teemad on väga aktuaalsed , eriti Eestis , mis asub oma tehnoloogia innovatsioonidega paljude riikide ees .
+A 0 1|||R:NOM:FORM|||Tänapäeval|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||on antud teemad|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||paljudest|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||riikidest|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Tänapäeval|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||need|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||on need teemad|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||on|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||tehnoloogiliste|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||paljudest|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||riikidest|||REQUIRED|||-NONE-|||1
+
+S Kahjuks kodumaalt lahkumine on arenenud siin ka .
+A 1 4|||R:WO|||on kodumaalt lahkumine|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kiirenenud||sagenenud|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||ka siin|||REQUIRED|||-NONE-|||0
+
+S Peamised põhjused kodumaalt lahkumiseks on parema elukvaliteedi otsimine .
+A 0 1|||R:NOM:FORM|||Peamine|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||põhjus|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Peamine|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||põhjus|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO:NOM:FORM|||kodumaalt lahkumise põhjus|||REQUIRED|||-NONE-|||1
+
+S Praegu on suhteliselt raske leida hästi makstud tööd , seetõttu Eestis on suurenenud töötute arv .
+A 10 12|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||tasustatud|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||tasustatud|||REQUIRED|||-NONE-|||2
+A 9 10|||R:LEX|||mistõttu|||REQUIRED|||-NONE-|||2
+A 10 15|||R:WO|||on töötute arv Eestis suurenenud|||REQUIRED|||-NONE-|||2
+
+S Kui võrrelda palkasid Soomes ja Eestis , siis saab näha , et sama töö eest arst Soomes saab mitu korda rohkem raha kui Eestis .
+A 15 18|||R:WO|||saab arst Soomes|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||võib||on|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||saab arst Soomes|||REQUIRED|||-NONE-|||1
+
+S Samuti Soomes on suur sotsiaalne toetus , korraldatakse tasuta koolitusi soome keele õppimiseks .
+A 1 3|||R:WO|||on Soomes|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on Soomes|||REQUIRED|||-NONE-|||1
+A 6 7|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||on Soomes|||REQUIRED|||-NONE-|||2
+A 6 7|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 9 12|||R:WO|||soome keele koolitusi|||REQUIRED|||-NONE-|||2
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Inimesed tunnevad ennast riigi kaitse all , mida ei saa öelda kodumaa kohta .
+A 11 11|||M:LEX|||meie|||REQUIRED|||-NONE-|||0
+
+S Lahkumise tagajärjed on riigile tõsised ja peamine on vananenud ühiskond , kus on palju pensionääre ja vähe lapsi .
+A 14 15|||R:SPELL|||pensionäre|||REQUIRED|||-NONE-|||0
+
+S Sellisel riigil on raske tulevik : pensioonivanus kasvab , üks töötaja peab toetama palju pensionääre , noored leiavad endale parema elukohti lahkudes kodumaalt .
+A 6 7|||R:SPELL|||pensionivanus|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||pensionäre|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||elukoha|||REQUIRED|||-NONE-|||0
+A 19 23|||R:WO|||kodumaalt lahkudes parema elukoha|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX:SPELL|||pensioniiga|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||pensionäre|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||elukoha|||REQUIRED|||-NONE-|||1
+A 19 23|||R:WO|||kodumaalt lahkudes parema elukoha|||REQUIRED|||-NONE-|||1
+
+S Järelduseks , riigil on vaja luua programmi töökohtade arvu suurenemiseks , mis aitab parandada olukorda .
+A 0 1|||R:LEX|||Järelikult|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||on riigil|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||programm|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||suurendamiseks|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||olukorda parandada|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Järeldus|||REQUIRED|||-NONE-|||1
+A 1 2|||R:PUNCT|||:|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||programm|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||suurendamiseks|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||aitaks|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||olukorda parandada|||REQUIRED|||-NONE-|||1
+
+S Teiselt poolt tehnoloogia kiire areng annab inimestele palju võimalusi .
+A 2 6|||R:WO|||annab tehnoloogia kiire areng|||REQUIRED|||-NONE-|||0
+
+S Üks nendest on kaugsuhtlus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ergsaks näideks on veebiõpe , mis võimaldab saada teadmisi igal kohal , kus on internetiside .
+A 0 1|||R:NOM:FORM:SPELL|||Ergas|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:SPELL|||näide|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||igas|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||kohas|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Erksaks|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||näiteks|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||igas|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||kohas|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX:SPELL|||Konkreetne||Hea||Ilmekas||Asjakohane|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM:SPELL|||näide|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||igas|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||kohas|||REQUIRED|||-NONE-|||2
+
+S Loengud saavad läbi viia Skype'i teel , küsimuste tekkimisel õpilased kirjutavad õpetajale e-posti kaudu .
+A 0 1|||R:NOM:FORM|||Loenguid|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||saab|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||kirjutavad õpilased|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Loenguid|||REQUIRED|||-NONE-|||1
+A 1 2|||R:VERB:FORM|||saab|||REQUIRED|||-NONE-|||1
+A 2 4|||R:LEX|||korraldada||pidada|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||kirjutavad õpilased|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||õpetaja|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||e-postile|||REQUIRED|||-NONE-|||1
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Loenguid|||REQUIRED|||-NONE-|||2
+A 1 2|||R:VERB:FORM|||saab|||REQUIRED|||-NONE-|||2
+A 2 4|||R:LEX|||korraldada||pidada|||REQUIRED|||-NONE-|||2
+A 4 5|||R:NOM:FORM|||Skype'is|||REQUIRED|||-NONE-|||2
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 11|||R:WO|||kirjutavad õpilased|||REQUIRED|||-NONE-|||2
+A 13 14|||R:LEX|||teel||vahendusel|||REQUIRED|||-NONE-|||2
+
+S Samuti kõik materjalid on kättesaadavad sõltumatu ajast .
+A 1 4|||R:WO|||on kõik materjalid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||sõltumata|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||ajast sõltumata|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||on kõik materjalid|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||sõltumata|||REQUIRED|||-NONE-|||1
+
+S Üha rohkem inimesi kasutavad sellist õppimise viisi , mida näitab selle mugavust ja tõhusust .
+A 8 9|||R:NOM:FORM|||mis|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõttes saan üelda , et riik peab toetuma oma elanikuid ja luua vastavaid elutingimusi , et ei tekiks soov kodumaalt lahkuda .
+A 2 3|||R:SPELL|||öelda|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||toetama|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM:SPELL|||elanikke|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||looma|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||öelda|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||toetama|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM:SPELL|||elanikke|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||looma|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||vastavad|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||elutingimused|||REQUIRED|||-NONE-|||1
+
+S Öeldes tehnoloogia arenguks olen kindel , et see lihtsustab meie elu ja tema kättes on meie tulevik .
+A 0 1|||R:LEX|||Rääkides|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||arengust|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||selle|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||kätes|||REQUIRED|||-NONE-|||0
+
+S Täna väga tihti saab kuulda , et toimub globaliseerumine .
+A 0 1|||R:LEX|||Tänapäeval|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||saab väga tihti|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||saab väga tihti|||REQUIRED|||-NONE-|||1
+
+S Mis see tähendab ja mida see meie riigile kaasa toob ?
+A 0 1|||R:NOM:FORM|||Mida|||REQUIRED|||-NONE-|||0
+
+S Kas see on hea või halb ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kas see annab lisa võimalusi , loob uusi väärtusi ?
+A 3 5|||R:WS|||lisavõimalusi|||REQUIRED|||-NONE-|||0
+
+S Kui suured on ohud ?
+A 3 3|||M:LEX|||sellega kaasnevad|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Võib olla kõige lihtsam näide globaliseerumisest on inimeste liikumine ühest riigist teise , selleks peaaegu ei ole takistusi .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||on kõige lihtsam näide globaliseerumisest|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||et|||REQUIRED|||-NONE-|||0
+
+S Inimene , kellel on hea haridus , kes on hea spetsialist oma erialal ja kes vabalt räägib inglise keeles või muud keelt , võib leida endale tööd ka üle piiri .
+A 15 17|||R:WO|||räägib vabalt|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||keelt|||REQUIRED|||-NONE-|||0
+A 24 27|||R:WO|||endale tööd leida|||REQUIRED|||-NONE-|||0
+
+S Miks inimesed täna lahkuvad kodumaalt ?
+A 2 3|||R:LEX|||tänapäeval|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO:NOM:FORM|||lahkuvad tänapäeva inimesed|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||lahkuvad inimesed täna|||REQUIRED|||-NONE-|||1
+
+S Üks põhjus on see , et nad ei leia siin endale tööd või pakkutav töö ei pakku huvi , ei anna võimalust areneda ja ka see , et selle töö eest makstakse liiga vähe raha .
+A 13 14|||R:NOM:FORM:SPELL|||pakutud|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||paku|||REQUIRED|||-NONE-|||0
+A 13 17|||R:WO|||ei paku pakutud töö|||REQUIRED|||-NONE-|||0
+A 17 17|||M:LEX|||neile|||REQUIRED|||-NONE-|||0
+A 23 23|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||pakutav|||REQUIRED|||-NONE-|||1
+A 16 17|||R:SPELL|||paku|||REQUIRED|||-NONE-|||1
+A 13 17|||R:WO|||ei paku pakutav töö|||REQUIRED|||-NONE-|||1
+A 17 17|||M:LEX|||neile|||REQUIRED|||-NONE-|||1
+A 23 23|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Väga palju noori sõidab ära väismaale ja jäävad sinna elama .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||välismaale|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||jääb|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||paljud|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||noored|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||sõidavad|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||välismaale|||REQUIRED|||-NONE-|||1
+
+S Põhilesed eelised mida nad toovad välja on : karjäärivõimalus , hea palk , sotsiaalseid kaitsed .
+A 0 1|||R:SPELL|||Põhilised|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||välja toovad|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||sotsiaalne|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||kaitse|||REQUIRED|||-NONE-|||0
+
+S Kas see on hea riigile kui noored sõidavad ära ?
+A 3 5|||R:WO|||riigile hea|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Võiks öelda jah , kui noored saades kogemust tuleksid tagasi ja panustaksid oma riigi arengusse .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Kuid tihti peale nad jäävad sinna elama , seal loovad pereit , seal sündivad lapsed .
+A 1 3|||R:WS|||tihtipeale|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||jäävad nad|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||loovad seal|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||pere|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||sünnivad|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||nende|||REQUIRED|||-NONE-|||0
+
+S Riik kaotab , kaotab noorepõlvkonda , kaotab oma kultuurikaindjaid , edukaid inimesi , kes võiksid panustada oma riigi arengusse .
+A 2 3|||R:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:WS:NOM:FORM|||noore põlvkonna|||REQUIRED|||-NONE-|||0
+A 8 9|||R:WS:SPELL|||kultuuri kandjaid|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:WS:NOM:FORM|||noore põlvkonna|||REQUIRED|||-NONE-|||1
+A 8 9|||R:WS:SPELL|||kultuuri kandjaid|||REQUIRED|||-NONE-|||1
+A 0 0|||M:LEX|||Niiviisi||Sel viisil|||REQUIRED|||-NONE-|||2
+A 0 2|||R:WO|||kaotab riik|||REQUIRED|||-NONE-|||2
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||R:WS:NOM:FORM|||noore põlvkonna|||REQUIRED|||-NONE-|||2
+A 8 9|||R:WS:SPELL|||kultuuri kandjaid|||REQUIRED|||-NONE-|||2
+
+S Lisaks sellele sided oma peredega ei ole juba nii tugevad , kohtutakse harvemini ja mida salada mõnedel vanematel on raske suhelda oma lastelastega , kes ei räägi juba vanemate emakeelt .
+A 2 3|||R:SPELL|||sidemed|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||ei ole sidemed oma peredega|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||enam|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||mis|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||salata|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 27 28|||R:LEX|||enam|||REQUIRED|||-NONE-|||0
+
+S Natuke kõike need probleemi aitab lahendada kiire tehnoloogia areng .
+A 1 2|||R:NOM:FORM|||kõiki|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||probleeme|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||aitab kõiki neid probleeme|||REQUIRED|||-NONE-|||0
+
+S Kõik interneti ja telefoni lahendused aitavad vähendada probleemi suhtlemises .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Skype abil sa kuulad ja näed oma lähedase .
+A 0 1|||R:NOM:FORM|||Skype'i|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||kuuled|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||lähedasi|||REQUIRED|||-NONE-|||0
+
+S Skype võimalus on nüüd ka mobiiltelefonis .
+A 0 1|||R:NOM:FORM|||Skype'i|||REQUIRED|||-NONE-|||0
+
+S Ei ole vahet kui kaugel inimesed asuvad üks teisest .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS|||üksteisest|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||üksteisest asuvad|||REQUIRED|||-NONE-|||0
+
+S Ma arvan , et tehnologia kiire areng aitab mitte ainult kaugsuhtlemisele kui ka tulevikus kaugtöötamise võimalusele .
+A 4 5|||R:SPELL|||tehnoloogia|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||kaasa|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||kuid|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||tulevikus ka|||REQUIRED|||-NONE-|||0
+
+S Kus inimene ei peaks sõidma ära kodumaalt , et töötada heas ettevõttes , teenida head palka ja samas olema oma riigi arendaja , väärtuste ja kultuurikandja .
+A 4 5|||R:SPELL|||sõitma|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||kodumaalt ära sõitma|||REQUIRED|||-NONE-|||0
+A 12 13|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 16 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX|||endiselt||jätkuvalt|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||olles|||REQUIRED|||-NONE-|||0
+A 17 19|||R:WO|||olles endiselt|||REQUIRED|||-NONE-|||0
+A 25 26|||R:WS|||kultuuri kandja|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||sõitma|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||kodumaalt ära sõitma|||REQUIRED|||-NONE-|||1
+A 12 13|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 16 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||samal ajal||samaaegselt|||REQUIRED|||-NONE-|||1
+A 18 19|||R:VERB:FORM|||olles|||REQUIRED|||-NONE-|||1
+A 25 26|||R:WS|||kultuuri kandja|||REQUIRED|||-NONE-|||1
+
+S Eelmisel laupäval Tallinnas toimus globaliseerumiskonverents , kus ma osalesin külastajana .
+A 1 2|||R:SPELL|||laupäeval|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||toimus Tallinnas|||REQUIRED|||-NONE-|||0
+
+S Seal esitlesid erinevad teadlased Tallinna ja Tartu ülikoolidest , aga mulle jäid mõned ettekanded meelde , sest nendes räägiti kodumaalt ning tehnoloogiast .
+A 1 2|||R:LEX|||esinesid|||REQUIRED|||-NONE-|||0
+A 12 15|||R:WO|||meelde mõned ettekanded|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||kodumaast|||REQUIRED|||-NONE-|||0
+
+S Peamiselt tahan jutustada kodumaalt lahkumise põhjustest ja võimalikustest tagajärjedest .
+A 7 8|||R:SPELL|||võimalikkudest||võimalikest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||tagajärgedest|||REQUIRED|||-NONE-|||0
+
+S Paljud teadlased rääkisid eelkõige uue kultuuriga tutvumisest , sest kui inimene sõidab välismaal , teda ootavad uued inimesed , uus keel , tundmanud kombed ja traditsioonid .
+A 12 13|||R:NOM:FORM|||välismaale|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||ootavad teda|||REQUIRED|||-NONE-|||0
+A 22 23|||R:SPELL|||tundmatud|||REQUIRED|||-NONE-|||0
+
+S Võib olla on see peamine põhjus , et kodumaalt lahkuda .
+A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
+
+S Inimesed tahavad alusta uut elu uues riigis .
+A 2 3|||R:VERB:FORM|||alustada|||REQUIRED|||-NONE-|||0
+
+S Kuid sellega on seotud mõned probleemid nagu kallid elamistingimused , madal palk , keelebarjäär ning arusaamatud traditsioonid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Tagajärjena inimene võiks jääda koduta või sõida tagasi kodumaale .
+A 2 3|||R:VERB:FORM|||võib|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||võib inimene|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||sõita|||REQUIRED|||-NONE-|||0
+
+S Teine põhjus oli see , et noored tahavad proovida õppida välismaal .
+A 9 11|||R:WO|||välismaal õppida|||REQUIRED|||-NONE-|||0
+
+S Nad mõtlevad , et kui haridus on tasuta , siis nad vabalt saavad ülikooli sisse astuda ja elu lõpuni elada teises riigis .
+A 10 13|||R:WO|||saavad nad vabalt|||REQUIRED|||-NONE-|||0
+A 19 22|||R:WO|||teises riigis elada|||REQUIRED|||-NONE-|||0
+
+S Kuid ei mõtle , et nagu ma juba rääkisin , elutingimused , toit , üür , meelelahutused on kallid , töötada ja samal ajal õppida on raske ja noored lihtsalt ei saaks üksinda seal elada .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||meelelahutus|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||–|||REQUIRED|||-NONE-|||1
+A 9 10|||R:PUNCT|||-|||REQUIRED|||-NONE-|||1
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||meelelahutus|||REQUIRED|||-NONE-|||1
+A 27 28|||R:LEX|||ning|||REQUIRED|||-NONE-|||1
+
+S Samuti tekkib igatsus kodumaa järele , sest pere ja sõbrad on kaugel .
+A 1 2|||R:SPELL|||tekib|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Teine olulina teema oli pühendatud tehnoloogia arengule kui kaugsuhtluse võimaldaja .
+A 1 2|||R:SPELL|||oluline|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||võimaldajale|||REQUIRED|||-NONE-|||0
+
+S Muidugi meie pidevalt arenevas maailmas on raske elada ilma tehnoloogiata .
+A 1 6|||R:WO|||on meie pidevalt arenevas maailmas|||REQUIRED|||-NONE-|||0
+
+S See teema oli ka tihedalt seotud eelmise teemaga kodumaalt lahkumisest , sest nagu toimub kiire tehnoloogi areng , inimesed võivad elada erinevates maailma otsas ning suhelda omavahel kasutades erinevaid programme .
+A 12 13|||R:LEX|||kui|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||tehnoloogia|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WO|||võivad inimesed|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||otstes|||REQUIRED|||-NONE-|||0
+A 27 27|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Konverentsil teadalased rääksid peamistes suhtlusprogrammidest , nende võimalustest ja kuidas neid õigesti kasutada .
+A 1 2|||R:SPELL|||teadlased|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||rääkisid|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||rääkisid teadlased|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||peamistest|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||teadlased|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||rääkisid|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||rääkisid teadlased|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||peamistest|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||sellest|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Seoses sellega on kergem reisida ja jääda sugulastega , saata nendele fotosid , helistada nendele Interneti abiga ning lihtsalt suhelda .
+A 8 8|||M:LEX|||lähedaseks|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||käia|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||juures|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||käia|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||sugulastel|||REQUIRED|||-NONE-|||2
+A 8 8|||M:LEX|||külas|||REQUIRED|||-NONE-|||2
+
+S Kokkuvõtes mina sooviksin kõikedele külastada mingisuguseid konverentse , sest sealt igaüks saab leida uut enda jaoks .
+A 0 1|||R:SPELL|||Kokkuvõttes|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||soovitaksin|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||soovitaksin ma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||kõikidel|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||mingisuguseid konverentse külastada|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||saab igaüks|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||midagi|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||enda jaoks midagi uut|||REQUIRED|||-NONE-|||0
+
+S Tehnikaga seotud teemad on praegu üsna aktuaalsed ja meie elu sõltub tehnoloogia arengust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seetõttu ärge unustage sõita teisele globaliseerumiskonverentsile , mis toimub järgmisel laupäeval .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Maailmas üha rohkem räägitakse globaliseerumisest , mis tähendab rahvusvahelist , kõikehõlmavat ühinemist .
+A 1 4|||R:WO|||räägitakse üha rohkem|||REQUIRED|||-NONE-|||0
+
+S Globaliseerumise mõistesse kuulub tehnoloogia , immigreerimine , hariduse , kultuuri , tervishoiu küsimused ja palju muud .
+A 2 3|||R:VERB:FORM|||kuuluvad|||REQUIRED|||-NONE-|||0
+
+S See kõik pakub inimkonnale suurepäraseid võimalusi , kuid tuleb tõdida , et globaliseerimisel on samuti negatiivseid tagajärgi .
+A 9 10|||R:SPELL|||tõdeda|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||globaliseerumisel|||REQUIRED|||-NONE-|||0
+
+S Kõigepealt tuleb mainida migreerimist , kodumaalt lahkumist .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Miks kolitakse välismaale ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vastus ei ole keeruline : noored otsivad võimalusi tööd leida ja haridust omandada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nemad ei näe perspektiivseid ega mainekaid lahendusi oma kodumaal , seega otsivad neid mujalt .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sellise nähtuse tagajärjed paistavd üsna tõsised olevat : kodumaa kannatab spetsialistide nappusest ja elanikonna vananemisest .
+A 3 4|||R:SPELL|||paistavad|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||nappuse|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||elanikkonna|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||vananemise|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||käes|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||paistavad|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||olevat üsna tõsised|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||nappuse|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||elanikkonna|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||vananemise|||REQUIRED|||-NONE-|||1
+A 15 15|||M:LEX|||käes|||REQUIRED|||-NONE-|||1
+
+S Peale selle , see nähtus toob kaasa elanikonna vähenemist ja riigi " väljasuremist " .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||toob see nähtus|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||elanikkonna|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||vähenemise|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||väljasuremise|||REQUIRED|||-NONE-|||0
+
+S Migreerimisega käib alati kaasa tehnoloogiline areng .
+A 0 1|||R:NOM:FORM|||Migreerimisega|||REQUIRED|||-NONE-|||0
+
+S Kui tegemist on globaliseerumisega , eriti suurt tähelepanu pööratakse tehnoloogia kiirele arengule .
+A 5 9|||R:WO|||pööratakse eriti suurt tähelepanu|||REQUIRED|||-NONE-|||0
+
+S Tehnoloogiad on nüüd igas elu valdkonnas : kodus , kontoris , kaupluses , koolis ja haiglas .
+A 4 6|||R:WS|||eluvaldkonnas|||REQUIRED|||-NONE-|||0
+
+S Tänu kaasaegsele tehnoloogiale , on muutunud ühiskonna üldine ettekujutis sellest , mis on suhtlemine .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||ettekujutus|||REQUIRED|||-NONE-|||0
+
+S Areng võimaldab näha , kuulda ja vestelda nendega , kes on kaugel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Peale tavasuhtlemisele , seda kasutatakse , näiteks , isegi loengute ja tööintervjuude läbiviimiseks .
+A 1 2|||R:NOM:FORM|||tavasuhtlemise|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||kasutatakse seda|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Tehnoloogiad on muutunud maailma kiiremaks ja kergemaks , kuid ka sellel on oma puudusi .
+A 3 4|||R:LEX|||infovahetuse||suhtlemise|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||muutnud|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||kiiretempolisemaks|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||mugavamaks|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||muutnud|||REQUIRED|||-NONE-|||2
+
+S Digisuhtluse ja anonüümsuse tõttu kaob ära isiksus ja ohutus , turvalisus .
+A 0 1|||R:NOM:FORM|||Digisuhtlusega|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||kaasneva|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ükski tehnoloogia kasutaja ei ole kaitstud selliste ohtude eest , rääkimata lastest .
+A 5 9|||R:WO|||selliste ohtude eest kaitstud|||REQUIRED|||-NONE-|||0
+
+S Kõik esiletoodud aspektid vajavad erilist tähelepanu grobaliseerumise pooldajatelt , sest ilma selleta võivad tuua rohkem kahju kui kasu .
+A 6 7|||R:SPELL|||globaliseerumise|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||globaliseerumise pooldajatelt erilist tähelepanu|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||võib|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||globaliseerumine|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||globaliseerumise|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||võib|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||globaliseerumine|||REQUIRED|||-NONE-|||1
+
+S Kokkuvõtteks , globaliseerimine toob esile üsna tõsiseid küsimusi ja probleeme , nagu kodumaalt lahkumine ja suhtlustehnoloogia ohud .
+A 2 3|||R:SPELL|||globaliseerumine|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Esiletoodud võimalikud tagajärjed panevad mõtlema ja vajavad tegutsemist .
+A 6 7|||R:LEX|||nõuavad|||REQUIRED|||-NONE-|||0
+
+S Võin oletada , et migreerimise nähtus võib olla võidetud tänu hariduselu ja riigi tööturu muutmisele ja laienemisele .
+A 5 6|||R:NOM:FORM|||nähtusest|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||saada|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||võitu|||REQUIRED|||-NONE-|||0
+
+S Mis aga puutub kaugsuhtlusesse , potensiaalseid ohte võib ennetada õigeaegse kontrolli abil .
+A 5 5|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||potentsiaalseid|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||võib potentsiaalseid ohte|||REQUIRED|||-NONE-|||0
+
+S Möödunud nädalal osalesin meediafoorumil , mille põhiline teema oli meedia võimalused ja roll .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kuuldud ettekannete põhjal sooviksin kirjutada oma arvamusest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See on väga aktuaalne teema praegusel ajal .
+A 2 7|||R:WO|||praegusel ajal väga aktuaalne teema|||REQUIRED|||-NONE-|||0
+
+S Me elame info sajandil .
+A 2 4|||R:WS|||infosajandil|||REQUIRED|||-NONE-|||0
+
+S Kaasaegses maailmas toimuvad piidevalt muutused ühiskonnas , poliitikas , looduses .
+A 3 4|||R:SPELL|||pidevalt|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||pidevalt|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Inimene tahab saada uudiseid meediast .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga meedial on suured võimalused inimeste kasvatamises , väärtushinnangute kujundamisel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Eriti see on oluline laste kasvatamiseks .
+A 1 3|||R:WO|||on see|||REQUIRED|||-NONE-|||0
+
+S Meedia peab propageerima selliseid väärtushinnanguid nagu patriotism , looduskaitse , kõlbelised omadused inimestel .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||inimeste kõlbelised omadused|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||inimeste kõlbelised omadused|||REQUIRED|||-NONE-|||1
+
+S Oleks hea , kui inimestel oleks võimalus vaadata igal ajal telesaateid loodusest , klassikalise muusika kontserte .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Lapsed telesaated peavad kasvatama lugupidamist eakatele inimestele , sallivust , armastust oma kodumaale .
+A 0 1|||R:NOM:FORM|||Lastes|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||peavad telesaated|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||eakate|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||vastu|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||kodumaa|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||oma kodumaa armastust|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Lastes|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||peavad telesaated|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||eakate|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||vastu|||REQUIRED|||-NONE-|||1
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||kodumaa|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||oma kodumaa armastust|||REQUIRED|||-NONE-|||1
+
+S Artiklid ajalehes , ajakirjas peavad jutustama headest inimestest , nende käitumisest , kangelastest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||ajalehtedes|||REQUIRED|||-NONE-|||1
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||ajakirjades|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||ajalehtedes|||REQUIRED|||-NONE-|||2
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 2|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+A 3 4|||R:NOM:FORM|||ajakirjades|||REQUIRED|||-NONE-|||2
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 11 11|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
+
+S Nende elu peab olema inimestele eeskuju .
+A 5 6|||R:NOM:FORM|||eeskujuks|||REQUIRED|||-NONE-|||0
+
+S Samuti on meedia suur roll teavitajana , harijana ja ka meelelahutajana .
+A 2 3|||R:NOM:FORM|||meedial|||REQUIRED|||-NONE-|||0
+
+S Inimesed loevad ajalehti ja ajakirju sagedamini kui raamatuid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sellepärast hea meedia allikas peab sisaldama uudiseid , uusi teadmisi ja samuti meelelahutusi .
+A 2 4|||R:WS|||meediaallikas|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||peab hea meediaallikas|||REQUIRED|||-NONE-|||0
+
+S Sageli inimesed ostavad ajakirju , et lugeda midagi uut .
+A 1 3|||R:WO|||ostavad inimesed|||REQUIRED|||-NONE-|||0
+
+S Aga kui ajakirjas on olemas artikkel uutest uurimistest arheoloogias või meditsiinis , ajaloos jne , siis inimene loeb seda ka .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 8|||R:LEX|||uurimustest||uuringutest|||REQUIRED|||-NONE-|||1
+
+S Mida rohkem kvaliteetseid ajakirju , telesaateid riigis , seda rohkem seal haritud inimesi .
+A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+
+S Koolides peavad olema rikkad raamatukogud , kus iga laps saab valida ajakirja või ajalehe oma maitse järgi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kokkuvõtteks saab öelda , et meedia roll ja võimalused kaasaegses maailmas tingimata on suured .
+A 11 13|||R:WO|||on tingimata|||REQUIRED|||-NONE-|||0
+
+S Meedia on teavitaja , harija ja meelelahutaja samal ajal .
+A 2 9|||R:WO|||samal ajal teavitaja , harija ja meelelahutaja|||REQUIRED|||-NONE-|||0
+
+S Sellepärast riik peab toetama ja kontrollima meedia tegevust .
+A 1 3|||R:WO|||peab riik|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO|||meedia tegevust toetama ja kontrollima|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||peab riik|||REQUIRED|||-NONE-|||1
+
+S Meedial on suur roll uue põlvkonna kasvatamises .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hiljuti , 15. septembril 2017. aastal , toimus Tallinnas meediafoorum .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina , kui noor ja aktiivne meedikanalite kasutaja ning ka oma kooli esindaja , olin selle osaleja .
+A 6 7|||R:SPELL|||meediakanalite|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||meediakanalite|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||seal|||REQUIRED|||-NONE-|||1
+
+S Foorum jättis paremaid muljeid , päevakavas olid huvitavad ja aktuaalsed teemad meedia rolli ja võimaluste kohta .
+A 2 3|||R:LEX|||hea|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mulje|||REQUIRED|||-NONE-|||0
+
+S Kuna olen teie ajalehe pidev lugeja , otsustasin jagada arvamust nii teiega kui ka teiste lugejatega , kui te otsustate mu kirja ka järgnevas numbris avaldada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 22 23|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Esimene teema kõlas kui " Meedia võimalused väärtushinnangute kujundamisel " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 2 4|||R:LEX|||oli|||REQUIRED|||-NONE-|||1
+
+S Kellegi jaoks pole saladus , et tänapäeva ühiskond on pidevas kokkupuutumises erinevate meediakanalitega , olgu need teler , raadio , internet või paberkandjad ajakiri ja ajaleht .
+A 22 23|||R:NOM:FORM|||paberkandjal|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||kokkupuutes|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||paberkandjal|||REQUIRED|||-NONE-|||1
+
+S Nende mõju ja võimalused on suurenemas sõnavabaduse populaarsuse levikuga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Inimesed lapseeast peale vaatavad , kuulavad ja loevad meediakanaleid .
+A 1 8|||R:WO|||vaatavad , kuulavad ja loevad lapseeast peale|||REQUIRED|||-NONE-|||0
+
+S Informatsioon , tulenev sealt , kujundab nende maailmavaadet ja väärtuhinnanguid .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Sealt tulenev informatsioon|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||väärtushinnanguid|||REQUIRED|||-NONE-|||0
+
+S Meediakanalid on võimas vahend mõjutamiseks ühiskonna peale .
+A 4 6|||R:WO|||ühiskonna mõjutamiseks|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Juba praeguseks võib leida meediast nii palju kasulikku kui ka hirmustavat , valet ja negatiivset .
+A 3 5|||R:WO|||meediast leida|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||hirmutavat|||REQUIRED|||-NONE-|||0
+A 15 15|||M:LEX|||infot|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||meediast leida|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||hirmutavat|||REQUIRED|||-NONE-|||1
+
+S Kasutades tänapäeva inimese privileegi olla vaba valikul mida saab öelda ja kuulata , on tarvis meeles pidada , et sõnadel on tagajärjed ja mõju teiste inimeste peale .
+A 6 7|||R:NOM:FORM|||valikutes|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 24 25|||R:NOM:FORM|||teistele|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOM:FORM|||inimestele|||REQUIRED|||-NONE-|||0
+A 26 27|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Seega filtreerida on kasulik mitte ainult infot , mis tuleb ümbrusest kui ka seda , mis tuleneb ka endalt .
+A 1 4|||R:WO|||on kasulik filtreerida|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||kuid|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||tuleb|||REQUIRED|||-NONE-|||0
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Teine teema oli " Meedia roll teavitajana , harijana ja ka meelelahutajana " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tänapäeval meedia on peamine abivahend õppimises , töös , meelelahutuses ja ka maailmas toimuvast kursis olemises .
+A 1 3|||R:WO|||on meedia|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||õppimisel|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||toimuvaga|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||olemisel|||REQUIRED|||-NONE-|||0
+
+S Iga päev enamik arenenud riikide inimesi kasutab telefoni , raadiot , interneti jt .
+A 2 7|||R:WO|||kasutab enamik arenenud riikide inimesi|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||internetti|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||kasutab enamik arenenud riikide inimesi|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||internetti|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||jms||jmt||jpm|||REQUIRED|||-NONE-|||1
+
+S Sealt saadakse teada kõike , mis toimub ümruses , sealt otsitakse vastusi küsimustele , seal luuakse sidemeid teiste inimestega .
+A 7 8|||R:SPELL|||ümbruses|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||ümbruses toimub|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||vastuseid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:SPELL|||ümbruskonnas|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WO|||ümbruskonnas toimub|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||vastuseid|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX:SPELL|||ümberringi|||REQUIRED|||-NONE-|||1
+A 6 8|||R:WO|||ümberringi toimub|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||vastuseid|||REQUIRED|||-NONE-|||1
+
+S Meedia roll on tõesti suur tänapäeval .
+A 3 6|||R:WO|||tänapäeval tõesti suur|||REQUIRED|||-NONE-|||0
+
+S Küsimus on selles , kas see toob kasu või kahju .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Informatsiooni rohkus takistab leida õiget ja sobivat , meelelahutuse võimaluste äratus sageli ei lase inimesi mõelda tähtsamatest asjadest elus .
+A 3 4|||R:VERB:FORM|||leidmast|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||teavitused|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||inimestel|||REQUIRED|||-NONE-|||0
+A 11 15|||R:WO|||ei lase inimestel sageli|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||elu|||REQUIRED|||-NONE-|||0
+A 17 19|||R:WO|||elu asjadest|||REQUIRED|||-NONE-|||0
+A 3 7|||R:LEX:WO:NOM:FORM|||õige ja sobiva leidmist|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||teavitused|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||inimestel|||REQUIRED|||-NONE-|||1
+A 11 15|||R:WO|||ei lase inimestel sageli|||REQUIRED|||-NONE-|||1
+
+S See on nagu ühe medali kaks külge .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kas on meedia abistaja või ta loob takistusi .
+A 1 3|||R:WO|||meedia on|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||loob ta|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
+
+S Aga sellele küsimusele vastamiseks on igal inimesel oma aju , mis aitab otsustada , kui suurt rolli mängib meedia mu elus .
+A 19 20|||R:LEX|||tema|||REQUIRED|||-NONE-|||0
+
+S Meedia on tõesti üks kasulikumaid ja huvitavamaid " leiutisi " kogu aegade jooksul .
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 13|||R:WO|||aegade jooksul üks kasulikumaid ja huvitavamaid " leiutisi "|||REQUIRED|||-NONE-|||0
+
+S See annab teadust , tarkust , haridust ja ka meelelahutust , kuid vale kasutuse korral võib olla ka hirmus kahtlustaja .
+A 19 20|||R:LEX|||segaja|||REQUIRED|||-NONE-|||0
+
+S See , kellena ta on igaühe jaoks otsustab inimene ise .
+A 2 3|||R:LEX|||milline|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Teiste arvamus on huvitav ja vajalik , aga ees peaks alati seisma enda oma , mis toetub südametunnistusele .
+A 8 9|||R:LEX|||eespool|||REQUIRED|||-NONE-|||0
+
+S Eelmisel nädalal toimus Tallinnas meediafoorum " MEDEX " kuhu olid kutsutud oma alade spetsialistid Eestist ja Euroopa Liidu liikmesriikidest .
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Foorumis arutati mõju , mis meedia avaldab selle tarbijatele ning meedia rolli informatsiooni edastamises ja meelelahutuses .
+A 4 5|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||, mis mõju|||REQUIRED|||-NONE-|||1
+
+S Oxfordi ülikooli professor John Smith pidas loengut sellest , kuidas meedia kujundab inimestes väärtushinnanguid ja selle moraalsetest tagajärjetest .
+A 6 7|||R:NOM:FORM|||loengu|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||tagajärgedest|||REQUIRED|||-NONE-|||0
+
+S Tema sõnul inimene tarbib meediat umbes 50% oma ajast , kas tahtlikult või passiivselt .
+A 2 4|||R:WO|||tarbib inimene|||REQUIRED|||-NONE-|||0
+
+S Sellel informatsioonil , mis on inimese ajus terve see aeg , on väga suur tõenäosus sinna ka päriseks jääda , kujundades inimese maailmapildi .
+A 5 10|||R:WO|||terve see aeg inimese ajus|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||maailmapilti|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||aja|||REQUIRED|||-NONE-|||1
+A 5 10|||R:WO|||terve selle aja inimese ajus|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||maailmapilti|||REQUIRED|||-NONE-|||1
+
+S Teise ettekandja sõnul kõige vulnerabiilsemad on just lapsed , kelle väärtushinnangud on veel formeerumise staadiumil .
+A 4 5|||R:LEX|||haavatavamad|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||on kõige haavatavamad|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||kujunemise|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||staadiumis|||REQUIRED|||-NONE-|||0
+
+S See meediakeskkond , kus nad kasvavad , mõjutab neid kõige rohkem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Näiteks , kodudes , kus vaadatakse pidevalt vägivaldseid filme ja lastakse lastel mängida vägivaldseid arvutimänge , on suurem tõenäosus , et lapsed kasvavad ülesse vägivaldseteks .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 23 24|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Foorumil arutati ka seda , kui oluline on tänapäeval televisioon , ajakirjandus ja internetiuudised selleks , et edastada elanikutele informatsiooni .
+A 6 7|||R:NOM:FORM|||olulised|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||elanikele|||REQUIRED|||-NONE-|||0
+
+S Paljud ettekandjad tõid esile seda , et tänapäeva inimene on sõltuvuses informatsioonist .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mõned on nõus terve päev vaadata telesaateid , et oma informatsioonijanu rahuldada , paljud jätavad televiisorit või raadiot öösel mängima , sest nad ei ole harjunud enam omaette olla .
+A 5 6|||R:VERB:FORM|||vaatama|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||telesaateid vaatama|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||televiisori|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||raadio|||REQUIRED|||-NONE-|||0
+A 28 29|||R:VERB:FORM|||olema|||REQUIRED|||-NONE-|||0
+
+S Selline massiline meedia kasutamine aitab edastada inimestele olulist teave , kuid annab mõndadele võimaluse ka inimesi manipuleerida .
+A 8 9|||R:NOM:FORM|||teavet|||REQUIRED|||-NONE-|||0
+
+S Suured uudisteportaalid võivad muuta uudistes mõned detailid ning tulemuseks võib muuta kogu sündmuse tervikpilt .
+A 5 6|||R:NOM:FORM|||mõnesid|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||detaile|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||muutuda|||REQUIRED|||-NONE-|||0
+
+S Domineeriv arvamus oli , et suurte uudisteportaalide jaoks on ainult oluline see , et neid loeks kõige rohkem inimesi , mitte edastatava teabe õigsus .
+A 9 11|||R:WO|||oluline ainult|||REQUIRED|||-NONE-|||0
+
+S Meelelahutuseks kasutatakse tänapäeval meediat kõige rohkem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selleks on tänapäeval päris mitu võimalust ka : meelelahutussaated , arvutimängud , sotsiaalmeedia ja nii edasi .
+A 3 7|||R:WO|||ka päris mitu võimalust|||REQUIRED|||-NONE-|||0
+
+S Paljude foorumi osalejate arvates on see olukord hea , kui sellega mitte liialdada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meedia on vaidlemata väga oluline tänapäevase maailma jaoks , kuid sellega kaasnevad ka teatud probleemid ja ohud .
+A 2 8|||R:WO|||tänapäevase maailma jaoks vaidlemata väga oluline|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Tänapäeval tuleb kindlasti olla meediamaailmas ettevaatlik ja veenduda , ennem kui uskuda .
+A 9 10|||R:LEX|||enne|||REQUIRED|||-NONE-|||0
+
+S Meedia roll teavitajana , harijana ja ka meelelahutajana
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meedia roll ühiskonnas on viimaste aastate jooksul suurenes .
+A 7 8|||R:VERB:FORM|||suurenenud|||REQUIRED|||-NONE-|||0
+
+S Tänu nutiseadmetele ja sotsiaalvõrgustikkele , mille abil sai meedia kiiresti oma sihtgrupini jõuda , on inimestel võimalus kiiresti , n-ö online režiimis , reageerida erinevatele asjadele , sh ka uudised .
+A 3 4|||R:SPELL|||sotsiaalvõrgustikele|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WS|||online-režiimis|||REQUIRED|||-NONE-|||0
+A 22 23|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 29 30|||R:NOM:FORM|||uudistele|||REQUIRED|||-NONE-|||0
+
+S Rääkides sotsiaalmeediast ja täpsemalt sotsiaavõrgustikest , saab öelda , et sotsiaalvõrgustikud on tänapäeva üks populaarsematest meedia kanalitest , kus saab leida nii värsked uudised , põnevad mängud , anekdootid ja muu meelelahutus .
+A 4 5|||R:SPELL|||sotsiaalvõrgustikest|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WS|||meediakanalitest|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||kust|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||värskeid|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOM:FORM|||põnevaid|||REQUIRED|||-NONE-|||0
+A 26 27|||R:NOM:FORM|||mänge|||REQUIRED|||-NONE-|||0
+A 28 29|||R:NOM:FORM|||anekdoote|||REQUIRED|||-NONE-|||0
+A 30 31|||R:NOM:FORM|||muud|||REQUIRED|||-NONE-|||0
+A 31 32|||R:NOM:FORM|||meelelahutust|||REQUIRED|||-NONE-|||0
+
+S Samuti on sotsiaalmeedia ka mingil määral n-ö virtuaalne koolituskeskus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Rääkides sellest , siis on tendents , et aina rohkem inimesi võtavad enda nõustajaks sotsiaalvõrgustikud , sh " Facebook " , " youtube.com " , " instagram " jms .
+A 0 1|||R:CASE|||rääkides|||REQUIRED|||-NONE-|||0
+A 1 2|||R:CASE|||Sellest|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Sellest rääkides|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 25 26|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 26 27|||R:CASE|||Instagram|||REQUIRED|||-NONE-|||0
+A 27 28|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S " Youtube.com " on näiteks sotsiaalmeediaplatvorm , mis tänapäeval üks populaarsematest ning mille abil kujunesid isegi erinevate kanalite ja blogerite populaarsuse indikaatorid , nt kanali jälgijate arv , n-n laikide arv jne .
+A 0 1|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||blogijate|||REQUIRED|||-NONE-|||0
+A 28 29|||R:SPELL|||nn|||REQUIRED|||-NONE-|||0
+
+S Antud platvormil saab vaadata ja kuulata erinevat tüüpi ettekandeid ja uudised .
+A 10 11|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||0
+
+S Terve platvorm on ehitatud selleks , et inimestel oleks mugav videoid vaadata ning soovi korral ka oma video üles laadida .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Videote teemadeks on kõik , mis võib inimest huvitada , nt saab leida nõuandeid toiduvalmistamise kohta , online koolitusi haritud õppejõududelt jne .
+A 17 19|||R:WS|||online-koolitusi|||REQUIRED|||-NONE-|||0
+
+S " Youtube.com " on üks tänapäeva populaarsematest sotsiaalmeedia kanalitest , kuid mitte ainus .
+A 0 1|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS|||sotsiaalmeediakanalitest|||REQUIRED|||-NONE-|||0
+
+S Sotsiaalmeedia kanaleid on palju .
+A 0 2|||R:WS|||Sotsiaalmeediakanaleid|||REQUIRED|||-NONE-|||0
+
+S Samuti on palju ka sotsiaavõrgustike .
+A 4 5|||R:SPELL|||sotsiaalvõrgustikke|||REQUIRED|||-NONE-|||0
+
+S Rääkides aga traditsioonilistest meediakanalitest , siis saab öelda , et nende efektiivsus ja populaarsus langeb .
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Seda näitavad paljud uuringud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Raadio , TV , ajalehed ja teised on jäänud kasutamiseks meie vanamate generatsioonile .
+A 11 12|||R:SPELL|||vanemate|||REQUIRED|||-NONE-|||0
+
+S Põhjuseid on selleks palju , nt ajasäästmine , rahasäästmine jne .
+A 6 7|||R:WS|||aja säästmine|||REQUIRED|||-NONE-|||0
+A 8 9|||R:WS|||raha säästmine|||REQUIRED|||-NONE-|||0
+
+S Meedia on tänapäeval väga populaarne .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kõige rohkem on populaarne sotsiaalvõrgustikud , kus kasutajad saavad kiiresti kätte nii meelelahutust , teavitusi kui ka koolitust endale huvitaval teemal .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||populaarsemad|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||populaarsemad on|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kust|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||koolitusi|||REQUIRED|||-NONE-|||0
+
+S Kallid kolleegid !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tänapäeval on linnastumisteema eriti aktuaalne .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S On tihti kuulda , et linnades ja ääremaadel on ebavõrdsed tingimused .
+A 0 2|||R:WO|||Tihti on|||REQUIRED|||-NONE-|||0
+
+S Just nendel teemadel arutati seminaril , kus ma hiljuti käisin .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tahan ka teile kuuldust teada anda , sest arvan , et käesolev teema on tähtis iga inimese jaoks .
+A 2 3|||R:NOM:FORM|||teiega|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kuuldut|||REQUIRED|||-NONE-|||0
+A 4 6|||R:LEX|||jagada|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Olen õnnelik , kui teie mulle kaasa mõtleks ning oma arvamusi samuti avaldaksite .
+A 4 5|||R:NOM:FORM|||te|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||minuga|||REQUIRED|||-NONE-|||0
+
+S Üks käsitletud teemasid oli " Teenused , kultuurielu ning töökohad linnades ja ääremaadel " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kuna seminaril osalesid inimesed täiesti erinevatest Eestimaa kohtadest , jagasid nad oma arvamusi eriti aktiivselt .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Enamik inimestest on arvanud , et teenused ja kultuurielu eri paigades on tõepoolest märgatavalt ebaühtlaseks muutunud .
+A 2 4|||R:VERB:FORM|||arvas|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||paikades|||REQUIRED|||-NONE-|||0
+
+S Lõpuks jõudsime kokkuleppele , et valitsus peab kindlasti midagi ette võtma , et muuta olukorda paremaks ning seega ka õiglasemaks .
+A 13 20|||R:WO|||olukorda paremaks ning seega ka õiglasemaks muuta|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Järgmine teema oligi seotud lahenduste otsimisega : " Riigi kõigi piirkondade ühtlase arengu tagamise võimalused " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tänapäeval inimesed otsivad rohkem ja rohkem võimalusi oma elu parandamiseks .
+A 1 3|||R:WO|||otsivad inimesed|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||aina||üha|||REQUIRED|||-NONE-|||0
+
+S Urbanisatsiooni tõttu linnade osakaal suureneb ning enamus ääremaade elanikudest ruttavad kolida linna , kus on arenenud majandus , haridus , meditsiin ja infrastruktuur .
+A 2 5|||R:WO|||suureneb linnade osakaal|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||elanikest|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||kolima|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||elanikest|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||kolima|||REQUIRED|||-NONE-|||1
+
+S See tekitab tööjõudu puudust ääremaadel ning selle tõttu teenused , kultuurielu ja töökohtade pakkumised on külades ja maadel halvem .
+A 2 3|||R:NOM:FORM|||tööjõu|||REQUIRED|||-NONE-|||0
+A 8 15|||R:WO|||on teenused , kultuurielu ja töökohtade pakkumised|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||halvemad|||REQUIRED|||-NONE-|||0
+
+S Kolleegid pakkusid korraldada rohkem kursuseid ning seminare õpetajatele ja teenistuses töötavatele inimestele .
+A 2 2|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+
+S Suurepärane idee oli ka teha vahetusi linnade ja maade töötajate vahel .
+A 8 9|||R:LEX|||maakohtade|||REQUIRED|||-NONE-|||0
+
+S Sellest võiks veel kaua rääkida , kuid pean lõpetama .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Igaüks teeb ise endale kindlaks mis on õige ja mis vale .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Praegu maailmas kõikides arenenud riikides on üks ja samasugune probleem - urbaniseerimine ehk linnastumine .
+A 1 6|||R:WO|||on maailmas kõikides arenenud riikides|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||sama|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||urbaniseerumine|||REQUIRED|||-NONE-|||0
+A 1 6|||R:WO|||on maailmas kõikides arenenud riikides|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||urbaniseerumine|||REQUIRED|||-NONE-|||1
+
+S See tähendab , et rohkem inimesi eelistavad kolida linnadele või ääremaadele .
+A 8 9|||R:SPELL|||linnadesse|||REQUIRED|||-NONE-|||0
+
+S Viimasel esmaspäeval mul oli suurepärane võimalus osaleda linnastumisteemalisel seminaril , kus esinesid selle teema spetsialistid .
+A 2 4|||R:WO|||oli mul|||REQUIRED|||-NONE-|||0
+
+S Mina otsustasin jagada Teiega sellist kogemust .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Esiteks , selleks et aru saada sellest probleemist on vaja teada , miks elu linnades meeldib inimestele rohkem kui maadel .
+A 4 8|||R:WO|||sellest probleemist aru saada|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 17|||R:WO|||meeldib inimestele elu linnades|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||0
+
+S Seminaril me proovisime võrrelda elu kolme punkti järgi .
+A 1 3|||R:WO|||proovisime me|||REQUIRED|||-NONE-|||0
+
+S Esimene punkt olid teenused .
+A 2 3|||R:LEX|||puudutas|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||teenuseid|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||1
+
+S See ei ole saladus , et linnas on väga palju teenusi ja see teeb inimeste elu lihtsaks .
+A 10 11|||R:NOM:FORM|||teenuseid|||REQUIRED|||-NONE-|||0
+
+S Näiteks , kui mina olen väsinud ja mul on nälg siis mul on võimalus minna kohvikusse , kui maal mul tuleks ise toitu teha , mis on mõnikord raske .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX|||kuid|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||on mul|||REQUIRED|||-NONE-|||1
+A 17 18|||R:LEX|||kuid|||REQUIRED|||-NONE-|||1
+A 19 20|||R:WO|||tuleks mul|||REQUIRED|||-NONE-|||1
+
+S Teine punkt oli kultuurielu .
+A 2 3|||R:LEX|||käsitles||puudutas|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Nagu me saame märkata Eestis on teatrid ja kinoteatrid ainult suurtes linnades .
+A 3 4|||R:SPELL|||märgata|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||0
+
+S Need asutused teevad iga inimese elu huvitavaks ja need , kes elavad maal , tunnevad nende puudust ja seepärast otsustavad elada linnades või ääremaadel .
+A 15 16|||R:NOM:FORM|||nendest|||REQUIRED|||-NONE-|||0
+
+S Ja kolmas kui ka kõige oluline punkt olid töökohad .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||kuid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||olulisem|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||puudutas||käsitles|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||töökohti|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||kuid|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||olulisem|||REQUIRED|||-NONE-|||1
+
+S Töö on see , mis annab meile raha selleks et me elaksime .
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||elada|||REQUIRED|||-NONE-|||1
+
+S Seepärast tööpuudus on väga suur probleem , mille pärast inimesed mõnikord kolivad linnadesse , selleks et töökoha leida .
+A 1 3|||R:WO|||on tööpuudus|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||töökohta|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on tööpuudus|||REQUIRED|||-NONE-|||1
+A 11 13|||R:WO|||linnadesse kolivad|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||töökohta|||REQUIRED|||-NONE-|||1
+
+S Linnades on tehased ja teised asutused , kust igaüks võib leida oma kohta , kuna maadel võib töötada põllumajanduses , kus , kahjuks , poole piisavaid töökohti .
+A 12 13|||R:NOM:FORM|||koha|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||kuid|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 25|||R:SPELL|||pole|||REQUIRED|||-NONE-|||0
+A 22 25|||R:WO|||pole kahjuks|||REQUIRED|||-NONE-|||0
+A 25 26|||R:LEX|||piisavalt|||REQUIRED|||-NONE-|||0
+
+S Kui see probleem on arusaadev , siis teine küsimus on kuidas riik sõib tagada kõigi piirkondade ühtlase arengu võimalusi .
+A 4 5|||R:SPELL|||arusaadav|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||võib|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||arusaadav|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||võib|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||kõigile|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||piirkondadele|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||võrdseid|||REQUIRED|||-NONE-|||1
+A 17 19|||R:WS|||arenguvõimalusi|||REQUIRED|||-NONE-|||1
+
+S Seminaril teadlased ütlesid , et kõigepealt riik peab toetama ja stimuleerima inimesi , selleks et nad avaksid oma firmaid maadel .
+A 1 3|||R:WO|||ütlesid teadlased|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||peab riik|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||firmasid|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||0
+
+S See võib aidata ka kohalikele elanikele , sest need firmad annavad uusi teenusi ning uusi töökohti .
+A 4 5|||R:NOM:FORM|||kohalikke|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||elanikke|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||pakuvad|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||teenuseid|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||pakuvad|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||kohalikke|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||elanikke|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||pakuvad|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||teenuseid|||REQUIRED|||-NONE-|||1
+
+S Selles olukorras , kui keegi ei taha avada midagi maadel , võib riik ise avada oma tehaseid või vaabrikuid .
+A 9 10|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||seal|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||vabrikuid|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||midagi maal avada|||REQUIRED|||-NONE-|||1
+A 18 19|||R:SPELL|||vabrikuid|||REQUIRED|||-NONE-|||1
+A 14 19|||R:WO|||oma tehaseid või vabrikuid avada|||REQUIRED|||-NONE-|||1
+
+S See lahendus on kasulik nii riigile , kui ka elanikutele .
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||elanikele||elanikkudele|||REQUIRED|||-NONE-|||0
+
+S Viimane võimalus on põllumajanduse toetamine , mis võib aidata moodustada rohkem töökohti maadel .
+A 9 10|||R:LEX|||luua|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||0
+A 9 13|||R:WO|||maal rohkem töökohti luua|||REQUIRED|||-NONE-|||0
+
+S Lõpus tahaksin öelda , et see oli väga huvi seminar ja mina arvan , et iga riik peab pöörduda tähelepanu linnastumise probleemidele , sest see on tõeline oht kõigi piirkondade ühtlase arengule .
+A 8 9|||R:LEX|||huvitav|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||pöörama|||REQUIRED|||-NONE-|||0
+A 30 31|||R:NOM:FORM|||ühtlasele|||REQUIRED|||-NONE-|||0
+
+S Selleks et seda peatuda on vaja teha võrdsaid tingimused nii linnades ja ääremaadel , kui ka maadel .
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||peatada|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||luua|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||võrdsed|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||maal|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud kolleegid ,
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eelmisel nädalal ma osalesin linnastumisteemalisel seminaril .
+A 2 4|||R:WO|||osalesin ma|||REQUIRED|||-NONE-|||0
+
+S Teemad , mida me arutlesime , olid " Teenused , kultuurielu ning töökohad linnades ja ääremaadel " ja " Riigi kõigi piirkondade ühtlase arengu tagamise võimalused " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seminar oli väga põnev ja ma tahaksin selle kohta oma arvamust teiega jagada .
+A 7 13|||R:WO|||teiega selle kohta oma arvamust jagada|||REQUIRED|||-NONE-|||0
+
+S Kahjuks Eestis on praegu niisugune situatsioon , et peaaegu kõik toimub ainult pealinnas .
+A 1 3|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||0
+
+S Tallinnas on suurim teenuste valik , kõige " värvilisem " kultuurielu ning muidugi kõige rohkem töökohtu .
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||värvikam|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||töökohti|||REQUIRED|||-NONE-|||0
+
+S Probleem on selles , et teistest linnadest kolivad inimesed Tallinnasse ja teised linnad muutuvad tühjaks .
+A 5 9|||R:WO|||inimesed kolivad teistest linnadest|||REQUIRED|||-NONE-|||0
+
+S Nad ei saa nii arendada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||R:LEX|||areneda|||REQUIRED|||-NONE-|||1
+
+S Aga teistes linnades on arendamiseks palju resurssi ja võimalusi ja hiljem terve riik saaks sealt ka sama palju tulusid saada .
+A 6 7|||R:SPELL|||ressurssi|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||saaks terve riik|||REQUIRED|||-NONE-|||0
+
+S Mina ise olen pärit Narvast .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul on kurb näha , et ettevõtjad ja isegi noored , kes on seal sündinud , ei ole huvitatud linna elu parandamises .
+A 21 22|||R:NOM:FORM|||parandamisest|||REQUIRED|||-NONE-|||0
+
+S Noored ei taha sinna jätta , sest nad ei tunne , et saaksid end selles linnas hästi väljendada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||R:LEX|||jääda|||REQUIRED|||-NONE-|||1
+
+S Ma mõtlen , et esimeseks sammuks lahenamise suunas saab olla erinevate ettevõtluste filiaalide avastamine .
+A 6 6|||M:LEX|||probleemi|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||lahendamise|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||ettevõtete|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||avamine|||REQUIRED|||-NONE-|||0
+
+S Tore , et Narvas on Tartu Ülikooli kolledž , ja , et Tartusse üks ministeerium kolis .
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||kolis üks ministeerium|||REQUIRED|||-NONE-|||0
+
+S Me saame rohkem teha !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ääremaadel inimesed ei ela nagu linnades muidugi , aga seal saab ka uusi meelelahutuskeskusi rajada , uusi huvikooli ehitada .
+A 1 7|||R:WO|||ei ela inimesed muidugi nagu linnades|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||ka seal saab|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||huvikoole|||REQUIRED|||-NONE-|||0
+A 1 7|||R:WO|||ei ela inimesed muidugi nagu linnades|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||ka seal saab|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||huvikoole|||REQUIRED|||-NONE-|||1
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Me oleme kõik ühe riigi elanikud ja peame üksteise eest hoolitsema .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Need ei ole kulud , need on investeeringud !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ääremaadel peab ka hästi transport arenenud olema , et inimestel oleks alati võimalus linnadesse minna .
+A 3 7|||R:WO|||transport hästi arenenud olema|||REQUIRED|||-NONE-|||0
+
+S Mida te ise mõtlete selliste teemade kohta ?
+A 3 7|||R:WO|||selliste teemade kohta mõtlete|||REQUIRED|||-NONE-|||0
+
+S Kas olete minuga nõus ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Jään teie vastust ootama .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Parimate soovidega , Kadri ---
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud kolleegid !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hiljuti mina osalesin linnastumisteemalisel seminaril .
+A 1 2|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||osalesin ma|||REQUIRED|||-NONE-|||0
+
+S Olulisemad teemad olid järgmised :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S 1. Teenused , kultuurielu ning töökohad linnades ja ääremaadel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S 2. Riigi kõigi piirkondade ühtlase arengu tagamise võimalused .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Oli arutelu , et linnades ja ääremaadel on rohkem võimalusi teenuste , kultuurielu ja töökohtade valdkonnas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tundub , et point on selles , et mida suurem on linn , seda rohkem sellel on ressursi .
+A 15 17|||R:WO|||on selles|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||ressurssi|||REQUIRED|||-NONE-|||0
+
+S Suuredes linnades on rohkem raha linnavalitsuses , rohkem inimesi osalevad selle kultuurielus , rohkem pakutakse igasuguseid ideid ja on ka rohkem tööjõudu .
+A 0 1|||R:SPELL|||Suurtes|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||linnavalitsuses rohkem raha|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||osaleb|||REQUIRED|||-NONE-|||0
+A 7 12|||R:WO|||selle kultuurielus osaleb rohkem inimesi|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||pakutakse rohkem|||REQUIRED|||-NONE-|||1
+
+S Väiksemates maades aga elavad põhiliselt eakad inimesed .
+A 1 2|||R:LEX|||maakohtades||maapiirkondades|||REQUIRED|||-NONE-|||0
+
+S Probleem aga koosneb sellest , et see on nagu nõiaring .
+A 2 3|||R:LEX|||seisneb|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||seisneb aga|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||seisneb|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||1
+
+S Noorus on jõud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga kõik see jõud on suuredes linnades just sellepärast , et väiksetes kohtades on pigem eakad inimesed ja ei ole hea kvaliteedi teenuste puhul , ei ole eriti kultuurielu ega töökohta .
+A 5 7|||R:WS:SPELL|||suurlinnades|||REQUIRED|||-NONE-|||0
+A 0 1|||R:CASE|||aga|||REQUIRED|||-NONE-|||0
+A 0 7|||R:WO|||Kõik see jõud on aga suurlinnades|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||väikestes|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||kvaliteeti|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||teenustel|||REQUIRED|||-NONE-|||0
+A 18 23|||R:WO|||teenustel ei ole head kvaliteeti|||REQUIRED|||-NONE-|||0
+A 23 24|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 30 31|||R:NOM:FORM|||töökohti|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||suurtes|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||väikestes|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||kvaliteeti|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||teenustel|||REQUIRED|||-NONE-|||1
+A 18 23|||R:WO|||teenustel ei ole head kvaliteeti|||REQUIRED|||-NONE-|||1
+A 23 24|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 30 31|||R:NOM:FORM|||töökohti|||REQUIRED|||-NONE-|||1
+
+S Minu arvates , riigi kõigi piirkondade ühtlase arengu tagamise võimalused on järgmised :
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 11|||R:WO|||on riigi kõigi piirkondade ühtlase arengu tagamise võimalused|||REQUIRED|||-NONE-|||0
+
+S Peaks rohkem toetada noori ja lapsi igas riigi piirkonnas .
+A 2 3|||R:VERB:FORM|||toetama|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||toetama|||REQUIRED|||-NONE-|||1
+A 0 9|||R:WO|||Igas riigi piirkonnas peaks toetama rohkem noori ja lapsi||Igas riigi piirkonnas peaks rohkem noori ja lapsi toetama|||REQUIRED|||-NONE-|||1
+
+S Näiteks , võiks ka väikse linna kultuurimajas teha tasuta üritused , milles oleksid huvitatud noored ja lapsed .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WS:SPELL|||väikelinna|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||korraldada|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||üritusi|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||millest|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||üritusi|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||millest|||REQUIRED|||-NONE-|||1
+
+S See võiks olla linna sünnipäev , Uus aasta või Jõulu kontsert .
+A 6 8|||R:WS:CASE|||uusaasta|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WS:CASE|||jõulukontsert|||REQUIRED|||-NONE-|||0
+
+S Eriti seda võiks teha kuskil maakohas||maapiirkonnas .
+A 1 4|||R:WO|||võiks seda teha|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||maakohas||maapiirkonnas|||REQUIRED|||-NONE-|||0
+
+S Mida rohkem noori on huvitatud kultuurielust , seda rohkem nendest jäävad elama väikses linnas või maal .
+A 10 11|||R:VERB:FORM|||jääb|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||väiksesse|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||linna|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||maale|||REQUIRED|||-NONE-|||0
+
+S Kontserti läbiviijale võiks maksta kas või minimaalset palga .
+A 0 1|||R:NOM:FORM|||Kontserdi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||palka|||REQUIRED|||-NONE-|||0
+
+S Rohkem noori võiks kutsuda töötama kultuurimajasse , poodidesse , kooli ja lasteaia .
+A 11 12|||R:NOM:FORM|||lasteaeda|||REQUIRED|||-NONE-|||0
+
+S Kui on lastekasvatajad ja õpetajad on kohal , siis ei lapsed pea käima suures linnas koolis või lasteaias .
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kohapeal|||REQUIRED|||-NONE-|||0
+A 1 7|||R:WO|||kohapeal on lastekasvatajad ja õpetajad|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||pea lapsed|||REQUIRED|||-NONE-|||0
+
+S Siis maal ja üldse igas piirkonnas on rohkem noori ja siis on rohkem arengu võimaluseid .
+A 1 7|||R:WO|||on maal ja üldse igas piirkonnas|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||niisiis|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||ka|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WS:SPELL|||arenguvõimalusi|||REQUIRED|||-NONE-|||0
+A 1 7|||R:WO|||on maal ja üldse igas piirkonnas|||REQUIRED|||-NONE-|||1
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WS:SPELL|||arenguvõimalusi|||REQUIRED|||-NONE-|||1
+
+S Mina osalesin mitu päeva tagasi ühiskondliku sallivuse ümarlaual .
+A 1 5|||R:WO:NOM:FORM|||Mitu päeva tagasi osalesin ma|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kus rääggiti olulistest ühikondikest teemadest .
+A 1 2|||R:SPELL|||räägiti|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||ühiskondlikest|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Seal|||REQUIRED|||-NONE-|||1
+A 1 2|||R:SPELL|||räägiti|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||ühiskondlikest|||REQUIRED|||-NONE-|||1
+
+S Kuuldu põhjal ma kirjutan nendest olulistest teemadest millest räägiti ümmarlauas .
+A 2 4|||R:WO|||kirjutan ma|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||ümarlauas|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||ümarlauas räägiti|||REQUIRED|||-NONE-|||0
+
+S Esiteks räägiti lugupidamisest teiste kultuuride vastu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina arvan , et teisse riiki tulles elama peab alati austama teiste rahvust , kultuuri ja kombeid , sest see on põhimõtteliselt miks see rahvus üldse on olemas ja toimib .
+A 4 5|||R:SPELL|||teise|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||elama tulles|||REQUIRED|||-NONE-|||0
+A 22 22|||M:LEX|||põhjus|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 26 28|||R:WO|||olemas on|||REQUIRED|||-NONE-|||0
+
+S Võib olla , et ilma mingi kombeta seda riiki või rahvust üldse ei oleks olemas .
+A 6 7|||R:LEX|||kombestikuta|||REQUIRED|||-NONE-|||0
+A 7 15|||R:WO|||ei oleks seda riiki või rahvust üldse olemas|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||mingite|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||kommeteta|||REQUIRED|||-NONE-|||1
+A 7 15|||R:WO|||ei oleks seda riiki või rahvust üldse olemas|||REQUIRED|||-NONE-|||1
+
+S See tähendab , et austamine on kõige vähem tegu mida me saame teha selle riigi kasvuks .
+A 7 8|||R:LEX|||väiksem|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 16|||R:WO|||selle riigi kasvuks teha|||REQUIRED|||-NONE-|||0
+
+S Väga tähtis oskus teises riigis olles on osata nende keelt või vähemalt proovida seda õppida .
+A 2 3|||M:LEX|||-NONE|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||on teises riigis olles|||REQUIRED|||-NONE-|||0
+
+S See on minu arvates väga tähtis aspekt kultuuri lugupidamisel .
+A 7 8|||R:NOM:FORM|||kultuurist|||REQUIRED|||-NONE-|||0
+
+S Tulles teisse riigi sa ei tohi ka ise unustad kust sa pärined , sest oma identiteedi hoidmine on oluline .
+A 1 2|||R:SPELL|||teise|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||riiki|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||ei tohi sa|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||unustada|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Tavaliselt saad sa oma kultuuri ka võõrriigis näidata ja tavaliselt seda austatakse .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Samas sa ei tohi teisi segada oma kultuuri toomisega , sest austus peab alati olema mõlemal poolel , ning siis nad võtavad su vastu just kui enda .
+A 1 4|||R:WO|||ei tohi sa|||REQUIRED|||-NONE-|||0
+A 8 8|||R:WO|||võõrriiki||võõrsile|||REQUIRED|||-NONE-|||0
+A 15 17|||R:LEX|||mõlemapoolne|||REQUIRED|||-NONE-|||0
+A 20 24|||R:WO|||võtavad nad vastu su|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei tohi sa|||REQUIRED|||-NONE-|||1
+A 20 24|||R:WO|||võtavad nad vastu su|||REQUIRED|||-NONE-|||1
+
+S Kuigi oma rahvusliku omapära hoidmine on raske seda alati tuleks teha kas või enda pärast .
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||tuleks seda alati|||REQUIRED|||-NONE-|||0
+
+S Kõik inimesed pärivad kusagilt oma kultuuriga ja kommetega .
+A 5 6|||R:NOM:FORM|||kultuuri|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kombed|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||pärinevad|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||kultuuri|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||pärinevad|||REQUIRED|||-NONE-|||2
+
+S Tulles teisse riiki peavad mõlemad poled austama üks teist .
+A 1 2|||R:SPELL|||teise|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||pooled|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS|||üksteist|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||üksteist austama|||REQUIRED|||-NONE-|||0
+
+S Kui üks pooltest ei jälgi reegleid , siis toimuvad konfliktid .
+A 4 5|||R:LEX|||järgi|||REQUIRED|||-NONE-|||0
+
+S Vastuolude mitte tekkimiseks austame üks teist ja räägime sellest probleemist rohkem .
+A 1 3|||R:WS|||mittetekkimiseks|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WS|||üksteist|||REQUIRED|||-NONE-|||0
+
+S See ongi põhjus miks maailmas sõjad tekkivad .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX:SPELL|||toimuvad|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||tekivad|||REQUIRED|||-NONE-|||1
+
+S Olen osalenud ühiskondliku sallivuse ümarlaual .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 2|||R:VERB:FORM|||Osalesin|||REQUIRED|||-NONE-|||1
+
+S Antud teema on väga oluline ja aktuuaalne , see on väga tänapäevane peaaegu üle kogu maailma .
+A 6 7|||R:SPELL|||aktuaalne|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||See|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||aktuaalne|||REQUIRED|||-NONE-|||1
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Seda on raske ülehinnaata , kuna see keskendub inimeste - ja nende rahvuste identiteedi säilitamisel ja selle kaitsmisel , mis otseselt puutub kokku ka inimõigustega .
+A 3 4|||R:SPELL|||ülehinnata|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||säilitamisele|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||kaitsmisele|||REQUIRED|||-NONE-|||0
+
+S Üheks ümarlaua peamiseks teemaks oli lugupidamine teiste rahvuste , nende kultuuri , kommete ning keelte vastu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Üks|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||peamistest|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||teemadest|||REQUIRED|||-NONE-|||1
+
+S Selle põhiideeks oli iga rahvuse eripärasus kogu selle kultuuri mitmekülgsusega , mis võimaldab kõikidel rahvuse liikmetel elada , käituda ja rääkida selliselt , kuidas nad on harjunud , kui see ei tee liiga ümbritsevatele .
+A 5 6|||R:LEX|||eripära|||REQUIRED|||-NONE-|||0
+A 34 34|||M:LEX|||inimestele|||REQUIRED|||-NONE-|||0
+
+S Tänu sellele on võimalik viia läbi kultuuridevahelist struktureeritud dialoogi , mis pakuks lahendusi erinevatele probleemidele ja konfliktidele erinevatest vaatenurkadest , ning sellise dialoogi tulemus ehk kokkuvõte oleks täisulatuses objektiivne .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 6|||R:LEX|||pidada||arendada|||REQUIRED|||-NONE-|||1
+
+S Samas see annaks võimaluse kõikidele õppida tundma erinevaid kultuure , nende esindajaid ja keele , mis avardaks inimeste maailmavaadet ja suhtumist erinevatesse teemadesse .
+A 1 3|||R:WO|||annaks see|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||kõikidele võimaluse|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||keeli|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Lisaks||Muuhulgas||Niisamuti||Samuti|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||annaks see|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||kõikidele võimaluse|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||keeli|||REQUIRED|||-NONE-|||1
+
+S Teiseks peamiseks arutlemisteemaks oli inimeste valmisolek ja võimalused hoida rahvuslikku identiteedi ka võõrsil .
+A 10 11|||R:NOM:FORM|||identiteeti|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Teine|||REQUIRED|||-NONE-|||1
+A 1 2|||R:NOM:FORM|||peamine|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||arutlemisteema|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||identiteeti|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Teine|||REQUIRED|||-NONE-|||2
+A 1 2|||R:NOM:FORM|||peamine|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX:NOM:FORM|||aruteluteema||arutlusteema||vestlusteema|||REQUIRED|||-NONE-|||2
+A 10 11|||R:NOM:FORM|||identiteeti|||REQUIRED|||-NONE-|||2
+
+S Selle teema põhiküsimuseks oligi see , kas tänapäeva inimene soovib ja suudab hoida oma kultuuri ja olla selle liikmeks igal pool , kuhu ta ei läheks .
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 24|||M:LEX|||ka|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||põhiküsimus|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||liige|||REQUIRED|||-NONE-|||1
+A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 24|||M:LEX|||ka|||REQUIRED|||-NONE-|||1
+A 25 26|||R:VERB:FORM|||lähe|||REQUIRED|||-NONE-|||1
+
+S Minu veendumuseks on see , et sellises multikultuurses maailmas , mis meil hetkel on , on raske isegi soovi korral pühendada kõike ja elada üheainsa kultuuri ja rahvuslikku identiteedi raames .
+A 27 28|||R:NOM:FORM|||rahvusliku|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||veendumus|||REQUIRED|||-NONE-|||1
+A 27 28|||R:NOM:FORM|||rahvusliku|||REQUIRED|||-NONE-|||1
+
+S Inimestel on mugav võimalus kasutada interneti ja reisida , mis rikastab nende silmaringi , suurendab suhtlusringi , õpetab uusi enne teadmata oskusi .
+A 5 6|||R:NOM:FORM|||internetti|||REQUIRED|||-NONE-|||0
+
+S Seega kõik oleneb sellest , kuivõrd inimene ise soovib pidada ühte kultuuri või olla mitme kultuuri liikmeks ja luua enda individuaalse identiteedi .
+A 1 3|||R:WO|||oleneb kõik|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||soovib inimene ise|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||individuaalset|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||identiteeti|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||liige|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||individuaalset|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||identiteeti|||REQUIRED|||-NONE-|||1
+
+S Tänapäeval on oluline suhtuda lugupidamisega igasse kultuuri ja selle esindajatesse , mis avardaks inimeste maailmavaadet .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Samuti see võimaldaks kultuuride jagamist inimeste vahel ja nende omamoodi segunemist .
+A 1 3|||R:WO|||võimaldaks see|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||võimaldaks see|||REQUIRED|||-NONE-|||1
+A 3 7|||R:WO|||inimeste vahel kultuuride jagamist|||REQUIRED|||-NONE-|||1
+
+S Osalesin digipädevuse seminaril , kus räägitati digipädevusest kui tänapäeva ühiskonnas toimetuleku eeldusest .
+A 5 6|||R:SPELL|||räägiti|||REQUIRED|||-NONE-|||0
+
+S Jutustati ka digiseadmete turvariskidest ning nende hoidumise võimalustest .
+A 5 6|||R:NOM:FORM|||nendest|||REQUIRED|||-NONE-|||0
+
+S Meie maailm areneb suure kiirusega ja digitehnoloogiad aitavad meil tunda ennast hästi mugavalt selles muutuvas maailmas .
+A 10 11|||R:NOM:FORM|||end|||REQUIRED|||-NONE-|||0
+A 9 16|||R:WO|||end selles muutuvas maailmas hästi mugavalt tunda|||REQUIRED|||-NONE-|||0
+
+S Me kasutame tehnoloogiaid meie elus igal päeval .
+A 0 2|||U:LEX|||Kasutame|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||iga|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||päev|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Kasutame|||REQUIRED|||-NONE-|||1
+A 5 7|||R:LEX|||igapäevaselt|||REQUIRED|||-NONE-|||1
+
+S Nii koolis kui ka tööl räägitakse digitehnoloogiatest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seminaril räägiti meile palju haridusest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tulevikus kavatsetakse koolides kasutada ainult e-õpikuid ja eksameid sooritada ainult digitaalselt .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Arvan , et see aitab õpilastel häid tulemusi saada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Töö asutustes tuleb kõiki tööd teha ka arvuti abil .
+A 0 2|||R:WS|||Tööasutustes|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||0
+A 0 7|||R:WO|||Ka tööasutustes tuleb kõiki tõid teha|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WS|||Tööasutustes|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||1
+A 3 9|||R:WO|||ka kõiki töid arvuti abil teha|||REQUIRED|||-NONE-|||1
+
+S Arvutid annavad meile palju võimalusi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kõigepealt töötades arvutitega me säästame palju aega .
+A 1 5|||R:WO|||arvutitega töötades säästame me|||REQUIRED|||-NONE-|||0
+
+S Arvuti võib teha mingit tööd meie asemel .
+A 2 5|||R:WO|||meie asemel mingit tööd teha|||REQUIRED|||-NONE-|||0
+
+S Praegu meie ühiskond , eriti Eestis , püüab teha kõiki tööd digitaalselt .
+A 1 8|||R:WO|||püüab meie ühiskond , eriti Eestis ,|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||kõiki töid teha|||REQUIRED|||-NONE-|||0
+A 1 8|||R:WO|||püüab meie ühiskond , eriti Eestis ,|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||1
+
+S Me oleme esimene riik maailmas , kus valitakse parlamendi liikmeid digitaalselt .
+A 8 10|||R:WS|||parlamendiliikmeid|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||parlamendiliikmeid valitakse|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WS|||parlamendiliikmeid|||REQUIRED|||-NONE-|||1
+
+S Arvan , et kui ühiskond kasutab e-tehnoloogiaid , siis ta areneb kiiremini .
+A 9 10|||R:LEX|||see|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||areneb see|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||areneb ta|||REQUIRED|||-NONE-|||1
+
+S Kui vaatame sellele küsimusele teiselt poolt , siis võime oletada , et tekkivad digiseadmete turvariskid .
+A 12 13|||R:SPELL|||tekivad|||REQUIRED|||-NONE-|||0
+
+S Andmebaasis hoiakse inimeste isikuandmed ja seepärast on suur oht , et keegi varustab neid .
+A 1 2|||R:SPELL|||hoitakse|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||isikuandmeid|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||varastab|||REQUIRED|||-NONE-|||0
+
+S Samuti on suur probleem , et inimesed ei saa teha palju tööd ilma arvutita .
+A 10 11|||R:NOM:FORM|||paljusid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||töid|||REQUIRED|||-NONE-|||0
+A 9 14|||R:WO|||paljusid töid ilma arvutita teha|||REQUIRED|||-NONE-|||0
+
+S Näiteks , meie riigi arstid töötavad digitehnoloogiatega ja nad ei saa töötada , kui arvutisüsteem ei tööta .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||töötavad meie riigi arstid|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 6|||R:WO|||töötavad meie riigi arstid|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||kuid|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||seda|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||teha|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||funktsioneeri|||REQUIRED|||-NONE-|||1
+
+S Kui tekib probleem süsteemiga , siis arstide töö peatub ja patsiendid ei saa kvaliteetselt abi .
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Minu arvates , IT-spetsialistid peavad arvuti süsteemi parandada .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||peavad IT-spetsialistid|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WS|||arvutisüsteemi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||parandama|||REQUIRED|||-NONE-|||0
+
+S Riik peab ka jälgima turvariskidest ja leidma uusi digiseadmete hoidumise võimalusi .
+A 4 5|||R:NOM:FORM|||turvariske|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||hoidmise|||REQUIRED|||-NONE-|||0
+
+S Lõpuks , me elame e-riigis , kus digitehnoloogiad mängivad suurt rolli .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu arvates , e-tehnoloogiad ja töö arvutitega on meie tulevikus .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO|||on e-tehnoloogiad ja töö arvutitega|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||tulevik|||REQUIRED|||-NONE-|||0
+
+S Lugupeetud kolleegid , hiljuti ma osalesin digipädevuse seminaril , mis äratas mul mõtteid digipädevuse eeldustest ja riskidest .
+A 4 6|||R:WO|||osalesin ma|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||minus|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||osalesin ma|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||minus|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||eelistest|||REQUIRED|||-NONE-|||1
+
+S Tänapäeva ühiskonnas digipädevus on üks toimetuleku eeldustest .
+A 2 4|||R:WO|||on digipädevus|||REQUIRED|||-NONE-|||0
+
+S Kaasaegses maailmas peaaegu kõik toimingud ja tehingud on arvutiga seotud , eriti Eestis , kus on kõik pangasüsteemid , piletide ostmise punktid üle viidud digitaalsele formaadile .
+A 2 8|||R:WO|||on peaaegu kõik toimingud ja tehingud|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||seotud arvutiga|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||piletite|||REQUIRED|||-NONE-|||0
+A 2 8|||R:WO|||on peaaegu kõik toimingud ja tehingud|||REQUIRED|||-NONE-|||1
+A 19 20|||R:SPELL|||piletite|||REQUIRED|||-NONE-|||1
+A 18 19|||M:LEX|||ja|||REQUIRED|||-NONE-|||1
+
+S Me ostame kaupu internetist , bussi tunniplaani vaatame ka internetist , pangatehinguid sooritame internetis , isegi lapse hindeid ja koduseid ülesandeid vaatame internetist .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selleks , et konsulteerida pangatelleri või telefonioperaatori esindajaga , on vaja järjekorra aparaadi nupule vajutada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 11 12|||R:LEX|||järjekorranumbri|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||järjekorranumbri|||REQUIRED|||-NONE-|||2
+A 12 13|||R:LEX|||printeri|||REQUIRED|||-NONE-|||2
+
+S Kõik need tehingud puutuvad meie vabasse ajasse .
+A 2 3|||R:LEX|||tegevused|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||aega|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||tegevused|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||mõjutavad|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||vaba|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||aega|||REQUIRED|||-NONE-|||1
+
+S Paljude inimeste töö aga on seotud arvutiga ja nad veedavad iga päev 8 töötundi arvuti taga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 5|||R:WO|||on aga|||REQUIRED|||-NONE-|||1
+
+S Arvutioskus on tänapäeva elus loomulik ning töövestlusel on rohkem eelistusi sellel kandidaadil , kes oskab igasuguseid arvutiprogramme .
+A 9 10|||R:LEX|||eeliseid|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||eeliseid|||REQUIRED|||-NONE-|||1
+A 14 15|||R:LEX|||tunneb|||REQUIRED|||-NONE-|||1
+
+S Teiselt poolt digiseadmete kasutamine tõi meie maailma palju turvariske ja ohusid .
+A 2 5|||R:WO|||tõi digiseadmete kasutamine|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||ohtusid|||REQUIRED|||-NONE-|||0
+
+S Hiljutine olukord ID-kaartidega tõendab minu sõnu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina arvasin , et pole midagi ID-kaardi kasutamisest turvalisemat .
+A 4 8|||R:WO|||ID-kaardi kasutamisest pole midagi|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Elu aga näitas , et olukord on teistsugune .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Internetist ostmisel on oht petmise alla sattuda , samuti pangasüsteem ei ole täiuslik .
+A 5 6|||R:LEX|||ohvriks|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||ei ole pangasüsteem|||REQUIRED|||-NONE-|||0
+
+S Mõnikord annab media teada , et juhtuvad kuriteod , mis on internetiga seotud .
+A 2 3|||R:SPELL|||meedia|||REQUIRED|||-NONE-|||0
+
+S Samuti peab arvestama , et üsna sageli tekivad internetitõrged , sellel põhjusel ei tööta ka digiseadmed , mis omakorda viib erinevate organisatsioonide töö ajutisele peatumisele .
+A 8 9|||R:SPELL|||internetitõrked|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||internetitõrked|||REQUIRED|||-NONE-|||1
+A 9 11|||R:PUNCT|||. Sellel|||REQUIRED|||-NONE-|||1
+A 23 24|||R:NOM:FORM|||ajutise|||REQUIRED|||-NONE-|||1
+A 24 25|||R:NOM:FORM|||peatumiseni|||REQUIRED|||-NONE-|||1
+
+S Kokkuvõtteks tahaksin öelda , et tänapäevas maailmas me ikka peame digioskusi arendama , kuna kaasaegses maailmas on kõik elu valdkonnad arvutiga seotud .
+A 5 6|||R:NOM:FORM|||tänapäeva|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||peame me ikka|||REQUIRED|||-NONE-|||0
+
+S Aga olgem ettevaatlikumad ja pöörakem rohkem tähelepanu hoiatustele , mis arvutikuvarile ilmuvad , millest riik annab teada või massmeedias teatatakse .
+A 18 18|||M:LEX|||millest|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||massimeedias|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||teada annab|||REQUIRED|||-NONE-|||1
+A 18 18|||M:LEX|||millest|||REQUIRED|||-NONE-|||1
+A 18 19|||R:SPELL|||massimeedias|||REQUIRED|||-NONE-|||1
+
+S Väga huvitav ja põnev konverents oli eelmisel nädalal meie kultuurimajas .
+A 0 10|||R:WO|||Eelmisel nädalal oli meie kultuurimajas väga huvitav ja põnev konverents|||REQUIRED|||-NONE-|||0
+
+S Erinevate ühistute , ühingute , seltside ning ka liidude liikmed esindasid oma ettekandeid , mille teemadeks olid heategevus , kultuurivaldkond , loodushoid , päästetööd .
+A 8 9|||R:SPELL|||liitude|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||esinesid|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||ettekannetega|||REQUIRED|||-NONE-|||0
+
+S Kuuldud ideede ja väljakutsete põhjal võib öelda , et meie riigis ikka jäid inimesed , kes suudavad vabatahtlikult aidata inimesi .
+A 12 13|||R:LEX|||on|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||0
+A 19 19|||M:LEX|||teisi|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||on|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||inimesi|||REQUIRED|||-NONE-|||1
+A 18 18|||M:LEX|||teisi|||REQUIRED|||-NONE-|||1
+A 19 20|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Ma ei kujutanud endale ette , et meie inimesed nii väärtustavad loodust ja hoolitsevad selle eest .
+A 10 10|||M:LEX|||väga|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||väga|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||väärtustavad loodust nii väga|||REQUIRED|||-NONE-|||1
+
+S Sain teada , et meil on olemas selline " loodus hoiduselts " , kes kaks korda kuus korraldab talguid ja kõik vabatahtlikud võivad seal osaleda .
+A 9 11|||R:WS:SPELL|||loodushoiuselts|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WS:SPELL|||loodushoiuselts|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||mis|||REQUIRED|||-NONE-|||1
+A 23 24|||R:LEX|||neis|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 11|||R:WS:SPELL|||loodushoiuselts|||REQUIRED|||-NONE-|||2
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 14 18|||R:WO|||korraldab kaks korda kuus|||REQUIRED|||-NONE-|||2
+A 23 24|||R:LEX|||neis|||REQUIRED|||-NONE-|||2
+
+S Üllatuseks oli see , et neid vabatahtlikuid on üsna palju ja nende arv kasvab iga korraga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Üllatus|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Üllatav|||REQUIRED|||-NONE-|||2
+
+S Heategevuse kohta võin öelda , et meil eksisteerib kodanikuühistu " Lootus " , kes tegeleb sellega , et aitab meie lastekodu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nad sõidavad üle Eesti ( nendel on kuulutused sotsiaalvõrgudes , meedias ) ja korjavad kokku inimestelt ( mida nendel juba ei ole vaja ) riided , mänguasjad , erinevad lastetarbed ja annavad lastekoju lastele .
+A 8 9|||R:SPELL|||sotsiaalvõrkudes|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||inimestelt kokku|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||enam|||REQUIRED|||-NONE-|||0
+A 16 30|||R:WO|||riided , mänguasjad , erinevad lastetarbed ( mida nendel enam ei ole vaja )|||REQUIRED|||-NONE-|||0
+A 32 33|||R:NOM:FORM|||lastekodu|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX:SPELL|||sotsiaalvõrgustikes||suhtlusvõrgustikes|||REQUIRED|||-NONE-|||1
+A 14 16|||R:WO|||inimestelt kokku|||REQUIRED|||-NONE-|||1
+A 16 17|||R:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||R:LEX|||enam|||REQUIRED|||-NONE-|||1
+A 20 23|||R:WO|||vaja ei ole|||REQUIRED|||-NONE-|||1
+A 23 24|||R:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 27 28|||M:LEX|||ning|||REQUIRED|||-NONE-|||1
+A 16 30|||R:WO|||riided , mänguasjad ning erinevad lastetarbed , mida nendel enam vaja ei ole ,|||REQUIRED|||-NONE-|||1
+A 32 33|||R:NOM:FORM|||lastekodu|||REQUIRED|||-NONE-|||1
+
+S Veel see ühistu tahab teha toidupanka meie kohalikus toidukaupluses .
+A 0 4|||R:WO|||See ühistu tahab veel|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||toidupanga|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||See ühistu tahab veel|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||toidupanga|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||kohalikku|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||toidukauplusesse|||REQUIRED|||-NONE-|||1
+
+S Igaüks meist võiks sinna toitu panna ja pärast ühistuteliikmed saaksid toitu jagada inimeste vahel , kes seda vajavad ja kes ei saa endale rahapuudusel kõike vajalikku lubada .
+A 8 9|||R:WS|||ühistute liikmed|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||saaksid ühistute liikmed|||REQUIRED|||-NONE-|||0
+A 8 9|||R:WS|||ühistute liikmed|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||saaksid ühistute liikmed|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||toidu|||REQUIRED|||-NONE-|||1
+
+S Kui see inimene ei raiska raha toidu peale , siis ta võiks endale midagi " lubada " , mida ta ammu tahtis .
+A 21 22|||R:VERB:FORM|||on tahtnud|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WO|||on ammu tahtnud|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||võiks ta|||REQUIRED|||-NONE-|||1
+A 14 15|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 17|||R:WO|||lubada endale midagi|||REQUIRED|||-NONE-|||1
+A 21 22|||R:VERB:FORM|||on tahtnud|||REQUIRED|||-NONE-|||1
+A 20 22|||R:WO|||on ammu tahtnud|||REQUIRED|||-NONE-|||1
+
+S Kultuurivaldkonnaga seotud ühing " Saame kultuursemaks " on meie uus ühing .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ja üks nende põnevatest ideest on see , et nad tahavad teha teatri , kinohinnad soodsamaks ja praegu otsivad sponsorit .
+A 4 5|||R:NOM:FORM|||ideedest|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 13 14|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 19 19|||M:LEX|||nad|||REQUIRED|||-NONE-|||0
+
+S Veel üks nende ideedest see , et meie pargis nad juba panid riiuli , kuhu igaüks võib oma vanalemmikraamatu tuua vaba kasutamiseks .
+A 4 4|||M:LEX|||oli|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||0
+A 7 12|||R:WO|||nad panid juba meie parki|||REQUIRED|||-NONE-|||0
+A 18 19|||R:WS|||vana lemmikraamatu|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||vabalt|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||oli|||REQUIRED|||-NONE-|||1
+A 0 4|||R:WO|||Üks nende ideedest oli veel|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||1
+A 7 12|||R:WO|||nad panid juba meie parki|||REQUIRED|||-NONE-|||1
+A 18 19|||R:WS|||vana lemmikraamatu|||REQUIRED|||-NONE-|||1
+A 17 20|||R:WO|||tuua oma vana lemmikraamatu|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||vabalt|||REQUIRED|||-NONE-|||1
+
+S See idee juba töötab ja meie linnaelanikud päris hästi osalevad selles projektis .
+A 7 12|||R:WO|||osalevad selles projektis päris hästi|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||osalevad päris hästi|||REQUIRED|||-NONE-|||1
+
+S Tore , et meie tänapäevainimesed loevad raamatuid !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||R:WS|||tänapäeva inimesed|||REQUIRED|||-NONE-|||1
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||R:WS|||tänapäeva inimesed|||REQUIRED|||-NONE-|||2
+
+S On olemas meil ka päästetööde liit - nende liikmed on vabatahtlikud , kes aitavad tuuletõrjujatel , päästjatel inimesi päästa .
+A 0 3|||R:WO|||Meil on olemas|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||tuletõrjujatel|||REQUIRED|||-NONE-|||0
+A 15 16|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+
+S Tore teada , et meil eksisteerivad sellised suurepärased kodanikuühendused !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kodanikuühendused - kohaliku kogukonna elu arendajad .
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Eelmisel nädalavahetusel toimus linnaraamatukogus kodanikuühenduste tegevusele pühendatud konverents .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sündmuse läbiviimist toetas kohalik omavalitsus ja 2 päeva jooksul oli võimalik osa võtta rohketest vestlusringidest , kuulata ettekandeid ja külastada kohalike seltse tutvustava posternäitusega .
+A 20 21|||R:NOM:FORM|||kohalikke|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||tutvustavat|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOM:FORM|||posternäitust|||REQUIRED|||-NONE-|||0
+
+S Konverentsist võtsid osa korteriühistud , naisteklubi , ülikooli vilistlaste selts , liit " Roheline linn " , " Teeme ära " liikumise aktivistid , keelekohvikute läbiviijad ja mõned välisühingute esindajad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Allpool tahaksin jagada oma isiklikke mõtteid ja ideid kodanikuühenduste võimalikkusest meie linnaski .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kahtlemata mängivad taolised ühendused olulist rolli kohaliku kogukonna elu arendajatena , aga lisaks sellele ka laiemalt - nö. kogukonna tunde loojatena .
+A 16 17|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||n-ö|||REQUIRED|||-NONE-|||0
+
+S Tahaksin siinkohal tuua selliseid näiteid meil naaberlinnast - sealne naisteklubi korraldas eelmisel suvel tutvumisõhtuid .
+A 5 6|||R:NOM:FORM|||meie|||REQUIRED|||-NONE-|||0
+
+S Selliste õhtude sihtrühmaks olid linna alles hiljuti kolinud pered ja ülesandeks - kaasata neid kohaliku kogukonda läbi isikliku kontakti .
+A 1 2|||R:SPELL|||õhtute|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||alles hiljuti linna|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||kohalikku|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||eesmärgiks|||REQUIRED|||-NONE-|||0
+A 16 19|||R:LEX:WO|||isikliku kontakti kaudu|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||õhtute|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||alles hiljuti linna|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||kohalikku|||REQUIRED|||-NONE-|||1
+A 16 19|||R:LEX:WO|||isikliku kontakti kaudu|||REQUIRED|||-NONE-|||1
+
+S Meie linngi on viimastel aastatel jõudsalt kasvanud ja seda eelkõige sisserändajate arvelt .
+A 11 12|||R:LEX|||tõttu|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kahjuks olen märganud , et paljud uued elanikud ei osale kohalikus elus ei .
+A 0 10|||R:WO|||Olen märganud , et kahjuks ei osale paljud uued elanikud|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Teen siinkohal väljakutse meie kohalikele seltsidele - miks mitte korraldada meilgi sarnaseid õhtuid ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mõni sõna ka vabatahtlikest ja nende kaasamisest kultuurivaldkonda jne .
+A 0 1|||R:LEX|||Paar|||REQUIRED|||-NONE-|||0
+
+S Isiklikult leian , et tegemist on suurepärane viisiga , kuidas võiksime saada käima mõned valdkonnad , mis praegu meie linnas ripakil eelkõige ebapiisava eelarve tõttu .
+A 6 7|||R:NOM:FORM|||suurepärase|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||panna|||REQUIRED|||-NONE-|||0
+A 17 17|||R:LEX|||on|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Leian|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||suurepärase|||REQUIRED|||-NONE-|||1
+A 11 15|||R:LEX:WO|||mõned valdkonnad käima panna|||REQUIRED|||-NONE-|||1
+A 17 17|||R:LEX|||on|||REQUIRED|||-NONE-|||1
+
+S Toon näiteks meie raamatukogu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nagu teada on see üsna halvas seisundis ja pealegi avatud ainult tööpäeviti , mistõttu töötavad inimesed ei saa võimalustki seda kasutada .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||tööl käivad|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Miks mitte lahendada seda muret vabatahlikke abiga ?
+A 5 6|||R:SPELL|||vabatahtlike|||REQUIRED|||-NONE-|||0
+
+S Imselt oleksid paljud kohalikud lapsed ja muidu raamatuarmastajad huvitatud sedalaadi " hobbist " .
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||hobist|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 12|||R:WO|||sedalaadi hobist huvitatud|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||hobist|||REQUIRED|||-NONE-|||1
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Loodetavasti äratab mu kiri laialdasemat huvi meie linnas ja loeksin hea meelega meie linnalehe järgmistest numbritest teie tagasisidet minu mõtete kohta ja ehk ka teie ideeid .
+A 4 8|||R:WO|||meie linnas laialdasemat huvi|||REQUIRED|||-NONE-|||0
+A 25 26|||R:SPELL|||ideid|||REQUIRED|||-NONE-|||0
+
+S Tere , minu lugupeetud kolleegia !
+A 4 5|||R:SPELL|||kolleegid|||REQUIRED|||-NONE-|||0
+
+S Osalesin paar päeva tagasi tervisekonverentsil ja kuulsin palju huvitavaid mõtteid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tahaks jagada teiega oma arvamusi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:VERB:FORM|||Tahaksin|||REQUIRED|||-NONE-|||1
+
+S Tervisekonverentsil oli jutt kohaliku omavalitsuse võimalustest ja viisidest elanike tervise eest hoolitsemisel .
+A 2 3|||R:NOM:FORM|||juttu|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||juttu|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||hoolitseda|||REQUIRED|||-NONE-|||1
+
+S Mulle meeldis , et sellele probleemile pööratakse nii palju tähelepanu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Olid läbi rääkitud mõned variantid , mulle meeldis kõige rohkem aga üks .
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 2|||R:CASE|||Läbi|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||said|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||räägitud|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||variandid|||REQUIRED|||-NONE-|||0
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 2|||R:CASE|||Läbi|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||said|||REQUIRED|||-NONE-|||1
+A 2 3|||R:SPELL|||räägitud|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||variandid|||REQUIRED|||-NONE-|||1
+A 6 12|||R:WO|||üks aga meeldis mulle kõige rohkem||üks meeldis mulle aga kõige rohkem|||REQUIRED|||-NONE-|||1
+
+S Minu arvates tuleks teha linnas rohkem kohti , kus lapsed ja täiskasvanud inimesed saaksid tegeleda spordiga tasuta .
+A 14 17|||R:WO|||tasuta spordiga tegeleda|||REQUIRED|||-NONE-|||0
+
+S Tänapaeval need jõusaalid ja trennid maksavad palju raha ja mitte kõikidel on võimalus sportiga tegeleda .
+A 0 1|||R:SPELL|||Tänapäeval|||REQUIRED|||-NONE-|||0
+A 1 6|||R:WO|||maksavad need jõusaalid ja trennid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||pole|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||võimalust|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||spordiga|||REQUIRED|||-NONE-|||0
+
+S Mina arvan , et võiks ehitada ka õues ja pargides rohkem sportiplattsi , kus lapsed võiksid tegeleda suvel .
+A 7 8|||R:NOM:FORM|||õue|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM:SPELL|||parkidesse|||REQUIRED|||-NONE-|||0
+A 4 10|||R:WO|||ka õue ja parkidesse võiks ehitada|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM:SPELL|||spordiplatse|||REQUIRED|||-NONE-|||0
+A 16 17|||R:LEX|||tegutseda|||REQUIRED|||-NONE-|||0
+A 16 18|||R:WO|||suvel tegutseda|||REQUIRED|||-NONE-|||0
+
+S Konverentsil me rääkisime ka töötervishoiuarsti juures läbiviidava kohustusliku tervisekontrolli olulisusest .
+A 1 3|||R:WO|||rääkisime me|||REQUIRED|||-NONE-|||0
+
+S Mina olen nõus inimestega , kes rääkisid selle tervisekontrolli olulisusest .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina nagu töötaja tahan olla kindel , et minuga koos töötavad inimesed on terved .
+A 1 2|||R:LEX|||kui|||REQUIRED|||-NONE-|||0
+
+S Mina töötan lasteaias , kus on palju lapsi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu arvates kõik inimesed , kes puutuvad kokku lastega peavad tervisekontrolli läbima .
+A 2 10|||R:WO|||peavad kõik inimesed , kes lastega kokku puutuvad|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Laste tervis on väga oluline asi ja sellessse on vaja väga tõsiselt suhtuda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Õnneks , meil Eestis pööratakse sellele tähelepanu , ja inimene ei saa töötada ilma tervisetõendita .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||pööratakse meil Eestis|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Hea on ka see , et paljud tööandjad tagastavad inimestele raha .
+A 10 10|||M:LEX|||tervisekontrolli|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||eest|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 10 10|||M:LEX|||selle||nende|||REQUIRED|||-NONE-|||2
+
+S Mulle väga meeldis osaleda tervisekonverentsil .
+A 3 5|||R:WO|||tervisekonverentsil osaleda|||REQUIRED|||-NONE-|||0
+
+S Teemad olid väga olulised ja aktuaalsed .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina sain teada palju uut ja kasulilikke informatsioone .
+A 6 7|||R:NOM:FORM:SPELL|||kasulikku|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||informatsiooni|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM:SPELL|||kasulikku|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||informatsiooni|||REQUIRED|||-NONE-|||1
+
+S Minul tekkisid huvitavad mõtted ja mina tahtsin neid teile jutustada .
+A 7 8|||R:NOM:FORM|||neist|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Mul|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||neist|||REQUIRED|||-NONE-|||1
+
+S Võimalusel käin ka veel kord konverentsil , mis on pühendatud tervisele .
+A 9 11|||R:WO|||tervisele pühendatud|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||R:LEX:VERB:FORM|||läheksin|||REQUIRED|||-NONE-|||2
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 5|||R:WS|||veelkord|||REQUIRED|||-NONE-|||2
+A 5 6|||R:NOM:FORM|||konverentsile|||REQUIRED|||-NONE-|||2
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 11|||R:WO|||tervisele pühendatud konverentsile|||REQUIRED|||-NONE-|||2
+
+S 25. oktoobril Tallinnas viidi läbi tervisekonverents , mille käigus käsitleti väga palju erinevaid teemasid , mis puudutasid meie tervist .
+A 2 4|||R:WO|||viidi Tallinnas|||REQUIRED|||-NONE-|||0
+A 3 5|||R:LEX|||korraldati|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||korraldati Tallinnas|||REQUIRED|||-NONE-|||1
+
+S Teema olulisust tõestas osalejate pidev aktiivsus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selles artiklis mina tahaksin lähemalt jutustada , millest me rääkisime .
+A 2 4|||R:WO|||tahaksin mina|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Esimene väga huvitav teema oli niisugune : kohaliku omavalitsuse võimalused ja viisid elanike tervise eest hoolitsemisel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meeskond , mis koosnes noortest arstidest , esines selle teemaga ja nende ettepanekud on järgmised : esimene asi , mis võib meie kohalik omavalitsus teha , et parem hoolitseda kohalike elanikke terise eest on teha ravimid inimestele , kes on töötu tasuta või palju soodsamaks .
+A 0 10|||R:WO|||Selle teemaga esines meeskond , mis koosnes noortest arstidest ,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 20 24|||R:WO|||meie kohalik omavalitsus võib|||REQUIRED|||-NONE-|||0
+A 27 28|||R:LEX|||paremini|||REQUIRED|||-NONE-|||0
+A 30 31|||R:NOM:FORM|||elanike|||REQUIRED|||-NONE-|||0
+A 31 32|||R:SPELL|||tervise|||REQUIRED|||-NONE-|||0
+A 33 33|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 40 41|||R:NOM:FORM|||töötud|||REQUIRED|||-NONE-|||0
+A 42 42|||M:LEX|||kättesaadavaks|||REQUIRED|||-NONE-|||0
+A 36 45|||R:WO|||tasuta kättesaadavaks või palju soodsamaks inimestele , kes on töötud|||REQUIRED|||-NONE-|||0
+
+S Mulle see ettepanek väga meeldis ja mina olen täiesti nendega nõus .
+A 1 5|||R:WO|||meeldis see ettepanek väga|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||nendega täiesti|||REQUIRED|||-NONE-|||0
+
+S Nad ütlesid , et näiteks Inglismaal on juba ammu see asjaolu praktiseeritakse ning inimeste elutustase on muutunud kõrgemaks .
+A 10 11|||R:LEX|||lahendus|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||kasutusel|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||elatustase|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||lahendust|||REQUIRED|||-NONE-|||1
+A 6 11|||R:WO|||praktiseeritakse seda lahendust|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||elatustase|||REQUIRED|||-NONE-|||1
+
+S Lisaks sellele , oli mainitud , et tuleb korraldada erinevaid üritusi selleks , et propagondeerida tervisliku eluviisi ja võiks konsulteerida igasuguste tervisespetsialistidega .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||propageerida|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||tervislikku|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:VERB:FORM|||mainiti|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||propageerida|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||tervislikku|||REQUIRED|||-NONE-|||0
+
+S Lõpuks , üks naine , kes oli kohaliku omavalitsuse esindaja ütles , et alates sellest aastast järjekorrad selleks , et arsti juurde sattuda vähenevad .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 11|||R:WO|||ütles üks naine , kes oli kohaliku omavalitsuse esindaja|||REQUIRED|||-NONE-|||0
+A 22 23|||R:LEX|||minna|||REQUIRED|||-NONE-|||0
+A 16 24|||R:WO|||vähenevad järjekorrad selleks , et arsti juurde minna|||REQUIRED|||-NONE-|||0
+
+S Ta ütles , et nad teevad koos töötervishoiuorganisatsiooniga progmmi , mis võimaldab kiiremini saada arsti nõustamist .
+A 8 9|||R:SPELL|||programmi|||REQUIRED|||-NONE-|||0
+
+S Teine teema , mis jäi mulle meelde , rääkis tervisekontrolli olulisust .
+A 10 11|||R:NOM:FORM|||olulisusest|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||mulle meelde jäi|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||olulisusest|||REQUIRED|||-NONE-|||1
+
+S Töötervishoiarstid avaldasid oma arvamust selle kohta .
+A 2 6|||R:WO|||selle kohta oma arvamust|||REQUIRED|||-NONE-|||0
+
+S Nad arvavad , et tervisekontroll peab olema kohustuslik igale inimesele , eriti nendele , kes on üle 45 aastat vana .
+A 18 19|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||vanad|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||aasta|||REQUIRED|||-NONE-|||1
+A 19 20|||R:LEX|||vanused|||REQUIRED|||-NONE-|||1
+A 16 17|||R:LEX|||rohkem kui|||REQUIRED|||-NONE-|||2
+A 19 20|||R:NOM:FORM|||vanad|||REQUIRED|||-NONE-|||2
+
+S Väga palju inimesi praegu kannatavad südame probleemide , diabeedi või perioodiliste peavalude all .
+A 3 5|||R:WO|||kannatavad praegu|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WS|||südameprobleemide|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||kannatavad praegu|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WS|||südameprobleemide|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||käes|||REQUIRED|||-NONE-|||1
+
+S Siis selleks , et ennetada need haigusi on vaja alati kontrollida oma tervise seisundit .
+A 5 6|||R:NOM:FORM|||neid|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||neid haigusi ennetada|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 14|||R:WO|||oma tervise seisundit alati kontrollida|||REQUIRED|||-NONE-|||0
+
+S Veel nad rääkisid seksuaaltervisest , et ka vaja seda kontrollida , sest Eesti on 1. kohal Euroopas HIV nakatamiselt .
+A 0 3|||R:WO|||Nad rääkisid veel|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||seda on vaja|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||HIV-i|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||nakatumises|||REQUIRED|||-NONE-|||0
+A 14 19|||R:WO|||HIV-i nakatumises 1. kohal Euroopas|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõtteks , mulle väga meeldis see konverents , sest me rääkisime väga olulistest probleemidest seotud tervisega .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||meeldis see konverents mulle väga|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||tervisega seotud probleemidest|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||meeldis see konverents väga|||REQUIRED|||-NONE-|||1
+A 13 16|||R:WO|||tervisega seotud probleemidest|||REQUIRED|||-NONE-|||1
+
+S Mina pooldan iga esinejate arvamusi , aga kõige olulisem ma pean , et ikkagi tasuks teha ravimeid töötu inimestele tasuta .
+A 3 4|||R:NOM:FORM|||esineja|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||olulisemaks|||REQUIRED|||-NONE-|||0
+A 7 11|||R:WO|||ma pean kõige olulisemaks|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||ravimid|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||töötutele|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||kättesaadavaks|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||esineja|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||olulisemaks|||REQUIRED|||-NONE-|||1
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||ravimid|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||töötutele|||REQUIRED|||-NONE-|||1
+A 20 20|||M:LEX|||kättesaadavaks|||REQUIRED|||-NONE-|||1
+
+S Loodan , et mul võiks ka võimalus osaleda niisugustes üritustes veel kord .
+A 4 5|||R:LEX|||oleks|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||niisugusel|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||üritusel|||REQUIRED|||-NONE-|||0
+A 7 12|||R:WO|||veel kord võimalus osaleda niisugusel üritusel|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||oleks|||REQUIRED|||-NONE-|||1
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||R:NOM:FORM|||niisugustel|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||üritustel|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WS|||veelkord|||REQUIRED|||-NONE-|||1
+A 7 12|||R:WO|||veelkord võimalus niisugustel üritustel osaleda|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||oleks|||REQUIRED|||-NONE-|||2
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||niisugustel|||REQUIRED|||-NONE-|||2
+A 9 10|||R:NOM:FORM|||üritustel|||REQUIRED|||-NONE-|||2
+A 7 12|||R:WO|||veel kord võimalus niisugustel üritustel osaleda|||REQUIRED|||-NONE-|||2
