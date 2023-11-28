@@ -1,0 +1,95 @@
+S Minu arvamus tervisekonverentsi kohta
+A 4 4|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Mina osalesin eelmisel nädalal väga ebatavalisel konverendsil ning soovin oma muljedest ja arvamusest teile kirjutada .
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 2|||R:CASE|||Osalesin|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||konverentsil|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||muljetest|||REQUIRED|||-NONE-|||0
+A 9 15|||R:WO|||teile kirjutada oma muljetest ja arvamusest|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||konverentsil|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||muljetest|||REQUIRED|||-NONE-|||1
+
+S See tervisekonverents on väga prestiižne .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See oli korraldatud Tallinna Tervishoiu Kõrgkoolis ning korraldajaks oli Eesti Vabariigi tervishoisuministeerium .
+A 11 12|||R:SPELL|||tervishoiuministeerium|||REQUIRED|||-NONE-|||0
+
+S Mina olin üheks paljudest kutsutud ajakirjanikkudest .
+A 2 3|||R:NOM:FORM|||üks|||REQUIRED|||-NONE-|||0
+
+S Konverentsil rääkisid erinevadest küsimustest nii edukamaid saadikud , kui ka tuntuimad arstid .
+A 2 3|||R:SPELL|||erinevatest|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||edukaimad|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Selle konverentsi teemad olid väga aktuaalsed ja olulised .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu arvates oli aga kõige tähtsam arutelu sellest , mida võiksid kohaliku omavalitsuse esindajad teha selleks , et elanike tervist paremaks teha .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See puutub kõigepealt Ida-Virumaa omavalitsusse , sest selles piirkonnas me näeme väga halba tervise taset .
+A 9 11|||R:WO|||näeme me|||REQUIRED|||-NONE-|||0
+
+S Ida-Virimaa on tööstuspiirkond , just see mõjub inimeste tervisele kõige tugevam .
+A 10 11|||R:LEX|||tugevamalt|||REQUIRED|||-NONE-|||0
+
+S Mina arvan ka , et Ida-Virumaa elanikkude tervise olek on väga terav küsimus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Antud tervisekonverentsil sain mina aru , et nii riigivalitsus , kui kohalik omavalitsus üritavad koostööd teha .
+A 3 4|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 11|||M:LEX|||ka|||REQUIRED|||-NONE-|||0
+
+S See on väga suur samm .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu arvates , meil tuleb midagi ettevõtta ka , et see olukord paraneks .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||tuleb meil|||REQUIRED|||-NONE-|||0
+A 6 7|||R:WS|||ette võtta|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||ka midagi ette võtta|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:WS|||ette võtta|||REQUIRED|||-NONE-|||1
+A 3 8|||R:WO|||tuleb ka meil midagi ette võtta|||REQUIRED|||-NONE-|||1
+
+S Mina olin šokeeritud , kui räägiti statiistikast .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||statistikast|||REQUIRED|||-NONE-|||0
+
+S Ida-Virumaal on tõesti palju rohkem haigeid inimesi , kui Eesti teistes maakondades .
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||teistes Eesti|||REQUIRED|||-NONE-|||0
+
+S Üks olulisemaks küsimuseks oli ka kohustusliku tervisekontrolli , mis toimub töötervishoiuarsti juures , tähtsus .
+A 1 2|||R:NOM:FORM|||olulisem|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||küsimus|||REQUIRED|||-NONE-|||0
+A 7 14|||R:WO|||tähtsus , mis toimub töötervishoiuarsti juures|||REQUIRED|||-NONE-|||0
+
+S Räägiti kaua sellest , et ei jõutsunud veel see seadus , mis teeb seda tervisekontrolli kohustuslikuks .
+A 6 6|||M:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||jõustunud|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||veel ei ole jõustunud|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+
+S Praegu on see vabatahtlik ning see on põhjus , miks juhtuvad erinevad ohtlikud ja ebameeldivad situatsioonid nii tööajal , kui ka vaba ajal .
+A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOM:FORM|||vabal|||REQUIRED|||-NONE-|||0
+
+S Minu meelest kõik tööandjad peavad nõudma , et nende töötajad osaleksid sellel tervisekontrollil .
+A 2 5|||R:WO|||peavad kõik töötajad|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||selles|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||tervisekontrollis|||REQUIRED|||-NONE-|||0
+
+S See aitab inimestel vältida suuri probleeme , kui juhtub midagi nende töökohal .
+A 8 12|||R:WO|||nende töökohal midagi juhtub|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Arstid andsid saadikutele teada , mida nad ootavad sellest ja teistest seadustest , mis peavad varsti jõutsuma .
+A 16 17|||R:SPELL|||jõustuma|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõtteks võin öelda , et see oli väga põhjalik ja vajalik konverents .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

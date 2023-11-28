@@ -1,0 +1,56 @@
+S Tänapäeval kasutatakse arvuteid ja nutiseadmeid väga palju .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ilma nendeta on raske meie elu ette kujutada , sest need teevad meie elu lihtsamaks ning annavad võimalusi , mis ei olnud varem .
+A 19 20|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 20 23|||R:WO|||varem ei olnud|||REQUIRED|||-NONE-|||0
+
+S Üheks teemaks , mida arutati digipädevuse seminaril oli " Digipädevus kui tänapäeva ühiskonnas toimetuleku eeldus " .
+A 0 1|||R:NOM:FORM|||Üks|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||digipädevuse seminaril arutati|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Nagu ma olen juba varem maininud , digipädevus on tõesti suur abistaja inimestele .
+A 7 9|||R:WO|||on digipädevus|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||abi|||REQUIRED|||-NONE-|||0
+
+S Tänu sellele on võimalik vajalikku informatsiooni kiiresti üles leida või näiteks dokumendid üle kontrollida .
+A 11 12|||R:NOM:FORM|||dokumente|||REQUIRED|||-NONE-|||0
+
+S Digipädevus avab meie palju uusi võimalusi töö tegemisel .
+A 2 3|||R:NOM:FORM|||meile|||REQUIRED|||-NONE-|||0
+
+S See töö , mis varem võttis palju aega ning tehti käsitsi , on nüüd võimalik , kas arvuti või teise digiseadme abil , väga kiiresti ja mugavalt ära teha .
+A 0 1|||R:NOM:FORM|||Seda|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||tööd|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||mida|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 22 23|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Vaatamata sellele , et digiseadmed annavad eelduse , tuleb arvestada ka sellega , et nendel on turvariskid .
+A 6 7|||R:LEX|||eelise|||REQUIRED|||-NONE-|||0
+
+S Seminaril osalemine andis hea võimaluse kaasa mõelda ja oma arvamuse avaldada sellest , kuidas oma andmeid kaitsta ning turvariskidest hoiduda .
+A 9 10|||R:NOM:FORM|||arvamust|||REQUIRED|||-NONE-|||0
+
+S Nüüdisajal on loodud võimsad viirused , mis nakatavad meie digiseadmeid ja varastavad informatsiooni .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selleks , et seda ei juhtuks , on vaja ettevaatlikult kahtlevaid lehekülge avada ning osta ka rakenduse , mis võiks kontrollida arvuti või teise nutiseadme seisundit .
+A 7 9|||R:LEX|||tuleb|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||kahtlaseid|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||lehekülgi|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||kahtlaseid lehekülgi ettevaatlikult|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||rakendusi|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||kahtlaseid|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||lehekülgi|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||kahtlaseid lehekülgi ettevaatlikult|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||rakendusi|||REQUIRED|||-NONE-|||1
+
+S Seminarist osavõtmine meenutas seda , et digipädevus on meie riigi tugevam külg ning seda tuleb nutikalt ja targalt kasutada selleks , et saada veelgi suurema eelduse .
+A 24 25|||R:NOM:FORM|||suurem|||REQUIRED|||-NONE-|||0
+A 25 26|||R:LEX|||eelis|||REQUIRED|||-NONE-|||0
+
+S Ainult meist sõltub , kuidas digipädevus edasi areneb ning millest kasu toob .
+A 9 10|||R:LEX|||millist|||REQUIRED|||-NONE-|||0

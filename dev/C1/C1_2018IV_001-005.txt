@@ -1,0 +1,87 @@
+S Lugupeetud kolleegid ,
+A 2 3|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Mina osalesin tervisekonverentsil , kus räägiti sellest , kuidas tõsta inimeste tervisetaset .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 2|||R:CASE|||osalesin|||REQUIRED|||-NONE-|||1
+
+S Konverentsil oli pakutud kaks väga olulist teemat , mille kohta ma sain palju kasulikku infot kätte .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||pakuti|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||sain ma|||REQUIRED|||-NONE-|||0
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||välja|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||sain ma|||REQUIRED|||-NONE-|||1
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Esimeseks teemaks oli " Kohaliku omavalitsuse võimalused ja viisid elanike tervise eest hoolitsemisel " .
+A 0 1|||R:NOM:FORM|||Esimene|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||0
+
+S Esimese teema kohta pakuti mitu varianti , mida kohalik omavalitsus võiks teha selleks , et elanike tervis oleks korras .
+A 8 11|||R:WO|||võiks kohalik omavalitsus|||REQUIRED|||-NONE-|||0
+
+S Mulle väga meeldisid järgmised ideed .
+A 1 3|||R:WO|||meeldisid väga|||REQUIRED|||-NONE-|||0
+
+S Omavalitsus võiks pakkuda rohkem võimalusi spordiga tegelemiseks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Näiteks , linnas võiks olla mitu spordikeskust , mida inimesed saaksid külastada tasuta või väikese tasu eest .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||võiks linnas|||REQUIRED|||-NONE-|||0
+
+S Lisaks võiks rajada uusi loodusparke , kus elanikkond saaks tervislikult oma aega veeta .
+A 9 12|||R:WO|||oma aega tervislikult|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kohalikul omavalitsusel on ka suurepärane võimalus tervislikku eluviisi propageerida - kasutada selleks ajalehti või kohalikku televisiooni .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Peab küll vähendama kahjulike jäätmete hulka , mida jätavad erinevad ettevõtted ja autod .
+A 2 2|||M:LEX|||aga|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Küll aga peab|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||toodavad|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||toodavad|||REQUIRED|||-NONE-|||1
+
+S Selleks võiks kasutada erinevaid loodussõbralikke aineid ja materjale ning teha üleminekut biokütusele .
+A 9 10|||R:LEX|||alustada|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||üleminekuga|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||biokütusele üleminekuga|||REQUIRED|||-NONE-|||0
+
+S Teiseks teemaks oli " Töötervishoiuarsti juures läbiviidava kohustusliku tervisekontrolli olulisus " .
+A 0 1|||R:NOM:FORM|||Teine|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||0
+
+S Ma pean seda teemat väga oluliseks , sest tervis on iga inimese elu väga tähtis osa .
+A 12 13|||R:NOM:FORM|||elust|||REQUIRED|||-NONE-|||0
+A 10 16|||R:WO|||väga tähtis osa iga inimese elust|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Konverentsil räägiti , miks on tervisekontroll nii oluline .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Alustan sellest , et paljud haigused ei anna endast teada kuni on juba liiga hilja .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seepärast on tähtis haiguse õigel ajal üles leida .
+A 3 4|||R:NOM:FORM|||haigus|||REQUIRED|||-NONE-|||0
+
+S Teiseks võivad mõned haigused ka inimese sugulaste ja tuttavate jaoks ohtlikud olla .
+A 4 12|||R:WO|||olla ohtlikud ka inimese sugulaste ja tuttavate jaoks|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Selleks , et nad ei haigestuks , peab igaüks oma tervist kontrollima .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal räägiti ka sellest , kus võib oma tervist kontrollida , kui palju see maksab ning kelle poole peab sellega pöörduma .
+A 6 7|||R:LEX|||saab|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kõige olulisem mõte sellel tervisekonverentsil oli see , et arste ei tohi karta , nad teevad oma tööd ning soovivad patsientidele ainult head .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tervis on väga tähtis asi ning sellega ei tohi mitte mingil juhul mängida või nalja teha .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

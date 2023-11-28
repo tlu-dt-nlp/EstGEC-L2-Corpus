@@ -1,0 +1,103 @@
+S Olen osalenud mittu päeva tagasi ühes väga huvitavas ümarlaual , kus käsitleti ühiskondliku sallivust .
+A 0 2|||R:VERB:FORM|||Osalesin|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||mitu|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||Mitu päeva tagasi osalesin|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||ühel|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||huvitaval|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||ühiskondlikku|||REQUIRED|||-NONE-|||0
+
+S Seal osalesid erinevate riikide esindajad , kes tutvustasid meile oma rahvust , kultuuri , kombeid ja keelt .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Veel üheks oluliseks teemaks oli : " Inimeste valmisolek ja võimalused hoida rahvuslikku identiteeti ka võõrsil " , mis käsitlemise jooksul tekkitas eriarvamusi ja isegi vaidlusi osalejate vahel .
+A 1 2|||R:NOM:FORM|||üks|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||oluline|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||0
+A 0 5|||R:WO|||Üks oluline teema oli veel|||REQUIRED|||-NONE-|||0
+A 19 21|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||tekitas|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||üks|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||oluline|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||teema|||REQUIRED|||-NONE-|||1
+A 0 5|||R:WO|||Üks oluline teema oli veel|||REQUIRED|||-NONE-|||1
+A 21 22|||R:SPELL|||tekitas|||REQUIRED|||-NONE-|||1
+A 19 22|||R:WO|||tekitas käsitlemise jooksul|||REQUIRED|||-NONE-|||1
+
+S Kõikide inimeste lojaalsus oma rahva kuuluvuse suhtes sõltub puhtalt kodu kasvatusest .
+A 4 5|||R:LEX|||rahvusliku|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||kodusest|||REQUIRED|||-NONE-|||0
+
+S Näiteks kui lapsele lapsepõlvest õpetatakse rahvustantsu või rahvusmuusikat kuulama , siis ta õpib paremini tundma oma kultuuri ja edaspidi temast pigem saab lojaalne riigikodanik , kes väärtustab riigi kultuuri ja kombeid .
+A 4 4|||M:LEX|||saati|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||õpetatakse lapsepõlvest saati|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||õpib ta|||REQUIRED|||-NONE-|||0
+A 19 22|||R:WO|||saab temast pigem|||REQUIRED|||-NONE-|||0
+
+S Olla mingi riigi kodanik on väga uhke , kuid mis tõesõna paneb rohkem uhkust tunma on selle riigi ja rahvuse kommete , kultuuri ja keele tundmine ja jälgimine .
+A 7 7|||M:LEX|||tunne|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||tundma|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Kuid mitte kõik inimesed , kes elavad oma riigis mõistavad ja jälgivad neid kombeid .
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||mõista|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||ega|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||jälgi|||REQUIRED|||-NONE-|||0
+
+S Ehe näide oleks näiteks Türgi , kus ükspool kodanikke palvetab mittu korda päevas ja ei joo alkoholi ja on teine pool , kes seda juba ei tee .
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:WS|||üks pool|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||mitu|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 24 25|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Minu arvates see pigem sõltub vanusest , kui palju neid kombeid jälgitakse .
+A 2 5|||R:WO|||sõltub see pigem|||REQUIRED|||-NONE-|||0
+
+S Kahjuks noorema generatsiooni väga ei huvita riigi kultuur või kombed .
+A 1 2|||R:NOM:FORM|||nooremat|||REQUIRED|||-NONE-|||0
+A 1 6|||R:WO|||ei huvita nooremat generatsiooni väga|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||kombed|||REQUIRED|||-NONE-|||0
+
+S Minu arvates väga oluline aspekt , mis kujundab meie isiksust on see , kuidas me suhtume teistesse .
+A 2 11|||R:WO|||on väga oluline aspekt , mis kujundab meie isiksust|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S See ei peaks olema ainult riigi siseselt , kuid ka välismaal .
+A 2 3|||R:LEX|||tohiks|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||olla|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||oluline|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WS|||riigisiseselt|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||rahvusvaheliselt|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||oluline|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WS|||riigisiseselt|||REQUIRED|||-NONE-|||1
+
+S Kui reisida kuhugi välismaale , peab olema lugupidav selle riigi rahvuse , kommete ja kultuuri vastu , sest see on tegelikult peegeldab inimeste hinge ja kujundab nende isiksust .
+A 19 20|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 20 22|||R:WO|||peegeldab tegelikult|||REQUIRED|||-NONE-|||0
+
+S Keegi ei tahaks kogeda lugupidamatust enda riigi või kultuuri suhtes .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Üks olulisemaid asju on jääda inimeseks ükskõik mis olukorda inimene satub .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Osalejaid ärritas ühe osaleja arvamus , et välismaal olles peab jälgima ainult enda riigi ja kultuuri kombeid ehk reeglid .
+A 17 18|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||reegleid|||REQUIRED|||-NONE-|||0
+
+S Ma ei nõustunud sellega , sest minu arvates keegi ei anna meile õigust tulla võõrsile ja dikteerida ma riigi reegleid .
+A 8 11|||R:WO|||ei anna keegi|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||minna|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
+
+S Kokkuvõtteks antud ümarlaual osalemine oli mulle kasulik ja laiendas minu silmaringi ja maailma vaadet .
+A 1 5|||R:WO|||oli antud ümarlaual osalemine|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WS|||maailmavaadet|||REQUIRED|||-NONE-|||0
+
+S Soovin mõistlikult suhtuda erinevate riikide rahvustesse , kultuuri ja nende komete vastu .
+A 1 2|||R:LEX|||mõistvalt|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kultuuridesse|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM:SPELL|||kommetesse|||REQUIRED|||-NONE-|||0
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0

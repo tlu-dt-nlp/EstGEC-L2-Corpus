@@ -1,0 +1,127 @@
+S Digitehnoloogiad ja digipädevus on tänapäeval väga põletavad teemad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hiljuti käisin seminaril , mis oli seotud nende teemadega ning tahan kuuldu materjali põhjal oma arvamust väljendada .
+A 11 12|||R:SPELL|||kuuldud|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Esimene käsitletud teema oli " Digipädevus kui tänapäeva ühiskonnas toimetuleku eeldus " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Oli toodud tuhat plusse ja elu näiteid , kuidas digipädevus aitas igapäeval hakkama saada .
+A 0 1|||R:LEX|||Seminaril|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||toodi|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||tuhandeid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||elulisi|||REQUIRED|||-NONE-|||0
+A 7 8|||M:LEX|||sellest|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||aidanud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||igapäevaelus|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||välja|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||tuhandeid|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||elulisi|||REQUIRED|||-NONE-|||1
+A 7 8|||M:LEX|||sellest|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||aitab|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||igapäevaelus|||REQUIRED|||-NONE-|||1
+
+S Võimalus IT-spetsialistina raha teenida võib ebareaalseks paista , aga näiteks oskus leida Internetist nõutavat infot on kasulik igaühele .
+A 5 6|||R:NOM:FORM|||ebareaalsena|||REQUIRED|||-NONE-|||0
+
+S Ostud Internetist on praegu tõesti tavaline asi , mis aitab raha , aega ja närvi kokku hoida lähtub just digipädevusest .
+A 0 2|||R:WS:NOM:FORM|||Internetiostud|||REQUIRED|||-NONE-|||0
+A 10 17|||R:WO|||hoida kokku raha , aega ja närvi|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 17|||M:LEX|||ja see|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||M:LEX|||ja see|||REQUIRED|||-NONE-|||1
+
+S Digimaailm on juba ammu populaarne meelelahustus ja hobbi paljudele .
+A 7 8|||R:SPELL|||hobi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||pikka aega||kaua aega|||REQUIRED|||-NONE-|||1
+A 4 4|||M:LEX|||olnud|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||hobi|||REQUIRED|||-NONE-|||1
+A 4 9|||R:WO|||paljudele populaarne meelelahustus ja hobi|||REQUIRED|||-NONE-|||1
+
+S Digipädevus võimaldab laiendada silmaringi , ennast arendada ja aitab mõnusalt aega veeta .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Seega on raske vaielda
+A 3 3|||M:LEX|||vastu|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Seminariumi teises osas oli jutt digiseadmete turvariskidest ja nendest hoidumise võimalustest .
+A 0 1|||R:SPELL|||Seminari|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||juttu|||REQUIRED|||-NONE-|||0
+
+S IT-maailm on kuritegijaid täis .
+A 2 3|||R:SPELL|||kurjategijaid|||REQUIRED|||-NONE-|||0
+
+S Ebausaldusväärsed veebilehed püüavad saada mitte väga ettevaatliku kasutaja konto salasõna .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||ettevaatamatu|||REQUIRED|||-NONE-|||1
+
+S Isiklikud andmed on ka pidevalt ohus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mõned tavalised kasutajad võivad olla varastajad ja mõrvarid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 1|||M:LEX|||pealtnäha|||REQUIRED|||-NONE-|||1
+
+S Igapäeval programmeeritakse uued viirused , mis teevad digiseadmetest hoopis telliskivi .
+A 0 1|||R:WS:NOM:FORM|||Iga päev|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||uusi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||viiruseid|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||telliskivid|||REQUIRED|||-NONE-|||0
+
+S Riske pettunud olla on päris palju .
+A 0 1|||R:LEX|||Võimalusi|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||pettumuseks|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Mida aga tuleb teha katastroofi ennetamiseks ?
+A 1 6|||R:WO|||tuleb aga katastroofi ennetamiseks teha|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Reeglid on lihtsad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Esiteks kontrollid küllastavaid kodulehte .
+A 1 2|||R:VERB:FORM|||kontrollida|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||külastatavaid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kodulehti|||REQUIRED|||-NONE-|||0
+
+S Teiseks võimalikult vähe jätta isiklikke andmeid .
+A 1 4|||R:WO|||jätta võimalikult vähe|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kolmandaks uskuda ainult usaldusväärseid mainekaid portaale .
+A 4 4|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+
+S Neljandaks on tarvis välja mõelda mitu keerulist salasõna selleks , et isegi juhul , kui kuritegija sai teie konto hakkida , kõik muud veebilehtede kontod polnud tema jaoks kättesaadavad .
+A 15 16|||R:SPELL|||kurjategija|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||kontosse|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||häkkida|||REQUIRED|||-NONE-|||0
+A 21 26|||R:WO|||polnud kõik muud veebilehtede kontod|||REQUIRED|||-NONE-|||0
+
+S Viiendaks e-poes kasutatud kaardil peab olema võimalikult vähe raha , nii kuritegijal pole üldse ajendit teie peale aega raisata .
+A 1 5|||R:WO|||peab e-poes kasutatud kaardil|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||kurjategijal|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||pole kurjategijal|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||peab e-poes kasutatud kaardil|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||et|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||kurjategijal|||REQUIRED|||-NONE-|||1
+A 12 13|||R:VERB:FORM|||poleks|||REQUIRED|||-NONE-|||1
+
+S Lõpetuseks võib öelda , et digimaailm ja temaga seotud pädevus on kasulikud ja isegi hädavajalikud tänapäeval .
+A 7 8|||R:LEX|||sellega|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||pädevused|||REQUIRED|||-NONE-|||0
+A 11 16|||R:WO|||tänapäeval kasulikud ja isegi hädavajalikud|||REQUIRED|||-NONE-|||0
+
+S Aga tuleb hoida turvareegleid , et kuritegijate kätte mitte saada .
+A 2 3|||R:LEX|||järgida|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||kurjategijate|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||sattuda|||REQUIRED|||-NONE-|||0
