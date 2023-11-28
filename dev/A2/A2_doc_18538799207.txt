@@ -1,0 +1,94 @@
+S Ma elan Tamperes .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma elan mitmekorruselines majas kolmandal korrusel .
+A 2 3|||R:SPELL|||mitmekorruselises|||REQUIRED|||-NONE-|||0
+
+S Minu kodu on kahetoaline korter .
+A 0 2|||R:LEX|||Mul|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Mina ja minu poiss-sõber elame koos .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu elutuba on väike .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siin on pruuni diivan ja punane tugitool .
+A 2 3|||R:NOM:FORM|||pruun|||REQUIRED|||-NONE-|||0
+
+S Siin on ka televiisor .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siin on ka televiisor ja valge sektsioonkapp .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Põrandal on suur pruun vaip ja laes on lamp .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina loen elutoas raamatut ja ajalehte .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ma vaatan elutoas televiisorit .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui ma televiisorit vaatan , ma istun diivanil .
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||vaatan televiisorit|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||istun ma|||REQUIRED|||-NONE-|||1
+
+S Minu magamistuba on valgusküllane ja ilus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siin on suur säng , valge kummut ja väike pruun laud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu magamistoas on ka suur valge riidekapp .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Põrandal on suur pruun vaip .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina magan ja loen raamatut minu magamistoas .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||1
+
+S Minu köök on väike ja vana .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siin on sinised kappi ja suur külmkapp .
+A 3 4|||R:NOM:FORM|||kapid|||REQUIRED|||-NONE-|||0
+
+S Minu köökis on väike pruun söögilaud ja kaks pruuni tooli .
+A 1 2|||R:SPELL|||köögis|||REQUIRED|||-NONE-|||0
+
+S Põrandal on valge vaip .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma teen köökis rooga .
+A 2 3|||R:SPELL|||köögis|||REQUIRED|||-NONE-|||0
+
+S Ma söön köökis iga päev .
+A 2 3|||R:SPELL|||köögis|||REQUIRED|||-NONE-|||0
+
+S Minu vannituba on puhas ja uus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siin on valged seinad ja sinine põrand .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Siin on düšš , valamu ja pesumasin .
+A 2 3|||R:SPELL|||dušš|||REQUIRED|||-NONE-|||0
+
+S Põrandal on väike valge vaip .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma kain vannitoas duši all ja pese pesu .
+A 1 2|||R:SPELL|||käin|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||pesen|||REQUIRED|||-NONE-|||0
+
+S Ma armastan minu koju !
+A 2 3|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kodu|||REQUIRED|||-NONE-|||0

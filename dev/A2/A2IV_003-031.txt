@@ -1,0 +1,28 @@
+S Mina reisin tihti komandeeringus ja puhkas .
+A 3 3|||M:LEX|||käies|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||puhkamas|||REQUIRED|||-NONE-|||0
+
+S Minu viimasne reis oli Minskis Valgevenes .
+A 1 2|||R:SPELL|||viimane|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||Minskisse|||REQUIRED|||-NONE-|||0
+
+S Ma tegelen reklaamiga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minskis mul on palju klientid .
+A 1 3|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM:SPELL|||kliente|||REQUIRED|||-NONE-|||0
+
+S Veel minu vanemad elavad siis , ma käisin külla nende juurde .
+A 0 1|||R:LEX|||Kui|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||veel|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||elasid|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||külas|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||juures|||REQUIRED|||-NONE-|||0
+A 6 11|||R:WO|||käisin ma nende juures külas|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldib reisida Valgevenes !
+A 3 4|||R:NOM:FORM|||Valgevenesse|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||Valgevenesse reisida|||REQUIRED|||-NONE-|||0

@@ -1,0 +1,77 @@
+S Minu on vanemad , Eeva ja Masi , ja üks vend Mika .
+A 0 1|||R:NOM:FORM|||Mul||Minul|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||vanemad on|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||mu|||REQUIRED|||-NONE-|||1
+A 11 11|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+
+S Minu ema Eeva on müüja hooldejaamil .
+A 5 6|||R:NOM:FORM:SPELL|||hooldejaamas|||REQUIRED|||-NONE-|||0
+
+S Minu ema on viiskümne viis aastane .
+A 3 4|||R:SPELL|||viiekümne|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||viie|||REQUIRED|||-NONE-|||0
+
+S Minu isa Masi on toimetaja .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu isa on kuuskümne aastane .
+A 3 5|||R:WS:SPELL|||kuuekümneaastane|||REQUIRED|||-NONE-|||0
+
+S Minu vend Mika on autojuht .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu vend on kakskümne viis aastane .
+A 3 4|||R:SPELL|||kahekümne|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||viie|||REQUIRED|||-NONE-|||0
+
+S Minul on vaimustav vanemad ja lustlik vend .
+A 0 1|||R:NOM:FORM|||Mul|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||vaimustavad|||REQUIRED|||-NONE-|||0
+
+S Ma armastan minu pere .
+A 2 3|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||peret|||REQUIRED|||-NONE-|||0
+
+S Minu emal on kolm venda ja üks öde .
+A 7 8|||R:SPELL|||õde|||REQUIRED|||-NONE-|||0
+
+S Nemad asuvad Kesk-Soomes .
+A 1 2|||R:LEX|||elavad|||REQUIRED|||-NONE-|||0
+
+S Minu isal on nelj öde ja üks vend .
+A 3 4|||R:SPELL|||neli|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||õde|||REQUIRED|||-NONE-|||0
+
+S Minu isa vend on surmud .
+A 4 5|||R:SPELL|||surnud|||REQUIRED|||-NONE-|||0
+
+S Üks minu onu on opetaja , toine käsitööline .
+A 4 5|||R:SPELL|||õpetaja|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||teine|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||mu|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||õpetaja|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||teine|||REQUIRED|||-NONE-|||1
+
+S Üks tädi on pagar .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minul on kolm onu ja viis tädi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu isaisa ja isaema on surmud .
+A 5 6|||R:SPELL|||surnud|||REQUIRED|||-NONE-|||0
+
+S Minu emaisa on surmud .
+A 3 4|||R:SPELL|||surnud|||REQUIRED|||-NONE-|||0
+
+S Minu emaema elad Kajaanis Kesk-Soomes .
+A 2 3|||R:VERB:FORM|||elab|||REQUIRED|||-NONE-|||0
+
+S Minu emaema on seitsekümne seitse aastane ja pensionil olev .
+A 3 4|||R:SPELL|||seitsmekümne|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||seitsme|||REQUIRED|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0

@@ -1,0 +1,38 @@
+S Viimasel korral ma käisin Suur-Britaanias reisil .
+A 2 4|||R:WO|||käisin ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||Suurbritannias|||REQUIRED|||-NONE-|||0
+
+S Ma kohtusin seal oma sugulasega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu täti ja tema abikaasa elavad seal juba kümne aastat .
+A 1 2|||R:SPELL|||tädi|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kümme|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldis Londonis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal elavad palju inimeseid .
+A 1 2|||R:VERB:FORM|||elab|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||inimesi|||REQUIRED|||-NONE-|||0
+
+S Ma külastasin Kuninga muuseumi , jalutasin pargis .
+A 2 3|||R:CASE|||kuninga|||REQUIRED|||-NONE-|||0
+
+S Ma käisin kontserdil .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mu sugulased elavad äärelinnas ja ma elasin nendega seal kaks nädalat .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Nende linnaosa on väga puhas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tahaksin sinna minna vahemalt üks veel kord .
+A 4 5|||R:SPELL|||vähemalt|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||ühe|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||veel ühe|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||korra|||REQUIRED|||-NONE-|||0
+
+S Aga ma ei taha seal elada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

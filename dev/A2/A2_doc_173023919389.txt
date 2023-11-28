@@ -1,0 +1,17 @@
+S Käisin vaatamas fotonäitust eesti loodusest .
+A 3 4|||R:CASE|||Eesti|||REQUIRED|||-NONE-|||0
+
+S Minule meeldib mõnigi neist fotoist .
+A 2 2|||M:LEX|||nii|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||fotodest|||REQUIRED|||-NONE-|||0
+
+S Kõige ilusam oli ikkagi foto kelle nimi oli " Kahekesi vihmasajus " .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||mille|||REQUIRED|||-NONE-|||0
+
+S Fotode põhjusel Eesti loodus on väga samasugune kui Soome loodus .
+A 1 2|||R:LEX|||põhjal|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||on Eesti loodus|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||sarnane|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||loodusega|||REQUIRED|||-NONE-|||0

@@ -1,0 +1,25 @@
+S Tere !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul eile õhtul läks pesumasin katki .
+A 1 4|||R:WO|||läks eile õhtul|||REQUIRED|||-NONE-|||0
+
+S Kas sa aidaksid mulle ?
+A 2 3|||R:SPELL|||aitaksid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
+
+S Ma ei tea , mida mulle tegema .
+A 5 6|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||peaksin|||REQUIRED|||-NONE-|||0
+
+S Kas sa tead , kus remondi teha kodumasinad ?
+A 5 6|||R:NOM:FORM|||remonti|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||tehakse|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||kodumasinatele|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||tehakse kodumasinatele remonti|||REQUIRED|||-NONE-|||0
+
+S Abi eest ma kinkin sulle väga suur šokolaad .
+A 3 4|||R:SPELL|||kingin|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||kingin ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||suure|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||šokolaadi|||REQUIRED|||-NONE-|||0

@@ -1,0 +1,49 @@
+S Tere kallis Liina !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ma tahan sind külastada vatab meie huvitavat linna .
+A 2 3|||R:NOM:FORM|||sinuga|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sinuga|||REQUIRED|||-NONE-|||1
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX:NOM:FORM|||avastada|||REQUIRED|||-NONE-|||1
+
+S Me kohtumisini laupäeval kell seitse kohvikus " Kevad "
+A 1 2|||R:LEX:SPELL|||kohtume|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX:SPELL|||kohtusime|||REQUIRED|||-NONE-|||1
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S Me käisime meie linna parkis .
+A 1 2|||R:LEX|||lähme|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM:SPELL|||parki|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||pargis|||REQUIRED|||-NONE-|||1
+
+S Seal me olime jalutasime .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||jalutame|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Parkis väga ilus loodus .
+A 0 1|||R:SPELL|||Pargis|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Seal ilusad lilled .
+A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+
+S Seal on väike järv .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma kutsun sind külas !
+A 3 4|||R:LEX|||külla|||REQUIRED|||-NONE-|||0
+
+S Kohtumiseni !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Olga
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

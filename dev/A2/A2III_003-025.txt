@@ -1,0 +1,40 @@
+S Tere , minu kallis sõber .
+A 5 6|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
+
+S Tean , mul on katki kodumasin .
+A 0 1|||R:VERB:FORM|||Tead|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||kodumasin katki|||REQUIRED|||-NONE-|||0
+
+S Kirjuta mulle , kas sa saad tulla , aidata mind .
+A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||aitama|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||mind aitama|||REQUIRED|||-NONE-|||0
+
+S Ma kutsun sind esmaspäeval kell üks .
+A 4 5|||R:NOM:FORM|||kella|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||üheks|||REQUIRED|||-NONE-|||0
+
+S Kaasa võtta instrumenti , remonti teha .
+A 2 3|||R:NOM:FORM|||instrumendid|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||remondi|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||tegemiseks|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX:SPELL|||võta|||REQUIRED|||-NONE-|||1
+A 0 2|||R:WO|||Võta kaasa|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||instrumendid|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||remondi|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||tegemiseks|||REQUIRED|||-NONE-|||1
+
+S Mul on pesumasin .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S ja ta on nanuke katki , ta on valge , töötaja Hiispaania .
+A 0 1|||R:CASE|||Ja|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||natuke|||REQUIRED|||-NONE-|||0
+A 5 7|||R:PUNCT|||. Ta|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||toodetud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM:SPELL|||Hispaanias|||REQUIRED|||-NONE-|||0
+
+S Kohtumiseni .
+A 1 2|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0

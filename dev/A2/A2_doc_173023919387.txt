@@ -1,0 +1,39 @@
+S Mulle meeldib sporti .
+A 2 3|||R:NOM:FORM|||sport|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||teha|||REQUIRED|||-NONE-|||1
+
+S Mina käin peaaegu iga päev jõusaalis või aeroobikas .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Suviti tegelen palju tervisejooksu .
+A 3 4|||R:NOM:FORM|||tervisejooksuga|||REQUIRED|||-NONE-|||0
+
+S Varem käisin ratsutamas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul oli oma hobune .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma olen spordihuviline .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mulle meeldivad jäähoki ja jääpall .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mu favoriit võistkond on kärpät .
+A 1 2|||R:LEX|||lemmik|||REQUIRED|||-NONE-|||0
+A 4 5|||R:CASE|||Kärpät|||REQUIRED|||-NONE-|||0
+
+S Käin tihti kinos .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma kogun ka filme .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul on neid umbes kaheksasada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kõige parem film on The Silence of the Lambs.
+A 4 4|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0

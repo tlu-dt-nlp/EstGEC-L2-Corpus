@@ -1,0 +1,41 @@
+S Kell oli pool kaheksa .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma vaatasin televiisorit kui keegi helistas kella minu ukse taga .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 10|||R:WO|||minu ukse taga kella|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 10|||R:WO|||minu ukse taga kella helistas|||REQUIRED|||-NONE-|||1
+
+S Seal oli võõras naine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S " Vabandage , et ma tülitan .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma olen teie uus naaber .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kas ma saaksin teilt suhkruit laenata ? " ta küsis .
+A 4 5|||R:SPELL|||suhkrut|||REQUIRED|||-NONE-|||0
+
+S " Ma teen pannkooke aga mul ei olnud suhkruit . "
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||suhkrut|||REQUIRED|||-NONE-|||0
+
+S Ma laenasin naabrile suhkruit .
+A 3 4|||R:SPELL|||suhkrut|||REQUIRED|||-NONE-|||0
+
+S Naine tänas ja läks ära .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Pool üheksal uksekell helises jälle .
+A 1 2|||R:NOM:FORM|||üheksa|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||helises uksekell|||REQUIRED|||-NONE-|||0
+
+S Ukse taga oli see sama naine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seekord ta kutsus pannkooke sööma .
+A 1 3|||R:WO|||kutsus ta|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1

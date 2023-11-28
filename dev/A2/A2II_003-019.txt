@@ -1,0 +1,30 @@
+S Tere kallis sõbrad !
+A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||kallid|||REQUIRED|||-NONE-|||0
+
+S Ma soovin müüja oma auto .
+A 2 3|||R:SPELL|||müüa|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||0
+
+S Minu auto on Mitžsubisi Grandis , halli varviline , 14 aastat vana , väga hea salon must varviline .
+A 3 4|||R:SPELL|||Mitsubishi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:SPELL|||värvi|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||salongiga|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||musta|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX:SPELL|||värvi|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||musta värvi salongiga|||REQUIRED|||-NONE-|||0
+
+S Auto hind on 5000 ebpo , ja tuleb soodustus 10 % .
+A 4 5|||R:NOM:FORM:SPELL|||eurot|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||lisaks|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||10 % soodustus|||REQUIRED|||-NONE-|||0
+
+S Kui soovite helistage mulle telefoninumbril --- esmaspaevast-reedeni kella 9.00 kuni 17.00 .
+A 1 1|||M:LEX|||autot|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:WS:SPELL|||esmaspäevast reedeni|||REQUIRED|||-NONE-|||0
+
+S Ma ootan !
+A 0 1|||R:LEX|||Jään|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||ootama|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1

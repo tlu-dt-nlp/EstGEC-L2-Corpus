@@ -1,0 +1,87 @@
+S Mina ja ülikool .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sellel aastal ma lõpetasin kool .
+A 2 4|||R:WO|||lõpetasin ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||kooli|||REQUIRED|||-NONE-|||0
+
+S Kõik suvel ma töötasin ehitajana .
+A 0 1|||R:LEX|||Kogu|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||suve|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Kaks aastat tagasi , ma lõpetasin muusikakooli , pärast ma tegelesin spordiga .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||lõpetasin ma|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Suvel lõppuni ma astusin Tallinna Tehnika ülikoolis mehannikase fakultetis .
+A 0 1|||R:NOM:FORM|||Suve|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM:SPELL|||lõpus|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||astusin ma|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WS:NOM:FORM|||Tehnikaülikooli|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||mehaanika|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM:SPELL|||fakulteeti|||REQUIRED|||-NONE-|||0
+
+S Ma astusin mehannikasse sest et mulle meeldib see eriala , mulle meeldin ka ehitaja fakultet aga ma astusin mehannikasse .
+A 2 3|||R:SPELL|||mehaanikasse|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PUNCT|||. Mulle|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||meeldib|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||fakulteet|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||mehaanikasse|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||mehaanikasse|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||Kuigi|||REQUIRED|||-NONE-|||1
+A 11 12|||R:VERB:FORM|||meeldib|||REQUIRED|||-NONE-|||1
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||fakulteet|||REQUIRED|||-NONE-|||1
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 18|||R:WO|||astusin ma|||REQUIRED|||-NONE-|||1
+A 18 19|||R:SPELL|||mehaanikasse|||REQUIRED|||-NONE-|||1
+
+S TTÜ’s on palju huvitavaid erialad , palju minu sõbrad astusin energeetikusse fakultetis .
+A 0 1|||R:SPELL|||TTÜs||TTÜ-s|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||erialasid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||Paljud|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||astusid|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM:SPELL|||energeetika|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM:SPELL|||fakulteeti|||REQUIRED|||-NONE-|||0
+
+S Mulle meeldib õppida TTÜ’s , mulle meeldip inimesed kes õpivad koos minuga , mulle meeldin elada Tallinnas .
+A 3 4|||R:SPELL|||TTÜs||TTÜ-s|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PUNCT|||. Mulle|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM:SPELL|||meeldivad|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:PUNCT|||. Mulle|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||meeldib|||REQUIRED|||-NONE-|||0
+
+S Palju minu sõbrad õppivad TTU’s kolm või kaks aastat , nad aitavad mind .
+A 0 1|||R:NOM:FORM|||Paljud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||õpivad|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||TTÜs||TTÜ-s|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||kolmandat|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||teist|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PUNCT|||. Nad|||REQUIRED|||-NONE-|||0
+
+S Koolis mul on eesti keel , aga ma elan Ida-Virumaas ja selles osakondes palju inimesed räägivad vene keelte .
+A 1 3|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||Ida-Virumaal|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX:SPELL|||piirkonnas|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||paljud|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||räägivad paljud inimesed|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||keelt|||REQUIRED|||-NONE-|||0
+
+S Ma elan Eestis ja ma pean teada riigi keel - eesti keel , see on väga olulise minuga .
+A 6 7|||R:VERB:FORM|||teadma|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WS:NOM:FORM|||riigikeelt|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||keelt|||REQUIRED|||-NONE-|||0
+A 12 13|||R:PUNCT|||. See|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||oluline|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||mulle väga oluline|||REQUIRED|||-NONE-|||0

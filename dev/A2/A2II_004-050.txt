@@ -1,0 +1,31 @@
+S ma soovin müüa oma autot .
+A 0 1|||R:CASE|||Ma|||REQUIRED|||-NONE-|||0
+
+S See auto on sinine Mazda 5 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S auto on hea , huvitav ja ilus .
+A 0 1|||R:CASE|||Auto|||REQUIRED|||-NONE-|||0
+
+S See hind on 4,000 eurot .
+A 0 1|||R:NOM:FORM|||Selle|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||4000|||REQUIRED|||-NONE-|||0
+
+S Talv ja süvi rehviga ka .
+A 0 1|||R:NOM:FORM:SPELL|||Talve-|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WS:NOM:FORM:SPELL|||suverehvidega|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Sa saad näha tulla minu juurde .
+A 2 2|||M:LEX|||autot|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||juures|||REQUIRED|||-NONE-|||0
+
+S Minu kodune address on Sirbi --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sa saad tulla esmaspäevast reedeni 9-17 või helistades telefonil --- ja siis broneeri aeg minuga .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||helista|||REQUIRED|||-NONE-|||0
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||minuga aeg|||REQUIRED|||-NONE-|||0

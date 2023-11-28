@@ -1,0 +1,34 @@
+S Tere , Kati !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tahan sind kutsuda Tallinna .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma kavatsen minna loomaaiasse ja jalutama Kadriorgis pargis .
+A 3 4|||R:NOM:FORM|||loomaaeda|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM:SPELL|||Kardioru|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||parki|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||Kadrioru parki jalutama|||REQUIRED|||-NONE-|||0
+
+S Kas sa olid Tallinnas ?
+A 2 3|||R:VERB:FORM|||oled|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||käinud|||REQUIRED|||-NONE-|||0
+
+S Ma hakkan sõida Tallinnaan augustil .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sõidan|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||Tallinnasse||Tallinna|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||augustis|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||augustis Tallinnasse||augustis Tallinna|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sõitma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||Tallinnasse||Tallinna|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||augustis|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||Tallinnasse augustis sõitma||Tallinna augustis sõitma|||REQUIRED|||-NONE-|||1
+
+S Veel me saame minna kohvikusse .
+A 1 3|||R:WO|||saame me|||REQUIRED|||-NONE-|||0
+
+S Kas sa olid Kadriorgis ?
+A 2 3|||R:VERB:FORM|||oled|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||Kadriorus|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||käinud|||REQUIRED|||-NONE-|||0

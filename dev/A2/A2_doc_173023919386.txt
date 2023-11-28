@@ -1,0 +1,19 @@
+S Finnairi lennukid hilinevad mõni korda päevas .
+A 3 4|||R:NOM:FORM|||mõne|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||korra|||REQUIRED|||-NONE-|||0
+
+S Saabumine näiteks Jaapani ja Hiina on hilinud ühe päeva .
+A 2 3|||R:NOM:FORM|||Jaapanist|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||Hiinast|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||hilinenud|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||Jaapanist|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||Hiinast|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||hilinenud|||REQUIRED|||-NONE-|||1
+A 9 9|||M:LEX|||võrra|||REQUIRED|||-NONE-|||1
+
+S Hilinemine johtub siit et lennukis on suur viga ja parandus ei juhtu ruttu .
+A 2 3|||R:LEX|||sellest|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||lennukil|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||parandamine|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||toimu|||REQUIRED|||-NONE-|||0

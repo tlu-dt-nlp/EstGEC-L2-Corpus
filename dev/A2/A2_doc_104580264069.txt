@@ -1,0 +1,105 @@
+S Minu eesnimi on Kati ja minu perekonnanimi on --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Olen Tampere ülikooli üliõpilane .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Elan Hämeenlinnas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hämeenlinna asub Lõuna-Soomes .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hämeenlinna on ilus linn .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Elan minu poiss-sõbra koos .
+A 1 2|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||poiss-sõbraga|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||poiss-sõbraga|||REQUIRED|||-NONE-|||1
+A 1 4|||R:WO|||koos enda||oma poiss-sõbraga|||REQUIRED|||-NONE-|||1
+
+S Minu poiss-sõbra nimi on Beni ja ta perekonnanimi on --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta juuksed on valged ja silmad sinised .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on ilus ja tõesti kena .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on ettevõtja .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta omab reatorani .
+A 2 3|||R:SPELL|||restorani|||REQUIRED|||-NONE-|||0
+
+S Meil on koer .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta nimi on Marsu .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Marsu on tore koer .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meie kodu on suur .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Meie kodes on neli tuba .
+A 1 2|||R:SPELL|||kodus|||REQUIRED|||-NONE-|||0
+
+S Mul ei ole isa .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu ema nimi on Marjatta .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Elab --- .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina olen sündinud seal aga minu ema on sündinud --- .
+A 2 4|||R:WO|||seal sündinud|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Minu ema on juba pensionär .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta töötas enne polikliinikus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul ei ole venda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||vendi|||REQUIRED|||-NONE-|||1
+
+S Mul on üks vanem õde .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta nimi on Kaisa .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Elab Helsinkis ja töötab koulis , ta on õpetaja .
+A 4 5|||R:SPELL|||koolis|||REQUIRED|||-NONE-|||0
+
+S Ta ei ole abielus aga tal on üks laps .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ta nimi on Väinö ja käib lasteaias .
+A 5 5|||M:LEX|||ta|||REQUIRED|||-NONE-|||0
+
+S Minu vanavanemad on surnud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu onu elab Toholampis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on põllumees .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on abielus ja ta abikaasa nimi on Aino .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma armastan minu pere .
+A 2 3|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||peret|||REQUIRED|||-NONE-|||0
