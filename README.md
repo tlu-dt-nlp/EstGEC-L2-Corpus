@@ -52,8 +52,8 @@ Another important difference to the English M2 annotation is that we allow overl
 
 ## References
 
-* The dataset has been used to evaluate the [GEC](https://koodivaramu.eesti.ee/tartunlp/corrector) toolkit developed in collaboration by the language technology groups of the University of Tartu and the Tallinn University. The L1 subset of the corpus is being annotated at the University of Tartu.
-* The M2 Scorer adapted for the EstGEC corpus can be found [here](https://github.com/TartuNLP/estgec/tree/c3e7bba56f9b20c80f4a63d0e1d5abc17f96aaf9/M2_scorer_est).
+* The dataset has been used to evaluate the [GEC](https://koodivaramu.eesti.ee/tartunlp/corrector) toolkit developed in collaboration by the language technology groups of the University of Tartu and the Tallinn University. The L1 subset of the EstGEC corpus is being annotated at the University of Tartu.
+* The M2 Scorer adapted for EstGEC corpus can be found [here](https://github.com/TartuNLP/estgec/tree/c3e7bba56f9b20c80f4a63d0e1d5abc17f96aaf9/M2_scorer_est).
 * Conference presentations:
   * [8th Estonian Digital Humanities Conference, October 5-7, 2022, Tallinn](https://dh.org.ee/wp-content/uploads/sites/3/2022/10/Allkivi_Metsoja_et_al_slides_DH2022.pdf)
   * [20th Annual Conference of Applied Linguistics, April 27-28, 2023, Tallinn](https://www.rakenduslingvistika.ee/wp-content/uploads/2023/05/02_Allkivi-Metsoja_jt_Veamargendusega_korpus_grammatikakontrollija.pdf) (in Estonian)
