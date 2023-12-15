@@ -1,0 +1,60 @@
+S Minu esimene lapsepõlve mälestus on see , kui olin minu emaga Rauma linna suures kaupluses esimese korra .
+A 9 10|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||esimest|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||korda|||REQUIRED|||-NONE-|||0
+A 9 17|||R:WO|||esimest korda oma emaga Rauma linna suures kaupluses||esimest korda enda emaga Rauma linna suures kaupluses|||REQUIRED|||-NONE-|||0
+
+S See oli nii suur kauplus et see oli juba kaubamaja .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Olin kolmeaastane ja sain jalutada ema kõrval ega istuda ostukärus .
+A 8 9|||R:VERB:FORM|||istunud|||REQUIRED|||-NONE-|||0
+
+S Ema vaatas riideid ja see tüütas mind .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S , ja nii ma põgenin .
+A 0 2|||U:PUNCT|||Ja|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||põgenesin|||REQUIRED|||-NONE-|||0
+
+S Ma rändasin ringi suures kaupluses , kuni tähele panin kõrge soolakurgipurkide püramiidi .
+A 7 9|||R:WO|||panin tähele|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||kõrget|||REQUIRED|||-NONE-|||0
+
+S Ronisin püramiidi peale ja jäin sinna istuma .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal istusin ja vaatasin kaupluse üle minu uuelt kõrgelt troonilt .
+A 6 7|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 4 10|||R:WO|||oma uuelt kõrgelt troonilt üle kaupluse||enda uuelt kõrgelt troonilt üle kaupluse|||REQUIRED|||-NONE-|||0
+
+S Varsti tuli müüja ja ütles :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S " Kuidas sina sinne sattusid ?
+A 3 4|||R:SPELL|||sinna|||REQUIRED|||-NONE-|||0
+
+S Tule kiiresti alla ! "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tulin alla , ja müüja küsis : " Mis on sinu nimi ? "
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ma vastasin : " Minu nimi on Lind . "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei mäleta , miks valetasin et minu nimi on Lind , kuigi ma teasin et minu nimi on Elli-Mari .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||teadsin|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Jalutasin müüjaga kaupluse infosse ja müüja kuulutas : " Väike Lind oodatab tema ema infos . "
+A 11 12|||R:SPELL|||ootab|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+
+S See on hea , et minu ema oskas tulla infosse , kuigi müüja kuulutas vale nime .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hiljem minu ema valvas mind hoolega igal reisil kauplusse .
+A 1 4|||R:WO|||valvas minu ema|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||käigul|||REQUIRED|||-NONE-|||0

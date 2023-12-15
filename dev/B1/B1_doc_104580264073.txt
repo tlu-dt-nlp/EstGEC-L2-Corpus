@@ -1,0 +1,119 @@
+S Sõitsime koguduse noortekooriga Venemaale kui olin seitsmeteist aastane .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WS|||seitsmeteistaastane|||REQUIRED|||-NONE-|||0
+
+S Sihtpunktis oli Gatsina linn , umbes üks tund sõita Peterburist .
+A 0 1|||R:NOM:FORM|||Sihtpunktiks|||REQUIRED|||-NONE-|||0
+A 5 10|||R:WO|||Peterburist umbes üks tund sõita|||REQUIRED|||-NONE-|||0
+
+S Oli sügisene reetal kui läksime bussiga läbi Kagu-Soome Lappeenrantasse , mis ületasime riigipiiri .
+A 2 3|||R:NOM:FORM:SPELL|||reede|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||kus|||REQUIRED|||-NONE-|||0
+
+S Olin närvilik .
+A 1 2|||R:LEX|||närviline|||REQUIRED|||-NONE-|||0
+
+S Reis oli minu ensmäne reis Venemaale , aga see ei olnut ainuld põhjus närvilikusse .
+A 3 4|||R:SPELL|||esimene|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||olnud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX:SPELL|||ainus||ainuke|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX:NOM:FORM|||närvilisuseks|||REQUIRED|||-NONE-|||0
+
+S Majutus oli organiseeritud kohaliku koguduse liikmete kodudesse .
+A 6 7|||R:NOM:FORM|||kodudes|||REQUIRED|||-NONE-|||0
+
+S Minu sõber Miila olis minuga samas majutuses .
+A 3 4|||R:SPELL|||oli|||REQUIRED|||-NONE-|||0
+
+S Teasin , et meil arvatavasti ei olis ühist keelt meie pererahvasega .
+A 0 1|||R:SPELL|||teadsin|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||ole|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||pererahvaga|||REQUIRED|||-NONE-|||0
+
+S Ma ei osanud kujutleda , kuidas me suudaksime omavahel suhelda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga kui me saabusime Gatsinasse ja kohasime pererahvad , märgasin et meie perenaine oli tore inimene .
+A 6 7|||R:SPELL|||kohtasime|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||pererahvast|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||märkasin|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM:SPELL|||kohtusime|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||pererahvaga|||REQUIRED|||-NONE-|||1
+A 9 10|||R:SPELL|||märkasin|||REQUIRED|||-NONE-|||1
+
+S Ta naerus ja viibas meid õigesse suunasse .
+A 1 2|||R:SPELL|||naeris|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||viipas|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||suunda|||REQUIRED|||-NONE-|||0
+
+S Rahulikumaks muutusin ja hakkasin uskuda et kõik korralduks .
+A 0 2|||R:WO|||Muutusin rahulikumaks|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||uskuma|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||korraldub|||REQUIRED|||-NONE-|||0
+A 0 2|||R:WO|||Muutusin rahulikumaks|||REQUIRED|||-NONE-|||1
+A 4 5|||R:VERB:FORM|||uskuma|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX:VERB:FORM|||laabub|||REQUIRED|||-NONE-|||1
+
+S Meie perenaine elas ühes oma tütrega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Tema tütar oli viieteistaastane viieteist aastane ja väga uje .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Ta andas meile laenaks oma tuba ja magas ise emaga samas tubas .
+A 1 2|||R:SPELL|||andis|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||laenuks|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||toa|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||toas|||REQUIRED|||-NONE-|||0
+
+S Nende korter oli väga väike ja halvas seisukorras olevas majas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Laupäevahommikul läksime Gatsina linna keskusesse .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kogunesime kooriga ja läksime kontserdisaali mis me antasime kontserti .
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||kus|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||andsime|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||kontserdi|||REQUIRED|||-NONE-|||0
+
+S Pärast kontserdi läksime süüma restorani .
+A 1 2|||R:NOM:FORM|||kontserti|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||sööma|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||kontserti|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||restorani sööma|||REQUIRED|||-NONE-|||1
+
+S Õhtul kõndisime Gatsinas kuidas läksime magama pererahvaste kodudesse .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||kuni|||REQUIRED|||-NONE-|||0
+
+S Pühäpäeval laulsime kirikus ja läksime sõitsima tagasi Soome .
+A 0 1|||R:SPELL|||Pühapäeval|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||sõitsime|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Pühapäeval|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||hakkasime|||REQUIRED|||-NONE-|||1
+A 5 6|||R:SPELL|||sõitma|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||tagasi Soome sõitma|||REQUIRED|||-NONE-|||1
+
+S Peatusime Peterburis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Söime lõuna ja kõntisime linnas .
+A 0 1|||R:SPELL|||Sõime|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||lõunat|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||kõndisime|||REQUIRED|||-NONE-|||0
+
+S Ostasin punase salli kes on praegu minu lemmiksall .
+A 0 1|||R:SPELL|||Ostsin|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||mis|||REQUIRED|||-NONE-|||0
+
+S Saabusime koju väsinutena aga õnnelikena .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0

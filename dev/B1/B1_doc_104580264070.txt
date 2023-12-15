@@ -1,0 +1,105 @@
+S Minul on erisugused söömisharjumused argipäevati kuni nädalaloputi .
+A 4 5|||R:SPELL|||argipäeviti|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||nädalalõputi|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Mul|||REQUIRED|||-NONE-|||1
+A 2 3|||R:LEX|||teistsugused|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||argipäeviti|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||kui|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||nädalalõputi|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||argipäeviti teistsugused söömisharjumused kui nädalalõputi|||REQUIRED|||-NONE-|||1
+
+S Argipäevati söön lõunasööki ülikooli restoraanis ja teen ise õhtusööki .
+A 0 1|||R:SPELL|||Argipäeviti|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||restoranis|||REQUIRED|||-NONE-|||0
+
+S Nädalaloputi minu mees teeb õhtusööki ja me ei söö lõunasööki .
+A 0 1|||R:SPELL|||Nädalalõputi|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||teeb minu mees|||REQUIRED|||-NONE-|||0
+
+S Argipäeviti söön hommikusöögiks jogurtit ja leipa ja kohvi piimaga .
+A 5 6|||R:SPELL|||leiba|||REQUIRED|||-NONE-|||0
+
+S Ulikooli restoraanis on head toidud ja need on mitmesugused .
+A 0 1|||R:SPELL|||Ülikooli|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||restoranis|||REQUIRED|||-NONE-|||0
+
+S Salatites on mõnikord nii erilised köögiviljad et ma ei tea mis need on .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Minu meelest on tore süüa seal .
+A 3 6|||R:WO|||seal tore süüa|||REQUIRED|||-NONE-|||0
+
+S Praegusel nädalal meie argiõhtusöök on vanaema kapsavorm .
+A 2 5|||R:WO|||on meie argiõhtusöök|||REQUIRED|||-NONE-|||0
+
+S See on väga kasulik roog .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma tein seda esmaspäeval suurest kapsast ja arvan et see lõppeb kolmapäeval .
+A 1 2|||R:SPELL|||tegin|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 1 2|||R:SPELL|||tegin|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||saab|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||otsa|||REQUIRED|||-NONE-|||1
+
+S Neljapäevaks ja reedeks on võib-olla kartuleid viinerikastega .
+A 5 6|||R:NOM:FORM|||kartulid|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||viinerikastmega|||REQUIRED|||-NONE-|||0
+
+S Nädalaloputi söön hommikul leipa ja kohvi koorega .
+A 0 1|||R:SPELL|||Nädalalõputi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||leiba|||REQUIRED|||-NONE-|||0
+
+S Sel ajal on leiva peal hinnalisemad vorstid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Õhtusööki teeb minu mees .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta on parem kokk kui mina .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta ütleb , et ta on hästi õppinud süüa tegema tööreisidel Eestis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal on toidude hinnad odavamad kui Soomes ja on hõlbusem uusi roogi katsetada .
+A 2 3|||R:SPELL|||toitude|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||hõlpsam|||REQUIRED|||-NONE-|||0
+
+S Laupäeval sööme parimat rooga : tavaliselt praadi või lõhet .
+A 4 5|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Meie kassid söövad kassiderooga .
+A 3 4|||R:WS|||kasside rooga|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||kassitoitu|||REQUIRED|||-NONE-|||1
+
+S See maksab veerandi meie inimiste roogade hinnast nädalas .
+A 4 5|||R:SPELL|||inimeste|||REQUIRED|||-NONE-|||0
+
+S Minu meelest see on kallis hind kassideroast aga kassidele meeldib see roog .
+A 6 7|||R:WS:NOM:FORM|||kasside roa|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||kohta|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||on see kasside roa kohta kallis hind|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX:NOM:FORM|||kassitoidu|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||kohta|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||on see kassitoidu kohta kallis hind|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Minu söömisharjumustes on mõni probleem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei joo piisavalt piima .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See tuleb sellest , et ma ei armasta piima maitset .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma üritan süüa palju jogurtit ja juua piimakakaod , aga ma arvan , et ma peaksin mõnikord ka piima jooma .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Teine probleem on , et ma armastan liiga palju šokolaadi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

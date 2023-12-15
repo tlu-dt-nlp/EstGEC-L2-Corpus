@@ -1,0 +1,49 @@
+S Oleme nüüd Kalevantiel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minge algul Kalevantied mööda itta , üle silla .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S ( Näete ees üht kirikut , aga see on ortodoksne kirik . )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Pärast silda pöörake paremale ja olete Rautatienkadul .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minge umbes 700 meetrit Rautatienkadu mööda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kuna näete kirikut vasakul , olete kohale jõudnud .
+A 0 1|||R:LEX|||Kui|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Kui|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||vasakul kirikut|||REQUIRED|||-NONE-|||1
+
+S Teejuhatus ülikoolist Metsoni : Oleme nüüd Kalevantiel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minge Kalevantied mööda itta , üle silla .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Jätkake edasi , mööduke õigeusu kirikut , vuolteenkadu mööda .
+A 3 4|||R:SPELL|||mööduge|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||kirikust|||REQUIRED|||-NONE-|||0
+A 7 8|||R:CASE|||Vuolteenkadu|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||mööduge|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||kirikust|||REQUIRED|||-NONE-|||1
+A 7 8|||R:CASE|||Vuolteenkadu|||REQUIRED|||-NONE-|||1
+
+S Pärast kirikut pöörake paremale ja minge umbes 200 meetrit edasi ja pärast seda vasakule .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minge üle Hämeensilla ja jätkake edasi Hämeenkadu mööda nii kaua et näete ees teist kirikut .
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Siis pöörake paremale ja olete Metso kohal .
+A 5 6|||R:NOM:FORM|||Metsos|||REQUIRED|||-NONE-|||0
+
+S Kui mingi on ebaselge , küsige julgelt teiste inimeste käest rohkem .
+A 1 2|||R:LEX|||midagi|||REQUIRED|||-NONE-|||0

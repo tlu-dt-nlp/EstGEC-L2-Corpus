@@ -1,0 +1,66 @@
+S Minu esimene lastepõlvemälestus on ajalt , kui olin kahe- või kolmeaastane ja tõesti uje .
+A 2 3|||R:NOM:FORM|||lapsepõlvemälestus|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||ajast|||REQUIRED|||-NONE-|||0
+
+S Minu hoidja Elise hoidis lapsi tema kodus .
+A 5 6|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+
+S Iga päev võtsin minu lemmikraamatut kaasa hoidja juurde .
+A 3 4|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||lemmikraamatu|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||oma||enda|||REQUIRED|||-NONE-|||1
+A 4 5|||R:NOM:FORM|||lemmikraamatu|||REQUIRED|||-NONE-|||1
+A 5 8|||R:WO|||hoidja juurde kaasa|||REQUIRED|||-NONE-|||1
+
+S Raamatu nimi oli " Elame maal " ja siin oli palju toredaid pilte loomadest ja talumajapidamise töist .
+A 8 9|||R:LEX|||seal|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||töödest|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||seal|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||talupidamise|||REQUIRED|||-NONE-|||1
+A 16 17|||R:SPELL|||tööst|||REQUIRED|||-NONE-|||1
+
+S Peale minule hoidja juures oli umbes neli last .
+A 1 2|||R:NOM:FORM|||minu|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||oli hoidja juures|||REQUIRED|||-NONE-|||0
+
+S Ühe lapse nimi oli Saara .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Saara oli minust aasta noorem , aga ta ei olnud üldsegi mitte uje !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mõnikord Saara võttis minu lemmikraamatut minu käest ja aina ma hakkasin nutma .
+A 1 3|||R:WO|||võttis Saara|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||lemmikraamatu|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||mu|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||mu käest minu lemmikraamatu|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||ma hakkasin aina|||REQUIRED|||-NONE-|||0
+
+S Aga hoidja juures minul oli üks hea sõbra , poiss nimega Jouni .
+A 7 8|||R:NOM:FORM|||sõber|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||oli minul|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||sõber|||REQUIRED|||-NONE-|||1
+
+S Jouni oli minust aasta vanem .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Alati siis , kui Saara nuttis , jooksime elutuppa , ronisime diivanite peale , üks ühel ja teine teisel , piilusime teineteisi ja lõkerdasime .
+A 21 22|||R:NOM:FORM|||teineteist|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||ühele|||REQUIRED|||-NONE-|||1
+A 18 19|||R:NOM:FORM|||teisele|||REQUIRED|||-NONE-|||1
+A 21 22|||R:NOM:FORM|||teineteist|||REQUIRED|||-NONE-|||1
+
+S See on kõik kui mälestan minu lapsepõlvest .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||mida|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||mäletan|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
+
+S Aga minu ema on jutustanud , et alati siis , kui läksin hoidja koju , läksin kohe Jouniga diivanil teineteise vastas kõhili lamama ja teineteist vaatama .
+A 18 19|||R:NOM:FORM|||diivanile|||REQUIRED|||-NONE-|||0
+A 20 21|||R:LEX|||vastu|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||kõhuli|||REQUIRED|||-NONE-|||0
+
+S Aga ma ei seda mälesta !
+A 4 5|||R:LEX|||mäleta|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||mäleta seda|||REQUIRED|||-NONE-|||0

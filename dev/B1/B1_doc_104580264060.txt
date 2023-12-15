@@ -1,0 +1,55 @@
+S 3-5 kartulid 2-3 porgandid 1 väike moorputk 1 sibul küüslaugu 1 väike lillkapsas 5 dl keedud ubi 2 rkl oliiviõli currytahna köömneseemni
+A 1 2|||R:NOM:FORM|||kartulit|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||porgandit|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||küüslauk|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||keedetud|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||ube|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||sl|||REQUIRED|||-NONE-|||0
+A 20 20|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 20 21|||R:LEX|||karripasta|||REQUIRED|||-NONE-|||0
+A 21 21|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||köömneseemneid|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Koori ja tükelda sibuli ja küüslaugut ja praadi neid köömneseemnedega oliiviõlis katlas .
+A 3 4|||R:SPELL|||sibul|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM:SPELL|||küüslauk|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||prae|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||köömneseemnetega|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||katlas köömneseemnetega oliiviõlis|||REQUIRED|||-NONE-|||0
+
+S Lisa currytahna katlasse .
+A 1 2|||R:LEX|||karripasta|||REQUIRED|||-NONE-|||0
+
+S Koori ja tükelda kartulid , porgandid ja moorputk .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lisa ned katlasse ja hauta umbes 10 minutit kaane all .
+A 1 2|||R:SPELL|||need|||REQUIRED|||-NONE-|||0
+
+S Tükelda lillkapsas ja lisa see katlasse , kui kartulid on pooliks küpsaks saanud .
+A 10 11|||R:LEX:SPELL|||pooleldi|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||küpseks|||REQUIRED|||-NONE-|||0
+
+S Lisa tilk vett , kui on vajalik .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui lillkapsas ja juureviljad on küpsad , lisa keedud ubad .
+A 3 4|||R:SPELL|||juurviljad|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||küpsed|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||keedetud|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||oad|||REQUIRED|||-NONE-|||0
+
+S Hauta veel hetk .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Serveeri basmatiriisi ja naanleibaga .
+A 3 4|||R:SPELL|||naanleivaga|||REQUIRED|||-NONE-|||0
+A 3 5|||R:NOM:FORM:SPELL|||naanileivaga|||REQUIRED|||-NONE-|||1

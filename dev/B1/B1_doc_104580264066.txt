@@ -1,0 +1,24 @@
+S Keskmine eesti mees on 179 cm pikk ja kaalub 83 kg , keskmine soome mees on 177 cm pikk ja kaalub 82 kg .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Keskmine eesti naine on 165 cm pikk ja kaalub 69 kg , keskmine soome naine on 163 cm pikk ja kaalub 65 kg .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Keskmine eestlane vaatab televiisorit 3 tundi 37 minutit ja kuulab raadiot 4 tundi päevas .
+A 6 6|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+
+S Keskmine soomlane vaatab televiisorit 2 tundi 57 minutit ja kuulab raadiot 3 tundi 10 minutit päevas .
+A 6 6|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+
+S Keskmine eestlane jääb pensionile 62,1-aastasena , keskmine soomlane 61,9-aastasena .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Eestlane on pensionil keskmiselt 12,94 aastat , soomlane keskmiselt aastat 19,45 aastat .
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Keskmine pension on Eestis 4278 krooni ( 273,41 eurot ) , Soomes 1344 eurot .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Keskmine eesti naine saab 1,63 last , keskmine soome naine 1,7 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

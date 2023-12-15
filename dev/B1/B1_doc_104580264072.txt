@@ -1,0 +1,44 @@
+S Minu päev algab enamasti hilja , sest tavatsen olla kaua üleval .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Hommikul joon kõhvi ja söön hommikust .
+A 2 3|||R:SPELL|||kohvi|||REQUIRED|||-NONE-|||0
+
+S Siis lähen ülikooli , mis mul on iga päev loenguid .
+A 4 5|||R:LEX|||kus|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||loengud|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||kus|||REQUIRED|||-NONE-|||1
+
+S Mõnikord jään ülikooli õppima , sest seal on parem tööd teha kui kodus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kodus on raske kontsentreeruda tööle .
+A 3 5|||R:WO|||tööle kontsentreeruda|||REQUIRED|||-NONE-|||0
+
+S Ülikoolis saab ka head ja odavat sööki .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kui mul aega on , näen õhtul sõpru .
+A 6 7|||R:LEX|||õhtuti|||REQUIRED|||-NONE-|||0
+
+S Tavatsen ka tegeleda sporti paar korda iga nädal - möödunud sügisel algasin mängida ultimatet .
+A 3 4|||R:NOM:FORM|||spordiga|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||igal|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||nädalal|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||igal nädalal paar korda|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||alustasin|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||mängimist|||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL:CASE|||Ultimate'i|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WO|||Ultimate'i mängimist|||REQUIRED|||-NONE-|||0
+
+S Ma ei tavatse vaatada televiisorit , aga kunagi harva võib olla , et ma avan selle .
+A 3 4|||R:SPELL|||vaadata|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||vahel|||REQUIRED|||-NONE-|||0
+
+S Öösel söön õhtuoodet , pesen hambad ja lähen magama .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Oletan , et enamik soomlasist ja eestlasist niimoodi teevad .
+A 4 5|||R:SPELL|||soomlastest|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||eestlastest|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||teevad niimoodi|||REQUIRED|||-NONE-|||0
