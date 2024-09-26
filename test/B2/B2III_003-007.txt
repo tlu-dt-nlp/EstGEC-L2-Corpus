@@ -69,7 +69,7 @@ A 29 30|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
 A 30 31|||R:NOM:FORM|||raamatud|||REQUIRED|||-NONE-|||0
 
 S Aga palun proovige mitte liiga vara hommikul helistada eks ?
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S Juhul kui mingi raamat siin teid ei huvita , kas on teiega okei kui ma neid lihtsalt ära viskan ?
 A 11 12|||R:NOM:FORM|||teile|||REQUIRED|||-NONE-|||0
