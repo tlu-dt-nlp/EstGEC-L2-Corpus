@@ -9,6 +9,12 @@ A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 S Asi on selles , et leidsin hiljuti oma raamaturiulitest üsna palju raamatuid ja ajakirju , mida enam ei ole vaja ning ei tea mida nendega praegu teha .
 A 8 9|||R:SPELL|||raamaturiiulitest|||REQUIRED|||-NONE-|||0
 A 20 20|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 23 23|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||raamaturiiulitest|||REQUIRED|||-NONE-|||1
+A 17 20|||R:WO|||mida enam vaja ei ole|||REQUIRED|||-NONE-|||1
+A 20 20|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 20 22|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+A 23 23|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 
 S Nende hulgas on koolisõnastikud , raamatud , mis on seotud kooli kirjanduse prograamiga ning palju detektiive .
 A 12 13|||R:SPELL|||programmiga|||REQUIRED|||-NONE-|||0
