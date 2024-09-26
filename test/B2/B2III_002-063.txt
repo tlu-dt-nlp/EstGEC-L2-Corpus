@@ -46,7 +46,6 @@ A 41 42|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Kui keegi tahab midagi endale saada , kirjutage mulle meili või leidke mind Facebook'ist ( seal on veel postitus raamatute fotodega ) , vastan kindlasti !
 A 9 10|||R:NOM:FORM|||meil||meilile|||REQUIRED|||-NONE-|||0
-A 19 21|||R:WO:NOM:FORM|||fotodega raamatutest|||REQUIRED|||-NONE-|||0
 A 13 14|||R:SPELL|||Facebookist|||REQUIRED|||-NONE-|||0
 
 S P.S. kas keegi teab , mida teha nende raamatute ja ajakirjadega , mida keegi ei soovi ?
