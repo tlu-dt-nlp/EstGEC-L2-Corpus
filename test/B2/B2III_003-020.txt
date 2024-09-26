@@ -25,9 +25,17 @@ A 1 3|||R:WO|||jäi mulle|||REQUIRED|||-NONE-|||0
 
 S Kahjuks , vene keelt ma ei oska , aga ma kuulsin , et Dostojevksi , Gogol , Puškin ja Lermontov kirjutasid väga ilusalt ja põnevalt .
 A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
-A 2 7|||R:WO|||ma ei oska vene keelt|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||ma vene keelt ei oska|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:FORM|||olen kuulnud|||REQUIRED|||-NONE-|||0
 A 13 14|||R:SPELL|||Dostojevski|||REQUIRED|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||ma ei oska vene keelt|||REQUIRED|||-NONE-|||1
+A 10 11|||R:VERB:FORM|||olen kuulnud|||REQUIRED|||-NONE-|||1
+A 13 14|||R:SPELL|||Dostojevski|||REQUIRED|||-NONE-|||1
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 7|||R:WO|||ei oska ma vene keelt|||REQUIRED|||-NONE-|||2
+A 10 11|||R:VERB:FORM|||olen kuulnud|||REQUIRED|||-NONE-|||2
+A 13 14|||R:SPELL|||Dostojevski|||REQUIRED|||-NONE-|||2
 
 S Siis , kes oskab vene keelt ja kes natuke huvitatud vene kultuurist , palun , võtke .
 A 0 1|||R:LEX|||Niisiis||Seega|||REQUIRED|||-NONE-|||0
