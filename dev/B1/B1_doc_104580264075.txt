@@ -1,0 +1,614 @@
+S Käisin eelmisel kevadel , ülestõusmispühal Maltas .
+A 0 3|||R:WO|||Eelmisel kevadel käisin|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||Maltal|||REQUIRED|||-NONE-|||0
+
+S Mul ja minu sõbral oli mõlematel ülestõusmispüha ajal puhkust ja sõber esitas minul , et sõitaksime välismaal .
+A 0 0|||M:LEX|||Nii|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||minul|||REQUIRED|||-NONE-|||0
+A 1 1|||M:LEX|||kui ka|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||mu|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||puhkus|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||pakkus|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM:SPELL|||sõita|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||välismaale|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||välismaale sõita|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||puhkus|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||pakkus|||REQUIRED|||-NONE-|||1
+A 12 13|||R:NOM:FORM|||mulle|||REQUIRED|||-NONE-|||1
+A 15 16|||R:SPELL|||sõidaksime|||REQUIRED|||-NONE-|||1
+A 16 17|||R:NOM:FORM|||välismaale|||REQUIRED|||-NONE-|||1
+
+S Kui mul kordki piisavalt raha ka oli , hakkasime plaanida reisi .
+A 2 3|||R:LEX|||kord|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||plaanima|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||reisi plaanima|||REQUIRED|||-NONE-|||0
+
+S Tahtsime sõbraga reisida sellisele kohale ja maale , kus mitte kumbki varem ei olnud käinud ega sellest teadnud väga palju .
+A 3 4|||R:NOM:FORM|||sellisesse|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||kohta|||REQUIRED|||-NONE-|||0
+A 5 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||ei olnud varem|||REQUIRED|||-NONE-|||0
+A 16 18|||R:WO|||teadnud sellest|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||eriti|||REQUIRED|||-NONE-|||0
+
+S Tahtsime siis tundma õppida uue maa ja kohtada uusi asju ning erisuguse kultuuri .
+A 2 4|||R:WO|||õppida tundma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||uut|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||maad|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||kohata|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||erisugust|||REQUIRED|||-NONE-|||0
+
+S Otsime sobivat reisi internetist ja arutasime , milline see peaks olla .
+A 0 1|||R:VERB:FORM|||Otsisime|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||olema|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||olema peaks|||REQUIRED|||-NONE-|||0
+
+S Me ei tahtnud sõita väga kaugele ja reisi hind ei võinud olla liiga kõrget .
+A 10 11|||R:LEX|||tohtinud|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||kõrge|||REQUIRED|||-NONE-|||0
+
+S Leisime reisi Maltasse , mis tundus healt .
+A 0 1|||R:SPELL|||Leidsime|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||hea|||REQUIRED|||-NONE-|||0
+
+S Maltast teasin ainult , et selle pealinn on Valletta .
+A 1 2|||R:SPELL|||teadsin|||REQUIRED|||-NONE-|||0
+
+S Enne reisi saime ka teada , et seal räägitakse malta keelt , aga kõik maltalased oskavad ka inglise keelt .
+A 2 3|||R:LEX|||uurisime välja|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||selle|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Peale selle Maltasse ei kesta kaua lenda , nelja või viis tunti .
+A 2 3|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||lend|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||ei kesta lend Maltale kaua|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||neli|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||tundi|||REQUIRED|||-NONE-|||0
+
+S Enne reisi võtime selget Malta vaatamisväärsustest ja sellest , mida Maltas teha võida .
+A 2 3|||R:LEX|||tegime|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||selgeks|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||vaatamisväärsused|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||Maltal|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||võiks|||REQUIRED|||-NONE-|||0
+
+S Me ei tehnud väga täpset plaani , aga otsustasime , et pürime midagi teha iga päev .
+A 2 3|||R:SPELL|||teinud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX:SPELL|||püüame|||REQUIRED|||-NONE-|||0
+
+S Mitte kumbki ei tahtnud ainult rannas maada ja päikest võtta .
+A 4 5|||R:LEX|||lihtsalt|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||magada|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||magada|||REQUIRED|||-NONE-|||1
+
+S Ma ei armasta väga kuuma ilma , sest sellises ilmas mul on paha olla .
+A 8 9|||R:NOM:FORM|||sellise|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||ilmaga|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||hakkab|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||hakkab mul|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||sellise|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||ilmaga|||REQUIRED|||-NONE-|||1
+A 10 12|||R:WO|||on mul|||REQUIRED|||-NONE-|||1
+
+S Oli hea , et sõitsime Maltasse juba Aprilis , sest seal võib-olla väga kuum suvel .
+A 5 6|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL:CASE|||aprillis|||REQUIRED|||-NONE-|||0
+A 11 12|||R:WS|||võib olla|||REQUIRED|||-NONE-|||0
+A 11 15|||R:WO|||võib suvel olla väga kuum|||REQUIRED|||-NONE-|||0
+
+S Malta kliima olevat ilus , seal harva vihma satavat .
+A 8 9|||R:SPELL|||sadavat|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||sadavat harva vihma|||REQUIRED|||-NONE-|||0
+
+S Olime Maltas ühe nadala ja sel ajal ei sadanud üldse .
+A 1 2|||R:NOM:FORM|||Maltal|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||nädala|||REQUIRED|||-NONE-|||0
+
+S Sõitsime Maltasse neljapäeval .
+A 1 2|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
+
+S Lendasime Maltasse Helsinkist ja olime kohal õhtupoolikul .
+A 1 2|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||Helsingist|||REQUIRED|||-NONE-|||0
+A 5 6|||R:WO|||õhtupoolikul kohal|||REQUIRED|||-NONE-|||0
+
+S Meie reis oli valmisreis ja reisijuht oli lennuväljal reisijatel vastas bussiga .
+A 6 7|||R:LEX|||ootas|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||reisijaid|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||bussiga vastas|||REQUIRED|||-NONE-|||1
+
+S Sõitsime bussiga hotelli , mis asus Malta loodeosas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Regiooni nimi oli Qawra .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Malta on väga väike maa ja iga poolel on lühikesed distantsid .
+A 6 7|||R:NOM:FORM|||igale|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||poole|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||vahemaad|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||igale|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||poole|||REQUIRED|||-NONE-|||1
+
+S Igale kohale sõitakse lühis ajas , pooles tunnis .
+A 0 1|||R:NOM:FORM|||Igasse|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||kohta|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||sõidetakse|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||lühikese|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||ajaga|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||poole|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||tunniga|||REQUIRED|||-NONE-|||0
+
+S Esimesel päeval me ei mitte spetsiaalset tehnud .
+A 4 5|||R:LEX|||midagi|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||erilist|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||teinud|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||teinud midagi erilist|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||midagi|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||teinud|||REQUIRED|||-NONE-|||1
+A 4 7|||R:WO|||teinud midagi spetsiaalset|||REQUIRED|||-NONE-|||1
+
+S Kui olime oma ruumi asetunud , käisime ümbrusega tutvumas .
+A 2 2|||M:LEX|||ennast|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||sisse seadnud|||REQUIRED|||-NONE-|||0
+
+S Pärast jalutamise söime õhtusöögi .
+A 1 2|||R:NOM:FORM|||jalutamist|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||sõime|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||õhtusööki|||REQUIRED|||-NONE-|||0
+
+S Meil oli toitlustusega majutus , saime kõigi söögid hotellis süüa .
+A 6 7|||R:NOM:FORM|||kõik|||REQUIRED|||-NONE-|||0
+
+S Õhtusöögil sai veel juua , mis tahtis .
+A 1 2|||R:VERB:FORM|||saime|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 4|||M:LEX|||kõike|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||tahtsime|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||saime|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||1
+A 6 7|||R:VERB:FORM|||tahtsime|||REQUIRED|||-NONE-|||1
+
+S Jõime iga õhtu veini .
+A 1 2|||R:NOM:FORM|||igal|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||õhtul|||REQUIRED|||-NONE-|||0
+
+S Ainult vett pidi poest ostada , sest kraanist seda ei võinud juua .
+A 4 5|||R:VERB:FORM:SPELL|||ostma|||REQUIRED|||-NONE-|||0
+
+S Ja võtime iga hommik kaks pudelit vett kaasa , kui me hotellilt minema läksime .
+A 1 2|||R:SPELL|||võtsime|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||igal|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||hommikul|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||hotellist|||REQUIRED|||-NONE-|||0
+
+S Mõnikord sõime lõunat restoranis , kui sil ajal hotellis ei olnud .
+A 6 7|||R:SPELL|||sel|||REQUIRED|||-NONE-|||0
+
+S Teine päev oli reede ja suur reede .
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Sest et see oli püha , ei voinud palju teha , sest mitmed poed ja vaatamisväärsused olid kinni .
+A 0 1|||R:LEX|||Kuna|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:SPELL|||saanud|||REQUIRED|||-NONE-|||0
+
+S Otsustasime , et läheme jalutama ja vaatama , milliselt lähikond näeb välja .
+A 8 9|||R:NOM:FORM|||milline|||REQUIRED|||-NONE-|||0
+A 10 12|||R:WO|||välja näeb|||REQUIRED|||-NONE-|||0
+
+S Olime eelmisel päeval jo näinud , et Malta maastik on peamiselt kuiva , mis kasvab stepitaimi .
+A 3 4|||R:SPELL|||ju|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||märganud||täheldanud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||kuiv|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||kus|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||ju|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||kuiv|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||kus|||REQUIRED|||-NONE-|||1
+
+S Kui jalutasime , märgasime ka , et kõik ehitised on samasugused , kollakad .
+A 3 4|||R:SPELL|||märkasime|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Hiljem meile öeldakse , et need on ehitatud lubjakivest , mis on Malta kõige tähtsam loodusvara .
+A 2 3|||R:VERB:FORM|||öeldi|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||öeldi meile|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||lubjakividest||lubjakivist|||REQUIRED|||-NONE-|||0
+
+S Meile Malta maastik ei väga meeldinud , aga meri oli väga ilus .
+A 3 5|||R:WO|||väga ei|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||eriti|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||väga ei|||REQUIRED|||-NONE-|||1
+
+S Siin oli mitu sinise värvi erinevaid toone ja isegi rohelist !
+A 0 1|||R:LEX|||Seal|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||erinevat|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||erinevat sinise värvi|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||tooni|||REQUIRED|||-NONE-|||0
+
+S Reisil kõige enemasti võtime pilte merest ja tollal reedel imetlesime seda esimest kort .
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||enamasti|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX:SPELL|||tegime|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||tegime enamasti|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||tollel|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||korda|||REQUIRED|||-NONE-|||0
+
+S Jalutasime mitu kilometrit mere randa mööda ja vaatasime ehitisi , inimesi , merd , poodite aknaid , maastikke ja kõige võimalikku .
+A 2 3|||R:SPELL|||kilomeetrit|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WS|||mereranda|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||poodide|||REQUIRED|||-NONE-|||0
+A 19 20|||R:NOM:FORM|||kõike|||REQUIRED|||-NONE-|||0
+
+S Näime näiteks huvitavaid väikeseid mitmevärviliseid paate , mis on traditsioonilised malta kalameeste paatid , aga ma ei enam mäleta , mis neie nimi on .
+A 0 1|||R:SPELL|||Nägime|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||mitmevärvilisi|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||paadid|||REQUIRED|||-NONE-|||0
+A 17 19|||R:WO|||mäleta enam|||REQUIRED|||-NONE-|||0
+A 21 22|||R:SPELL|||nende|||REQUIRED|||-NONE-|||0
+
+S Jalutasime tagasi hotelli eri teed ja sest meil veel kaarti ei olnud , peaaegu eksisime , aga leisime ikkagi hotelli .
+A 3 4|||R:LEX|||teist|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||kuna|||REQUIRED|||-NONE-|||0
+A 13 13|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||leidsime|||REQUIRED|||-NONE-|||0
+A 20 20|||M:LEX|||üles|||REQUIRED|||-NONE-|||0
+
+S Laupäeval sõitsime bussiga Malta pealinna , Vallettasse .
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Need malta bussid oli ka väga huvitavad , vanad ja kellapunased .
+A 1 2|||R:CASE|||Malta|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||0
+A 9 11|||R:LEX|||kuldpunased|||REQUIRED|||-NONE-|||0
+
+S Need olid ka ikka tuubil täis .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Vallettas jalutasime ringi ja vaatasime linna elu .
+A 5 7|||R:WS|||linnaelu|||REQUIRED|||-NONE-|||0
+
+S Muidugi linnas oli palju turiste , sest oli nädalalõpp .
+A 1 3|||R:WO|||oli linnas|||REQUIRED|||-NONE-|||0
+
+S Sest et Malta peamine tegevusala on turism , seal ikka on palju turiste .
+A 0 1|||R:LEX|||Kuna|||REQUIRED|||-NONE-|||0
+A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 11|||R:WO|||on seal ikka|||REQUIRED|||-NONE-|||0
+
+S Maltal on väga huvitav ja pikk ajalugu .
+A 3 6|||R:WO|||pikk ja huvitav|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Sellepärast seal on mitu ajaloolist vaatamisväärsust .
+A 1 3|||R:WO|||on seal|||REQUIRED|||-NONE-|||0
+
+S Aga mind ja oma sõpra ajalugu mitte nii huvitab , sellepärast me sellistes kohtades ei käinud ega selliseid vaatamisväärsusi vaadanud .
+A 3 4|||R:LEX|||mu||minu|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||väga|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||nii väga ei|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||huvita|||REQUIRED|||-NONE-|||0
+
+S Vallettas püüdisime ühes muuseumis käia , aga nädalalõpputi see pandi varem kinni .
+A 1 2|||R:VERB:FORM|||püüdsime|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||nädalalõputi|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||pandi see|||REQUIRED|||-NONE-|||0
+
+S Tahtsime ka teatris tutvumas käia , aga sel päeval seal oli vaatus ja me ei pääsnud sisse .
+A 2 3|||R:NOM:FORM|||teatriga|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||oli seal|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||etendus|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||pääsenud|||REQUIRED|||-NONE-|||0
+
+S Nii käisime sisseoste tegemas poodidesse ja turul .
+A 4 5|||R:NOM:FORM|||poodides|||REQUIRED|||-NONE-|||0
+
+S Valletta on tore ja ilus linn ega liiga suur .
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||mitte|||REQUIRED|||-NONE-|||0
+A 3 9|||R:WO|||ilus ja mitte liiga suur linn|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+
+S Seal pole palju autosid ja tänavad on väga kitsad ja mägised .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Linnas on ka mitu treppi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sest meil Vallettas nii palju aega ei läinud , sõitsime bussiga naaberlinna , Sliemasse , mis on Malta sisseostu ja ööelu keskus .
+A 0 1|||R:LEX|||Kuna|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Sellest läks ka väike ristlus , mis seilas randa mööda ümber Valletta ja tema naaberlinnate , mis ranna äärdes asuvad .
+A 0 1|||R:LEX|||Sealt|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||ristluslaev|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||naaberlinnade|||REQUIRED|||-NONE-|||0
+A 18 19|||R:SPELL|||ääres|||REQUIRED|||-NONE-|||0
+
+S Võisime vaadata maastikke laeva pealt ja samal ajal võtta päikest .
+A 8 10|||R:WO|||päikest võtta|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Aga kõik maastikud ei olnud ilusad , oli ka palju ehitusplatse .
+A 6 7|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Pühapäeval sõitsime bussiga loesse , linna , kust parvlaevad lähevad naabersaarel .
+A 3 4|||R:SPELL|||loodesse|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||naabersaarele|||REQUIRED|||-NONE-|||0
+
+S Malta riik koostub kaheksast saarest , aga ainult kolm on asustamatud .
+A 2 3|||R:LEX|||koosneb|||REQUIRED|||-NONE-|||0
+A 9 9|||M:LEX|||neist|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||asustatud|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||koosneb|||REQUIRED|||-NONE-|||1
+A 10 11|||R:LEX|||asustatud|||REQUIRED|||-NONE-|||1
+
+S Need on Malta , Gozo ja Comino saared .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Comino saarel ei saab minna turistid ega teised sellised , kes seal ei ela .
+A 1 2|||R:NOM:FORM|||saarele|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||saa|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||keegi|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||teine|||REQUIRED|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||saarele|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||saa|||REQUIRED|||-NONE-|||1
+A 5 5|||M:LEX|||ei|||REQUIRED|||-NONE-|||1
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Aga Gozo saar on lahti kõigil .
+A 5 6|||R:NOM:FORM|||kõigile|||REQUIRED|||-NONE-|||0
+
+S Kui pääsime randa , ostsime turistiagentuurist ringsõidu .
+A 1 2|||R:SPELL|||pääsesime|||REQUIRED|||-NONE-|||0
+A 1 3|||R:SPELL|||randa pääsesime|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||turismiagentuurist|||REQUIRED|||-NONE-|||0
+
+S Sõitsime mikrobussiga ümber saard .
+A 3 4|||R:SPELL|||saare|||REQUIRED|||-NONE-|||0
+
+S Meil oli väga tore ja lõbus juht .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ta rääkis meile palju nii Gozost kui Maltast , nende inimesist , kultuurist , ühiskonna struktuurist ja maast ülepea .
+A 7 7|||M:LEX|||ka|||REQUIRED|||-NONE-|||0
+
+S Rääkis ka väga huvitavaid ja lõbusaid jutte tema varemilt ringsõitudelt .
+A 8 9|||R:LEX:SPELL|||varasematelt|||REQUIRED|||-NONE-|||0
+
+S Käisime Malta kõige kuulsamail vaatamisväärsusil , mis on Azure Window - asuur aken , Fungus Rock - seenkivi , Calypso Cave - Calypso koobas ja Ta’Pinu Sanctuary - Ta’Pinu basiilika .
+A 1 1|||M:LEX|||külastamas||vaatamas|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||kuulsamaid|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||vaatamsiväärsusi|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||asuuraken|||REQUIRED|||-NONE-|||0
+A 29 30|||R:LEX|||pühamu|||REQUIRED|||-NONE-|||0
+
+S Võtime mitu ilusat piltit .
+A 0 1|||R:LEX:SPELL|||Tegime|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||pilti|||REQUIRED|||-NONE-|||0
+
+S Minu meelest pühapäev oli meie reisi kõige parem päev .
+A 2 4|||R:WO|||oli pühapäev|||REQUIRED|||-NONE-|||0
+
+S Gozo oli ka ilusam saar kui Malta saar .
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Gozol oli rohkem rohelist ja vähem ehititisi .
+A 3 4|||R:LEX|||rohelust|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||ehitisi|||REQUIRED|||-NONE-|||0
+
+S Ka inimised tundsid toremalt , nad rääkisivad rohkem ja olid rõõmsamad .
+A 1 2|||R:SPELL|||inimesed|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||tundusid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM:SPELL|||toredamad|||REQUIRED|||-NONE-|||0
+A 6 7|||R:SPELL|||rääkisid|||REQUIRED|||-NONE-|||0
+
+S Esmaspäeval läksime jälle Sliemasse ja läksime laevaga ringreisil , mis pidis ümber Comino ja Malta saarte seilada .
+A 4 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||ringreisile|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||pidi|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||saare|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM:SPELL|||seilama|||REQUIRED|||-NONE-|||0
+A 11 17|||R:WO|||seilama ümber Comino ja Malta saare|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||kus|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||ringreisile|||REQUIRED|||-NONE-|||1
+A 10 11|||R:SPELL|||pidi|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||saare|||REQUIRED|||-NONE-|||1
+A 16 17|||R:VERB:FORM:SPELL|||seilama|||REQUIRED|||-NONE-|||1
+A 11 17|||R:WO|||seilama ümber Comino ja Malta saare|||REQUIRED|||-NONE-|||1
+
+S Pääsime Comino saare kõige kuulsamale vaatamisväärsusele , mis on Blue Lagoon - sinine laguun .
+A 0 1|||R:SPELL|||Pääsesime|||REQUIRED|||-NONE-|||0
+
+S See oli küll väga ilus koht .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vesi oli laguunis helesinist ja see oli nii selget , et nägi põhja .
+A 3 4|||R:NOM:FORM|||helesinine|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||selge|||REQUIRED|||-NONE-|||0
+
+S See näitas paradiisilt ja selliselt , mida nägeb ainult filmis .
+A 1 2|||R:LEX|||näis|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||paradiisina|||REQUIRED|||-NONE-|||0
+A 3 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||näeb|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||näis|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||paradiisina|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||sellisena|||REQUIRED|||-NONE-|||1
+A 7 8|||R:SPELL|||näeb|||REQUIRED|||-NONE-|||1
+
+S Me ei käinud ujumas , sest ilm ei olnud nii soe , aga jalad kastsime küll .
+A 13 14|||R:NOM:FORM|||jalgu|||REQUIRED|||-NONE-|||0
+A 16 16|||M:LEX|||vette|||REQUIRED|||-NONE-|||0
+
+S Sõime lõunat laeval .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga kui pidi edasi minema oli tuul nii kõva , et laev ei võinud seilada seda teed mööda , mida oleks pidanud .
+A 2 3|||R:VERB:FORM|||pidime|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||saanud|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||seilata|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||R:LEX|||saanud|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||seilata|||REQUIRED|||-NONE-|||1
+
+S Seilasime Gozo saare lõunaranna mööda ja siis tagasi sama teed .
+A 3 4|||R:NOM:FORM|||lõunaranda|||REQUIRED|||-NONE-|||0
+
+S Meid vihastas see , et me ei pääsnud Malta saare lõunapoolt nägema , sest seal me ei olnud sugugi käinud .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:SPELL|||saanud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:FORM|||näha|||REQUIRED|||-NONE-|||0
+A 15 18|||R:WO|||ei olnud me|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||pääsenud|||REQUIRED|||-NONE-|||1
+A 15 18|||R:WO|||ei olnud me|||REQUIRED|||-NONE-|||1
+
+S Aga tuul oli küll nii tugev , et laev liiga kõva kiikus .
+A 10 11|||R:LEX|||kõvasti|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||kiikus liiga kõvasti|||REQUIRED|||-NONE-|||0
+
+S Oli parem , et kuiva jalaga tagasi rannal pääsime .
+A 7 8|||R:NOM:FORM|||randa|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||pääsesime|||REQUIRED|||-NONE-|||0
+
+S Teisipäeval otsustasime minema Kesk- ja Lõuna-Maltasse , sest seal me ei olnud veel käinud .
+A 2 3|||R:VERB:FORM|||minna|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||Lõuna-Maltale|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||ei olnud me|||REQUIRED|||-NONE-|||0
+
+S Sõitsime jälle bussiga ja peatusime esmalt Mosta linnas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal on väga suur toomkirik , kus on mitu ilusat altarit ja altaripiltit , ning suure plaate põrandal .
+A 12 13|||R:SPELL|||altaripilti|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||suuri|||REQUIRED|||-NONE-|||0
+
+S Ma ei teada seda , kas need on võimalikult hauakivid või mälestustahvled .
+A 2 3|||R:VERB:FORM|||tea|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||mälestustahvlid|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||tea|||REQUIRED|||-NONE-|||1
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||olla|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||võivad|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WO|||võivad olla|||REQUIRED|||-NONE-|||1
+A 11 12|||R:SPELL|||mälestustahvlid|||REQUIRED|||-NONE-|||1
+
+S Mostast jätkasime Mdina linna , mis on Malta kõige vanem linn .
+A 2 2|||M:LEX|||sõitu|||REQUIRED|||-NONE-|||0
+
+S Seal on väga kitsad tänavad ja linnas ei saa autoga sõita .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal oli väga rahulikult , kuigi oli palju turiste .
+A 3 4|||R:LEX|||rahulik|||REQUIRED|||-NONE-|||0
+
+S Mdina asub kõrge mäe peal ja sealt nägeb kaugele ning Malta teisi linnu .
+A 7 8|||R:SPELL|||näeb|||REQUIRED|||-NONE-|||0
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||teistesse|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||linnadesse|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||teistesse Malta linnadesse|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||näeb|||REQUIRED|||-NONE-|||1
+A 10 10|||M:LEX|||ka|||REQUIRED|||-NONE-|||1
+A 10 13|||R:WO|||teisi Malta linnu|||REQUIRED|||-NONE-|||1
+
+S Mdinas oli mitu toredat poodi ja ostsime sealt vähemalt ehteid .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Linnas oli ka restorane , mis näevad hubase ja meeldiv välja .
+A 6 7|||R:VERB:FORM|||nägid|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||hubased|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||meeldivad|||REQUIRED|||-NONE-|||0
+
+S Pärast seda kui läksime Mdina linnast , käisime veel Malta saare kõige kõrgemal kohal , Dingli Cliff - Dingli rannakaljul .
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||lahkusime|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||kõrgemas|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||kohas|||REQUIRED|||-NONE-|||0
+
+S Aga see ei meile meeldinud , sest see oli ainult üks mägi ega tundnud nii imeliselt .
+A 13 14|||R:LEX|||tundunud|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOM:FORM|||imeline|||REQUIRED|||-NONE-|||0
+
+S Kolmapäeva kasutamise ainult sellesse , et ostsime kõike , mis tahaksime koju või inimesile tuua .
+A 1 2|||R:LEX|||kasutasime|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||selleks|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||osta|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||inimestele|||REQUIRED|||-NONE-|||0
+
+S Läksime Sliemasse sisseoste tegema , aga seepärast leisime midagi veel ka oma linna poodidest .
+A 6 7|||R:LEX|||pärast|||REQUIRED|||-NONE-|||0
+A 7 8|||R:SPELL|||leidsime|||REQUIRED|||-NONE-|||0
+
+S Minu ei tarvinud palju ostada , ainult minu öetütrel midagi ja vanematel tahtsin ka midagi leida .
+A 0 1|||R:NOM:FORM|||Minul|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||olnud vaja|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||osta|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM:SPELL|||õetütrele|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||vanematele|||REQUIRED|||-NONE-|||0
+
+S Õhtul pakkisime reisikotte , sest neljapäeva hommikul vara läksime tagasi Soome .
+A 6 8|||R:WS|||varahommikul|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kuigi Malta mulle väga ei meeldinud , oli reis sellest hoolimata hea .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Oli tore veedata aega sõbraga ja ühes uusi asju näha ja kogeda .
+A 2 3|||R:SPELL|||veeta|||REQUIRED|||-NONE-|||0
+
+S Selle sõbraga ma ei olnud varem reisinud ega nii pikka aega ühes elanud .
+A 2 5|||R:WO|||ei olnud ma|||REQUIRED|||-NONE-|||0
+
+S Meil oli väga huvitav ühes ja tulime toime , kuigi oleme erinevad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mitte kordki me ei riielnud ja minu meelest nüüd oleme paremad sõbrad kui enne reisi .
+A 0 5|||R:WO|||Me ei riielnud mitte kordagi|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||oleme nüüd|||REQUIRED|||-NONE-|||0
+
+S Ja Maltas kõik ei olnud halba .
+A 1 2|||R:NOM:FORM|||Maltal|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||halb|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||ei olnud kõik|||REQUIRED|||-NONE-|||0
+
+S Meri ja kaljud olid väga ilusad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lisaks inimesed olid sõbralikud .
+A 1 3|||R:WO|||olid inimesed|||REQUIRED|||-NONE-|||0
+
+S Reisist jäi head mälestused .
+A 1 2|||R:VERB:FORM|||jäid|||REQUIRED|||-NONE-|||0
+
+S Aga ma ei usu , et ma uuesti Maltasse sõitan .
+A 8 9|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||sõidan|||REQUIRED|||-NONE-|||0
