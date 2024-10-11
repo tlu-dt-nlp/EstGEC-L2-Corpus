@@ -1,0 +1,144 @@
+S Tervist !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selle jaoks , et pääseda olümpiaadi lõppvooru ja esindada minu kooli , kirjutan teile motivatsioonikirja .
+A 9 10|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+A 0 2|||R:LEX|||Selleks|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||1
+
+S Minu arvates ma olen seda väärt .
+A 2 4|||R:WO|||olen ma|||REQUIRED|||-NONE-|||0
+
+S Koolis ei arvatud ka teistmoodi .
+A 4 5|||R:LEX|||teisiti|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Eesti keelt hakkasin rääkima väga varasest lapsepõlvest .
+A 4 4|||M:LEX|||juba|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||varases|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||lapsepõlves|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Minu kooli õpilastest mitte ükski , kellega ma suhelnud olen , nii puhtalt eesti keelt ei räägi .
+A 0 5|||R:WO|||Mitte ükski minu kooli õpilastest|||REQUIRED|||-NONE-|||0
+A 11 17|||R:WO|||ei räägi eesti keelt nii puhtalt|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ma olen palju eestlastega suhelnud ja paljud neist ei teadnud , et ma olen venelane .
+A 2 3|||R:NOM:FORM|||paljude|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||eestlastega palju|||REQUIRED|||-NONE-|||1
+A 6 7|||R:LEX|||mitmed|||REQUIRED|||-NONE-|||1
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Keegi ei oskaks mu jutu järgi pakkuda , et ma ei ole eestlane .
+A 6 7|||R:LEX|||arvata|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Kui aga pidin venelasega rääkima või jutt käis koolist , kõik olid väga üllatanud .
+A 10 12|||R:WO|||olid kõik|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||üllatunud|||REQUIRED|||-NONE-|||0
+
+S Kõik inimesed olid alati väga huvitatud , et kust ma eesti keele ära õppisin .
+A 6 6|||M:LEX|||sellest|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||kuidas|||REQUIRED|||-NONE-|||0
+
+S Siis aga rääkisin ma neile , et käisin vene lasteaias , aga eesti rühmas .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Aga see ei ole põhiline allikas , kust ma eesti keeleselgeks sain .
+A 10 11|||R:WS|||keele selgeks|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||mille kaudu|||REQUIRED|||-NONE-|||1
+A 10 11|||R:WS|||keele selgeks|||REQUIRED|||-NONE-|||1
+
+S Tuli nii välja , et sündisin ja elan siiamaani eesti rajoonis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kohe algusest peale olid mul eesti sõbrad .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei ole kunagi spetsiaalselt eesti keelt õppinud , ega eesti keele sõnu pähe tuupinud .
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Minu isa räägib juba lapsepõlvest alates samuti vabalt eesti keeles .
+A 0 0|||M:LEX|||Ka|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 10|||R:WO|||samuti vabalt eesti keeles juba lapsepõlvest alates|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Präegu aga ei räägi ma mitte kuskil nii palju eesti keelt kui trennis .
+A 0 1|||R:SPELL|||Praegu|||REQUIRED|||-NONE-|||0
+
+S Mina tegelen mitte harrastus- , vaid võistlusspordiga .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu ema palub mind rohkem pühenduda õppimisele ja palub mind : " Ära tee nii palju trenni ! " .
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||õppimisele pühenduda|||REQUIRED|||-NONE-|||0
+A 8 10|||R:LEX|||ütleb|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||1
+A 5 7|||R:WO|||õppimisele pühenduda|||REQUIRED|||-NONE-|||1
+
+S Ega ma nohik pole , et ainult õppida !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kummastki ma ei loobu !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Püüan hästi õppida ja teha sporti .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sport on minu jaoks väga tähtis !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Seal on mul palju sõpru , kellega meeldib mulle suhelda ka vabal ajal .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei tee kunagi vahet , et kas inimene on eestlane , venelane või üldse teisest rahvusest , minu meelest , kõik inimesed on võrdsad .
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
+A 20 21|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 24|||R:WO|||on kõik inimesed|||REQUIRED|||-NONE-|||0
+A 24 25|||R:SPELL|||võrdsed|||REQUIRED|||-NONE-|||0
+
+S Ei venelane ega eestlane ei saa mu sõbraks ainult rahvuse pärast , kõige pealt ma vaatan inimese iseloomu .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
+A 12 14|||R:WS|||kõigepealt|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||vaatan ma|||REQUIRED|||-NONE-|||0
+
+S Minu arvates on ebaloogiline sõpru rahvuse pärast valida .
+A 4 8|||R:WO|||valida sõpru rahvuse pärast|||REQUIRED|||-NONE-|||0
+
+S Inimestega suheldes ei tekki mul probleeme oma mõtteid jagada , suudan vabalt seletada minu ideid .
+A 3 4|||R:SPELL|||teki|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||mõtete|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||jagamisega|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
+
+S Olen sõbralik .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Saan inimestega hästi läbi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selle pärast ma arvan , et võiks ma oma kooli esindada .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||võiksin|||REQUIRED|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 8|||R:WO|||ma võiks|||REQUIRED|||-NONE-|||1
+
+S Tahtejõutu selles suhtes ma pole .
+A 0 1|||R:SPELL|||Tahtejõuetu|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ma selles suhtes|||REQUIRED|||-NONE-|||0
+
+S Olen paljudest eesti keele üritustest osa võtnud , suudan paljudest teemadest rääkida ja juttu üleval hoida !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 16 17|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+
+S See tõttu , et olen sportlane , meeldivad mulle erinevad uued väljakutsed .
+A 0 2|||R:WS|||Seetõttu|||REQUIRED|||-NONE-|||0
+
+S Ja loodetavasti saan ma nendest kõikidest üle ! Lugupidamisega
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

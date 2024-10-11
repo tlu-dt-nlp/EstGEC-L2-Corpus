@@ -1,0 +1,152 @@
+S On üllatavalt raske ülesanne kirjeldada oma loomust , sest see tuntub samaaegselt nii iseloomulikult , et selle on võimatu leida sõnu , ja siiski mõneti ebaselge , kuidas inimene ei kunagi või täiesti ise ennast aru saada .
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||oma loomust kirjeldada|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||tundub|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX:NOM:FORM|||iseenesestmõistetav|||REQUIRED|||-NONE-|||0
+A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 24|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 31 32|||R:LEX|||suuda|||REQUIRED|||-NONE-|||0
+A 30 32|||R:WO|||suuda kunagi|||REQUIRED|||-NONE-|||0
+A 32 33|||R:LEX|||täielikult|||REQUIRED|||-NONE-|||0
+A 35 37|||R:LEX|||mõista|||REQUIRED|||-NONE-|||0
+A 33 35|||R:WS:NOM:FORM|||iseendast|||REQUIRED|||-NONE-|||0
+A 32 35|||R:WO|||ise ennast täielikult|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||tundub|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||iseloomulik|||REQUIRED|||-NONE-|||1
+A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 24|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 29 32|||R:WO|||ei või kunagi|||REQUIRED|||-NONE-|||1
+A 33 35|||R:WS:NOM:FORM|||iseendast|||REQUIRED|||-NONE-|||1
+
+S Ja võib olla ka , et muud inimesed näevad mind erineval viisil kui mina ise .
+A 2 4|||R:WO|||ka olla|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||teised|||REQUIRED|||-NONE-|||0
+A 10 12|||R:LEX|||teistmoodi||teisiti|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||ka olla|||REQUIRED|||-NONE-|||1
+
+S Teiste arvamused minust võivad olla ka üllatavad .
+A 2 3|||R:LEX|||minu kohta|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Loom pole ka midagi muudumatu vaid see elab ja areneb elu jooksul .
+A 0 1|||R:LEX|||Loomus|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM:SPELL|||muutumatut|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S On head ja vähem head päevad , on ajajärgud , millal inimene on väsinud ja tahab olla omal rahul , ja on ajajärgud , millal inimene on energine ja seltsiv .
+A 1 2|||R:NOM:FORM|||häid|||REQUIRED|||-NONE-|||0
+A 3 5|||R:LEX:NOM:FORM|||halvemaid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||päevi|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX:NOM:FORM|||aegu|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||mil|||REQUIRED|||-NONE-|||0
+A 17 19|||R:LEX|||omaette|||REQUIRED|||-NONE-|||0
+A 22 23|||R:LEX:NOM:FORM|||aegu|||REQUIRED|||-NONE-|||0
+A 24 25|||R:NOM:FORM|||mil|||REQUIRED|||-NONE-|||0
+A 25 26|||R:LEX|||ta|||REQUIRED|||-NONE-|||0
+A 27 28|||R:SPELL|||energiline|||REQUIRED|||-NONE-|||0
+A 17 18|||R:LEX|||omaette|||REQUIRED|||-NONE-|||1
+A 18 19|||R:LEX|||rahus|||REQUIRED|||-NONE-|||1
+A 27 28|||R:SPELL|||energiline|||REQUIRED|||-NONE-|||1
+
+S Aga milline mina olen oma arvamusel ?
+A 2 3|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||enda|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||arvates|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||ma enda arvates olen|||REQUIRED|||-NONE-|||0
+A 2 4|||R:WO|||olen mina|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||enda|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||arvates|||REQUIRED|||-NONE-|||1
+
+S Tavaliselt olen aktiivne , aga võib olla ka et pean olema , kuidas elus on palju asju , mis pean tegema .
+A 6 8|||R:WO|||ka olla|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||kui||sest|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+
+S Vajan aega , millal võin ainult olla ja puhkata , aga sellist aega on mikroskoopiliselt vähe .
+A 3 4|||R:LEX:NOM:FORM|||mil|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||saan|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||lihtsalt|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||puhata|||REQUIRED|||-NONE-|||0
+
+S Olen ka ärrituv , eriti oma lastega , aga olen püüanud õppida ka mõtlema enne kui vihaseks saan .
+A 10 11|||R:SPELL|||püüdnud|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Arvan ka , et olen rahutu , ja teen tavaliselt palju asju samaaegselt .
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Kunagi on raske kontsentreeruda ühele asjale , kui tuntub , et peaks midagi muud tegema või kuhugi minna .
+A 0 1|||R:LEX|||Kuidagi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||keskenduda|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||tundub|||REQUIRED|||-NONE-|||0
+A 17 18|||R:VERB:FORM|||minema|||REQUIRED|||-NONE-|||0
+
+S Aga oskan ka ainult olla ja nautida elust , igatahes vähemalt mõnikord .
+A 3 4|||R:LEX|||lihtsalt|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||elu|||REQUIRED|||-NONE-|||0
+
+S Aga täiesti rahul en oska küll elada , midagi peab alati juhtuma või ma ei oska olla .
+A 2 3|||R:NOM:FORM|||rahus|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||ei|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||muidu|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||rahus|||REQUIRED|||-NONE-|||1
+A 3 4|||R:SPELL|||ei|||REQUIRED|||-NONE-|||1
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Võib olla et olen jutukas ja elavaloomuline , kui hakkan rääkima , räägin tavaliselt palju .
+A 1 2|||R:LEX|||juhtuda|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PUNCT|||. Kui|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||juhtuda|||REQUIRED|||-NONE-|||1
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Aga olen ka reserveeritud , vajan oma ruumi .
+A 3 4|||R:LEX|||tagasihoidlik|||REQUIRED|||-NONE-|||0
+
+S Ma ei taha , et muud tulevad liiga lähedal , kui tahan olla üksi ja endamisi .
+A 5 6|||R:LEX|||teised|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||lähedale|||REQUIRED|||-NONE-|||0
+
+S Tundmatus seltsis ma ei tavaliselt ole see , kes hakkab teistega tutvuma ja juttu ajada .
+A 1 2|||R:LEX|||seltskonnas|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||ei ole ma tavaliselt|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||ajama|||REQUIRED|||-NONE-|||0
+
+S Mul ei ole palju tuttavaid ega ma kirjuta facebookis või muus sotsiaalses meedias .
+A 5 6|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||ei|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||kasuta|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM:CASE|||Facebooki|||REQUIRED|||-NONE-|||0
+A 9 10|||R:LEX|||ega|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||muud|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||sotsiaalset|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||meediat|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||ei|||REQUIRED|||-NONE-|||1
+A 8 9|||R:CASE|||Facebookis|||REQUIRED|||-NONE-|||1
+A 9 10|||R:LEX|||ega|||REQUIRED|||-NONE-|||1
+
+S Oma arvamusel ma ei ole seltsiv inimene , aga minul on mõni väga hea sõbra kellega tahan kohtuda ja vestelda , kui on aega .
+A 0 1|||R:LEX|||Enda|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||arvates|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||ei ole ma|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||paar|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||0
+A 14 15|||R:SPELL|||sõpra|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Enda|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX|||arvates|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||ei ole ma|||REQUIRED|||-NONE-|||1
+A 14 15|||R:NOM:FORM|||sõber|||REQUIRED|||-NONE-|||1
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+
+S Lootan ka , et olen usaldatav sõbra nendele .
+A 0 1|||R:SPELL|||Loodan|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||sõber|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||neile|||REQUIRED|||-NONE-|||0
+A 5 8|||R:WO|||neile usaldatav sõber|||REQUIRED|||-NONE-|||0

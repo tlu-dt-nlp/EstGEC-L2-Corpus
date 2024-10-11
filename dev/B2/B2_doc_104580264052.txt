@@ -1,0 +1,73 @@
+S Ma ei ole väga kindel , aga ma arvan , et minust paremat pole .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Vähemalt enda koolis tunnen , et see on nii .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Olen kindel , et Eestis veel leidub nii hea eesti keele oskusega venelasi , aga see ei ole sugugi oluline , sest mind rahustab juba see mõte , et vähemalt oma kooli õpilastega võrreldes oskan eesti keelt piisavalt hästi .
+A 5 7|||R:WO|||leidub veel|||REQUIRED|||-NONE-|||0
+
+S Isegi väga hästi .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See näitabki , et ei tasuks otsida kedagi paremat kui mina .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Miks see mind rahustab ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sellepärast , et ma tean , et tulevikus , kui ma kandideerin tööle , ei suudaks mitte keegi mulle ära öelda juba sellepärast , et mul on selgeks õpitud eesti keel ja lisaks sellele on vene keel mu emakeel ja inglise keelt tean ka veatult .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei oleks algkoolis uskunud , et mõne aasta pärast olen ma eesti keeles juba nii osav .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma olin lausa ebakindel : kartsin , et ei õpi seda kunagi selgeks , sest eesti keel tundus mulle mitte kerge , vaid üliraske ainena .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 4 5|||R:PUNCT|||. Kartsin|||REQUIRED|||-NONE-|||1
+A 23 23|||M:LEX|||hoopis|||REQUIRED|||-NONE-|||1
+
+S Ei kool ega pere ei osanud mind eesti keele õppimisega eriti aidata .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ainus asi , mis mind nii heale tasemele viis , oli suhtlemine eesti keelt kõnelevate sõpradega .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Elus on olnud ja tuleb ka kindlasti veel ette olukordi , kus eesti keeleta pole mul mitte kusagile minna , kuna tulevik on ootamatuid üllatusi täis . Mis puutub aga minusse , siis olen alati olnud inimene , kellel on olnud omad soovid ja kui ma olen tahtnud neid ellu viia , siis see on mul ka õnnestunud .
+A 43 43|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 52 53|||R:WO|||on see|||REQUIRED|||-NONE-|||0
+
+S Ma ei usu mitte ootamatustesse , vaid saatusesse ja tean , et terve mu elu on juba ette kirjutatud .
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Koolis ei ole mul läinud alati piisavalt hästi ja ma võin olla uhke vähemalt oma keeleteadmiste üle .
+A 4 8|||R:WO|||alati piisavalt hästi läinud|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||alati piisavalt hästi läinud|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||aga||kuid|||REQUIRED|||-NONE-|||1
+
+S Kaks aastat tagasi ei teatud minust koolis rohkemat , kui seda , et olen osav eesti keeles .
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Nüüdseks teatakse koolis ka seda , et ma olen hea laulja .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei tahaks kumbagi talenti kaotada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S " Ära istu paigal ! " ,- ütles mulle ema ja ma ei istunud .
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Nüüd on varsti kooli lõpetamine ja ma olen valmis suurde ellu astuma .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||Varsti on|||REQUIRED|||-NONE-|||1
+
+S Ja kui mõne aasta pärast keegi küsib : " Ega sina pole see kuulus .. ? " , ma vastan :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S " Jah , mina olengi see .. " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

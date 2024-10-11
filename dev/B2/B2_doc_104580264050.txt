@@ -1,0 +1,119 @@
+S Minu nimi on .. ja tahan osaleda eesti keele olümpiaadil .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Sain teada olümpiaadist õpetajalt ning ta soovitas mul osaleda sellel aastal .
+A 8 11|||R:WO|||sellel aastal osaleda|||REQUIRED|||-NONE-|||0
+
+S Ma arvan , et tuleb proovida , sest kes ei riskeeri , see on arg .
+A 10 11|||R:LEX|||riski|||REQUIRED|||-NONE-|||0
+
+S Ma õpin Tapa Vene Gümnaasiumi 9. klassis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Olen osalenud mitte ainult koolivõistlustel , vaid ka maakonnaolümpiaadidel .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Kahjuks , mitte kunagi ei ole võitnud esikohti .
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||ma|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||ei ole ma mitte kunagi|||REQUIRED|||-NONE-|||0
+
+S Aga mitte kummalgi võistlusel ei olnud ebameeldiv osaleda . .
+A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mitte keegi ei ole minult küsinud , miks ma seda teen .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mulle lihtsalt meeldib ja mitte kellegi arvamust ma kuulda ei taha ega ei soovi .
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 14|||R:WO|||ja ma ei taha ega soovi kuulda mitte kellegi arvamust|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Õpetajad ja vanemad aitavad mul elus edasi liikuda .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Veel õppisin kaks aastat Tartu Ülikooli teaduskoolis keemiat ja matemaatikat .
+A 0 1|||R:LEX|||Lisaks|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Matemaatika ülesanded on kogu aeg olnud väga rasked , seetõttu kunagi ei ole saanud ma hindeid kõrgemaid kui B ja C .
+A 10 15|||R:WO|||ei ole ma kunagi saanud|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||kõrgemaid hindeid|||REQUIRED|||-NONE-|||0
+
+S Aga keemia ülesanded on natuke kergemad ning nad meeldivad mulle rohkem .
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 12. jaanuaril käisin keemia maakonnaolümpiaadil .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ülesanded olid rasked , aga õpetlikud .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mu sõbrad mõtlevad , et ma olen rahutu , sest kogu aeg teen midagi .
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ega te mind ei tunne !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Arvan , et nad lihtsalt ei tea kui hästi mõjuvad olümpiaadid iseendale .
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||mulle|||REQUIRED|||-NONE-|||0
+A 9 12|||R:WO|||olümpiaadid mulle mõjuvad|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||osalejale|||REQUIRED|||-NONE-|||1
+A 9 12|||R:WO|||olümpiaadid osalejale mõjuvad|||REQUIRED|||-NONE-|||1
+
+S Mu ema ei anna rahu mulle .
+A 4 6|||R:WO|||mulle rahu|||REQUIRED|||-NONE-|||0
+
+S Ta soovib , et mina kasvaksin targaks ja järjekindlaks inimeseks .
+A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ma olen temale tänulik .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vaba aega mul peaaegu pole , kuid muuta oma elu lihtsamaks , ma ei sooviks .
+A 7 11|||R:WO|||oma elu lihtsamaks muuta|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mõnikord tahan ka puhata , aga tean , et see on laiskus ja proovin sellest üle saada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma soovin kandideerida , sest mulle meeldib enesearendamine .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Koguaeg proovin midagi uut .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mulle meeldib sporti teha , lugeda , käsitööd teha ja õppida .
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 2 11|||R:WO|||lugeda , õppida , teha sporti ja käsitööd|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S See kõik on väga erinev , aga need huvialad aitavad mul jääda iseendaks .
+A 0 1|||R:LEX|||Need|||REQUIRED|||-NONE-|||0
+A 1 2|||R:WO|||on kõik|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||erinevad|||REQUIRED|||-NONE-|||0
+A 5 5|||M:LEX|||huvialad|||REQUIRED|||-NONE-|||0
+A 7 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Loodan , et te peate mind eriliseks inimeseks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma väga tahan osaleda olümpiaadil .
+A 1 3|||R:WO|||tahan väga|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Mul on ükskõik , missuguse koha ma saavutan , peaasi et ma saan kasutada enda tarkusi .
+A 4 5|||R:LEX|||mitmenda|||REQUIRED|||-NONE-|||0
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Olen meeleldi nõus vastama täiendavatele küsimustele Teile sobival ajal .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lugupidamisega
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0

@@ -1,0 +1,128 @@
+S Ausalt rääkides ma mitte kunagi ei mõelnud , et ma kunagi hakkan olümpiaadil osalema , ja et selleks mul tuleb jutustada oma eluvisioonist .
+A 1 2|||R:LEX|||öeldes|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||ei olnud ma mitte kunagi mõelnud|||REQUIRED|||-NONE-|||0
+A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 18 20|||R:WO|||tuleb mul|||REQUIRED|||-NONE-|||0
+
+S Mitte keegi mulle ei pakkunud olümpiaadil osaleda , vaid paar päeva tagasi minu õpetaja andis mulle sellise võimaluse ja ma lubasin endale et ma ei häbista oma kooli .
+A 2 3|||R:NOM:FORM|||mul|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||soovitanud|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||ei soovitanud mul|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||kuid|||REQUIRED|||-NONE-|||0
+A 12 15|||R:WO|||andis minu õpetaja|||REQUIRED|||-NONE-|||0
+A 18 18|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ehkki mul ei ole palju olümpiaadil osalemise kogemust , ma olen kindel , et ma hästi oskan eesti keelt .
+A 9 11|||R:WO|||olen ma|||REQUIRED|||-NONE-|||0
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||oskan hästi|||REQUIRED|||-NONE-|||0
+
+S Palju minu sõpru praegu räägib , et nad ei vaja elus eesti keelt .
+A 0 1|||R:NOM:FORM|||Paljud|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||sõbrad||sõpradest|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX:VERB:FORM|||ütlevad|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||ütlevad praegu|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Paljud|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||sõbrad||sõpradest|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||räägivad praegu|||REQUIRED|||-NONE-|||1
+
+S Mina aga ütlen neile : " Ärge seda jama ajage !
+A 7 8|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||ajage sellist jama|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
+
+S Ega te ei tea , et ainult riigikeelt osates saate siin töötada ? "
+A 0 0|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Kas|||REQUIRED|||-NONE-|||0
+
+S Veel nad kinnitavad , et tänapäeval kõige parem on õppida keevitajaks või ehitajaks , aga kumbki eriala mulle ei sobi , sest ma tahan saada lugupeetavat ja mainekat elukutset .
+A 1 3|||R:WO|||kinnitavad nad|||REQUIRED|||-NONE-|||0
+A 6 9|||R:WO|||on kõige parem|||REQUIRED|||-NONE-|||0
+A 25 26|||R:LEX|||lugupeetud|||REQUIRED|||-NONE-|||0
+A 27 28|||R:NOM:FORM|||maineka|||REQUIRED|||-NONE-|||0
+A 28 29|||R:NOM:FORM|||elukutse|||REQUIRED|||-NONE-|||0
+
+S Ma ei tea , kas ma saan saavutada selle või mitte , aga ma tean , et ma olen selleks piisavalt andekas .
+A 7 9|||R:WO|||selle saavutada|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 9|||R:WO|||selle saavutada|||REQUIRED|||-NONE-|||1
+
+S Lapsepõlves ma olin üsna laisk ning ebakorralik ja tihti ei teinud koduseid ülesandeid , sest mõtlesin , et seda ma ei vaja õppimises , aga praegu ma sain aru , et kodused ülesanded on väga tähtsad ja üldse ma sain aru , et õppimine on väga oluline asi meie elus .
+A 1 3|||R:WO|||olin ma|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||lohakas|||REQUIRED|||-NONE-|||0
+A 18 19|||R:LEX|||neid|||REQUIRED|||-NONE-|||0
+A 19 20|||R:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||õppimiseks|||REQUIRED|||-NONE-|||0
+A 19 23|||R:WO|||ei ole õppimiseks vaja|||REQUIRED|||-NONE-|||0
+A 27 28|||R:VERB:FORM|||olen saanud|||REQUIRED|||-NONE-|||0
+A 26 29|||R:WO|||olen ma aru saanud|||REQUIRED|||-NONE-|||0
+A 38 41|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 41 42|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 37 45|||R:WO|||et üldse on õppimine|||REQUIRED|||-NONE-|||0
+
+S Ma ei sooviks kunagi elada Venemaal , sest mulle ei meeldi sealne eluviis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mulle kõige rohkem ei meeldi see , et seal tunduvad noortele ebatervislikud harjumused vahvad olevat .
+A 1 5|||R:WO|||ei meeldi kõige rohkem|||REQUIRED|||-NONE-|||0
+A 10 13|||R:WO|||ebatervislikud harjumused noortele|||REQUIRED|||-NONE-|||0
+
+S Mõnel määral ei tahta Venemaal areneda ning paremaks muutuda .
+A 3 4|||R:VERB:FORM|||taheta|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||ega|||REQUIRED|||-NONE-|||0
+
+S Ma olen väga rõõmus , et ma olen sündinud Eestis , sest see on väga ilus riik ja Eestil on suur tulevik .
+A 3 4|||R:LEX|||õnnelik|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ma ei ole käinud kõikides Eesti linnades , aga ma kuulsin , et igas linnas on midagi erilist .
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||olen kuulnud|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||olen kuulnud|||REQUIRED|||-NONE-|||1
+
+S Tulevikus mul on kavas jätkata õpinguid Eestis , sest siin on laitmatu haridussüsteem .
+A 1 3|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
+
+S Minu linnas paljud ei taha elada Eestis , aga ma olen kindel , et kui ma jään siia , siis ma ei kahetse seda .
+A 2 5|||R:WO|||ei taha paljud|||REQUIRED|||-NONE-|||0
+A 16 18|||R:WO|||siia jään|||REQUIRED|||-NONE-|||0
+
+S Praegusel hetkel saan väita , et kuhugi Eestist ära sõita ma ei kavatse .
+A 6 13|||R:WO|||ma ei kavatse kuhugi Eestist ära sõita|||REQUIRED|||-NONE-|||0
+
+S Ma tean , et kui ma tahan leida siit hea töökoha , siis ma pean eesti keelele lisaks veel inglise keelt õppima , sest inglise keeleta praegu on peaaegu võimatu saada hea töökoha .
+A 9 10|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||töökohta|||REQUIRED|||-NONE-|||0
+A 7 11|||R:WO|||siit head töökohta leida|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 15|||R:WO|||pean ma|||REQUIRED|||-NONE-|||0
+A 26 28|||R:WO|||on praegu|||REQUIRED|||-NONE-|||0
+A 31 32|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||0
+A 32 33|||R:NOM:FORM|||töökohta|||REQUIRED|||-NONE-|||0
+A 30 33|||R:WO|||head töökohta saada|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||töökohta|||REQUIRED|||-NONE-|||1
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||pean ma|||REQUIRED|||-NONE-|||1
+A 26 28|||R:WO|||on praegu|||REQUIRED|||-NONE-|||1
+A 31 32|||R:NOM:FORM|||head|||REQUIRED|||-NONE-|||1
+A 32 33|||R:NOM:FORM|||töökohta|||REQUIRED|||-NONE-|||1
+
+S Ennast tundes , ma olen kindel , et kui ma olen seadnud endale eesmärgi , siis mind ei sega selle jõudmises ei sõbrad ega konkurendid .
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||olen ma|||REQUIRED|||-NONE-|||0
+A 16 19|||R:WO|||ei sega mind|||REQUIRED|||-NONE-|||0
+A 20 21|||R:LEX|||saavutamises|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 5|||R:WO|||olen ma|||REQUIRED|||-NONE-|||1
+A 16 19|||R:WO|||ei sega mind|||REQUIRED|||-NONE-|||1
+A 19 20|||R:NOM:FORM|||selleni|||REQUIRED|||-NONE-|||1
+
+S Praegu ma olen kindel , et ma tahan saada mitte arstiks , nagu tahaksid minu vanemad , vaid infotehnoloogiks .
+A 1 3|||R:WO|||olen ma|||REQUIRED|||-NONE-|||0
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1

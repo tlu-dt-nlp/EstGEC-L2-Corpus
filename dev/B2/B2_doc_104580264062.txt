@@ -1,0 +1,194 @@
+S Minu pere puhkus algas 21. detsembril õhtul kui laste kooli jõulupidu oli läbi pidadud .
+A 5 6|||R:NOM:FORM|||detsembri|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||sai|||REQUIRED|||-NONE-|||0
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||detsembri|||REQUIRED|||-NONE-|||1
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Kui suurepärast oli magada hommikul pikalt ja rahulikult .
+A 1 2|||R:NOM:FORM|||suurepärane|||REQUIRED|||-NONE-|||0
+A 3 8|||R:WO|||hommikul pikalt ja rahulikult magada|||REQUIRED|||-NONE-|||0
+
+S Jõululauhommikul me läksime minu vanemade juurte , mis minu mõlemad õed ja minu vend tema abikaasaga tulid ka siia .
+A 0 1|||R:LEX|||Jõululaupäevahommikul|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||läksime me|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||vanemate|||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||juurde|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX|||kuhu|||REQUIRED|||-NONE-|||0
+A 14 15|||R:LEX|||enda|||REQUIRED|||-NONE-|||0
+A 8 18|||R:WO|||tulid ka mõlemad minu õed ja minu vend enda abikaasaga|||REQUIRED|||-NONE-|||0
+A 18 19|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Päeval söime head jõulutoidud , lauas oli porgandi- ja kaalikavormi , punapeetist tehtud rosoljet , lohet , meega maitsestatud juurivilja , salatit ja erisuguseid juustusid .
+A 1 2|||R:SPELL|||sõime|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||häid|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||jõulutoite|||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||punapeedist|||REQUIRED|||-NONE-|||0
+A 15 16|||R:SPELL|||lõhet|||REQUIRED|||-NONE-|||0
+A 19 20|||R:SPELL|||juurvilju|||REQUIRED|||-NONE-|||0
+
+S Traditsionaalne taimeroog , mis ma valmistan iga jõuluks , on kaneeli , kardemoni , ingveri ja nelkaga maitsestatud kikerherned , ja neid söime ka vist selle jõulul .
+A 3 4|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||valmistan ma|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||igaks|||REQUIRED|||-NONE-|||0
+A 16 17|||R:SPELL|||nelgiga|||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 21 22|||R:LEX|||mida|||REQUIRED|||-NONE-|||0
+A 22 23|||R:SPELL|||sõime|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOM:FORM|||nendel|||REQUIRED|||-NONE-|||0
+A 26 27|||R:NOM:FORM|||jõuludel|||REQUIRED|||-NONE-|||0
+
+S Kohvilauas meil oli piparkooke , jõulukooke ploomimoosiga ja puuviljakeeksi .
+A 1 3|||R:WO|||oli meil|||REQUIRED|||-NONE-|||0
+
+S Proovisin teha mantliga parfeet , ja see õnnestus imekspandavalt hästi .
+A 3 4|||R:SPELL|||parfeed|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Eriti Pieta , minu noorem tütar , armastas seda kodutehtud jäätist väga .
+A 1 2|||R:NOM:FORM|||Pietale|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||nooremale|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||tütrele|||REQUIRED|||-NONE-|||0
+A 7 8|||R:LEX:VERB:FORM|||meeldis|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOM:FORM|||jäätis|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Pärast söögi käis jõuluvana meie juures .
+A 1 2|||R:NOM:FORM|||sööki|||REQUIRED|||-NONE-|||0
+A 3 6|||R:WO|||meie juures jõuluvana|||REQUIRED|||-NONE-|||0
+
+S Temal oli küll väga rutt ja tema ainult uksekella helistas ja jättis kingituset treppil .
+A 4 5|||R:LEX|||rutakas|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 5 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 7 10|||R:WO|||helistas ainult uksekella|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||kingitused|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM:SPELL|||trepile|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX|||rutakas|||REQUIRED|||-NONE-|||1
+A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||helistas ainult uksekella|||REQUIRED|||-NONE-|||1
+A 12 13|||R:SPELL|||kingitused|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM:SPELL|||trepile|||REQUIRED|||-NONE-|||1
+
+S Niina arvamusel see oli hästi niiviisi , tema ei eriti armasta jõuluvana kohtuda , ainult palju kingitusi saada .
+A 1 2|||R:LEX|||arvates|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 6|||R:WO|||niiviisi hästi|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||armasta eriti|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||jõuluvanaga|||REQUIRED|||-NONE-|||0
+A 14 14|||M:LEX|||vaid soovib||vaid tahab|||REQUIRED|||-NONE-|||0
+
+S Kingitusi tema vist sai , minu arvamusel piisavalt palju , samuti Pieta sai suure hunniku pakendeid .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||sai tema|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||arvates|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||sai Pieta|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||pakke|||REQUIRED|||-NONE-|||0
+
+S Mõni pakend piisas ka meile suurile inimesile .
+A 1 2|||R:LEX|||pakk|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||jäi|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||suurtele|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||inimestele|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Mõnest|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX:NOM:FORM|||pakist|||REQUIRED|||-NONE-|||1
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||suurtele|||REQUIRED|||-NONE-|||1
+A 6 7|||R:NOM:FORM|||inimestele|||REQUIRED|||-NONE-|||1
+
+S Õhtul söime riisipudru puuviljakisseliga , ja kui ma arvan õigesti , see on minu laste arvamusel jõulu kõige suurem maiusroog .
+A 1 2|||R:SPELL|||sõime|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOM:FORM|||riisiputru|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||puuviljakisselliga|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:LEX|||mäletan|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WO|||on see|||REQUIRED|||-NONE-|||0
+A 15 16|||R:LEX|||arvates|||REQUIRED|||-NONE-|||0
+A 16 17|||R:NOM:FORM|||jõulude|||REQUIRED|||-NONE-|||0
+
+S Teisel jõulupühal käisime Turkus minu vanaema ja vanaisa juures .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Vanaema on olnud haiglas terve sügise aga nüüd tema oli juba koju pääsenud .
+A 1 2|||R:VERB:FORM|||oli|||REQUIRED|||-NONE-|||0
+A 2 6|||R:WO|||oli terve sügise haiglas olnud|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOM:FORM|||ta|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||oli ta|||REQUIRED|||-NONE-|||0
+
+S Esmaspäeval läksin oma laste , minu sõbra ja tema lapsega Tallinnasse .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S See oli ainult lühikene reis , magasime ühe öö hotellis , aga oli küll väga tore käida Eestis .
+A 5 6|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM|||käia|||REQUIRED|||-NONE-|||0
+A 12 18|||R:WO|||käia Eestis oli küll väga tore|||REQUIRED|||-NONE-|||0
+
+S Tallinna tänavadel oli küll rohkem lund kui Tamperes !
+A 1 2|||R:SPELL|||tänavatel|||REQUIRED|||-NONE-|||0
+
+S Kuidas jälle koju pääsesime , käisime teatris vaatamas " Aladdinin taikalamppu " ehk Aladdini imelamp .
+A 0 1|||R:LEX|||Kui|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||"|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||imelampi|||REQUIRED|||-NONE-|||0
+A 7 15|||R:PUNCT|||" Aladdinin taikalamppu " ehk " Aladdini imelampi " vaatamas|||REQUIRED|||-NONE-|||0
+
+S Esitus väga huvitas mind , siin oli piisavalt huumorit ja ka tuli- ja suitsuefekte .
+A 2 3|||R:LEX|||köitis|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||selles|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOM:FORM|||tule-|||REQUIRED|||-NONE-|||0
+
+S Aastavahetuse ajal olin tööl , ja lapsed olid vanaema ja vanaisa juures .
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Meie peres ei ole spetsiaalisi uueaasta traditsioone selle pärast et olen tavaliselt tollal tööl , ainult õnne valamine on selline asja , mis püüame tegema iga aasta .
+A 4 5|||R:SPELL|||spetsiaalseid|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOM:FORM|||uusaasta|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 12 13|||R:LEX|||tol ajal|||REQUIRED|||-NONE-|||0
+A 20 21|||R:NOM:FORM|||asi|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 24 25|||R:VERB:FORM|||teha|||REQUIRED|||-NONE-|||0
+A 25 26|||R:NOM:FORM|||igal|||REQUIRED|||-NONE-|||0
+A 26 27|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||spetsiaalseid|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||uusaasta|||REQUIRED|||-NONE-|||1
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||tol ajal|||REQUIRED|||-NONE-|||1
+A 14 15|||R:PUNCT|||. Ainult|||REQUIRED|||-NONE-|||1
+A 20 21|||R:NOM:FORM|||asi|||REQUIRED|||-NONE-|||1
+A 22 23|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||1
+A 24 25|||R:VERB:FORM|||teha|||REQUIRED|||-NONE-|||1
+A 25 26|||R:NOM:FORM|||igal|||REQUIRED|||-NONE-|||1
+A 26 27|||R:NOM:FORM|||aastal|||REQUIRED|||-NONE-|||1
+
+S Minu tina oli laste arvamusel ilmselge monstrumnahkhiir aga seda ma ei tea , mis see tähendab .
+A 4 5|||R:LEX|||arvates|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+
+S Uue aasta esimesel nädalal me olime kodus ja askeldasime argisi asju , mis kooliajal meil ei ole nii tihti aega tehda .
+A 4 6|||R:WO|||olime me|||REQUIRED|||-NONE-|||0
+A 9 10|||R:SPELL|||argiseid|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOM:FORM|||mida|||REQUIRED|||-NONE-|||0
+A 13 17|||R:WO|||ei ole meil kooliajal|||REQUIRED|||-NONE-|||0
+A 20 21|||R:SPELL|||teha|||REQUIRED|||-NONE-|||0
+
+S Mängisime lauamängu ja olime õues .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Pieta armastab uisutada , ja siiski käisime paar korda ligidasel uisurajal .
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||R:LEX|||sellepärast||seepärast|||REQUIRED|||-NONE-|||0
+
+S Olin veel paar päeva tööl , ja pärast seda oligi aeg hakata jälle argipäevad .
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 11 12|||R:LEX|||harjuda|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOM:FORM|||argipäevadega|||REQUIRED|||-NONE-|||0

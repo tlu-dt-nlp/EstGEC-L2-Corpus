@@ -1,0 +1,113 @@
+S Seda olümpiaaditööd kirjutavad paljud õpilased erinevatest koolidest .
+A 5 6|||R:NOM:FORM|||erinevate|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||koolide|||REQUIRED|||-NONE-|||0
+A 4 7|||R:WO|||erinevate koolide õpilased|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Konkurents sellel võistlusel on suur , sest kõik tõesti tahavad olla parimad ja see , kes võidab sellel olümpiaadil , on meile praegu tundmatu .
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOM:FORM|||olümpiaadi|||REQUIRED|||-NONE-|||0
+A 16 19|||R:WO|||selle olümpiaadi võidab|||REQUIRED|||-NONE-|||0
+
+S Arvan , et just mina pean pääsema olümpiaadi lõppvooru oma kooli esindama , sest mitte keegi ei ole nii edukas kui mina .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei jäta sellist võimalust kasutamata ja teen kõik selle nimel , et minu töö valitaks parimaks .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Selles töös mina tahan rääkida teile , miks mina olen selline õpilane , kes võiks kõige paremini meie kooli esindada .
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||olen mina|||REQUIRED|||-NONE-|||0
+A 10 11|||R:LEX|||see|||REQUIRED|||-NONE-|||0
+A 15 19|||R:WO|||meie kooli kõige paremini|||REQUIRED|||-NONE-|||0
+
+S Mina olen kuueteistkümneaastane tüdruk ja õpin Tallinna Pae Gümnaasiumis kümnendas klassis .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Minu arvates on mul väga palju positiivseid omadusi , mis sobivad , et osaleksin sellel olümpiaadil .
+A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 13 14|||R:LEX|||osalemiseks|||REQUIRED|||-NONE-|||0
+A 13 16|||R:WO|||sellel olümpiaadil osalemiseks|||REQUIRED|||-NONE-|||0
+
+S Ega teie ei usu mind ?
+A 0 1|||R:LEX|||Kas|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOM:FORM|||te|||REQUIRED|||-NONE-|||0
+
+S Püüan teid ümber veenda ... .
+A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Ma olen väga haritud ja töökas ja see aitab mul osaleda erinevates projektides .
+A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 6 8|||R:LEX|||mis|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Mul on kaks sõbrannat , aga kumbki ei ole teinud nii palju erinevaid projekte kui mina .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Ma ei kirjutanud neid kõiki hästi , aga mulle meeldis osaleda .
+A 10 10|||M:LEX|||projektides||neis||nendes|||REQUIRED|||-NONE-|||0
+
+S Olen väga huvitatud enda arendamisest ja õppimisest ning alati näitan enda aktiivsust teistest rohkem .
+A 8 10|||R:WO|||näitan alati|||REQUIRED|||-NONE-|||0
+A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Teisi õpilasi minu klassist ei huvita õppimine nii kui mind , ega osale nad ka projektides ja konkurssidel nii tihti kui mina .
+A 8 8|||M:LEX|||palju||väga|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 8|||M:LEX|||palju||väga|||REQUIRED|||-NONE-|||1
+A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
+A 12 12|||M:LEX|||ei|||REQUIRED|||-NONE-|||1
+A 11 14|||R:WO|||nad ei osale|||REQUIRED|||-NONE-|||1
+
+S Kõikidele meeldib minuga suhelda , sest olen väga tark ja mul on hea suhtlemisoskus .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mul pole mitte kusagil olnud probleeme inimestega suhtlemisel , ei teinud midagi ebaseaduslikku täna ega ole seda teinud ka varem ja mind ei karistatud ega ole ka kunagi karistatud mingi halva asja eest .
+A 9 9|||M:LEX|||ma|||REQUIRED|||-NONE-|||0
+A 10 10|||M:LEX|||ole|||REQUIRED|||-NONE-|||0
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 10 20|||R:WO|||täna ega ka varem teinud midagi ebaseaduslikku|||REQUIRED|||-NONE-|||0
+A 23 24|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 24 25|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+
+S Mina ei sõltu teistest inimestest , olen aus ja abivalmis , olen tõeline sõber ja oskan väga paljusid asju teha .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Olen enesekindel : tean mida ma tahan .
+A 2 3|||R:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+
+S Ja tean hästi seda , mida ma oskan hästi teha ja mida halvasti .
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 8 9|||R:WO|||teha hästi|||REQUIRED|||-NONE-|||0
+
+S Kõik need minu omadused on väga head .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Mina ei ole ideaalne , aga kavatsen olla veel parem .
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||saada|||REQUIRED|||-NONE-|||1
+A 9 10|||R:NOM:FORM|||paremaks|||REQUIRED|||-NONE-|||1
+
+S Arvan , et ma saan võimaluse oma kooli esindada .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+
+S Lõpuks võin öelda ainult seda , et mind ei huvita mitte see , mida ma sellisel olümpiaadil hea koha eest saan , vaid see , et ma seal osalen ja see on minu jaoks huvitav .
+A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Aga mul on teile palve : ärge valige teisi õpilasi , sest minu arvates keegi ei ole kirjutanud seda tööd paremini kui mina .
+A 14 18|||R:WO|||ei ole keegi kirjutanud|||REQUIRED|||-NONE-|||0
+
+S Ja veel ei tahaks , et keegi teine saab võimaluse esindada meie kooli .
+A 1 2|||R:LEX|||ma|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||saaks|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||saaks|||REQUIRED|||-NONE-|||1
