@@ -80,10 +80,10 @@ A 16 19|||R:WO|||tööle teise kohta|||REQUIRED|||-NONE-|||2
 S Sest et kui ma ei soorita eksami , ma kaotan töö oma koolis .
 A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOM:FORM|||eksamit|||REQUIRED|||-NONE-|||0
-A 8 9|||R:WO|||kaotan ma|||REQUIRED|||-NONE-|||0
+A 8 10|||R:WO|||kaotan ma|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOM:FORM|||eksamit|||REQUIRED|||-NONE-|||1
 A 4 7|||R:WO|||eksamit ei soorita|||REQUIRED|||-NONE-|||1
-A 8 9|||R:WO|||kaotan ma|||REQUIRED|||-NONE-|||1
+A 8 10|||R:WO|||kaotan ma|||REQUIRED|||-NONE-|||1
 
 S Võib olla sul on tuttavaid , kes sattusid sarnasesse olukorda ?
 A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
