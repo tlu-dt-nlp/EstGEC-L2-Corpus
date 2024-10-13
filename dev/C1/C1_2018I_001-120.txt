@@ -62,6 +62,7 @@ A 13 14|||R:SPELL|||pakkuda|||REQUIRED|||-NONE-|||1
 
 S Teine ajakohaline teema oli võõrsil elamine .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||R:LEX|||ajakohane|||REQUIRED|||-NONE-|||1
 
 S Inimesed on alati kolinud maast teiseni , aga tänapäeval tundub et maailm on nii väikseks läinud , et mujale kolimine on kergem kui kunagi varem .
 A 4 4|||M:LEX|||ühest|||REQUIRED|||-NONE-|||0
