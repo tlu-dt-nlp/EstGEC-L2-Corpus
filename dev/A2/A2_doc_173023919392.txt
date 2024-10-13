@@ -169,7 +169,7 @@ A 11 12|||R:VERB:FORM:SPELL|||õppima|||REQUIRED|||-NONE-|||0
 S Kui jöuan välismaal puhkuse järel saan minna löpuks tööle .
 A 1 2|||R:SPELL|||jõuan|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOM:FORM|||välismaa|||REQUIRED|||-NONE-|||0
-A 1 5|||R:WO|||välismaa puhkusel järel jõuan|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||välismaa puhkuse järel jõuan|||REQUIRED|||-NONE-|||0
 A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||lõpuks|||REQUIRED|||-NONE-|||0
 A 6 9|||R:WO|||lõpuks tööle minna|||REQUIRED|||-NONE-|||0
