@@ -20,6 +20,7 @@ A 23 24|||R:NOM:FORM|||uudiseid|||REQUIRED|||-NONE-|||0
 A 25 26|||R:NOM:FORM|||põnevaid|||REQUIRED|||-NONE-|||0
 A 26 27|||R:NOM:FORM|||mänge|||REQUIRED|||-NONE-|||0
 A 28 29|||R:NOM:FORM|||anekdoote|||REQUIRED|||-NONE-|||0
+A 29 30|||R:LEX|||kui ka|||REQUIRED|||-NONE-|||0
 A 30 31|||R:NOM:FORM|||muud|||REQUIRED|||-NONE-|||0
 A 31 32|||R:NOM:FORM|||meelelahutust|||REQUIRED|||-NONE-|||0
 
