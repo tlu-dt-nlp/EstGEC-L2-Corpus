@@ -83,7 +83,7 @@ A 14 16|||R:WO|||rohkem huvitama|||REQUIRED|||-NONE-|||1
 S Hakkab igatsus oma söökide-jookide järele , tekib tahtmine rääkida oma kodumaast , kui imelik see on .
 A 0 1|||R:LEX|||Tekib|||REQUIRED|||-NONE-|||0
 
-S Aga kas ma saan teistele rääkida oma kodumaast , kas ma saan igatseda , kui ma ei tea , milline see on ja millised on selle kombed ?
+S Aga kas ma saan teistele rääkida oma kodumaast , kas ma saan igatseda , kui ma ei tea milline see on ja millised on selle kombed ?
 A 18 18|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S Seepärast oleks tähtis tutvuda oma maa kultuuriga juba kodumaal elades .
