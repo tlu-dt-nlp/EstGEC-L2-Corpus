@@ -4,6 +4,7 @@ A 4 5|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
 
 S 17. mail mul õnnestus osaleda digipädevuse seminaril , mis toimus Tallinna Tehnika Ülikoolis .
 A 2 4|||R:WO|||õnnestus mul|||REQUIRED|||-NONE-|||0
+A 11 13|||R:WS|||Tehnikaülikoolis|||REQUIRED|||-NONE-|||0
 
 S Täna ma tahan seal kuuldu teieni viia .
 A 6 7|||R:LEX|||tuua|||REQUIRED|||-NONE-|||0
