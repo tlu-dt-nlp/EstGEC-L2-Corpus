@@ -79,7 +79,7 @@ S Olen valmis aidata organiseerimises koos meie naabritega .
 A 2 3|||R:VERB:FORM|||aitama|||REQUIRED|||-NONE-|||0
 A 3 4|||R:LEX|||organiseerida|||REQUIRED|||-NONE-|||0
 A 3 3|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
-A 3 7|||R:WO|||seda koos meie naabritega organiseerida|||REQUIRED|||-NONE-|||0
+A 3 7|||R:WO|||koos meie naabritega organiseerida|||REQUIRED|||-NONE-|||0
 A 2 3|||R:VERB:FORM|||aitama|||REQUIRED|||-NONE-|||1
 A 3 4|||R:NOM:FORM|||organiseerimisega|||REQUIRED|||-NONE-|||1
 A 2 7|||R:WO|||koos meie naabritega organiseerimisega aitama|||REQUIRED|||-NONE-|||1
