@@ -27,6 +27,7 @@ A 2 3|||R:NOM:FORM|||lapsepõlves|||REQUIRED|||-NONE-|||1
 S Vastus on lihtne - tänapäevane maailm on muutunud digimaailmaks , kus inimesi ümbritsevad masinad ja robotid ja last peab õpetama suhelda mitte ainult inimeste vaid ka arvutitega , et ta saaks ennast tulevases elus tunda mugavalt ja turvaliselt .
 A 16 17|||R:LEX|||ning|||REQUIRED|||-NONE-|||0
 A 20 21|||R:VERB:FORM|||suhtlema|||REQUIRED|||-NONE-|||0
+A 24 24|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOM:FORM|||tänapäeva|||REQUIRED|||-NONE-|||1
 A 16 17|||R:LEX|||ning|||REQUIRED|||-NONE-|||1
 A 20 21|||R:VERB:FORM|||suhtlema|||REQUIRED|||-NONE-|||1
