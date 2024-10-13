@@ -1,5 +1,5 @@
 S Mina reisin tihti komandeeringus ja puhkas .
-A 3 3|||M:LEX|||käies|||REQUIRED|||-NONE-|||0
+A 3 3|||M:LEX|||, käies|||REQUIRED|||-NONE-|||0
 A 5 6|||R:VERB:FORM|||puhkamas|||REQUIRED|||-NONE-|||0
 
 S Minu viimasne reis oli Minskis Valgevenes .
