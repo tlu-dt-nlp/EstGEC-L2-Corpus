@@ -66,7 +66,7 @@ A 9 10|||R:LEX|||nüüd|||REQUIRED|||-NONE-|||1
 A 10 13|||R:WO|||on kõik ruumid|||REQUIRED|||-NONE-|||1
 
 S Kokkuvõtteks tahan öelda , et 10-15 aasta pärast meie haigla võiks olla suurem , sest meiel on palju arengu ruumi .
-A 8 11|||R:WO|||võiks meie haigla suurem olla|||REQUIRED|||-NONE-|||0
+A 8 13|||R:WO|||võiks meie haigla suurem olla|||REQUIRED|||-NONE-|||0
 A 15 16|||R:SPELL|||meil|||REQUIRED|||-NONE-|||0
 A 18 20|||R:WS|||arenguruumi|||REQUIRED|||-NONE-|||0
 
