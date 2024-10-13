@@ -55,6 +55,8 @@ A 17 18|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 A 23 26|||R:WO|||digiseadmete taga istumine|||REQUIRED|||-NONE-|||1
 
 S Kahjuks aeg nõuab teist ja ühiskond ei mõista seda , et mõne aja möödudes inimeste füüsilised võimed nõrgenevad just tänu digiajastule .
+A 1 3|||R:WO|||nõuab aeg|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||muud|||REQUIRED|||-NONE-|||0
 A 14 18|||R:WO|||nõrgenevad inimeste füüsilised võimed|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
 
