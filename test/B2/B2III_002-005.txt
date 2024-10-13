@@ -84,10 +84,10 @@ A 16 17|||R:VERB:FORM|||saaks|||REQUIRED|||-NONE-|||0
 A 18 20|||R:WO|||veel kasutada|||REQUIRED|||-NONE-|||0
 
 S Mina ootan Teie fotosid või vastust .
-A 0 1|||U:LEX|||Ootan|||REQUIRED|||-NONE-|||0
+A 0 2|||U:LEX|||Ootan|||REQUIRED|||-NONE-|||0
 A 2 3|||R:CASE|||teie|||REQUIRED|||-NONE-|||0
 A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
-A 0 1|||U:LEX|||Ootan|||REQUIRED|||-NONE-|||1
+A 0 2|||U:LEX|||Ootan|||REQUIRED|||-NONE-|||1
 A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
 
 S Heade soovidega , Teie Alisa .
