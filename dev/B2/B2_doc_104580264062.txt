@@ -81,6 +81,13 @@ A 6 7|||R:PUNCT|||;|||REQUIRED|||-NONE-|||0
 A 9 11|||R:WO|||armasta eriti|||REQUIRED|||-NONE-|||0
 A 11 12|||R:NOM:FORM|||jõuluvanaga|||REQUIRED|||-NONE-|||0
 A 14 14|||M:LEX|||vaid soovib||vaid tahab|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||arvates|||REQUIRED|||-NONE-|||1
+A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||niiviisi hästi|||REQUIRED|||-NONE-|||1
+A 6 8|||R:PUNCT|||. Tema|||REQUIRED|||-NONE-|||1
+A 9 11|||R:WO|||armasta eriti|||REQUIRED|||-NONE-|||1
+A 11 12|||R:NOM:FORM|||jõuluvanaga|||REQUIRED|||-NONE-|||1
+A 14 14|||M:LEX|||vaid soovib||vaid tahab|||REQUIRED|||-NONE-|||1
 
 S Kingitusi tema vist sai , minu arvamusel piisavalt palju , samuti Pieta sai suure hunniku pakendeid .
 A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
