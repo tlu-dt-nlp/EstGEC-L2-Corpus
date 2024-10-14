@@ -59,10 +59,10 @@ A 7 8|||R:SPELL|||nalja|||REQUIRED|||-NONE-|||1
 
 S Tulevikus ma tahan kontserdile jažž-muusika minna .
 A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||0
-A 4 6|||R:SPELL|||džässmuusika||jazz-muusika|||REQUIRED|||-NONE-|||0
+A 4 5|||R:SPELL|||džässmuusika||jazz-muusika|||REQUIRED|||-NONE-|||0
 A 3 5|||R:WO|||džässmuusika kontserdile||jazz-muusika kontserdile|||REQUIRED|||-NONE-|||0
 A 1 3|||R:WO|||tahan ma|||REQUIRED|||-NONE-|||1
-A 4 6|||R:SPELL|||džässmuusika||jazz-muusika|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||džässmuusika||jazz-muusika|||REQUIRED|||-NONE-|||1
 A 3 6|||R:WO|||minna džässmuusika kontserdile||minna jazz-muusika kontserdile|||REQUIRED|||-NONE-|||1
 
 S Mulle meeldib jažž-muusika .
