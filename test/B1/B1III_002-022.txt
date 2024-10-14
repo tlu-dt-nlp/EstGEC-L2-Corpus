@@ -86,6 +86,9 @@ A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
 A 4 5|||R:LEX|||plaanime||kavatseme|||REQUIRED|||-NONE-|||2
 A 5 6|||R:VERB:FORM:SPELL|||minna|||REQUIRED|||-NONE-|||2
 A 2 6|||R:WO|||plaanime me talvel minna||kavatseme me talvel minna|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||teisele|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||suurele|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||kontserdile|||REQUIRED|||-NONE-|||2
 
 S See on " Depesh Mode " , aga see on kuningad rokki-maailmas .
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
