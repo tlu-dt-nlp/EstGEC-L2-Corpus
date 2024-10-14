@@ -23,7 +23,7 @@ A 3 5|||R:WO|||augustis Tallinnasse||augustis Tallinna|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOM:FORM|||sõitma|||REQUIRED|||-NONE-|||1
 A 3 4|||R:SPELL|||Tallinnasse||Tallinna|||REQUIRED|||-NONE-|||1
 A 4 5|||R:NOM:FORM|||augustis|||REQUIRED|||-NONE-|||1
-A 2 5|||R:WO|||Tallinnasse augustis sõitma||Tallinna augustis sõitma|||REQUIRED|||-NONE-|||1
+A 2 5|||R:WO|||augustis Tallinnasse sõitma||augustis Tallinna sõitma|||REQUIRED|||-NONE-|||1
 
 S Veel me saame minna kohvikusse .
 A 1 3|||R:WO|||saame me|||REQUIRED|||-NONE-|||0
