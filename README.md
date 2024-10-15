@@ -1,11 +1,11 @@
 # Estonian L2 Grammatical Error Correction Corpus (EstGEC-L2)
 ### The subset of Estonian Grammatical Error Correction Corpus (EstGEC) that contains L2 learner writings error-annotated in the M2 format.
 
-This subcorpus currently consists of 263 texts and 3,790 sentences retrieved from the [Estonian Interlanguage Corpus](https://elle.tlu.ee/tools) compiled at the Tallinn University. The texts include narrative/descriptive and argumentative writings as well as informal and formal letters representing various proficiency levels. EstGEC-L2 material has been divided into a test and development set that can be used for evaluating and improving Estonian automated correction tools. The test set comprises 2,029 and the dev set 1,761 sentences, distributed between the proficiency levels as follows:
-* A2 – 937 (495 in test set);
+This subcorpus currently consists of 258 texts and 3,721 sentences retrieved from the [Estonian Interlanguage Corpus](https://elle.tlu.ee/tools) compiled at the Tallinn University. The texts include narrative/descriptive and argumentative writings as well as informal and formal letters representing various proficiency levels. EstGEC-L2 material has been divided into a test and development set that can be used for evaluating and improving Estonian automated correction tools. The test set comprises 2,029 and the dev set 1,692 sentences, distributed between the proficiency levels as follows:
+* A2 – 934 (495 in test set);
 * B1 – 963 (504 in test set);
-* B2 – 1,091 (534 in test set);
-* C1 – 796 (495 in test set).
+* B2 – 1,029 (534 in test set);
+* C1 – 795 (495 in test set).
 
 Previously, the texts had been manually error-tagged in the CoNLL-U format, indicating the error type, scope, and correction in the field for miscellaneous token attributes. The annotation has been converted to the M2 format (the conversion script can be found [here](https://github.com/tlu-dt-nlp/m2-preprocessing)) using an adapted version of the [ERRANT](https://github.com/chrisjbryant/errant) tagset. Whereas the previous format was limited to one error annotation per sentence, up to two new annotation versions have been added. Considering the two-phase annotation, each text has been reviewed by at least three annotators.
 
