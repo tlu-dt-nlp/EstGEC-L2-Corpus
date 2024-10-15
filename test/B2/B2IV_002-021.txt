@@ -6,9 +6,10 @@ S Meie asutuse sünnipäevaks plaanitakse välja anda asutust tutvustav raamat .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Me mõtlesime kolleegide ringis , millised mõtted on meil oma asutuse kohta .
-A 6 7|||R:LEX|||mälestused|||REQUIRED|||-NONE-|||0
-A 10 11|||R:NOM:FORM|||asutusest|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 6 7|||R:LEX|||mälestused|||REQUIRED|||-NONE-|||1
+A 10 11|||R:NOM:FORM|||asutusest|||REQUIRED|||-NONE-|||1
+A 11 12|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Ma tulin sellesse asutusse töötama juba 6 aastat tagasi .
 A 4 5|||R:LEX|||tööle|||REQUIRED|||-NONE-|||0
