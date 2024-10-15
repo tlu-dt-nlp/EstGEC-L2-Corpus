@@ -77,7 +77,7 @@ A 0 2|||R:WS|||Võib-olla||Võibolla|||REQUIRED|||-NONE-|||0
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 3 5|||R:WO|||on teil|||REQUIRED|||-NONE-|||0
 A 5 6|||R:NOM:FORM|||tuttavaid|||REQUIRED|||-NONE-|||0
-A 12 13|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 14 16|||R:WO|||on teil|||REQUIRED|||-NONE-|||0
 A 17 18|||R:NOM:FORM|||kontakte|||REQUIRED|||-NONE-|||0
 
 S Siis , kui te tahate minu raamatuid saada - helistage --- ja pärast tulge minu juurde .
