@@ -81,7 +81,8 @@ A 10 11|||R:NOM:FORM|||ühte|||REQUIRED|||-NONE-|||0
 A 11 12|||R:NOM:FORM|||mäkke|||REQUIRED|||-NONE-|||0
 
 S Seda teha ei tohi .
-A 1 4|||R:WO|||ei tohi teha|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 4|||R:WO|||ei tohi teha|||REQUIRED|||-NONE-|||1
 
 S Lapsed ronivad ja jooksevad sellel mäes aga see on samuti väga ohtlik .
 A 5 6|||R:NOM:FORM|||mäel|||REQUIRED|||-NONE-|||0
