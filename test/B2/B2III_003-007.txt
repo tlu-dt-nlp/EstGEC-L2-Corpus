@@ -8,11 +8,11 @@ S Ma leidsin oma raamaturiilist raamatud mis kahjuks enam ei huvita või ei meel
 A 3 4|||R:SPELL|||raamaturiiulist|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
 A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 7 7|||M:LEX|||mind|||REQUIRED|||-NONE-|||0
+A 6 6|||M:LEX|||mind|||REQUIRED|||-NONE-|||0
 A 11 14|||R:WO|||mulle ei meeldi|||REQUIRED|||-NONE-|||0
 A 3 4|||R:SPELL|||raamaturiiulist|||REQUIRED|||-NONE-|||1
 A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
-A 7 7|||M:LEX|||mind|||REQUIRED|||-NONE-|||1
+A 6 6|||M:LEX|||mind|||REQUIRED|||-NONE-|||1
 A 11 14|||R:WO|||mulle ei meeldi|||REQUIRED|||-NONE-|||1
 
 S Kuna ma tean et sina ja Paul olete raamatufännid , siis mul on teile väga huvitav pakkumine juhul kui te olete nõus neid raamatuid endale saada .
