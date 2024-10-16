@@ -1,12 +1,16 @@
 
 S Mina osalesin mitu päeva tagasi ühiskondliku sallivuse ümarlaual .
-A 1 5|||R:WO:NOM:FORM|||Mitu päeva tagasi osalesin ma|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||1
+A 8 9|||R:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||R:NOM:FORM|||Ma|||REQUIRED|||-NONE-|||2
+A 0 5|||R:WO:NOM:FORM|||Mitu päeva tagasi osalesin ma|||REQUIRED|||-NONE-|||2
 
 S Kus rääggiti olulistest ühikondikest teemadest .
+A 0 1|||R:LEX|||Seal|||REQUIRED|||-NONE-|||0
 A 1 2|||R:SPELL|||räägiti|||REQUIRED|||-NONE-|||0
 A 3 4|||R:SPELL|||ühiskondlikest|||REQUIRED|||-NONE-|||0
-A 0 1|||R:LEX|||Seal|||REQUIRED|||-NONE-|||1
+A 0 1|||R:CASE|||kus|||REQUIRED|||-NONE-|||1
 A 1 2|||R:SPELL|||räägiti|||REQUIRED|||-NONE-|||1
 A 3 4|||R:SPELL|||ühiskondlikest|||REQUIRED|||-NONE-|||1
 
@@ -39,8 +43,10 @@ A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 12 16|||R:WO|||selle riigi kasvuks teha|||REQUIRED|||-NONE-|||0
 
 S Väga tähtis oskus teises riigis olles on osata nende keelt või vähemalt proovida seda õppida .
-A 2 3|||M:LEX|||-NONE|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE|||REQUIRED|||-NONE-|||0
 A 3 7|||R:WO|||on teises riigis olles|||REQUIRED|||-NONE-|||0
+A 2 3|||U:LEX|||-NONE|||REQUIRED|||-NONE-|||1
+A 0 7|||R:WO|||Teises riigis olles on väga tähtis|||REQUIRED|||-NONE-|||1
 
 S See on minu arvates väga tähtis aspekt kultuuri lugupidamisel .
 A 7 8|||R:NOM:FORM|||kultuurist|||REQUIRED|||-NONE-|||0
@@ -56,12 +62,12 @@ S Tavaliselt saad sa oma kultuuri ka võõrriigis näidata ja tavaliselt seda au
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Samas sa ei tohi teisi segada oma kultuuri toomisega , sest austus peab alati olema mõlemal poolel , ning siis nad võtavad su vastu just kui enda .
-A 1 4|||R:WO|||ei tohi sa|||REQUIRED|||-NONE-|||0
-A 8 8|||R:WO|||võõrriiki||võõrsile|||REQUIRED|||-NONE-|||0
-A 15 17|||R:LEX|||mõlemapoolne|||REQUIRED|||-NONE-|||0
-A 20 24|||R:WO|||võtavad nad vastu su|||REQUIRED|||-NONE-|||0
+A 1 4|||R:WO|||ei tohi sa|||REQUIRED|||-NONE-||0
+A 20 22|||R:WO|||võtavad nad|||REQUIRED|||-NONE-|||0
 A 1 4|||R:WO|||ei tohi sa|||REQUIRED|||-NONE-|||1
-A 20 24|||R:WO|||võtavad nad vastu su|||REQUIRED|||-NONE-|||1
+A 8 8|||M:LEX|||sisse||võõrsile|||REQUIRED|||-NONE-|||1
+A 15 17|||R:LEX|||mõlemapoolne|||REQUIRED|||-NONE-|||1
+A 20 22|||R:WO|||võtavad nad|||REQUIRED|||-NONE-|||1
 
 S Kuigi oma rahvusliku omapära hoidmine on raske seda alati tuleks teha kas või enda pärast .
 A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
@@ -93,3 +99,6 @@ A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:LEX:SPELL|||toimuvad|||REQUIRED|||-NONE-|||0
 A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 6 7|||R:SPELL|||tekivad|||REQUIRED|||-NONE-|||1
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||R:LEX:SPELL|||toimuvad|||REQUIRED|||-NONE-|||2
+A 5 7|||R:WO|||toimuvad sõjad|||REQUIRED|||-NONE-|||2
