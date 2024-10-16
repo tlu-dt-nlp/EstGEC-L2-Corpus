@@ -118,26 +118,23 @@ A 13 14|||R:LEX|||vahetamiseks|||REQUIRED|||-NONE-|||1
 A 1 2|||R:LEX|||kiiremini|||REQUIRED|||-NONE-|||2
 A 2 4|||R:WO|||tehnoloogia areneb|||REQUIRED|||-NONE-|||2
 A 7 10|||R:WO|||on meil võimalusi|||REQUIRED|||-NONE-|||2
-A 10 11|||R:LEX:SPELL|||suhtlemiseks|||REQUIRED|||-NONE-|||2
-A 12 14|||R:LEX|||infovahetuseks|||REQUIRED|||-NONE-|||2
+A 10 11|||R:SPELL|||suhelda|||REQUIRED|||-NONE-|||2
 
 S Mõned külalised olid veendunud , et kuna tehnoloogia areneb nii kiiresti , see tõttu suhted ja suhtlemine muutuvad , ning see muutus ei ole igati positiivne .
 A 12 13|||R:LEX|||siis|||REQUIRED|||-NONE-|||0
 A 13 14|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
-A 24 25|||R:LEX|||alati||tihti||tihtipeale|||REQUIRED|||-NONE-|||0
+A 24 25|||R:LEX|||alati||üdini||ainult|||REQUIRED|||-NONE-|||0
 A 12 12|||M:LEX|||siis|||REQUIRED|||-NONE-|||1
 A 12 14|||R:WS|||seetõttu|||REQUIRED|||-NONE-|||1
 A 14 18|||R:WO|||muutuvad suhted ja suhtlemine|||REQUIRED|||-NONE-|||1
 A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
-A 24 25|||R:LEX|||alati||tihti||tihtipeale|||REQUIRED|||-NONE-|||1
+A 24 25|||R:LEX|||alati||üdini||ainult|||REQUIRED|||-NONE-|||1
 A 12 12|||M:LEX|||siis|||REQUIRED|||-NONE-|||2
 A 12 13|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||2
 A 12 18|||R:WO|||muutuvad selle tõttu suhted ja suhtlemine|||REQUIRED|||-NONE-|||2
 A 18 19|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
-A 22 23|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
-A 23 24|||R:VERB:FORM|||on|||REQUIRED|||-NONE-|||2
-A 25 26|||R:LEX|||negatiivne|||REQUIRED|||-NONE-|||2
+A 24 25|||R:LEX|||alati||üdini||ainult|||REQUIRED|||-NONE-|||2
 
 S On olemas andmed , et 80% meie suhtlemist koosneb mitteverbaalsest infost .
 A 7 8|||R:NOM:FORM|||suhtlemisest|||REQUIRED|||-NONE-|||0
