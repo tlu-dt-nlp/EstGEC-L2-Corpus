@@ -1,7 +1,7 @@
 
 S Täna väga tihti saab kuulda , et toimub globaliseerumine .
 A 0 1|||R:LEX|||Tänapäeval|||REQUIRED|||-NONE-|||0
-A 1 5|||R:WO|||saab väga tihti|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||saab väga tihti kuulda|||REQUIRED|||-NONE-|||0
 
 S Mis see tähendab ja mida see meie riigile kaasa toob ?
 A 0 1|||R:NOM:FORM|||Mida|||REQUIRED|||-NONE-|||0
