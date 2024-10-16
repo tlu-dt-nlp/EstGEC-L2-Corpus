@@ -67,9 +67,11 @@ A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Tänapäeval meedia on peamine abivahend õppimises , töös , meelelahutuses ja ka maailmas toimuvast kursis olemises .
 A 1 3|||R:WO|||on meedia|||REQUIRED|||-NONE-|||0
-A 5 6|||R:NOM:FORM|||õppimisel|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOM:FORM|||toimuvaga|||REQUIRED|||-NONE-|||0
-A 15 16|||R:NOM:FORM|||olemisel|||REQUIRED|||-NONE-|||0
+A 1 3|||R:WO|||on meedia|||REQUIRED|||-NONE-|||1
+A 5 6|||R:NOM:FORM|||õppimisel|||REQUIRED|||-NONE-|||1
+A 13 14|||R:NOM:FORM|||toimuvaga|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||olemisel|||REQUIRED|||-NONE-|||1
 
 S Iga päev enamik arenenud riikide inimesi kasutab telefoni , raadiot , interneti jt .
 A 2 7|||R:WO|||kasutab enamik arenenud riikide inimesi|||REQUIRED|||-NONE-|||0
