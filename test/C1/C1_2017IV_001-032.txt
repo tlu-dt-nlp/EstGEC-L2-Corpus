@@ -19,15 +19,18 @@ S Oli arutelu , et linnades ja ääremaadel on rohkem võimalusi teenuste , kult
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Tundub , et point on selles , et mida suurem on linn , seda rohkem sellel on ressursi .
-A 15 17|||R:WO|||on selles|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||on sellel|||REQUIRED|||-NONE-|||0
 A 17 18|||R:NOM:FORM|||ressurssi|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||mõte|||REQUIRED|||-NONE-|||0
+A 15 17|||R:WO|||on sellel|||REQUIRED|||-NONE-|||1
+A 17 18|||R:NOM:FORM|||ressurssi|||REQUIRED|||-NONE-|||1
 
 S Suuredes linnades on rohkem raha linnavalitsuses , rohkem inimesi osalevad selle kultuurielus , rohkem pakutakse igasuguseid ideid ja on ka rohkem tööjõudu .
 A 0 1|||R:SPELL|||Suurtes|||REQUIRED|||-NONE-|||0
 A 3 6|||R:WO|||linnavalitsuses rohkem raha|||REQUIRED|||-NONE-|||0
 A 9 10|||R:VERB:FORM|||osaleb|||REQUIRED|||-NONE-|||0
 A 7 12|||R:WO|||selle kultuurielus osaleb rohkem inimesi|||REQUIRED|||-NONE-|||0
-A 13 15|||R:WO|||pakutakse rohkem|||REQUIRED|||-NONE-|||1
+A 13 15|||R:WO|||pakutakse rohkem|||REQUIRED|||-NONE-|||0
 
 S Väiksemates maades aga elavad põhiliselt eakad inimesed .
 A 1 2|||R:LEX|||maakohtades||maapiirkondades|||REQUIRED|||-NONE-|||0
@@ -85,7 +88,7 @@ S See võiks olla linna sünnipäev , Uus aasta või Jõulu kontsert .
 A 6 8|||R:WS:CASE|||uusaasta|||REQUIRED|||-NONE-|||0
 A 9 11|||R:WS:CASE|||jõulukontsert|||REQUIRED|||-NONE-|||0
 
-S Eriti seda võiks teha kuskil maakohas||maapiirkonnas .
+S Eriti seda võiks teha kuskil maal .
 A 1 4|||R:WO|||võiks seda teha|||REQUIRED|||-NONE-|||0
 A 5 6|||R:LEX|||maakohas||maapiirkonnas|||REQUIRED|||-NONE-|||0
 
