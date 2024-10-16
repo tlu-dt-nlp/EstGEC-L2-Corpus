@@ -53,16 +53,20 @@ A 9 10|||R:NOM:FORM|||lähedastelt|||REQUIRED|||-NONE-|||0
 A 11 13|||R:WS|||võib-olla||võibolla|||REQUIRED|||-NONE-|||0
 
 S Ei taha neid prügi viia , sest et selled raamad väga huvitavad .
-A 3 4|||R:LEX|||prügikasti||prügimäele|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||prügisse|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
 A 9 10|||R:SPELL|||raamatud|||REQUIRED|||-NONE-|||0
 A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||0
-A 3 4|||R:LEX|||ära|||REQUIRED|||-NONE-|||1
-A 4 5|||R:LEX|||visata|||REQUIRED|||-NONE-|||1
-A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||prügikasti||prügimäele|||REQUIRED|||-NONE-|||1
 A 8 9|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||1
 A 9 10|||R:SPELL|||raamatud|||REQUIRED|||-NONE-|||1
 A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||1
+A 3 4|||R:LEX|||ära|||REQUIRED|||-NONE-|||2
+A 4 5|||R:LEX|||visata|||REQUIRED|||-NONE-|||2
+A 7 8|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||2
+A 9 10|||R:SPELL|||raamatud|||REQUIRED|||-NONE-|||2
+A 10 10|||M:LEX|||on|||REQUIRED|||-NONE-|||2
 
 S Raamat see on hea sõber .
 A 1 1|||M:PUNCT|||-|||REQUIRED|||-NONE-|||0
@@ -91,11 +95,10 @@ A 14 15|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||0
 A 15 16|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||0
 A 5 6|||R:LEX|||arvan||usun|||REQUIRED|||-NONE-|||1
 A 9 10|||R:NOM:FORM|||linna|||REQUIRED|||-NONE-|||1
-A 12 12|||M:LEX|||taha||soovi|||REQUIRED|||-NONE-|||1
-A 12 12|||M:LEX|||vastu|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||vastu|||REQUIRED|||-NONE-|||1
 A 14 15|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||1
 A 15 16|||R:NOM:FORM|||raamatuid|||REQUIRED|||-NONE-|||1
-A 12 16|||R:WO|||nii vanu raamatuid vastu võtta|||REQUIRED|||-NONE-|||1
+A 12 16|||R:WO|||võta nii vanu raamatuid vastu|||REQUIRED|||-NONE-|||1
 
 S Sa võid küsida oma linnas ?
 A 0 0|||M:LEX|||Kas sa|||REQUIRED|||-NONE-|||0
