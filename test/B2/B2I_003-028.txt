@@ -44,6 +44,7 @@ A 8 12|||R:WO|||juhtkonnale mitte midagi ütelda|||REQUIRED|||-NONE-|||1
 A 2 4|||R:WO|||sõitsin kohe|||REQUIRED|||-NONE-|||2
 A 5 7|||R:LEX|||ega|||REQUIRED|||-NONE-|||2
 A 8 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 12|||R:WO|||juhtkonnale ütelda|||REQUIRED|||-NONE-|||2
 
 S Kui tulin lapse pärast siis kohe sõitsime arsti juurde , kus meil öeldi , et ta sai parema jala luumurd .
 A 1 2|||R:LEX|||läksin|||REQUIRED|||-NONE-|||0
