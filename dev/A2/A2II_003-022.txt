@@ -26,6 +26,15 @@ S Kui te soovite osta või vaadata see auto .
 A 6 7|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||0
 A 3 8|||R:WO|||seda autot osta või vaadata|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||1
+A 3 8|||R:WO|||seda autot osta või vaadata|||REQUIRED|||-NONE-|||1
+A 8 9|||R:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||R:LEX|||Kas|||REQUIRED|||-NONE-|||2
+A 6 7|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||2
+A 7 8|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||2
+A 3 8|||R:WO|||seda autot osta või vaadata|||REQUIRED|||-NONE-|||2
+A 8 9|||R:PUNCT|||?|||REQUIRED|||-NONE-|||2
 
 S Auto asub Tartus , Pargi tn. --- .
 A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
