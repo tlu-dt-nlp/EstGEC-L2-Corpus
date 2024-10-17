@@ -33,9 +33,11 @@ A 14 18|||R:WO|||korraldab kaks korda kuus|||REQUIRED|||-NONE-|||2
 A 23 24|||R:LEX|||neis|||REQUIRED|||-NONE-|||2
 
 S Üllatuseks oli see , et neid vabatahtlikuid on üsna palju ja nende arv kasvab iga korraga .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 6 7|||R:SPELL|||vabatahtlikke||vabatahtlikkusid|||REQUIRED|||-NONE-|||0
 A 0 1|||R:NOM:FORM|||Üllatus|||REQUIRED|||-NONE-|||1
+A 6 7|||R:SPELL|||vabatahtlikke||vabatahtlikkusid|||REQUIRED|||-NONE-|||1
 A 0 1|||R:LEX|||Üllatav|||REQUIRED|||-NONE-|||2
+A 6 7|||R:SPELL|||vabatahtlikke||vabatahtlikkusid|||REQUIRED|||-NONE-|||2
 
 S Heategevuse kohta võin öelda , et meil eksisteerib kodanikuühistu " Lootus " , kes tegeleb sellega , et aitab meie lastekodu .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
