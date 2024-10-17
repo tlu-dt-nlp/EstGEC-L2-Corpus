@@ -49,7 +49,7 @@ A 5 6|||M:LEX|||selle pärast|||REQUIRED|||-NONE-|||0
 A 3 6|||R:WO|||selle pärast väga kuri|||REQUIRED|||-NONE-|||0
 A 5 6|||M:LEX|||selle peale|||REQUIRED|||-NONE-|||1
 A 3 6|||R:WO|||selle peale väga kuri|||REQUIRED|||-NONE-|||1
-A 5 6|||M:LEX|||tõttu|||REQUIRED|||-NONE-|||2
+A 5 6|||M:LEX|||selle tõttu|||REQUIRED|||-NONE-|||2
 A 3 6|||R:WO|||selle tõttu väga kuri|||REQUIRED|||-NONE-|||2
 
 S Praegu ta on ilus kõrge kasvu mees , sellepärast ma kohe ei teadnud teda .
@@ -57,7 +57,7 @@ A 1 3|||R:WO|||on ta|||REQUIRED|||-NONE-|||0
 A 4 5|||R:LEX:NOM:FORM|||pikka|||REQUIRED|||-NONE-|||0
 A 12 13|||R:LEX|||tundnud|||REQUIRED|||-NONE-|||0
 A 14 14|||M:LEX|||ära|||REQUIRED|||-NONE-|||0
-A 9 14|||R:WO|||ei tundnud ma teda kohe|||REQUIRED|||-NONE-|||0
+A 9 14|||R:WO|||ei tundnud ma teda kohe ära|||REQUIRED|||-NONE-|||0
 
 S Viktor on väga muutunud .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
