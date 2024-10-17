@@ -5,6 +5,9 @@ A 0 4|||R:WO|||Ma käisin eelmisel nädalal|||REQUIRED|||-NONE-|||1
 
 S Mulle väga meeldib käia kontserdil või muuseumis .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 3|||R:WO|||meeldib väga|||REQUIRED|||-NONE-|||1
+A 1 3|||R:WO|||meeldib väga|||REQUIRED|||-NONE-|||2
+A 3 7|||R:WO|||kontserdil või muuseumis käia|||REQUIRED|||-NONE-|||2
 
 S Ma valisin kontsert " Meister ja Margarita " .
 A 2 3|||R:NOM:FORM|||kontserdi|||REQUIRED|||-NONE-|||0
@@ -21,6 +24,8 @@ A 6 7|||R:NOM:FORM|||ema|||REQUIRED|||-NONE-|||1
 
 S Mulle väga meeldis see kontsert ja minu pere ka .
 A 7 8|||R:NOM:FORM|||perele|||REQUIRED|||-NONE-|||0
+A 1 5|||R:WO|||meeldis see kontsert väga|||REQUIRED|||-NONE-|||1
+A 7 8|||R:NOM:FORM|||perele|||REQUIRED|||-NONE-|||1
 
 S Konsert oli kolm tundi ja toimus Narvas Genevas kontserdimajas .
 A 0 1|||R:SPELL|||Kontsert|||REQUIRED|||-NONE-|||0
@@ -75,3 +80,4 @@ A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 5 9|||R:WO|||me läheme järgmisel nädalal|||REQUIRED|||-NONE-|||1
 A 9 9|||M:LEX|||etendusele|||REQUIRED|||-NONE-|||1
 A 10 11|||R:SPELL|||Maša|||REQUIRED|||-NONE-|||1
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
