@@ -43,7 +43,7 @@ A 4 5|||R:SPELL|||sobib|||REQUIRED|||-NONE-|||0
 A 6 6|||M:LEX|||siis|||REQUIRED|||-NONE-|||0
 A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 4 5|||R:SPELL|||sobib|||REQUIRED|||-NONE-|||1
-A 10 11|||R:CASE|||Minu|||REQUIRED|||-NONE-|||1
+A 11 12|||R:CASE|||Minu|||REQUIRED|||-NONE-|||1
 A 1 4|||R:WO|||see plaan sulle|||REQUIRED|||-NONE-|||2
 A 4 5|||R:SPELL|||sobib|||REQUIRED|||-NONE-|||2
 A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
