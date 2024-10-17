@@ -86,8 +86,9 @@ A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Ja üks nende põnevatest ideest on see , et nad tahavad teha teatri , kinohinnad soodsamaks ja praegu otsivad sponsorit .
 A 4 5|||R:NOM:FORM|||ideedest|||REQUIRED|||-NONE-|||0
-A 13 13|||M:PUNCT|||-|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||teatri-|||REQUIRED|||-NONE-|||0
 A 13 14|||M:LEX|||ja|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 19 19|||M:LEX|||nad|||REQUIRED|||-NONE-|||0
 
 S Veel üks nende ideedest see , et meie pargis nad juba panid riiuli , kuhu igaüks võib oma vanalemmikraamatu tuua vaba kasutamiseks .
