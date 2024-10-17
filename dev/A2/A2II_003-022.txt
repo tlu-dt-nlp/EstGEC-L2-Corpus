@@ -43,7 +43,7 @@ A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Saab tulla kolmapäeval ja neljapäeval kella kuuest kaheksani õhtul .
 A 1 1|||M:LEX|||vaatama|||REQUIRED|||-NONE-|||0
-A 0 0|||M:LEX|||Vaatama saab|||REQUIRED|||-NONE-|||1
+A 0 1|||M:LEX|||Vaatama saab|||REQUIRED|||-NONE-|||1
 
 S Auto ootada uued omanikud .
 A 1 2|||R:VERB:FORM:SPELL|||ootab|||REQUIRED|||-NONE-|||0
