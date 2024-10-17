@@ -38,7 +38,8 @@ A 8 9|||R:PUNCT|||?|||REQUIRED|||-NONE-|||2
 
 S Auto asub Tartus , Pargi tn. --- .
 A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
-A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||M:LEX|||siis auto|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Saab tulla kolmapäeval ja neljapäeval kella kuuest kaheksani õhtul .
 A 1 1|||M:LEX|||vaatama|||REQUIRED|||-NONE-|||0
