@@ -43,7 +43,7 @@ S Kõigepealt töötades arvutitega me säästame palju aega .
 A 1 5|||R:WO|||arvutitega töötades säästame me|||REQUIRED|||-NONE-|||0
 
 S Arvuti võib teha mingit tööd meie asemel .
-A 2 5|||R:WO|||meie asemel mingit tööd teha|||REQUIRED|||-NONE-|||0
+A 2 7|||R:WO|||meie asemel mingit tööd teha|||REQUIRED|||-NONE-|||0
 
 S Praegu meie ühiskond , eriti Eestis , püüab teha kõiki tööd digitaalselt .
 A 1 8|||R:WO|||püüab meie ühiskond , eriti Eestis ,|||REQUIRED|||-NONE-|||0
