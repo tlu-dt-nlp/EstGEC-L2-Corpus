@@ -52,6 +52,10 @@ S Nagu me saame märkata Eestis on teatrid ja kinoteatrid ainult suurtes linnade
 A 3 4|||R:SPELL|||märgata|||REQUIRED|||-NONE-|||0
 A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 4 6|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||märgata|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 4 6|||R:WO|||on Eestis|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX|||kinod|||REQUIRED|||-NONE-|||1
 
 S Need asutused teevad iga inimese elu huvitavaks ja need , kes elavad maal , tunnevad nende puudust ja seepärast otsustavad elada linnades või ääremaadel .
 A 15 16|||R:NOM:FORM|||nendest|||REQUIRED|||-NONE-|||0
