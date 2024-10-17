@@ -38,8 +38,7 @@ S Mul on kurb näha , et ettevõtjad ja isegi noored , kes on seal sündinud , e
 A 21 22|||R:NOM:FORM|||parandamisest|||REQUIRED|||-NONE-|||0
 
 S Noored ei taha sinna jätta , sest nad ei tunne , et saaksid end selles linnas hästi väljendada .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
-A 4 5|||R:LEX|||jääda|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||jääda|||REQUIRED|||-NONE-|||0
 
 S Ma mõtlen , et esimeseks sammuks lahenamise suunas saab olla erinevate ettevõtluste filiaalide avastamine .
 A 6 6|||M:LEX|||probleemi|||REQUIRED|||-NONE-|||0
@@ -48,6 +47,7 @@ A 11 12|||R:LEX|||ettevõtete|||REQUIRED|||-NONE-|||0
 A 13 14|||R:LEX|||avamine|||REQUIRED|||-NONE-|||0
 
 S Tore , et Narvas on Tartu Ülikooli kolledž , ja , et Tartusse üks ministeerium kolis .
+A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 10 11|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 13 16|||R:WO|||kolis üks ministeerium|||REQUIRED|||-NONE-|||0
 
