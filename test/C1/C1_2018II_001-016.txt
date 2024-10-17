@@ -78,17 +78,15 @@ A 9 14|||R:WO|||paljusid töid ilma arvutita teha|||REQUIRED|||-NONE-|||0
 S Näiteks , meie riigi arstid töötavad digitehnoloogiatega ja nad ei saa töötada , kui arvutisüsteem ei tööta .
 A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 2 6|||R:WO|||töötavad meie riigi arstid|||REQUIRED|||-NONE-|||0
-A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 A 2 6|||R:WO|||töötavad meie riigi arstid|||REQUIRED|||-NONE-|||1
-A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
-A 7 8|||R:LEX|||kuid|||REQUIRED|||-NONE-|||1
+A 7 8|||R:LEX|||, kuid|||REQUIRED|||-NONE-|||1
 A 11 11|||M:LEX|||seda|||REQUIRED|||-NONE-|||1
 A 11 12|||R:LEX|||teha|||REQUIRED|||-NONE-|||1
 A 16 17|||R:LEX|||funktsioneeri|||REQUIRED|||-NONE-|||1
 
 S Kui tekib probleem süsteemiga , siis arstide töö peatub ja patsiendid ei saa kvaliteetselt abi .
-A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Minu arvates , IT-spetsialistid peavad arvuti süsteemi parandada .
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -102,6 +100,8 @@ A 9 10|||R:LEX|||hoidmise|||REQUIRED|||-NONE-|||0
 
 S Lõpuks , me elame e-riigis , kus digitehnoloogiad mängivad suurt rolli .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 4|||R:WO|||elame me|||REQUIRED|||-NONE-|||1
 
 S Minu arvates , e-tehnoloogiad ja töö arvutitega on meie tulevikus .
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
