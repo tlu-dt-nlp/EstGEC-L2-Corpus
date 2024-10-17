@@ -14,7 +14,7 @@ A 1 2|||R:LEX:SPELL|||kohtume|||REQUIRED|||-NONE-|||0
 A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 1 2|||R:LEX:SPELL|||kohtusime|||REQUIRED|||-NONE-|||1
+A 1 2|||R:LEX:SPELL|||kohtuksime|||REQUIRED|||-NONE-|||1
 A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 A 8 9|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
@@ -22,12 +22,14 @@ A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
 S Me käisime meie linna parkis .
 A 1 2|||R:LEX|||lähme|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOM:FORM:SPELL|||parki|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||käiksime|||REQUIRED|||-NONE-|||1
 A 4 5|||R:SPELL|||pargis|||REQUIRED|||-NONE-|||1
 
 S Seal me olime jalutasime .
 A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 3 4|||R:VERB:FORM|||jalutame|||REQUIRED|||-NONE-|||0
 A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||R:VERB:FORM|||jalutaksime|||REQUIRED|||-NONE-|||1
 
 S Parkis väga ilus loodus .
 A 0 1|||R:SPELL|||Pargis|||REQUIRED|||-NONE-|||0
