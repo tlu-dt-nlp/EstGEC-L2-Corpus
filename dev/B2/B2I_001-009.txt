@@ -39,11 +39,13 @@ S Ma võiksin esialgu ise harjutada kodus oma arvutiga nii et kui kohtume on mul
 A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 19 20|||R:SPELL|||saad|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 23 25|||R:WO|||ise teha|||REQUIRED|||-NONE-|||0
 A 3 8|||R:WO|||kodus oma arvutiga ise harjutada|||REQUIRED|||-NONE-|||1
 A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 19 20|||R:SPELL|||saad|||REQUIRED|||-NONE-|||1
+A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 23 25|||R:WO|||ise teha|||REQUIRED|||-NONE-|||1
 
 S Teine probleem on mul selle piletide broneerimisega .
