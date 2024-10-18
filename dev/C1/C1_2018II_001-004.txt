@@ -87,7 +87,7 @@ S Seminaril oli palju teisi asjatundlikke esinejaid ja ma siiralt soovitan teile
 A 10 11|||R:NOM:FORM|||teil|||REQUIRED|||-NONE-|||0
 A 12 13|||R:NOM:FORM|||sellest|||REQUIRED|||-NONE-|||0
 A 11 15|||R:WO|||sellest seminarist osa võtta|||REQUIRED|||-NONE-|||0
-A 17 18|||R:SPELL|||tekib|||REQUIRED|||-NONE-|||0
+A 17 18|||R:VERB:FORM|||tekib|||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOM:FORM|||teil|||REQUIRED|||-NONE-|||1
 A 12 13|||R:NOM:FORM|||sellest|||REQUIRED|||-NONE-|||1
 A 11 15|||R:WO|||sellest seminarist osa võtta|||REQUIRED|||-NONE-|||1
