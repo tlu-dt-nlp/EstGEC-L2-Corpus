@@ -52,6 +52,8 @@ A 8 9|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 S Seega on raske vaielda
 A 3 3|||M:LEX|||vastu|||REQUIRED|||-NONE-|||0
 A 4 4|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 0 1|||R:LEX|||Sellega|||REQUIRED|||-NONE-|||1
+A 4 4|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
 
 S Seminariumi teises osas oli jutt digiseadmete turvariskidest ja nendest hoidumise võimalustest .
 A 0 1|||R:SPELL|||Seminari|||REQUIRED|||-NONE-|||0
