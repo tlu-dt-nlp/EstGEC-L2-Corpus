@@ -33,6 +33,9 @@ A 6 7|||R:LEX|||eelise|||REQUIRED|||-NONE-|||0
 
 S Seminaril osalemine andis hea võimaluse kaasa mõelda ja oma arvamuse avaldada sellest , kuidas oma andmeid kaitsta ning turvariskidest hoiduda .
 A 9 10|||R:NOM:FORM|||arvamust|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOM:FORM|||arvamust|||REQUIRED|||-NONE-|||1
+A 8 11|||R:WO|||avaldada oma arvamust|||REQUIRED|||-NONE-|||1
+A 11 12|||M:LEX|||selle kohta|||REQUIRED|||-NONE-|||1
 
 S Nüüdisajal on loodud võimsad viirused , mis nakatavad meie digiseadmeid ja varastavad informatsiooni .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
