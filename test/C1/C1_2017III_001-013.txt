@@ -68,6 +68,8 @@ A 0 2|||R:WS|||Sotsiaalmeediakanaleid|||REQUIRED|||-NONE-|||0
 
 S Samuti on palju ka sotsiaavõrgustike .
 A 4 5|||R:SPELL|||sotsiaalvõrgustikke|||REQUIRED|||-NONE-|||0
+A 3 4|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||R:SPELL|||sotsiaalvõrgustikke|||REQUIRED|||-NONE-|||1
 
 S Rääkides aga traditsioonilistest meediakanalitest , siis saab öelda , et nende efektiivsus ja populaarsus langeb .
 A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
