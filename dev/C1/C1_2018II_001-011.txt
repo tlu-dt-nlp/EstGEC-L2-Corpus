@@ -2,7 +2,9 @@ S Digitehnoloogiad ja digipädevus on tänapäeval väga põletavad teemad .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Hiljuti käisin seminaril , mis oli seotud nende teemadega ning tahan kuuldu materjali põhjal oma arvamust väljendada .
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 11 12|||R:SPELL|||kuuldud|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 12 13|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Esimene käsitletud teema oli " Digipädevus kui tänapäeva ühiskonnas toimetuleku eeldus " .
