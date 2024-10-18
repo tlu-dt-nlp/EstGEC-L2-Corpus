@@ -76,13 +76,13 @@ A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 A 11 12|||R:WS|||selle kassi|||REQUIRED|||-NONE-|||1
 A 3 13|||R:WO|||saan selle kassi osta järgmisel aastal juunis või juulis|||REQUIRED|||-NONE-|||1
 
-S Üks pere müüb ainult selline kassi , ja maksab päris palju mingi viis - kuus sotti euro .
+S Üks pere müüb ainult selline kassi , ja maksab päris palju mingi viis-kuus sotti euro .
 A 0 4|||R:WO|||Ainult üks pere müüb|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOM:FORM|||sellist|||REQUIRED|||-NONE-|||0
 A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 8 8|||M:LEX|||ta|||REQUIRED|||-NONE-|||0
 A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 16 17|||R:NOM:FORM|||eurot|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOM:FORM|||eurot|||REQUIRED|||-NONE-|||0
 
 S Praegu mul on kodus üks kass tema nimi on Leon , ja üks koer tema nimi on Sändi .
 A 1 3|||R:WO|||on mul|||REQUIRED|||-NONE-|||0
