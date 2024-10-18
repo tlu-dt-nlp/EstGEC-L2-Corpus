@@ -55,7 +55,8 @@ A 8 10|||R:WO|||suureneb veel|||REQUIRED|||-NONE-|||0
 A 15 16|||R:VERB:FORM|||hakkab|||REQUIRED|||-NONE-|||0
 A 18 19|||R:NOM:FORM|||noori|||REQUIRED|||-NONE-|||0
 A 0 7|||R:WO|||Ma ootan , et 10-15 aasta pärast|||REQUIRED|||-NONE-|||1
-A 8 10|||R:WO|||suureneb veel|||REQUIRED|||-NONE-|||1
+A 7 10|||R:WO|||suureneb asutus veel|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 15 16|||R:VERB:FORM|||hakkab|||REQUIRED|||-NONE-|||1
 A 18 19|||R:NOM:FORM|||noori|||REQUIRED|||-NONE-|||1
 
