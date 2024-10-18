@@ -16,7 +16,6 @@ A 20 20|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 20 21|||R:LEX|||karripasta|||REQUIRED|||-NONE-|||0
 A 21 21|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 21 22|||R:SPELL|||köömneseemneid|||REQUIRED|||-NONE-|||0
-A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S Koori ja tükelda sibuli ja küüslaugut ja praadi neid köömneseemnedega oliiviõlis katlas .
 A 3 4|||R:SPELL|||sibul|||REQUIRED|||-NONE-|||0
