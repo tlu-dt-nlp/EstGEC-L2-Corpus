@@ -16,14 +16,14 @@ A 1 2|||R:VERB:FORM|||toodi|||REQUIRED|||-NONE-|||0
 A 2 2|||M:LEX|||välja|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOM:FORM|||tuhandeid|||REQUIRED|||-NONE-|||0
 A 5 6|||R:LEX|||elulisi|||REQUIRED|||-NONE-|||0
-A 7 8|||M:LEX|||sellest|||REQUIRED|||-NONE-|||0
+A 7 7|||M:LEX|||sellest|||REQUIRED|||-NONE-|||0
 A 9 9|||M:LEX|||on|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:FORM|||aidanud|||REQUIRED|||-NONE-|||0
 A 11 12|||R:LEX|||igapäevaelus|||REQUIRED|||-NONE-|||0
 A 1 1|||M:LEX|||välja|||REQUIRED|||-NONE-|||1
 A 2 3|||R:NOM:FORM|||tuhandeid|||REQUIRED|||-NONE-|||1
 A 5 6|||R:LEX|||elulisi|||REQUIRED|||-NONE-|||1
-A 7 8|||M:LEX|||sellest|||REQUIRED|||-NONE-|||1
+A 7 7|||M:LEX|||sellest|||REQUIRED|||-NONE-|||1
 A 10 11|||R:VERB:FORM|||aitab|||REQUIRED|||-NONE-|||1
 A 11 12|||R:LEX|||igapäevaelus|||REQUIRED|||-NONE-|||1
 
