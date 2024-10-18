@@ -1,7 +1,7 @@
 
 S Tere , Liina .
 A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
-A 3 4|||U:PUNCT|||-NONE|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Kirjutan Sulle , sest mul on suur brobleem .
 A 7 8|||R:SPELL|||probleem|||REQUIRED|||-NONE-|||0
