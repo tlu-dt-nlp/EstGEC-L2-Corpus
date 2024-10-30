@@ -3,15 +3,14 @@ S Personalijuhile kiri .
 A 0 2|||R:WO|||Kiri personalijuhile|||REQUIRED|||-NONE-|||0
 
 S Tere , Tõnis , kirjutan teile seda lühike kiri , et tahaksin saata oma mõtteid oma asutuse kohta uue raamatu jaoks .
-A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
-A 4 5|||R:CASE|||Kirjutan|||REQUIRED|||-NONE-|||0
+A 3 5|||R:PUNCT|||! Kirjutan|||REQUIRED|||-NONE-|||0
 A 5 6|||R:CASE|||Teile|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOM:FORM|||lühikese|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||0
 A 10 11|||R:LEX|||sest|||REQUIRED|||-NONE-|||0
 A 12 21|||R:WO|||uue raamatu jaoks oma asutuse kohta oma mõtteid saata|||REQUIRED|||-NONE-|||0
-A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 3 5|||R:PUNCT|||! Kirjutan|||REQUIRED|||-NONE-|||1
 A 6 7|||R:NOM:FORM|||selle|||REQUIRED|||-NONE-|||1
 A 7 8|||R:NOM:FORM|||lühikese|||REQUIRED|||-NONE-|||1
 A 8 9|||R:NOM:FORM|||kirja|||REQUIRED|||-NONE-|||1
@@ -75,10 +74,10 @@ A 21 22|||R:NOM:FORM|||palka|||REQUIRED|||-NONE-|||1
 A 21 24|||R:WO|||saab rohkem palka|||REQUIRED|||-NONE-|||1
 
 S Sellega ma lõpetan , ootan teie vastust , kas oli minu kiri kasulik või mitte ?
-A 3 4|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+A 3 5|||R:PUNCT|||. Ootan|||REQUIRED|||-NONE-|||0
 A 5 6|||R:CASE|||Teie|||REQUIRED|||-NONE-|||0
 A 9 12|||R:WO|||minu kiri oli|||REQUIRED|||-NONE-|||0
-A 3 4|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
+A 3 5|||R:PUNCT|||. Ootan|||REQUIRED|||-NONE-|||1
 A 9 12|||R:WO|||minu kiri oli|||REQUIRED|||-NONE-|||1
 
 S Viktor .
