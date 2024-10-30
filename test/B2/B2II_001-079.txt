@@ -46,6 +46,7 @@ A 17 18|||R:LEX|||puudu|||REQUIRED|||-NONE-|||1
 
 S Asfaalt on kahjustustega ja nii edasi , ja nii edasi - te teate kõik ise .
 A 0 1|||R:SPELL|||Asfalt|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOM:FORM|||kõike|||REQUIRED|||-NONE-|||0
 
 S Koristamise tööd teostatakse ainult kord nädalas kella neljast hommikul vaatamata sellele , et kõik magavad sellel ajal .
