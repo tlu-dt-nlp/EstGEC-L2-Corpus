@@ -37,7 +37,7 @@ A 12 13|||R:VERB:FORM|||tegelema|||REQUIRED|||-NONE-|||2
 S Varem ma rääkisin sulle , et ta on parem arst , aga veel ta on meie linnas kuulus sportlane .
 A 1 2|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||0
-A 12 14|||R:WO|||ta on veel|||REQUIRED|||-NONE-|||0
+A 12 15|||R:WO|||ta on veel|||REQUIRED|||-NONE-|||0
 A 0 4|||R:WO|||Ma rääkisin sulle varem|||REQUIRED|||-NONE-|||1
 A 8 9|||R:NOM:FORM|||parim|||REQUIRED|||-NONE-|||1
 A 13 15|||R:WO|||on ta|||REQUIRED|||-NONE-|||1
