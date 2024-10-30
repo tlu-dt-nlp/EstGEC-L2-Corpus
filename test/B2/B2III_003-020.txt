@@ -7,7 +7,9 @@ A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Ma korrastasin hiljuti oma raamaturiiuleid ning leidsin raamatuid ja ajakirju , mida mul enam ei vaja ja tahaksin need ära anda .
 A 12 13|||R:NOM:FORM|||ma|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 15 15|||M:LEX|||ole|||REQUIRED|||-NONE-|||1
+A 16 16|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 
 S Ma leidsin väga palju erinevat ajakirjandust .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
