@@ -27,7 +27,5 @@ A 4 5|||R:NOM:FORM|||auto|||REQUIRED|||-NONE-|||2
 A 5 6|||R:NOM:FORM|||hinnast|||REQUIRED|||-NONE-|||2
 
 S Helistage õhtul iga päev .
-A 1 2|||R:NOM:FORM|||õhtutel||õhtuti|||REQUIRED|||-NONE-|||0
-A 2 3|||R:LEX|||mistahes||mis tahes|||REQUIRED|||-NONE-|||1
-A 3 4|||R:NOM:FORM|||päeval|||REQUIRED|||-NONE-|||1
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+A 2 3|||R:LEX|||mistahes||mis tahes|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOM:FORM|||päeval|||REQUIRED|||-NONE-|||0
