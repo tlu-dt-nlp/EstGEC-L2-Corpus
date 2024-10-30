@@ -26,7 +26,7 @@ A 16 17|||R:NOM:FORM|||välismaale|||REQUIRED|||-NONE-|||1
 
 S Kui mul kordki piisavalt raha ka oli , hakkasime plaanida reisi .
 A 2 3|||R:LEX|||kord|||REQUIRED|||-NONE-|||0
-A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 9 10|||R:VERB:FORM|||plaanima|||REQUIRED|||-NONE-|||0
 A 9 11|||R:WO|||reisi plaanima|||REQUIRED|||-NONE-|||0
 
@@ -122,7 +122,7 @@ A 1 2|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
 S Lendasime Maltasse Helsinkist ja olime kohal õhtupoolikul .
 A 1 2|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
 A 2 3|||R:SPELL|||Helsingist|||REQUIRED|||-NONE-|||0
-A 5 6|||R:WO|||õhtupoolikul kohal|||REQUIRED|||-NONE-|||0
+A 5 7|||R:WO|||õhtupoolikul kohal|||REQUIRED|||-NONE-|||0
 
 S Meie reis oli valmisreis ja reisijuht oli lennuväljal reisijatel vastas bussiga .
 A 6 7|||R:LEX|||ootas|||REQUIRED|||-NONE-|||0
@@ -232,8 +232,8 @@ A 1 3|||R:WO|||öeldi meile|||REQUIRED|||-NONE-|||0
 A 8 9|||R:SPELL|||lubjakividest||lubjakivist|||REQUIRED|||-NONE-|||0
 
 S Meile Malta maastik ei väga meeldinud , aga meri oli väga ilus .
-A 3 5|||R:WO|||väga ei|||REQUIRED|||-NONE-|||0
 A 4 5|||R:LEX|||eriti|||REQUIRED|||-NONE-|||0
+A 3 5|||R:WO|||eriti ei|||REQUIRED|||-NONE-|||0
 A 3 5|||R:WO|||väga ei|||REQUIRED|||-NONE-|||1
 
 S Siin oli mitu sinise värvi erinevaid toone ja isegi rohelist !
@@ -400,7 +400,7 @@ A 8 9|||R:LEX:SPELL|||varasematelt|||REQUIRED|||-NONE-|||0
 S Käisime Malta kõige kuulsamail vaatamisväärsusil , mis on Azure Window - asuur aken , Fungus Rock - seenkivi , Calypso Cave - Calypso koobas ja Ta’Pinu Sanctuary - Ta’Pinu basiilika .
 A 1 1|||M:LEX|||külastamas||vaatamas|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOM:FORM|||kuulsamaid|||REQUIRED|||-NONE-|||0
-A 4 5|||R:NOM:FORM|||vaatamsiväärsusi|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||vaatamisväärsusi|||REQUIRED|||-NONE-|||0
 A 11 13|||R:WS|||asuuraken|||REQUIRED|||-NONE-|||0
 A 29 30|||R:LEX|||pühamu|||REQUIRED|||-NONE-|||0
 
