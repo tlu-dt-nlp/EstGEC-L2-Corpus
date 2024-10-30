@@ -80,8 +80,8 @@ A 10 11|||R:LEX|||küll|||REQUIRED|||-NONE-|||1
 S Mida sa arvad , kui ma panen neid karbisse ja paigutan aknalaua peale trepikodus .
 A 7 8|||R:NOM:FORM|||need|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOM:FORM|||karpi|||REQUIRED|||-NONE-|||0
-A 11 14|||R:WO|||trepikotta aknalaua peale|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOM:FORM:SPELL|||trepikotta|||REQUIRED|||-NONE-|||0
+A 11 14|||R:WO|||trepikotta aknalaua peale|||REQUIRED|||-NONE-|||0
 A 14 15|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
 
 S Äkki keegi naabritest tunneb huvi nende vastu .
@@ -98,5 +98,6 @@ A 3 4|||R:VERB:FORM:SPELL|||ootama|||REQUIRED|||-NONE-|||1
 
 S Parimatega , Liina .
 A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 1|||R:NOM:FORM|||Parimat|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 0 1|||M:LEX|||Parimate soovidega|||REQUIRED|||-NONE-|||0
 A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
