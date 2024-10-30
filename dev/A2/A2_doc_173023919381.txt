@@ -17,6 +17,8 @@ S Tema on tavaliselt sportlikult riides .
 A 0 1|||R:NOM:FORM|||Ta|||REQUIRED|||-NONE-|||0
 
 S Mina olen minu sõbraga vanab sõbrad .
+A 0 1|||R:NOM:FORM|||Meie||Me|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||oleme|||REQUIRED|||-NONE-|||0
 A 2 3|||R:LEX|||enda||oma|||REQUIRED|||-NONE-|||0
 A 4 5|||R:SPELL|||vanad|||REQUIRED|||-NONE-|||0
 
