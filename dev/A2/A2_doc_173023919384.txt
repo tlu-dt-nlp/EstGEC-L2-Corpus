@@ -14,8 +14,8 @@ A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 S Reede ja laupäev olid väga külmad päevad .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
-S Reedel ja laupäevahommikul laupäeva hommikul temperatuur oli vähemalt -10 kraadi .
-A 2 3|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+S Reedel ja laupäevahommikul temperatuur oli vähemalt -10 kraadi .
+A 2 3|||R:WS|||laupäeva hommikul|||REQUIRED|||-NONE-|||0
 A 5 7|||R:WO|||oli temperatuur|||REQUIRED|||-NONE-|||0
 
 S Laupäevaõhtul oli vastik ilm : oli külm , kõva tuul ja sadasi lund ja vett .
