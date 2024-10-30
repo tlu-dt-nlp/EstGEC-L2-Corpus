@@ -18,6 +18,7 @@ A 8 13|||R:WO|||tuleb minu tuttav pere Itaaliast|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOM:FORM|||Soomet|||REQUIRED|||-NONE-|||0
 A 14 15|||R:LEX:VERB:FORM|||külastama|||REQUIRED|||-NONE-|||0
 A 13 17|||R:WO|||kaheks nädalaks Soome külastama|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||naudin|||REQUIRED|||-NONE-|||1
 A 3 4|||R:LEX|||natuke|||REQUIRED|||-NONE-|||1
 A 6 7|||R:LEX|||kuna|||REQUIRED|||-NONE-|||1
 A 12 13|||R:VERB:FORM|||tuleb|||REQUIRED|||-NONE-|||1
@@ -62,7 +63,6 @@ A 3 4|||R:NOM:FORM|||suvehõrgutisi|||REQUIRED|||-NONE-|||0
 A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||värskeid|||REQUIRED|||-NONE-|||0
 A 8 9|||R:SPELL|||maasikaid|||REQUIRED|||-NONE-|||0
-A 9 10|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 11 12|||R:SPELL|||lähme|||REQUIRED|||-NONE-|||0
 
 S Õhtul sööme sadamas einelaudis .
