@@ -53,6 +53,14 @@ A 10 11|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||1
 A 11 12|||R:LEX|||raagus|||REQUIRED|||-NONE-|||1
 A 14 15|||R:LEX|||praegu|||REQUIRED|||-NONE-|||1
 A 17 18|||R:NOM:FORM|||suvi|||REQUIRED|||-NONE-|||1
+A 0 1|||R:SPELL|||Nädalavahetusel|||REQUIRED|||-NONE-|||2
+A 7 8|||R:SPELL|||paistis|||REQUIRED|||-NONE-|||2
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||2
+A 10 11|||R:VERB:FORM|||olid|||REQUIRED|||-NONE-|||2
+A 11 12|||R:NOM:FORM|||heledad|||REQUIRED|||-NONE-|||2
+A 14 15|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
+A 16 17|||R:VERB:FORM|||olnud|||REQUIRED|||-NONE-|||2
+A 17 18|||R:NOM:FORM|||suvi|||REQUIRED|||-NONE-|||2
 
 S Meile meeldivad see reis teha .
 A 1 2|||R:VERB:FORM|||meeldis|||REQUIRED|||-NONE-|||0
