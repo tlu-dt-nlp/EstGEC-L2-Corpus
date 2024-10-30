@@ -3,6 +3,7 @@ S Müüa auto Toiota Carolla 2008a .
 A 2 3|||R:SPELL|||Toyota|||REQUIRED|||-NONE-|||0
 A 3 4|||R:SPELL|||Corolla|||REQUIRED|||-NONE-|||0
 A 4 5|||R:WS:SPELL|||2008. a|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||2008. a auto Toyota Corolla|||REQUIRED|||-NONE-|||0
 
 S Auto hind on 500 euro
 A 4 5|||R:NOM:FORM|||eurot|||REQUIRED|||-NONE-|||0
