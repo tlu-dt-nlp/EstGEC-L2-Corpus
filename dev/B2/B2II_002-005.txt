@@ -28,7 +28,7 @@ A 8 9|||R:NOM:FORM|||kõrvale|||REQUIRED|||-NONE-|||0
 
 S Teenusefirma ei kiiresti koristada prahti .
 A 3 4|||R:VERB:FORM|||korista|||REQUIRED|||-NONE-|||0
-A 2 5|||R:WO|||ei korista prahti kiiresti|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||korista prahti kiiresti|||REQUIRED|||-NONE-|||0
 
 S Parkides on palju vanad puud .
 A 3 4|||R:NOM:FORM|||vanu|||REQUIRED|||-NONE-|||0
