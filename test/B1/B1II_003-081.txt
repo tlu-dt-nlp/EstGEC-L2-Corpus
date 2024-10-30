@@ -79,4 +79,4 @@ A 7 8|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
 A 8 9|||R:SPELL|||klassikaaslast|||REQUIRED|||-NONE-|||0
 
 S Sinu sõber Igor .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
