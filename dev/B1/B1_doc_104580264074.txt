@@ -92,7 +92,7 @@ A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 5 5|||M:LEX|||et|||REQUIRED|||-NONE-|||1
 
 S Nelipäeval me käisime tutvumas sealse kooliga .
-A 0 1|||R:SPELL|||neljapäeval|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Neljapäeval|||REQUIRED|||-NONE-|||0
 A 1 3|||R:WO|||käisime me|||REQUIRED|||-NONE-|||0
 
 S Kool oli päris suur , sest seal õppisid nii põhikooli kui gümnaasiumi õpilased .
@@ -161,7 +161,6 @@ A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 S Sees kirikus ei saanud pildistada , sest seal oli jumalateenastus .
 A 0 1|||U:LEX|||Kirikus|||REQUIRED|||-NONE-|||0
 A 9 10|||R:SPELL|||jumalateenistus|||REQUIRED|||-NONE-|||0
-A 1 2|||R:NOM:FORM|||kiriku|||REQUIRED|||-NONE-|||1
 A 0 2|||R:WO|||Kirikus sees|||REQUIRED|||-NONE-|||1
 A 9 10|||R:SPELL|||jumalateenistus|||REQUIRED|||-NONE-|||1
 
