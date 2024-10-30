@@ -29,8 +29,8 @@ A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 9 10|||R:PUNCT|||. Mulle|||REQUIRED|||-NONE-|||0
 A 11 12|||R:VERB:FORM|||meeldib|||REQUIRED|||-NONE-|||0
-A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 14 15|||R:SPELL|||fakulteet|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 18 19|||R:SPELL|||mehaanikasse|||REQUIRED|||-NONE-|||0
 A 2 3|||R:SPELL|||mehaanikasse|||REQUIRED|||-NONE-|||1
 A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
@@ -38,8 +38,8 @@ A 4 5|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 A 9 10|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
 A 10 10|||M:LEX|||Kuigi|||REQUIRED|||-NONE-|||1
 A 11 12|||R:VERB:FORM|||meeldib|||REQUIRED|||-NONE-|||1
-A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 14 15|||R:SPELL|||fakulteet|||REQUIRED|||-NONE-|||1
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 15 16|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 A 16 18|||R:WO|||astusin ma|||REQUIRED|||-NONE-|||1
 A 18 19|||R:SPELL|||mehaanikasse|||REQUIRED|||-NONE-|||1
