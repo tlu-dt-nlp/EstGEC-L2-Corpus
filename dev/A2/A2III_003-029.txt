@@ -37,8 +37,9 @@ S Ette tänan abi eest .
 A 0 4|||R:WO|||Tänan abi eest ette|||REQUIRED|||-NONE-|||0
 
 S Ma ootan teid õhtupool .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 3 4|||R:LEX|||õhtupoole|||REQUIRED|||-NONE-|||0
 A 3 4|||R:WS:NOM:FORM|||õhtu poole|||REQUIRED|||-NONE-|||1
 
 S Teie sõber , Tatjana .
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
