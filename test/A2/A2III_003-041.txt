@@ -19,7 +19,7 @@ A 6 9|||R:WO|||on kodumasin nüüd||on nüüd kodumasin|||REQUIRED|||-NONE-|||1
 
 S Ma ei oska remontida , nii tule mulle külla !
 A 3 3|||M:LEX|||seda|||REQUIRED|||-NONE-|||0
-A 6 7|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
+A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 3 3|||M:LEX|||seda|||REQUIRED|||-NONE-|||1
 A 6 6|||M:LEX|||et|||REQUIRED|||-NONE-|||1
 A 8 9|||R:LEX|||appi|||REQUIRED|||-NONE-|||1
