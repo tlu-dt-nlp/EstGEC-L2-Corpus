@@ -35,7 +35,7 @@ A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 9 10|||R:NOM:FORM|||seal|||REQUIRED|||-NONE-|||0
 A 11 12|||R:LEX|||tutvuda|||REQUIRED|||-NONE-|||0
 A 1 1|||M:LEX|||on|||REQUIRED|||-NONE-|||1
-A 1 2|||R:WO|||Mulle on veel|||REQUIRED|||-NONE-|||1
+A 0 3|||R:WO|||Mulle on veel|||REQUIRED|||-NONE-|||1
 A 3 4|||R:SPELL|||kanal|||REQUIRED|||-NONE-|||1
 A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 A 6 7|||R:CASE|||Planeet|||REQUIRED|||-NONE-|||1
@@ -47,7 +47,7 @@ A 12 13|||R:NOM:FORM|||inimeste|||REQUIRED|||-NONE-|||1
 A 13 14|||R:NOM:FORM|||elu|||REQUIRED|||-NONE-|||1
 A 1 2|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||2
 A 2 3|||R:LEX|||huvitab|||REQUIRED|||-NONE-|||2
-A 1 2|||R:WO|||Mind huvitab veel|||REQUIRED|||-NONE-|||2
+A 0 3|||R:WO|||Mind huvitab veel|||REQUIRED|||-NONE-|||2
 A 3 4|||R:SPELL|||kanal|||REQUIRED|||-NONE-|||2
 A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||2
 A 6 7|||R:CASE|||Planeet|||REQUIRED|||-NONE-|||2
@@ -140,6 +140,6 @@ A 34 35|||R:NOM:FORM|||homne|||REQUIRED|||-NONE-|||2
 A 32 35|||R:WO|||on homne ilm|||REQUIRED|||-NONE-|||2
 
 S Ma arvan et tanapäevadeks on palju võimalusi uudiseid ja infot saate .
-A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOM:FORM:SPELL|||tänapäeval|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB:FORM|||saada|||REQUIRED|||-NONE-|||0
