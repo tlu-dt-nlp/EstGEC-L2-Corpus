@@ -9,8 +9,7 @@ S Kuidas läheb ?
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S ( - hästi ! )
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
-A 2 3|||R:CASE|||Hästi|||REQUIRED|||-NONE-|||1
+A 2 3|||R:CASE|||Hästi|||REQUIRED|||-NONE-|||0
 
 S Minul eile kodumasin katki ja minu vaja appi .
 A 1 1|||M:LEX|||läks|||REQUIRED|||-NONE-|||0
@@ -23,7 +22,7 @@ A 6 7|||R:VERB:FORM|||vajan|||REQUIRED|||-NONE-|||1
 A 7 7|||M:LEX|||sind|||REQUIRED|||-NONE-|||1
 
 S Eile koristasin vannituba ja näen nagu kodumasin katki .
-A 4 5|||R:VERB:FORM|||nägin|||REQUIRED|||-NONE-|||0
+A 4 5|||R:LEX:VERB:FORM|||tundus|||REQUIRED|||-NONE-|||0
 A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 7 7|||M:LEX|||oleks|||REQUIRED|||-NONE-|||0
 A 4 5|||R:VERB:FORM|||nägin|||REQUIRED|||-NONE-|||1
