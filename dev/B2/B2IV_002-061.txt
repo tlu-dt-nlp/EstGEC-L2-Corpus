@@ -41,8 +41,8 @@ S Meie töökollektiivis juba töötab 30 inimest .
 A 2 4|||R:WO|||töötab juba|||REQUIRED|||-NONE-|||0
 
 S Ma tean kui te ainult algasite , töötasid 8 inimest .
-A 2 2|||M:LEX|||et|||REQUIRED|||-NONE-|||0
 A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 2|||M:LEX|||et|||REQUIRED|||-NONE-|||0
 A 4 5|||R:LEX|||alles|||REQUIRED|||-NONE-|||0
 A 5 6|||R:LEX|||alustasite|||REQUIRED|||-NONE-|||0
 A 7 8|||R:VERB:FORM|||töötas|||REQUIRED|||-NONE-|||0
