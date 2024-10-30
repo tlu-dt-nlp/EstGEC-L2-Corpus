@@ -8,8 +8,9 @@ S Mul oli pühkus .
 A 2 3|||R:SPELL|||puhkus|||REQUIRED|||-NONE-|||0
 
 S Ma reisisin Turkeas , Kemeris .
-A 2 3|||R:SPELL|||Türgis|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||Türki||Türgisse|||REQUIRED|||-NONE-|||0
 A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||Kemerisse|||REQUIRED|||-NONE-|||0
 A 1 2|||R:LEX|||käisin|||REQUIRED|||-NONE-|||1
 A 2 3|||R:SPELL|||Türgis|||REQUIRED|||-NONE-|||1
 A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -42,4 +43,4 @@ A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 S Minu väga meldin reis .
 A 0 1|||R:NOM:FORM|||Mulle|||REQUIRED|||-NONE-|||0
 A 2 3|||R:VERB:FORM:SPELL|||meeldis|||REQUIRED|||-NONE-|||0
-A 1 4|||R:WO|||Reis meeldis mulle väga|||REQUIRED|||-NONE-|||0
+A 0 4|||R:WO|||Reis meeldis mulle väga|||REQUIRED|||-NONE-|||0
