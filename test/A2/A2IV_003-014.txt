@@ -11,7 +11,7 @@ A 10 11|||R:NOM:FORM|||firmast|||REQUIRED|||-NONE-|||0
 A 11 11|||M:LEX|||osta|||REQUIRED|||-NONE-|||0
 
 S Minu viimane reis oli Maltas .
-A 4 5|||R:NOM:FORM|||Maltale||Maltasse|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOM:FORM|||Maltale|||REQUIRED|||-NONE-|||0
 
 S See oli Septembris .
 A 2 3|||R:CASE|||septembris|||REQUIRED|||-NONE-|||0
