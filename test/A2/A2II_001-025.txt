@@ -1,8 +1,10 @@
 
 S Müüa uus auto " Honda " 2018 a .
+A 3 3|||M:PUNCT|||,||:||-|||REQUIRED|||-NONE-|||0
 A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 6 7|||R:SPELL|||2018.|||REQUIRED|||-NONE-|||0
+A 4 8|||R:WO|||2018. a Honda|||REQUIRED|||-NONE-|||0
 
 S Värv on must , salon on nähk , väga hea valja .
 A 4 5|||R:SPELL|||salong|||REQUIRED|||-NONE-|||0
