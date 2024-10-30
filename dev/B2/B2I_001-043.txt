@@ -59,7 +59,7 @@ A 1 2|||R:SPELL|||saade|||REQUIRED|||-NONE-|||0
 A 3 4|||R:SPELL|||kõikide|||REQUIRED|||-NONE-|||0
 A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOM:FORM|||raadiojaamas|||REQUIRED|||-NONE-|||0
-A 14 17|||R:WO|||on minu saade eelviimane|||REQUIRED|||-NONE-|||0
+A 14 18|||R:WO|||on minu saade eelviimane|||REQUIRED|||-NONE-|||0
 
 S Ma tean , et sa töötad teisel valdkonnal , kuid anna mulle paar soovitust .
 A 6 7|||R:NOM:FORM|||teises|||REQUIRED|||-NONE-|||0
