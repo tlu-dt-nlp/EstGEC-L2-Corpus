@@ -5,8 +5,11 @@ A 4 5|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Tahaksin müüa minu auto .
 A 2 3|||R:LEX|||oma|||REQUIRED|||-NONE-|||0
-A 3 4|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||0
 A 2 3|||R:LEX|||oma|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||1
+A 2 2|||M:LEX|||maha||ära|||REQUIRED|||-NONE-|||2
+A 2 3|||R:LEX|||oma|||REQUIRED|||-NONE-|||2
+A 1 4|||R:WO|||oma auto maha müüa||oma auto ära müüa|||REQUIRED|||-NONE-|||2
 
 S Mul on abikaasa ja kaks last ja koer , ja see auto on praegu natuke väike .
 A 3 4|||U:LEX|||,|||REQUIRED|||-NONE-|||0
