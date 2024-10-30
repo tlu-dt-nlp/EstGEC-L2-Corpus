@@ -56,6 +56,7 @@ S Kõik minu raamatud 1980ate muusikast ( 69 tükki ) , kõik minu raamatud mis 
 A 3 4|||R:SPELL|||1980ndate|||REQUIRED|||-NONE-|||0
 A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 23 23|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 28 29|||R:LEX|||kõik|||REQUIRED|||-NONE-|||0
 A 40 41|||R:NOM:FORM|||seda|||REQUIRED|||-NONE-|||0
 A 42 43|||R:NOM:FORM|||ajakirja|||REQUIRED|||-NONE-|||0
