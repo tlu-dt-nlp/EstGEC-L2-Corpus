@@ -15,6 +15,7 @@ S Olin närvilik .
 A 1 2|||R:LEX|||närviline|||REQUIRED|||-NONE-|||0
 
 S Reis oli minu ensmäne reis Venemaale , aga see ei olnut ainuld põhjus närvilikusse .
+A 0 1|||R:LEX|||See|||REQUIRED|||-NONE-|||0
 A 3 4|||R:SPELL|||esimene|||REQUIRED|||-NONE-|||0
 A 10 11|||R:SPELL|||olnud|||REQUIRED|||-NONE-|||0
 A 11 12|||R:LEX:SPELL|||ainus||ainuke|||REQUIRED|||-NONE-|||0
@@ -27,7 +28,7 @@ S Minu sõber Miila olis minuga samas majutuses .
 A 3 4|||R:SPELL|||oli|||REQUIRED|||-NONE-|||0
 
 S Teasin , et meil arvatavasti ei olis ühist keelt meie pererahvasega .
-A 0 1|||R:SPELL|||teadsin|||REQUIRED|||-NONE-|||0
+A 0 1|||R:SPELL|||Teadsin|||REQUIRED|||-NONE-|||0
 A 6 7|||R:SPELL|||ole|||REQUIRED|||-NONE-|||0
 A 10 11|||R:SPELL|||pererahvaga|||REQUIRED|||-NONE-|||0
 
@@ -38,9 +39,11 @@ S Aga kui me saabusime Gatsinasse ja kohasime pererahvad , märgasin et meie per
 A 6 7|||R:SPELL|||kohtasime|||REQUIRED|||-NONE-|||0
 A 7 8|||R:NOM:FORM|||pererahvast|||REQUIRED|||-NONE-|||0
 A 9 10|||R:SPELL|||märkasin|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:VERB:FORM:SPELL|||kohtusime|||REQUIRED|||-NONE-|||1
 A 7 8|||R:NOM:FORM|||pererahvaga|||REQUIRED|||-NONE-|||1
 A 9 10|||R:SPELL|||märkasin|||REQUIRED|||-NONE-|||1
+A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 
 S Ta naerus ja viibas meid õigesse suunasse .
 A 1 2|||R:SPELL|||naeris|||REQUIRED|||-NONE-|||0
@@ -60,9 +63,8 @@ A 7 8|||R:LEX:VERB:FORM|||laabub|||REQUIRED|||-NONE-|||1
 S Meie perenaine elas ühes oma tütrega .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
-S Tema tütar oli viieteistaastane viieteist aastane ja väga uje .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
-A 4 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
+S Tema tütar oli viieteist aastane ja väga uje .
+A 4 6|||R:WS|||viieteistaastane |||REQUIRED|||-NONE-|||0
 
 S Ta andas meile laenaks oma tuba ja magas ise emaga samas tubas .
 A 1 2|||R:SPELL|||andis|||REQUIRED|||-NONE-|||0
