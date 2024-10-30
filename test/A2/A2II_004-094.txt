@@ -2,10 +2,9 @@
 S Müüakse auto , Mazda 6 2015. a .
 A 1 2|||R:NOM:FORM|||autot|||REQUIRED|||-NONE-|||0
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 1 7|||R:WO|||2015. a autot Mazda 6|||REQUIRED|||-NONE-|||0
 A 0 1|||R:VERB:FORM|||Müüa|||REQUIRED|||-NONE-|||1
-A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
-A 0 1|||R:VERB:FORM|||Müüa|||REQUIRED|||-NONE-|||2
-A 3 7|||R:WO|||2015. a Mazda 6|||REQUIRED|||-NONE-|||2
+A 3 7|||R:WO|||2015. a Mazda 6|||REQUIRED|||-NONE-|||1
 
 S Värv on tumepruun , üks omanik , ostetud uuena saloonist , kaasas on kaks võtti ja talverehv
 A 9 10|||R:SPELL|||salongist|||REQUIRED|||-NONE-|||0
