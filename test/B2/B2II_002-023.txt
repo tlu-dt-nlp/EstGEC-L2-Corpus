@@ -1,7 +1,11 @@
 
 S Lugupeetud omavalitsuse ametnik , kirjutan teile kaebusega , sest hakkasin märkama , et meie tänavate ja parkide hooldamise tase hakkas halvenema .
-A 3 5|||U:PUNCT|||Kirjutan|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
+A 4 5|||R:CASE|||Kirjutan|||REQUIRED|||-NONE-|||0
 A 12 13|||R:LEX|||kuidas|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PUNCT|||!|||REQUIRED|||-NONE-|||1
+A 4 5|||R:CASE|||Kirjutan|||REQUIRED|||-NONE-|||1
+A 12 13|||R:LEX|||kuidas|||REQUIRED|||-NONE-|||1
 
 S Ma ei ole rahul sellega , et vähenesid parkimiskohad autodele ja kui ma oma lastedega sõidan pargisse jalutamas , siis ma isegi ei tea kuhu oma auto jätta , sest vaba kohte üldse ei ole .
 A 3 5|||R:WO|||sellega rahul|||REQUIRED|||-NONE-|||0
