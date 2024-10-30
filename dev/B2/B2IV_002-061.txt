@@ -22,7 +22,7 @@ A 9 10|||R:NOM:FORM|||kõik|||REQUIRED|||-NONE-|||0
 A 9 11|||R:WO|||sobib kõik|||REQUIRED|||-NONE-|||0
 
 S Sõbralikud töökaaslased alati võivad aidata , head töötingimused , arutav töötasu , samuti ka on preemiat , tööaeg on ka hea 9.-17.00 , töökoht asub koju lähedal .
-A 2 5|||R:WO|||võivad alati aidada|||REQUIRED|||-NONE-|||0
+A 2 5|||R:WO|||võivad alati aidata|||REQUIRED|||-NONE-|||0
 A 9 10|||R:LEX|||arvestatav|||REQUIRED|||-NONE-|||0
 A 13 15|||R:WO|||on ka|||REQUIRED|||-NONE-|||0
 A 15 16|||R:NOM:FORM|||preemia|||REQUIRED|||-NONE-|||0
