@@ -21,13 +21,13 @@ A 9 11|||R:WS:SPELL|||remondifirmas|||REQUIRED|||-NONE-|||1
 S Tere Paul , minu kodumasin läks katki , kas sa saad mulle aidata .
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 2 4|||R:PUNCT|||! Minu|||REQUIRED|||-NONE-|||0
-A 8 8|||R:PUNCT|||. Kas|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PUNCT|||. Kas|||REQUIRED|||-NONE-|||0
 A 11 12|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||0
 A 13 14|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 2 4|||R:PUNCT|||! Minu|||REQUIRED|||-NONE-|||1
 A 4 5|||R:LEX|||pesumasin|||REQUIRED|||-NONE-|||1
-A 8 8|||R:PUNCT|||. Kas|||REQUIRED|||-NONE-|||1
+A 7 8|||R:PUNCT|||. Kas|||REQUIRED|||-NONE-|||1
 A 11 12|||R:NOM:FORM|||mind|||REQUIRED|||-NONE-|||1
 A 13 14|||R:PUNCT|||?|||REQUIRED|||-NONE-|||1
 
