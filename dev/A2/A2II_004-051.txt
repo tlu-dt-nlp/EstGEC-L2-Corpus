@@ -1,6 +1,7 @@
 S Mul on üks suur must auto müügile .
 A 6 7|||R:LEX|||müüa|||REQUIRED|||-NONE-|||0
-A 2 7|||R:WO|||müüa üks suur ostja nüüd|||REQUIRED|||-NONE-|||0
+A 6 7|||R:LEX|||müüa|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||müüa üks suur must auto|||REQUIRED|||-NONE-|||1
 
 S See auto on saksamaalt aga on regeeristud eestis .
 A 3 4|||R:CASE|||Saksamaalt|||REQUIRED|||-NONE-|||0
