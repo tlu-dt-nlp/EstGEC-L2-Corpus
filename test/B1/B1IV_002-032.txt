@@ -85,8 +85,7 @@ A 0 3|||R:WO|||Ma pöördun veel|||REQUIRED|||-NONE-|||1
 A 4 5|||R:LEX|||poole|||REQUIRED|||-NONE-|||1
 
 S Õpilane Alisa --- .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
-A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S 11. november 2018 .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
