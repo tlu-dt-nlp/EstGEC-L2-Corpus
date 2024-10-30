@@ -6,8 +6,6 @@ A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Mina koos minu ametikaaslastega on palutud raamatu jaoks saata oma mõtteid asutuse kohta .
 A 0 1|||R:NOM:FORM|||Mind|||REQUIRED|||-NONE-|||0
-A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 0 1|||R:NOM:FORM|||Minul|||REQUIRED|||-NONE-|||1
 A 1 2|||R:LEX|||ja|||REQUIRED|||-NONE-|||1
 A 3 4|||R:NOM:FORM|||ametikaaslastel|||REQUIRED|||-NONE-|||1
