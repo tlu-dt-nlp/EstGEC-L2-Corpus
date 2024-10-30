@@ -9,13 +9,13 @@ S Algus oli natuke raske aga kui edasi lugesin , hakkasin aru saama ja siis oli 
 A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S Arvan , et Andrus Kivirähk oskas hästi pildistada kuidas võib-olla elati muinasel ajal Eestis ning kuidas ristiusk eestlaste elusse mõjus .
-A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 7 8|||R:LEX|||kujutada|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 11 13|||R:WS:NOM:FORM|||muinasajal|||REQUIRED|||-NONE-|||0
 A 18 19|||R:NOM:FORM|||elusid||elu|||REQUIRED|||-NONE-|||0
 A 19 20|||R:LEX|||mõjutas|||REQUIRED|||-NONE-|||0
-A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 7 8|||R:LEX|||kujutada|||REQUIRED|||-NONE-|||1
+A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 A 11 12|||R:LEX|||muistsel|||REQUIRED|||-NONE-|||1
 A 18 19|||R:NOM:FORM|||elusid||elu|||REQUIRED|||-NONE-|||1
 A 19 20|||R:LEX|||mõjutas|||REQUIRED|||-NONE-|||1
