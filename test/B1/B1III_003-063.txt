@@ -15,13 +15,13 @@ A 10 11|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 16 17|||R:SPELL|||ostis|||REQUIRED|||-NONE-|||0
 
 S Mulle meeldib popp-muusika .
-A 2 4|||R:SPELL|||popmuusika|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||popmuusika|||REQUIRED|||-NONE-|||0
 
 S Me käisime konserdil koos perega : mina , abikaasa ja kaks poega .
 A 2 3|||R:SPELL|||kontserdil|||REQUIRED|||-NONE-|||0
 
 S Me kuulasime popp-muusikat .
-A 2 4|||R:SPELL|||popmuusikat|||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||popmuusikat|||REQUIRED|||-NONE-|||0
 
 S Mulle väga meeldis selle konsert .
 A 3 4|||R:NOM:FORM|||see|||REQUIRED|||-NONE-|||0
