@@ -30,7 +30,7 @@ A 1 2|||R:VERB:FORM|||sõitsime|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOM:FORM:SPELL|||vanadesse|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOM:FORM|||linnadesse|||REQUIRED|||-NONE-|||0
 A 5 6|||R:NOM:FORM|||Vallettasse|||REQUIRED|||-NONE-|||0
-A 7 8|||R:NOM:FORM:SPELL|||Medinasse|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOM:FORM|||Mdinasse|||REQUIRED|||-NONE-|||0
 
 S See oli väga huvitav reis .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
