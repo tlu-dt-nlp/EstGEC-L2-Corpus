@@ -48,5 +48,4 @@ A 10 10|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
 
 S Sinu sober Vadim .
 A 1 2|||R:SPELL|||sõber|||REQUIRED|||-NONE-|||0
-A 1 2|||R:SPELL|||sõber|||REQUIRED|||-NONE-|||1
-A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
