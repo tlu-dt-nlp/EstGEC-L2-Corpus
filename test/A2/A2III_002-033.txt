@@ -18,7 +18,7 @@ A 3 3|||M:LEX|||oma|||REQUIRED|||-NONE-|||0
 A 6 7|||R:LEX|||aitan|||REQUIRED|||-NONE-|||0
 A 7 7|||M:LEX|||pesumasina|||REQUIRED|||-NONE-|||0
 A 9 11|||R:WS:NOM:FORM|||vannitoast|||REQUIRED|||-NONE-|||0
-A 7 10|||R:WO|||vannitoast ära võtta|||REQUIRED|||-NONE-|||0
+A 7 11|||R:WO|||vannitoast ära võtta|||REQUIRED|||-NONE-|||0
 A 1 2|||R:LEX|||ootan|||REQUIRED|||-NONE-|||1
 A 3 3|||M:LEX|||oma|||REQUIRED|||-NONE-|||1
 A 6 7|||R:LEX|||lasen|||REQUIRED|||-NONE-|||1
