@@ -19,6 +19,7 @@ A 2 3|||R:NOM:FORM|||instrumendid|||REQUIRED|||-NONE-|||0
 A 3 4|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOM:FORM|||remondi|||REQUIRED|||-NONE-|||0
 A 5 6|||R:LEX|||tegemiseks|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||!|||REQUIRED|||-NONE-|||0
 A 1 2|||R:LEX:SPELL|||võta|||REQUIRED|||-NONE-|||1
 A 0 2|||R:WO|||Võta kaasa|||REQUIRED|||-NONE-|||1
 A 2 3|||R:NOM:FORM|||instrumendid|||REQUIRED|||-NONE-|||1
