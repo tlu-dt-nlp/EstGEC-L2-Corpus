@@ -6,17 +6,22 @@ A 6 7|||R:SPELL|||nädalavahetusel|||REQUIRED|||-NONE-|||0
 A 2 7|||R:WO|||viimasel nädalavahetusel sõpradega koos reisil|||REQUIRED|||-NONE-|||0
 A 1 2|||R:SPELL|||käisime|||REQUIRED|||-NONE-|||1
 A 3 4|||R:SPELL|||sõpradega|||REQUIRED|||-NONE-|||1
+A 5 6|||R:LEX|||eelmisel|||REQUIRED|||-NONE-|||1
 A 6 7|||R:SPELL|||nädalavahetusel|||REQUIRED|||-NONE-|||1
-A 2 7|||R:WO|||sõpradega viimasel nädalavahetusel koos reisil|||REQUIRED|||-NONE-|||1
+A 2 7|||R:WO|||sõpradega eelmisel nädalavahetusel koos reisil|||REQUIRED|||-NONE-|||1
 A 1 2|||R:SPELL|||käisime|||REQUIRED|||-NONE-|||2
 A 3 4|||R:SPELL|||sõpradega|||REQUIRED|||-NONE-|||2
+A 5 6|||R:LEX|||eelmisel|||REQUIRED|||-NONE-|||2
 A 6 7|||R:SPELL|||nädalavahetusel|||REQUIRED|||-NONE-|||2
-A 2 7|||R:WO|||viimasel nädalavahetusel koos sõpradega reisil|||REQUIRED|||-NONE-|||2
+A 2 7|||R:WO|||eelmisel nädalavahetusel koos sõpradega reisil|||REQUIRED|||-NONE-|||2
 
 S Ma vaatasin uus koht Eestis .
 A 2 3|||R:NOM:FORM|||uut|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOM:FORM|||kohta|||REQUIRED|||-NONE-|||0
 A 2 5|||R:WO|||Eestis uut kohta|||REQUIRED|||-NONE-|||0
+A 1 2|||R:LEX|||avastasin|||REQUIRED|||-NONE-|||1
+A 2 3|||R:NOM:FORM|||uut|||REQUIRED|||-NONE-|||1
+A 3 4|||R:NOM:FORM|||kohta|||REQUIRED|||-NONE-|||1
 
 S See oli väike linn Saula Tallina lähedal , siis seal asub mets ja kolm järvi
 A 5 6|||R:SPELL|||Tallinna|||REQUIRED|||-NONE-|||0
