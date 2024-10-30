@@ -66,7 +66,7 @@ A 21 22|||R:NOM:FORM|||kuuma|||REQUIRED|||-NONE-|||0
 A 22 23|||R:NOM:FORM|||teed|||REQUIRED|||-NONE-|||0
 A 1 5|||R:WO|||laulsime ja tantsisime palju|||REQUIRED|||-NONE-|||1
 A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
-A 9 10|||U:LEX|||-NONE|||REQUIRED|||-NONE-|||1
+A 9 10|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
 A 12 13|||R:LEX|||väsinud|||REQUIRED|||-NONE-|||1
 A 14 15|||R:LEX|||siis||seepärast||seetõttu|||REQUIRED|||-NONE-|||1
 A 16 17|||R:LEX|||otsustasime|||REQUIRED|||-NONE-|||1
