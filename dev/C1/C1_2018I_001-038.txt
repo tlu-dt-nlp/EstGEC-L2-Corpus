@@ -58,7 +58,6 @@ A 2 5|||R:WO|||sõltub see pigem|||REQUIRED|||-NONE-|||0
 S Kahjuks noorema generatsiooni väga ei huvita riigi kultuur või kombed .
 A 1 2|||R:NOM:FORM|||nooremat|||REQUIRED|||-NONE-|||0
 A 1 6|||R:WO|||ei huvita nooremat generatsiooni väga|||REQUIRED|||-NONE-|||0
-A 8 9|||R:LEX|||kombed|||REQUIRED|||-NONE-|||0
 
 S Minu arvates väga oluline aspekt , mis kujundab meie isiksust on see , kuidas me suhtume teistesse .
 A 2 11|||R:WO|||on väga oluline aspekt , mis kujundab meie isiksust|||REQUIRED|||-NONE-|||0
