@@ -80,7 +80,7 @@ A 7 11|||R:WO|||oma elu lihtsamaks muuta|||REQUIRED|||-NONE-|||0
 A 11 12|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Mõnikord tahan ka puhata , aga tean , et see on laiskus ja proovin sellest üle saada .
-A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
+A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S Ma soovin kandideerida , sest mulle meeldib enesearendamine .
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
