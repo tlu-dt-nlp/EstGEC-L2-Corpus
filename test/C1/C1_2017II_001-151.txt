@@ -43,6 +43,7 @@ A 12 13|||R:NOM:FORM|||väljasuremise|||REQUIRED|||-NONE-|||0
 
 S Migreerimisega käib alati kaasa tehnoloogiline areng .
 A 0 1|||R:NOM:FORM|||Migreerimisega|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||kaasas|||REQUIRED|||-NONE-|||0
 
 S Kui tegemist on globaliseerumisega , eriti suurt tähelepanu pööratakse tehnoloogia kiirele arengule .
 A 5 9|||R:WO|||pööratakse eriti suurt tähelepanu|||REQUIRED|||-NONE-|||0
@@ -65,11 +66,11 @@ A 5 6|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 7 8|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 
 S Tehnoloogiad on muutunud maailma kiiremaks ja kergemaks , kuid ka sellel on oma puudusi .
-A 3 4|||R:LEX|||infovahetuse||suhtlemise|||REQUIRED|||-NONE-|||0
+A 2 3|||R:LEX|||muutnud|||REQUIRED|||-NONE-|||0
+A 3 4|||R:LEX|||elu||infovahetuse||suhtlemise|||REQUIRED|||-NONE-|||0
 A 2 3|||R:LEX|||muutnud|||REQUIRED|||-NONE-|||1
-A 4 5|||R:LEX|||kiiretempolisemaks|||REQUIRED|||-NONE-|||1
+A 4 5|||R:LEX|||tempokamaks||kiiretempolisemaks|||REQUIRED|||-NONE-|||1
 A 6 7|||R:LEX|||mugavamaks|||REQUIRED|||-NONE-|||1
-A 2 3|||R:LEX|||muutnud|||REQUIRED|||-NONE-|||2
 
 S Digisuhtluse ja anonüümsuse tõttu kaob ära isiksus ja ohutus , turvalisus .
 A 0 1|||R:NOM:FORM|||Digisuhtlusega|||REQUIRED|||-NONE-|||0
