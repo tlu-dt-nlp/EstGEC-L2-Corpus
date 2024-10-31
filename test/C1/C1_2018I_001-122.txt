@@ -54,6 +54,7 @@ A 7 8|||R:NOM:FORM|||kultuurist|||REQUIRED|||-NONE-|||0
 S Tulles teisse riigi sa ei tohi ka ise unustad kust sa pärined , sest oma identiteedi hoidmine on oluline .
 A 1 2|||R:SPELL|||teise|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOM:FORM|||riiki|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 3 6|||R:WO|||ei tohi sa|||REQUIRED|||-NONE-|||0
 A 8 9|||R:VERB:FORM|||unustada|||REQUIRED|||-NONE-|||0
 A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
