@@ -119,9 +119,13 @@ S Sotsiaalmeedia roll selles küsimuse on ka väga suur .
 A 3 4|||R:NOM:FORM|||küsimuses|||REQUIRED|||-NONE-|||0
 
 S Kõik reklaamid , mis näitavad kui traagiliselt võib lõppetada joobes autojuhtimine , roolis sms-i kirjutamine teevad head tööd .
-A 5 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:LEX:SPELL|||lõppeda|||REQUIRED|||-NONE-|||0
 A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||R:LEX:SPELL|||lõppeda|||REQUIRED|||-NONE-|||1
+A 11 12|||M:LEX|||ja||või|||REQUIRED|||-NONE-|||1
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 
 S Järelduseks võin öelda , et iga inimene vastutab oma elu eest ise ja me kõik oleme ilusa elu väärt .
 A 16 17|||R:NOM:FORM|||ilusat|||REQUIRED|||-NONE-|||0
