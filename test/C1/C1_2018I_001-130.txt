@@ -51,11 +51,9 @@ A 2 3|||R:LEX:NOM:FORM|||aruteluteema||arutlusteema||vestlusteema|||REQUIRED|||-
 A 10 11|||R:NOM:FORM|||identiteeti|||REQUIRED|||-NONE-|||2
 
 S Selle teema põhiküsimuseks oligi see , kas tänapäeva inimene soovib ja suudab hoida oma kultuuri ja olla selle liikmeks igal pool , kuhu ta ei läheks .
-A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 24 24|||M:LEX|||ka|||REQUIRED|||-NONE-|||0
 A 2 3|||R:NOM:FORM|||põhiküsimus|||REQUIRED|||-NONE-|||1
 A 18 19|||R:NOM:FORM|||liige|||REQUIRED|||-NONE-|||1
-A 21 22|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
 A 24 24|||M:LEX|||ka|||REQUIRED|||-NONE-|||1
 A 25 26|||R:VERB:FORM|||lähe|||REQUIRED|||-NONE-|||1
 
