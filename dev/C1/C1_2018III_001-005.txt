@@ -14,7 +14,11 @@ S Peaaegu kõik osalejad arvasid , et igasugused ühistud ja seltsid peavad olem
 A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||0
 
 S Ühinedes teiste inimestega , kellel on samad eesmärgid või huvid , võidab mitte ainult inimene aga kohalik kogukond ka .
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 16 19|||R:WO|||ka kohalik kogukond|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||R:LEX|||vaid|||REQUIRED|||-NONE-|||1
+A 16 19|||R:WO|||ka kohalik kogukond|||REQUIRED|||-NONE-|||1
 
 S Tänu sellele , areneb terve elu , kas maakonnas või riigis ka .
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
