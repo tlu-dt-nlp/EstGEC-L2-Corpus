@@ -8,9 +8,8 @@ A 24 24|||M:LEX|||on|||REQUIRED|||-NONE-|||0
 A 31 32|||R:LEX|||suuda|||REQUIRED|||-NONE-|||0
 A 30 32|||R:WO|||suuda kunagi|||REQUIRED|||-NONE-|||0
 A 32 33|||R:LEX|||täielikult|||REQUIRED|||-NONE-|||0
-A 35 37|||R:LEX|||mõista|||REQUIRED|||-NONE-|||0
-A 33 35|||R:WS:NOM:FORM|||iseendast|||REQUIRED|||-NONE-|||0
 A 32 35|||R:WO|||ise ennast täielikult|||REQUIRED|||-NONE-|||0
+A 35 37|||R:LEX|||mõista|||REQUIRED|||-NONE-|||0
 A 10 11|||R:SPELL|||tundub|||REQUIRED|||-NONE-|||1
 A 13 14|||R:NOM:FORM|||iseloomulik|||REQUIRED|||-NONE-|||1
 A 16 17|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||1
