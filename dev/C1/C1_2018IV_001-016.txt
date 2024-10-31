@@ -34,6 +34,7 @@ S See puutub kõigepealt Ida-Virumaa omavalitsusse , sest selles piirkonnas me n
 A 9 11|||R:WO|||näeme me|||REQUIRED|||-NONE-|||0
 
 S Ida-Virimaa on tööstuspiirkond , just see mõjub inimeste tervisele kõige tugevam .
+A 0 1|||R:SPELL|||Ida-Virumaa|||REQUIRED|||-NONE-|||0
 A 10 11|||R:LEX|||tugevamalt|||REQUIRED|||-NONE-|||0
 
 S Mina arvan ka , et Ida-Virumaa elanikkude tervise olek on väga terav küsimus .
