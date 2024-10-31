@@ -45,10 +45,12 @@ S Lisaks sellele , oli mainitud , et tuleb korraldada erinevaid üritusi selleks
 A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
 A 14 15|||R:SPELL|||propageerida|||REQUIRED|||-NONE-|||0
 A 15 16|||R:NOM:FORM|||tervislikku|||REQUIRED|||-NONE-|||0
-A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
-A 3 5|||R:VERB:FORM|||mainiti|||REQUIRED|||-NONE-|||0
-A 14 15|||R:SPELL|||propageerida|||REQUIRED|||-NONE-|||0
-A 15 16|||R:NOM:FORM|||tervislikku|||REQUIRED|||-NONE-|||0
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
+A 2 3|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 5|||R:VERB:FORM|||mainiti|||REQUIRED|||-NONE-|||1
+A 14 15|||R:SPELL|||propageerida|||REQUIRED|||-NONE-|||1
+A 15 16|||R:NOM:FORM|||tervislikku|||REQUIRED|||-NONE-|||1
+A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 
 S Lõpuks , üks naine , kes oli kohaliku omavalitsuse esindaja ütles , et alates sellest aastast järjekorrad selleks , et arsti juurde sattuda vähenevad .
 A 1 2|||U:PUNCT|||-NONE-|||REQUIRED|||-NONE-|||0
