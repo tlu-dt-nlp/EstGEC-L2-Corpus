@@ -25,13 +25,13 @@ A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 
 S Mulle meeldis Leemeti mitmed seiklused ning üllatavad intriigi pööred .
 A 1 2|||R:VERB:FORM|||meeldisid|||REQUIRED|||-NONE-|||0
-A 8 9|||R:NOM:FORM|||pöörded|||REQUIRED|||-NONE-|||0
+A 8 9|||R:SPELL|||pöörded|||REQUIRED|||-NONE-|||0
 A 1 2|||R:VERB:FORM|||meeldisid|||REQUIRED|||-NONE-|||1
-A 7 9|||R:WS:NOM:FORM|||intriigipöörded|||REQUIRED|||-NONE-|||1
+A 7 9|||R:WS:SPELL|||intriigipöörded|||REQUIRED|||-NONE-|||1
 A 1 2|||R:VERB:FORM|||meeldisid|||REQUIRED|||-NONE-|||2
 A 7 8|||R:NOM:FORM|||intriigid|||REQUIRED|||-NONE-|||2
 A 8 8|||M:LEX|||ja|||REQUIRED|||-NONE-|||2
-A 8 9|||R:NOM:FORM|||pöörded|||REQUIRED|||-NONE-|||2
+A 8 9|||R:SPELL|||pöörded|||REQUIRED|||-NONE-|||2
 
 S Mulle meeldis et Leemet rästikutega sõbraks sai ja oskas metsaloomadega räägida .
 A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
