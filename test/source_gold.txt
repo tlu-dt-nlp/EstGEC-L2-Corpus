@@ -11575,7 +11575,7 @@ A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 12 16|||R:WO|||selle riigi kasvuks teha|||REQUIRED|||-NONE-|||0
 
 S Väga tähtis oskus teises riigis olles on osata nende keelt või vähemalt proovida seda õppida .
-A 2 3|||M:LEX|||-NONE|||REQUIRED|||-NONE-|||0
+A 2 3|||M:LEX|||-NONE-|||REQUIRED|||-NONE-|||0
 A 3 7|||R:WO|||on teises riigis olles|||REQUIRED|||-NONE-|||0
 
 S See on minu arvates väga tähtis aspekt kultuuri lugupidamisel .
@@ -12356,4 +12356,5 @@ A 4 5|||R:LEX|||oleks|||REQUIRED|||-NONE-|||2
 A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
 A 8 9|||R:NOM:FORM|||niisugustel|||REQUIRED|||-NONE-|||2
 A 9 10|||R:NOM:FORM|||üritustel|||REQUIRED|||-NONE-|||2
+
 A 7 12|||R:WO|||veel kord võimalus niisugustel üritustel osaleda|||REQUIRED|||-NONE-|||2
