@@ -12356,5 +12356,4 @@ A 4 5|||R:LEX|||oleks|||REQUIRED|||-NONE-|||2
 A 5 6|||U:LEX|||-NONE-|||REQUIRED|||-NONE-|||2
 A 8 9|||R:NOM:FORM|||niisugustel|||REQUIRED|||-NONE-|||2
 A 9 10|||R:NOM:FORM|||üritustel|||REQUIRED|||-NONE-|||2
-
 A 7 12|||R:WO|||veel kord võimalus niisugustel üritustel osaleda|||REQUIRED|||-NONE-|||2
